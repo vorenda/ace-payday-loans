@@ -1,0 +1,297 @@
+{
+  "id": "glendale-ca",
+  "city": "Glendale",
+  "slug": "glendale",
+  "state": "California",
+  "stateCode": "CA",
+  "stateSlug": "california",
+  "countyName": "Los Angeles County",
+  "serviceNiche": "Payday Loans",
+
+  "seo": {
+    "title": "Payday Loans in Glendale, CA | Fast Cash Near The Americana at Brand",
+    "metaDescription": "Need cash today in Glendale? Visit Ace Payday Loans near The Americana at Brand. Get approved in 30 minutes. Take CA-134 Exit 5. Call (818) 555-0167.",
+    "canonicalUrl": "/locations/california/glendale",
+    "keywords": ["payday loans glendale", "glendale payday loans", "cash advance glendale ca", "payday loans near me glendale", "fast cash glendale", "los angeles county payday loans"]
+  },
+
+  "hero": {
+    "h1": "Fast Payday Loans in Glendale, CA",
+    "subheadline": "Trusted lending near The Americana at Brand and Downtown Glendale",
+    "ctaText": "Apply Now for Glendale Cash",
+    "ctaUrl": "/apply?location=glendale-ca",
+    "secondaryCta": {
+      "text": "Call (818) 555-0167",
+      "url": "tel:+18185550167"
+    }
+  },
+
+  "localProof": {
+    "headline": "Where to Find Us in Glendale",
+    "directions": "We are conveniently located at 310 N Brand Boulevard, right near The Americana at Brand shopping center and Forest Lawn Memorial Park. If you are taking CA-134, use Exit 5 at Brand Boulevard. From I-5, take Exit 143 at Western Avenue. Our location is in the heart of Downtown Glendale.",
+    "landmarks": ["The Americana at Brand", "Forest Lawn Memorial Park", "Museum of Neon Art"],
+    "highways": ["CA-134", "CA-2", "I-5"],
+    "exits": ["CA-134 Exit 5 (Brand Blvd)", "I-5 Exit 143 (Western)"],
+    "neighborhoodName": "Downtown Glendale",
+    "neighboringTowns": ["Burbank", "Pasadena", "Los Angeles", "La Canada Flintridge", "Eagle Rock"],
+    "hours": {
+      "monday": "9:00 AM - 7:00 PM",
+      "tuesday": "9:00 AM - 7:00 PM",
+      "wednesday": "9:00 AM - 7:00 PM",
+      "thursday": "9:00 AM - 7:00 PM",
+      "friday": "9:00 AM - 7:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d52915.34!2d-118.2551!3d34.1425!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c09cbbf73b0f%3A0x2a9c4e61c8d8b87b!2sGlendale%2C%20CA!5e0!3m2!1sen!2sus!4v1"
+  },
+
+  "nap": {
+    "name": "Ace Payday Loans of Glendale",
+    "street": "310 N Brand Boulevard, Suite 205",
+    "city": "Glendale",
+    "state": "CA",
+    "zip": "91203",
+    "phone": "(818) 555-0167",
+    "formattedPhone": "+18185550167",
+    "formattedAddress": "310 N Brand Boulevard, Suite 205, Glendale, CA 91203",
+    "coordinates": {
+      "latitude": 34.1425,
+      "longitude": -118.2551
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=34.1425,-118.2551"
+  },
+
+  "productLinks": {
+    "headline": "Our Glendale Financial Services",
+    "intro": "We offer a full range of short-term lending and money services to help Glendale and Los Angeles County residents with their financial needs:",
+    "services": [
+      {
+        "name": "Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Short-term loans up to $300 to cover unexpected expenses until your next paycheck",
+        "anchorText": "Glendale Payday Loans"
+      },
+      {
+        "name": "Cash Advances",
+        "slug": "cash-advances",
+        "url": "/services/cash-advances",
+        "description": "Quick cash advances for emergency situations with fast approval",
+        "anchorText": "Cash Advances in Glendale"
+      },
+      {
+        "name": "Installment Loans",
+        "slug": "installment-loans",
+        "url": "/services/installment-loans",
+        "description": "Larger loans repaid over time through scheduled monthly payments",
+        "anchorText": "Glendale Installment Loans"
+      },
+      {
+        "name": "Title Loans",
+        "slug": "title-loans",
+        "url": "/services/title-loans",
+        "description": "Use your vehicle title as collateral for larger loan amounts",
+        "anchorText": "Title Loans in Glendale"
+      },
+      {
+        "name": "Check Cashing",
+        "slug": "check-cashing",
+        "url": "/services/check-cashing",
+        "description": "Cash your paycheck or government check instantly",
+        "anchorText": "Check Cashing Glendale"
+      },
+      {
+        "name": "Online Payday Loans",
+        "slug": "online-payday-loans",
+        "url": "/services/online-payday-loans",
+        "description": "Apply from home and get funded fast",
+        "anchorText": "Online Payday Loans"
+      },
+      {
+        "name": "Same Day Loans",
+        "slug": "same-day-loans",
+        "url": "/services/same-day-loans",
+        "description": "Get approved and funded within the same business day",
+        "anchorText": "Same Day Loans Glendale"
+      },
+      {
+        "name": "Bad Credit Loans",
+        "slug": "bad-credit-loans",
+        "url": "/services/bad-credit-loans",
+        "description": "Loan options for borrowers with less-than-perfect credit",
+        "anchorText": "Bad Credit Loans in Glendale"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "California Payday Loan Regulations",
+    "intro": "Residents of Glendale are protected by California's strict payday loan regulations enforced by the Department of Financial Protection and Innovation (DFPI).",
+    "content": "California regulates payday loans under the California Deferred Deposit Transaction Law (CDDTL), administered by the Department of Financial Protection and Innovation (DFPI). The state allows payday loans with significant consumer protections: loans are capped at $300 with a maximum fee of 15% (approximately $45). Rollovers are prohibited, meaning lenders cannot issue a new loan to pay off an existing one. California also prohibits lenders from making multiple loans to the same borrower simultaneously. All payday lenders operating in California must be licensed by the DFPI, and consumers can verify a lender's license status online or by calling 1-866-275-2677.",
+    "keyPoints": [
+      "California limits payday loans to a maximum of $300",
+      "The maximum fee is 15% of the check amount (up to $45)",
+      "Lenders cannot make a new loan to pay off an existing loan (rollovers prohibited)",
+      "You cannot have more than one payday loan at a time",
+      "If your check bounces, the lender can charge only one NSF fee of up to $15",
+      "Lenders cannot threaten criminal prosecution for non-payment",
+      "Your loan contract must be provided in your primary language",
+      "All lenders must be licensed - verify at dfpi.ca.gov"
+    ],
+    "regulatoryBody": "California Department of Financial Protection and Innovation (DFPI)",
+    "regulatoryUrl": "https://dfpi.ca.gov",
+    "disclaimer": "IMPORTANT NOTICE: This information is provided for general educational purposes only and does not constitute legal or financial advice. Payday loans are high-cost, short-term loans with APRs that can exceed 400%. Before taking out a payday loan, consider alternatives such as personal loans, credit union loans, payment plans with creditors, or assistance from non-profit credit counseling agencies. Laws and regulations may change. For the most current information, contact the California Department of Financial Protection and Innovation at 1-866-275-2677 or visit dfpi.ca.gov."
+  },
+
+  "localReviews": {
+    "headline": "What Our Glendale Customers Say",
+    "locationId": "glendale-ca",
+    "reviewSource": "Google Business Profile",
+    "showWidget": true,
+    "averageRating": 4.6,
+    "totalReviews": 94,
+    "reviews": [
+      {
+        "name": "Arman H.",
+        "rating": 5,
+        "text": "Excellent service on Brand Boulevard! The staff spoke Armenian and English and made the process very comfortable. They explained California's $300 limit clearly. Fast approval!",
+        "date": "2024-11-22"
+      },
+      {
+        "name": "Nancy L.",
+        "rating": 5,
+        "text": "I work near The Americana and this location is so convenient. Professional staff, clear terms, and quick funding. Got my cash the same day I applied.",
+        "date": "2024-10-30"
+      },
+      {
+        "name": "Kevin M.",
+        "rating": 4,
+        "text": "Good Downtown Glendale location. Easy to reach from CA-134. The team was helpful and honest about fees. Would recommend for Glendale residents needing emergency cash.",
+        "date": "2024-10-05"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby Cities",
+    "intro": "Can't make it to our Glendale location? We also serve:",
+    "cities": [
+      {"name": "Los Angeles", "slug": "los-angeles", "url": "/locations/california/los-angeles", "distanceMiles": 8},
+      {"name": "Santa Clarita", "slug": "santa-clarita", "url": "/locations/california/santa-clarita", "distanceMiles": 22},
+      {"name": "Long Beach", "slug": "long-beach", "url": "/locations/california/long-beach", "distanceMiles": 28},
+      {"name": "Anaheim", "slug": "anaheim", "url": "/locations/california/anaheim", "distanceMiles": 32}
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Glendale payday loan location?",
+      "answer": "Our Glendale branch is located at 310 N Brand Boulevard, Suite 205, near The Americana at Brand in Downtown Glendale. Take CA-134 Exit 5 (Brand Boulevard) for the quickest route."
+    },
+    {
+      "question": "How much can I borrow at your Glendale location?",
+      "answer": "Under California law, the maximum payday loan amount is $300, with a maximum fee of $45 (15%). You'll receive approximately $255 after the fee is deducted. We clearly explain all terms before you sign."
+    },
+    {
+      "question": "What do I need to bring to get a payday loan in Glendale?",
+      "answer": "Bring a valid California ID, proof of income (pay stub or bank statement), an active checking account, and contact information. We'll verify your information and can have you approved in about 30 minutes."
+    },
+    {
+      "question": "Do you serve Glendale's diverse community?",
+      "answer": "Yes! Glendale is home to one of the largest Armenian communities outside of Armenia, and we're proud to serve this diverse community. Our team includes multilingual staff, and as required by California law, we provide loan documents in your primary language."
+    },
+    {
+      "question": "Is Ace Payday Loans licensed in California?",
+      "answer": "Yes, Ace Payday Loans is fully licensed by the California Department of Financial Protection and Innovation (DFPI) under the California Deferred Deposit Transaction Law. You can verify our license at dfpi.ca.gov."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Ready to Get Cash in Glendale?",
+    "subheadline": "Visit our Brand Boulevard location or apply online now",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=glendale-ca"
+    },
+    "secondaryCta": {
+      "text": "Call (818) 555-0167",
+      "url": "tel:+18185550167"
+    },
+    "address": "310 N Brand Boulevard, Suite 205, Glendale, CA 91203"
+  },
+
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FinancialService",
+    "name": "Ace Payday Loans of Glendale",
+    "image": "https://acepaydayloans.com/images/glendale-branch.jpg",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "310 N Brand Boulevard, Suite 205",
+      "addressLocality": "Glendale",
+      "addressRegion": "CA",
+      "postalCode": "91203",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 34.1425,
+      "longitude": -118.2551
+    },
+    "telephone": "+18185550167",
+    "url": "https://acepaydayloans.com/locations/california/glendale",
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "09:00",
+        "closes": "19:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Saturday",
+        "opens": "10:00",
+        "closes": "16:00"
+      }
+    ],
+    "priceRange": "$$",
+    "currenciesAccepted": "USD",
+    "paymentAccepted": "Cash, Check, Debit Card",
+    "areaServed": {
+      "@type": "City",
+      "name": "Glendale",
+      "containedInPlace": {
+        "@type": "State",
+        "name": "California"
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.6",
+      "reviewCount": "94"
+    }
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "California", "url": "/locations/california"},
+    {"label": "Glendale", "url": "/locations/california/glendale"}
+  ],
+
+  "images": {
+    "hero": {
+      "url": "/images/locations/glendale-branch.jpg",
+      "alt": "Ace Payday Loans Glendale branch on Brand Boulevard",
+      "caption": "Our Glendale location near The Americana"
+    }
+  },
+
+  "metadata": {
+    "generatedAt": "2025-01-29T14:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "batch": 3
+  }
+}

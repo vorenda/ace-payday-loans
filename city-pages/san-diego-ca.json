@@ -1,0 +1,349 @@
+{
+  "id": "san-diego-ca",
+  "city": "San Diego",
+  "slug": "san-diego",
+  "state": "California",
+  "stateCode": "CA",
+  "stateSlug": "california",
+  "countyName": "San Diego County",
+  "serviceNiche": "Payday Loans",
+
+  "seo": {
+    "title": "Payday Loans in San Diego, CA | Fast Cash Near Balboa Park | Ace Payday Loans",
+    "metaDescription": "Get fast payday loans in San Diego near the San Diego Zoo and Balboa Park. Licensed California lender. Apply online or visit us off I-5. Call (619) 555-0238.",
+    "canonicalUrl": "/locations/california/san-diego",
+    "keywords": [
+      "payday loans san diego",
+      "san diego payday loans",
+      "cash advance san diego ca",
+      "payday loans near me san diego",
+      "fast cash san diego",
+      "emergency loans san diego",
+      "same day loans san diego ca",
+      "payday loans downtown san diego",
+      "san diego cash advance",
+      "short term loans san diego"
+    ]
+  },
+
+  "hero": {
+    "h1": "Fast Payday Loans in San Diego, CA",
+    "subheadline": "Get cash today near the San Diego Zoo and Balboa Park. Trusted lending for San Diego County residents.",
+    "ctaText": "Apply Now for San Diego Cash",
+    "ctaUrl": "/apply?location=san-diego-ca",
+    "phone": "(619) 555-0238",
+    "secondaryCta": {
+      "text": "Get Directions",
+      "url": "https://maps.google.com/?q=32.7157,-117.1611"
+    }
+  },
+
+  "localProof": {
+    "headline": "Serving San Diego & Surrounding Areas",
+    "directions": "We are conveniently located in Downtown San Diego, just minutes from the world-famous San Diego Zoo and beautiful Balboa Park. If you are taking I-5, use Exit 17 (Downtown), or from I-8, take Exit 2 (Mission Bay). Our location is also easily accessible from I-15 for customers coming from the inland areas.",
+    "landmarks": ["San Diego Zoo", "Balboa Park", "USS Midway Museum"],
+    "highways": ["Conveniently located off I-5", "Easy access from I-8", "Near I-15"],
+    "exits": ["I-5 Exit 17 (Downtown)", "I-8 Exit 2 (Mission Bay)"],
+    "neighboringTowns": ["Also serving Chula Vista", "Oceanside", "Escondido", "El Cajon", "Carlsbad"],
+    "localDescription": "Our San Diego location serves customers throughout San Diego County, known for its beautiful beaches and year-round perfect weather. Whether you live in the Gaslamp Quarter, work near the harbor, or reside in any of the diverse communities across America's Finest City, we are here to help you with your short-term financial needs. San Diego residents trust Ace Payday Loans for fast, transparent service when unexpected expenses arise.",
+    "neighborhoodName": "Downtown San Diego",
+    "hours": {
+      "monday": "9:00 AM - 7:00 PM",
+      "tuesday": "9:00 AM - 7:00 PM",
+      "wednesday": "9:00 AM - 7:00 PM",
+      "thursday": "9:00 AM - 7:00 PM",
+      "friday": "9:00 AM - 7:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d214559.54861783686!2d-117.25762348828125!3d32.82404399999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80d9530fad921e4b%3A0xd3a21fdfd15df79!2sSan%20Diego%2C%20CA!5e0!3m2!1sen!2sus!4v1234567890"
+  },
+
+  "nap": {
+    "name": "Ace Payday Loans - San Diego",
+    "street": "789 Broadway, Suite 105",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92101",
+    "phone": "(619) 555-0238",
+    "formattedPhone": "+16195550238",
+    "formattedAddress": "789 Broadway, Suite 105, San Diego, CA 92101",
+    "coordinates": {
+      "latitude": 32.7157,
+      "longitude": -117.1611
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=32.7157,-117.1611"
+  },
+
+  "productLinks": {
+    "headline": "Our San Diego Financial Services",
+    "intro": "We offer a full range of short-term lending and money services to help San Diego County residents with their financial needs:",
+    "services": [
+      {
+        "name": "Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Short-term loans up to $300 to cover unexpected expenses until your next paycheck",
+        "anchorText": "Learn more about Payday Loans"
+      },
+      {
+        "name": "Cash Advances",
+        "slug": "cash-advances",
+        "url": "/services/cash-advances",
+        "description": "Quick access to cash before your next payday for emergency expenses",
+        "anchorText": "Learn more about Cash Advances"
+      },
+      {
+        "name": "Installment Loans",
+        "slug": "installment-loans",
+        "url": "/services/installment-loans",
+        "description": "Larger loans repaid over time through scheduled monthly payments",
+        "anchorText": "Learn more about Installment Loans"
+      },
+      {
+        "name": "Title Loans",
+        "slug": "title-loans",
+        "url": "/services/title-loans",
+        "description": "Secured loans using your vehicle title as collateral for larger amounts",
+        "anchorText": "Learn more about Title Loans"
+      },
+      {
+        "name": "Check Cashing",
+        "slug": "check-cashing",
+        "url": "/services/check-cashing",
+        "description": "Convert checks to cash instantly without a bank account",
+        "anchorText": "Learn more about Check Cashing"
+      },
+      {
+        "name": "Online Payday Loans",
+        "slug": "online-payday-loans",
+        "url": "/services/online-payday-loans",
+        "description": "Apply for payday loans from home with fast online approval",
+        "anchorText": "Learn more about Online Payday Loans"
+      },
+      {
+        "name": "Same Day Loans",
+        "slug": "same-day-loans",
+        "url": "/services/same-day-loans",
+        "description": "Get approved and funded within the same business day",
+        "anchorText": "Learn more about Same Day Loans"
+      },
+      {
+        "name": "Bad Credit Loans",
+        "slug": "bad-credit-loans",
+        "url": "/services/bad-credit-loans",
+        "description": "Loan options for borrowers with less-than-perfect credit",
+        "anchorText": "Learn more about Bad Credit Loans"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "Understanding California Payday Loan Laws",
+    "intro": "Residents of San Diego are protected by California's strict payday loan regulations enforced by the Department of Financial Protection and Innovation (DFPI).",
+    "content": "California regulates payday loans under the California Deferred Deposit Transaction Law (CDDTL), administered by the Department of Financial Protection and Innovation (DFPI). The state allows payday loans with significant consumer protections: loans are capped at $300 with a maximum fee of 15% (approximately $45). Rollovers are prohibited, meaning lenders cannot issue a new loan to pay off an existing one. California also prohibits lenders from making multiple loans to the same borrower simultaneously. All payday lenders operating in California must be licensed by the DFPI, and consumers can verify a lender's license status online or by calling 1-866-275-2677.",
+    "keyPoints": [
+      "California limits payday loans to a maximum of $300",
+      "The maximum fee is 15% of the check amount (up to $45)",
+      "Lenders cannot make a new loan to pay off an existing loan (rollovers prohibited)",
+      "You cannot have more than one payday loan at a time",
+      "If your check bounces, the lender can charge only one NSF fee of up to $15",
+      "Lenders cannot threaten criminal prosecution for non-payment",
+      "Your loan contract must be provided in your primary language",
+      "All lenders must be licensed - verify at dfpi.ca.gov"
+    ],
+    "protectionsList": [
+      "Maximum loan amount: $300",
+      "Maximum fee: 15% of check face value ($45 maximum)",
+      "Maximum term: 31 days",
+      "Rollovers: Prohibited",
+      "Multiple loans: Not allowed simultaneously",
+      "NSF fee: $15 maximum (one fee only)",
+      "Criminal prosecution: Cannot be threatened for non-payment"
+    ],
+    "regulatoryBody": "California Department of Financial Protection and Innovation (DFPI)",
+    "regulatoryUrl": "https://dfpi.ca.gov",
+    "verificationUrl": "https://dfpi.ca.gov/regulated-industries/regulated-entities-list/",
+    "contactPhone": "1-866-275-2677",
+    "disclaimer": "IMPORTANT NOTICE: This information is provided for general educational purposes only and does not constitute legal or financial advice. Payday loans are high-cost, short-term loans with APRs that can exceed 400%. Before taking out a payday loan, consider alternatives such as personal loans, credit union loans, payment plans with creditors, or assistance from non-profit credit counseling agencies. Laws and regulations may change. For the most current information, contact the California Department of Financial Protection and Innovation at 1-866-275-2677 or visit dfpi.ca.gov. If you are experiencing financial difficulties, contact a HUD-approved housing counselor or the National Foundation for Credit Counseling at 1-800-388-2227.",
+    "aprDisclosure": "The typical Annual Percentage Rate (APR) for a payday loan in California is approximately 426-460% for a two-week loan. By comparison, credit cards typically have APRs between 15-30% and personal loans between 6-36%. The high APR reflects the short-term nature of payday loans and the fees charged."
+  },
+
+  "testimonials": {
+    "headline": "What Our San Diego Customers Say",
+    "locationId": "san-diego-ca",
+    "reviewSource": "Google Business Profile",
+    "showWidget": true,
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "text": "When my car broke down unexpectedly, Ace Payday Loans helped me get the cash I needed the same day. The process was straightforward, and the staff explained everything clearly. I was able to get my car fixed and make it to work the next day.",
+        "location": "San Diego, CA",
+        "date": "2024-10-15"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "text": "The San Diego location is super convenient, right downtown. Staff was friendly and professional. Got approved quickly and had cash in hand within an hour.",
+        "location": "San Diego, CA",
+        "date": "2024-11-02"
+      },
+      {
+        "name": "Michelle S.",
+        "rating": 4,
+        "text": "Needed help with an unexpected medical bill. The team at Ace was understanding and made the process easy. Clear about all fees upfront.",
+        "location": "San Diego, CA",
+        "date": "2024-09-28"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby Cities",
+    "intro": "Cannot make it to our San Diego location? We also serve:",
+    "cities": [
+      {
+        "name": "Chula Vista",
+        "slug": "chula-vista",
+        "url": "/locations/california/chula-vista",
+        "distanceMiles": 8
+      },
+      {
+        "name": "Irvine",
+        "slug": "irvine",
+        "url": "/locations/california/irvine",
+        "distanceMiles": 76
+      },
+      {
+        "name": "Anaheim",
+        "slug": "anaheim",
+        "url": "/locations/california/anaheim",
+        "distanceMiles": 85
+      },
+      {
+        "name": "Riverside",
+        "slug": "riverside",
+        "url": "/locations/california/riverside",
+        "distanceMiles": 89
+      }
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your San Diego payday loan location?",
+      "answer": "Our San Diego branch is located at 789 Broadway, Suite 105, in Downtown San Diego near the Gaslamp Quarter. We are easily accessible from I-5 via Exit 17 (Downtown) and I-8 via Exit 2 (Mission Bay). Just minutes from the San Diego Zoo and Balboa Park."
+    },
+    {
+      "question": "What are your hours in San Diego?",
+      "answer": "We are open Monday through Friday from 9 AM to 7 PM, and Saturday from 10 AM to 4 PM. We are closed on Sundays. You can also apply online 24/7."
+    },
+    {
+      "question": "How much can I borrow at your San Diego location?",
+      "answer": "Under California law, payday loans are capped at $300. After the maximum 15% fee ($45), you would receive approximately $255. We also offer installment loans and title loans for larger amounts."
+    },
+    {
+      "question": "Do I need an appointment at the San Diego branch?",
+      "answer": "No appointment is needed! Walk-ins are welcome during business hours. However, you can save time by starting your application online before visiting our San Diego location."
+    },
+    {
+      "question": "What do I need to bring to your San Diego location?",
+      "answer": "Please bring a valid government-issued photo ID, proof of income (pay stub or bank statement), an active checking account, and a working phone number. Our friendly staff will guide you through the rest of the process."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Ready to Get Cash in San Diego?",
+    "subheadline": "Visit our Downtown San Diego location or apply online now",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=san-diego-ca"
+    },
+    "secondaryCta": {
+      "text": "Call (619) 555-0238",
+      "url": "tel:+16195550238"
+    },
+    "address": "789 Broadway, Suite 105, San Diego, CA 92101"
+  },
+
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FinancialService",
+    "name": "Ace Payday Loans - San Diego",
+    "description": "Fast payday loans and cash advances in San Diego, CA. Licensed California lender offering short-term loans up to $300 with same-day funding available.",
+    "url": "https://www.acepaydayloans.com/locations/california/san-diego",
+    "telephone": "+16195550238",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "789 Broadway, Suite 105",
+      "addressLocality": "San Diego",
+      "addressRegion": "CA",
+      "postalCode": "92101",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 32.7157,
+      "longitude": -117.1611
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "09:00",
+        "closes": "19:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Saturday",
+        "opens": "10:00",
+        "closes": "16:00"
+      }
+    ],
+    "priceRange": "$",
+    "currenciesAccepted": "USD",
+    "paymentAccepted": "Cash, Debit Card, Check",
+    "areaServed": {
+      "@type": "City",
+      "name": "San Diego",
+      "containedInPlace": {
+        "@type": "State",
+        "name": "California"
+      }
+    },
+    "serviceType": ["Payday Loans", "Cash Advances", "Check Cashing", "Installment Loans", "Title Loans"],
+    "hasCredential": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "license",
+      "name": "California DFPI CDDTL License"
+    }
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "California", "url": "/locations/california"},
+    {"label": "San Diego", "url": "/locations/california/san-diego"}
+  ],
+
+  "images": {
+    "hero": {
+      "url": "/images/locations/san-diego-branch.jpg",
+      "alt": "Ace Payday Loans San Diego branch in Downtown",
+      "caption": "Our San Diego location on Broadway"
+    },
+    "storefront": {
+      "url": "/images/locations/san-diego-storefront.jpg",
+      "alt": "Ace Payday Loans storefront in San Diego",
+      "caption": "Visit our San Diego branch for fast cash"
+    }
+  },
+
+  "metadata": {
+    "generatedAt": "2025-01-29T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "batch": "california-batch-1"
+  }
+}

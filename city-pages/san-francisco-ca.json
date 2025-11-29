@@ -1,0 +1,349 @@
+{
+  "id": "san-francisco-ca",
+  "city": "San Francisco",
+  "slug": "san-francisco",
+  "state": "California",
+  "stateCode": "CA",
+  "stateSlug": "california",
+  "countyName": "San Francisco County",
+  "serviceNiche": "Payday Loans",
+
+  "seo": {
+    "title": "Payday Loans in San Francisco, CA | Fast Cash Near Golden Gate | Ace Payday Loans",
+    "metaDescription": "Get fast payday loans in San Francisco near the Golden Gate Bridge and Fisherman's Wharf. Licensed California lender. Apply online or visit us. Call (415) 555-0426.",
+    "canonicalUrl": "/locations/california/san-francisco",
+    "keywords": [
+      "payday loans san francisco",
+      "san francisco payday loans",
+      "cash advance san francisco ca",
+      "payday loans near me san francisco",
+      "fast cash san francisco",
+      "emergency loans san francisco",
+      "same day loans san francisco ca",
+      "payday loans downtown sf",
+      "san francisco cash advance",
+      "short term loans sf bay area"
+    ]
+  },
+
+  "hero": {
+    "h1": "Fast Payday Loans in San Francisco, CA",
+    "subheadline": "Get cash today near the Golden Gate Bridge and Fisherman's Wharf. Trusted lending for San Francisco residents.",
+    "ctaText": "Apply Now for San Francisco Cash",
+    "ctaUrl": "/apply?location=san-francisco-ca",
+    "phone": "(415) 555-0426",
+    "secondaryCta": {
+      "text": "Get Directions",
+      "url": "https://maps.google.com/?q=37.7749,-122.4194"
+    }
+  },
+
+  "localProof": {
+    "headline": "Serving San Francisco & The Bay Area",
+    "directions": "We are conveniently located in Downtown San Francisco, near the iconic Golden Gate Bridge and historic Alcatraz Island. If you are taking US-101, use Exit 431 (Civic Center), or from I-80, take Exit 2 (Bay Bridge). Our location is easily accessible by BART and Muni as well.",
+    "landmarks": ["Golden Gate Bridge", "Alcatraz Island", "Fisherman's Wharf"],
+    "highways": ["Conveniently located off US-101", "Easy access from I-80", "Near I-280"],
+    "exits": ["US-101 Exit 431 (Civic Center)", "I-80 Exit 2 (Bay Bridge)"],
+    "neighboringTowns": ["Also serving Oakland", "Daly City", "Berkeley", "South San Francisco", "Sausalito"],
+    "localDescription": "Our San Francisco location serves customers throughout San Francisco County and the greater Bay Area. Known for its iconic Golden Gate Bridge, cable cars, and vibrant culture, San Francisco is a city where the unexpected can happen. Whether you work in the Financial District, live in the Mission, or reside anywhere in The City, we are here to help you with your short-term financial needs. San Francisco residents trust Ace Payday Loans for fast, transparent service when unexpected expenses arise.",
+    "neighborhoodName": "Downtown San Francisco",
+    "hours": {
+      "monday": "9:00 AM - 7:00 PM",
+      "tuesday": "9:00 AM - 7:00 PM",
+      "wednesday": "9:00 AM - 7:00 PM",
+      "thursday": "9:00 AM - 7:00 PM",
+      "friday": "9:00 AM - 7:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d100939.98555098464!2d-122.50764!3d37.7576171!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80859a6d00690021%3A0x4a501367f076adff!2sSan%20Francisco%2C%20CA!5e0!3m2!1sen!2sus!4v1234567890"
+  },
+
+  "nap": {
+    "name": "Ace Payday Loans - San Francisco",
+    "street": "275 Market Street, Suite 400",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94105",
+    "phone": "(415) 555-0426",
+    "formattedPhone": "+14155550426",
+    "formattedAddress": "275 Market Street, Suite 400, San Francisco, CA 94105",
+    "coordinates": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=37.7749,-122.4194"
+  },
+
+  "productLinks": {
+    "headline": "Our San Francisco Financial Services",
+    "intro": "We offer a full range of short-term lending and money services to help San Francisco residents with their financial needs:",
+    "services": [
+      {
+        "name": "Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Short-term loans up to $300 to cover unexpected expenses until your next paycheck",
+        "anchorText": "Learn more about Payday Loans"
+      },
+      {
+        "name": "Cash Advances",
+        "slug": "cash-advances",
+        "url": "/services/cash-advances",
+        "description": "Quick access to cash before your next payday for emergency expenses",
+        "anchorText": "Learn more about Cash Advances"
+      },
+      {
+        "name": "Installment Loans",
+        "slug": "installment-loans",
+        "url": "/services/installment-loans",
+        "description": "Larger loans repaid over time through scheduled monthly payments",
+        "anchorText": "Learn more about Installment Loans"
+      },
+      {
+        "name": "Title Loans",
+        "slug": "title-loans",
+        "url": "/services/title-loans",
+        "description": "Secured loans using your vehicle title as collateral for larger amounts",
+        "anchorText": "Learn more about Title Loans"
+      },
+      {
+        "name": "Check Cashing",
+        "slug": "check-cashing",
+        "url": "/services/check-cashing",
+        "description": "Convert checks to cash instantly without a bank account",
+        "anchorText": "Learn more about Check Cashing"
+      },
+      {
+        "name": "Online Payday Loans",
+        "slug": "online-payday-loans",
+        "url": "/services/online-payday-loans",
+        "description": "Apply for payday loans from home with fast online approval",
+        "anchorText": "Learn more about Online Payday Loans"
+      },
+      {
+        "name": "Same Day Loans",
+        "slug": "same-day-loans",
+        "url": "/services/same-day-loans",
+        "description": "Get approved and funded within the same business day",
+        "anchorText": "Learn more about Same Day Loans"
+      },
+      {
+        "name": "Bad Credit Loans",
+        "slug": "bad-credit-loans",
+        "url": "/services/bad-credit-loans",
+        "description": "Loan options for borrowers with less-than-perfect credit",
+        "anchorText": "Learn more about Bad Credit Loans"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "Understanding California Payday Loan Laws",
+    "intro": "Residents of San Francisco are protected by California's strict payday loan regulations enforced by the Department of Financial Protection and Innovation (DFPI).",
+    "content": "California regulates payday loans under the California Deferred Deposit Transaction Law (CDDTL), administered by the Department of Financial Protection and Innovation (DFPI). The state allows payday loans with significant consumer protections: loans are capped at $300 with a maximum fee of 15% (approximately $45). Rollovers are prohibited, meaning lenders cannot issue a new loan to pay off an existing one. California also prohibits lenders from making multiple loans to the same borrower simultaneously. All payday lenders operating in California must be licensed by the DFPI, and consumers can verify a lender's license status online or by calling 1-866-275-2677.",
+    "keyPoints": [
+      "California limits payday loans to a maximum of $300",
+      "The maximum fee is 15% of the check amount (up to $45)",
+      "Lenders cannot make a new loan to pay off an existing loan (rollovers prohibited)",
+      "You cannot have more than one payday loan at a time",
+      "If your check bounces, the lender can charge only one NSF fee of up to $15",
+      "Lenders cannot threaten criminal prosecution for non-payment",
+      "Your loan contract must be provided in your primary language",
+      "All lenders must be licensed - verify at dfpi.ca.gov"
+    ],
+    "protectionsList": [
+      "Maximum loan amount: $300",
+      "Maximum fee: 15% of check face value ($45 maximum)",
+      "Maximum term: 31 days",
+      "Rollovers: Prohibited",
+      "Multiple loans: Not allowed simultaneously",
+      "NSF fee: $15 maximum (one fee only)",
+      "Criminal prosecution: Cannot be threatened for non-payment"
+    ],
+    "regulatoryBody": "California Department of Financial Protection and Innovation (DFPI)",
+    "regulatoryUrl": "https://dfpi.ca.gov",
+    "verificationUrl": "https://dfpi.ca.gov/regulated-industries/regulated-entities-list/",
+    "contactPhone": "1-866-275-2677",
+    "disclaimer": "IMPORTANT NOTICE: This information is provided for general educational purposes only and does not constitute legal or financial advice. Payday loans are high-cost, short-term loans with APRs that can exceed 400%. Before taking out a payday loan, consider alternatives such as personal loans, credit union loans, payment plans with creditors, or assistance from non-profit credit counseling agencies. Laws and regulations may change. For the most current information, contact the California Department of Financial Protection and Innovation at 1-866-275-2677 or visit dfpi.ca.gov. If you are experiencing financial difficulties, contact a HUD-approved housing counselor or the National Foundation for Credit Counseling at 1-800-388-2227.",
+    "aprDisclosure": "The typical Annual Percentage Rate (APR) for a payday loan in California is approximately 426-460% for a two-week loan. By comparison, credit cards typically have APRs between 15-30% and personal loans between 6-36%. The high APR reflects the short-term nature of payday loans and the fees charged."
+  },
+
+  "testimonials": {
+    "headline": "What Our San Francisco Customers Say",
+    "locationId": "san-francisco-ca",
+    "reviewSource": "Google Business Profile",
+    "showWidget": true,
+    "reviews": [
+      {
+        "name": "Rachel H.",
+        "rating": 5,
+        "text": "Living in SF is expensive and sometimes you need a little help between paychecks. Ace was there when I needed them. Quick, easy, and no surprises with fees.",
+        "location": "San Francisco, CA",
+        "date": "2024-11-08"
+      },
+      {
+        "name": "Michael C.",
+        "rating": 5,
+        "text": "The Market Street location is super convenient if you work downtown. Staff is professional and the process took less than 30 minutes. Highly recommend.",
+        "location": "San Francisco, CA",
+        "date": "2024-10-19"
+      },
+      {
+        "name": "Amanda P.",
+        "rating": 4,
+        "text": "Had an emergency dental bill and needed cash fast. Ace helped me out and explained all the terms clearly. Grateful for the quick service.",
+        "location": "San Francisco, CA",
+        "date": "2024-09-30"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby Cities",
+    "intro": "Cannot make it to our San Francisco location? We also serve:",
+    "cities": [
+      {
+        "name": "Oakland",
+        "slug": "oakland",
+        "url": "/locations/california/oakland",
+        "distanceMiles": 10
+      },
+      {
+        "name": "Fremont",
+        "slug": "fremont",
+        "url": "/locations/california/fremont",
+        "distanceMiles": 36
+      },
+      {
+        "name": "San Jose",
+        "slug": "san-jose",
+        "url": "/locations/california/san-jose",
+        "distanceMiles": 42
+      },
+      {
+        "name": "Stockton",
+        "slug": "stockton",
+        "url": "/locations/california/stockton",
+        "distanceMiles": 68
+      }
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your San Francisco payday loan location?",
+      "answer": "Our San Francisco branch is located at 275 Market Street, Suite 400, in the Financial District. We are easily accessible from US-101 via Exit 431 (Civic Center) and I-80 via Exit 2 (Bay Bridge). We are also near several BART stations for easy public transit access."
+    },
+    {
+      "question": "What are your hours in San Francisco?",
+      "answer": "We are open Monday through Friday from 9 AM to 7 PM, and Saturday from 10 AM to 4 PM. We are closed on Sundays. You can also apply online 24/7."
+    },
+    {
+      "question": "How much can I borrow at your San Francisco location?",
+      "answer": "Under California law, payday loans are capped at $300. After the maximum 15% fee ($45), you would receive approximately $255. We also offer installment loans and title loans for larger amounts."
+    },
+    {
+      "question": "Do I need an appointment at the San Francisco branch?",
+      "answer": "No appointment is needed! Walk-ins are welcome during business hours. However, you can save time by starting your application online before visiting our San Francisco location."
+    },
+    {
+      "question": "What do I need to bring to your San Francisco location?",
+      "answer": "Please bring a valid government-issued photo ID, proof of income (pay stub or bank statement), an active checking account, and a working phone number. Our friendly staff will guide you through the rest of the process."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Ready to Get Cash in San Francisco?",
+    "subheadline": "Visit our Financial District location or apply online now",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=san-francisco-ca"
+    },
+    "secondaryCta": {
+      "text": "Call (415) 555-0426",
+      "url": "tel:+14155550426"
+    },
+    "address": "275 Market Street, Suite 400, San Francisco, CA 94105"
+  },
+
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FinancialService",
+    "name": "Ace Payday Loans - San Francisco",
+    "description": "Fast payday loans and cash advances in San Francisco, CA. Licensed California lender offering short-term loans up to $300 with same-day funding available.",
+    "url": "https://www.acepaydayloans.com/locations/california/san-francisco",
+    "telephone": "+14155550426",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "275 Market Street, Suite 400",
+      "addressLocality": "San Francisco",
+      "addressRegion": "CA",
+      "postalCode": "94105",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "09:00",
+        "closes": "19:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Saturday",
+        "opens": "10:00",
+        "closes": "16:00"
+      }
+    ],
+    "priceRange": "$",
+    "currenciesAccepted": "USD",
+    "paymentAccepted": "Cash, Debit Card, Check",
+    "areaServed": {
+      "@type": "City",
+      "name": "San Francisco",
+      "containedInPlace": {
+        "@type": "State",
+        "name": "California"
+      }
+    },
+    "serviceType": ["Payday Loans", "Cash Advances", "Check Cashing", "Installment Loans", "Title Loans"],
+    "hasCredential": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "license",
+      "name": "California DFPI CDDTL License"
+    }
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "California", "url": "/locations/california"},
+    {"label": "San Francisco", "url": "/locations/california/san-francisco"}
+  ],
+
+  "images": {
+    "hero": {
+      "url": "/images/locations/san-francisco-branch.jpg",
+      "alt": "Ace Payday Loans San Francisco branch in Financial District",
+      "caption": "Our San Francisco location on Market Street"
+    },
+    "storefront": {
+      "url": "/images/locations/san-francisco-storefront.jpg",
+      "alt": "Ace Payday Loans storefront in San Francisco",
+      "caption": "Visit our San Francisco branch for fast cash"
+    }
+  },
+
+  "metadata": {
+    "generatedAt": "2025-01-29T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "batch": "california-batch-1"
+  }
+}

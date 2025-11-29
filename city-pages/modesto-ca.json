@@ -1,0 +1,297 @@
+{
+  "id": "modesto-ca",
+  "city": "Modesto",
+  "slug": "modesto",
+  "state": "California",
+  "stateCode": "CA",
+  "stateSlug": "california",
+  "countyName": "Stanislaus County",
+  "serviceNiche": "Payday Loans",
+
+  "seo": {
+    "title": "Payday Loans in Modesto, CA | Fast Cash Near the Famous Modesto Arch",
+    "metaDescription": "Need cash today in Modesto? Visit Ace Payday Loans near the Modesto Arch. Get approved in 30 minutes. Take CA-99 Exit 221 to Downtown. Call (209) 555-0134.",
+    "canonicalUrl": "/locations/california/modesto",
+    "keywords": ["payday loans modesto", "modesto payday loans", "cash advance modesto ca", "payday loans near me modesto", "fast cash modesto", "stanislaus county payday loans"]
+  },
+
+  "hero": {
+    "h1": "Fast Payday Loans in Modesto, CA",
+    "subheadline": "Trusted lending near the famous Modesto Arch - Water, Wealth, Contentment, Health",
+    "ctaText": "Apply Now for Modesto Cash",
+    "ctaUrl": "/apply?location=modesto-ca",
+    "secondaryCta": {
+      "text": "Call (209) 555-0134",
+      "url": "tel:+12095550134"
+    }
+  },
+
+  "localProof": {
+    "headline": "Where to Find Us in Modesto",
+    "directions": "We are conveniently located at 1001 I Street, just blocks from the iconic Modesto Arch and near the McHenry Mansion. If you are taking CA-99, use Exit 221 for Downtown Modesto. You can also reach us from CA-99 Exit 219 at Briggsmore Avenue. We're right in the heart of Modesto's historic downtown.",
+    "landmarks": ["Modesto Arch", "McHenry Mansion", "Gallo Center for the Arts"],
+    "highways": ["CA-99", "CA-132", "CA-108"],
+    "exits": ["CA-99 Exit 221 (Downtown)", "CA-99 Exit 219 (Briggsmore)"],
+    "neighborhoodName": "Downtown Modesto",
+    "neighboringTowns": ["Turlock", "Ceres", "Salida", "Riverbank", "Oakdale"],
+    "hours": {
+      "monday": "9:00 AM - 7:00 PM",
+      "tuesday": "9:00 AM - 7:00 PM",
+      "wednesday": "9:00 AM - 7:00 PM",
+      "thursday": "9:00 AM - 7:00 PM",
+      "friday": "9:00 AM - 7:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d50134.98!2d-120.9969!3d37.6391!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8090506b7baadff7%3A0x5ce8b36d3e9f1c2e!2sModesto%2C%20CA!5e0!3m2!1sen!2sus!4v1"
+  },
+
+  "nap": {
+    "name": "Ace Payday Loans of Modesto",
+    "street": "1001 I Street, Suite 105",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "95354",
+    "phone": "(209) 555-0134",
+    "formattedPhone": "+12095550134",
+    "formattedAddress": "1001 I Street, Suite 105, Modesto, CA 95354",
+    "coordinates": {
+      "latitude": 37.6391,
+      "longitude": -120.9969
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=37.6391,-120.9969"
+  },
+
+  "productLinks": {
+    "headline": "Our Modesto Financial Services",
+    "intro": "We offer a full range of short-term lending and money services to help Stanislaus County residents with their financial needs:",
+    "services": [
+      {
+        "name": "Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Short-term loans up to $300 to cover unexpected expenses until your next paycheck",
+        "anchorText": "Modesto Payday Loans"
+      },
+      {
+        "name": "Cash Advances",
+        "slug": "cash-advances",
+        "url": "/services/cash-advances",
+        "description": "Quick cash advances for emergency situations with fast approval",
+        "anchorText": "Cash Advances in Modesto"
+      },
+      {
+        "name": "Installment Loans",
+        "slug": "installment-loans",
+        "url": "/services/installment-loans",
+        "description": "Larger loans repaid over time through scheduled monthly payments",
+        "anchorText": "Modesto Installment Loans"
+      },
+      {
+        "name": "Title Loans",
+        "slug": "title-loans",
+        "url": "/services/title-loans",
+        "description": "Use your vehicle title as collateral for larger loan amounts",
+        "anchorText": "Title Loans in Modesto"
+      },
+      {
+        "name": "Check Cashing",
+        "slug": "check-cashing",
+        "url": "/services/check-cashing",
+        "description": "Cash your paycheck or government check instantly",
+        "anchorText": "Check Cashing Modesto"
+      },
+      {
+        "name": "Online Payday Loans",
+        "slug": "online-payday-loans",
+        "url": "/services/online-payday-loans",
+        "description": "Apply from home and get funded fast",
+        "anchorText": "Online Payday Loans"
+      },
+      {
+        "name": "Same Day Loans",
+        "slug": "same-day-loans",
+        "url": "/services/same-day-loans",
+        "description": "Get approved and funded within the same business day",
+        "anchorText": "Same Day Loans Modesto"
+      },
+      {
+        "name": "Bad Credit Loans",
+        "slug": "bad-credit-loans",
+        "url": "/services/bad-credit-loans",
+        "description": "Loan options for borrowers with less-than-perfect credit",
+        "anchorText": "Bad Credit Loans in Modesto"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "California Payday Loan Regulations",
+    "intro": "Residents of Modesto are protected by California's strict payday loan regulations enforced by the Department of Financial Protection and Innovation (DFPI).",
+    "content": "California regulates payday loans under the California Deferred Deposit Transaction Law (CDDTL), administered by the Department of Financial Protection and Innovation (DFPI). The state allows payday loans with significant consumer protections: loans are capped at $300 with a maximum fee of 15% (approximately $45). Rollovers are prohibited, meaning lenders cannot issue a new loan to pay off an existing one. California also prohibits lenders from making multiple loans to the same borrower simultaneously. All payday lenders operating in California must be licensed by the DFPI, and consumers can verify a lender's license status online or by calling 1-866-275-2677.",
+    "keyPoints": [
+      "California limits payday loans to a maximum of $300",
+      "The maximum fee is 15% of the check amount (up to $45)",
+      "Lenders cannot make a new loan to pay off an existing loan (rollovers prohibited)",
+      "You cannot have more than one payday loan at a time",
+      "If your check bounces, the lender can charge only one NSF fee of up to $15",
+      "Lenders cannot threaten criminal prosecution for non-payment",
+      "Your loan contract must be provided in your primary language",
+      "All lenders must be licensed - verify at dfpi.ca.gov"
+    ],
+    "regulatoryBody": "California Department of Financial Protection and Innovation (DFPI)",
+    "regulatoryUrl": "https://dfpi.ca.gov",
+    "disclaimer": "IMPORTANT NOTICE: This information is provided for general educational purposes only and does not constitute legal or financial advice. Payday loans are high-cost, short-term loans with APRs that can exceed 400%. Before taking out a payday loan, consider alternatives such as personal loans, credit union loans, payment plans with creditors, or assistance from non-profit credit counseling agencies. Laws and regulations may change. For the most current information, contact the California Department of Financial Protection and Innovation at 1-866-275-2677 or visit dfpi.ca.gov."
+  },
+
+  "localReviews": {
+    "headline": "What Our Modesto Customers Say",
+    "locationId": "modesto-ca",
+    "reviewSource": "Google Business Profile",
+    "showWidget": true,
+    "averageRating": 4.5,
+    "totalReviews": 72,
+    "reviews": [
+      {
+        "name": "Jennifer L.",
+        "rating": 5,
+        "text": "Love the Downtown location - so easy to get to from CA-99. The staff explained all the California rules about payday loans and I felt informed before signing. Got my money quickly!",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Marcus T.",
+        "rating": 5,
+        "text": "Work in the agriculture industry and needed bridge cash before my check came. The Modesto team was understanding and processed my loan fast. Right near the arch!",
+        "date": "2024-10-15"
+      },
+      {
+        "name": "Patricia H.",
+        "rating": 4,
+        "text": "Convenient location on I Street. They were honest about the fees and the $300 limit. Would recommend for Central Valley residents who need emergency cash.",
+        "date": "2024-09-28"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby Cities",
+    "intro": "Can't make it to our Modesto location? We also serve:",
+    "cities": [
+      {"name": "Stockton", "slug": "stockton", "url": "/locations/california/stockton", "distanceMiles": 30},
+      {"name": "Fremont", "slug": "fremont", "url": "/locations/california/fremont", "distanceMiles": 68},
+      {"name": "Sacramento", "slug": "sacramento", "url": "/locations/california/sacramento", "distanceMiles": 76},
+      {"name": "Fresno", "slug": "fresno", "url": "/locations/california/fresno", "distanceMiles": 78}
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Modesto payday loan location?",
+      "answer": "Our Modesto branch is located at 1001 I Street, Suite 105, just blocks from the iconic Modesto Arch in Downtown. Take CA-99 Exit 221 (Downtown) for the quickest route."
+    },
+    {
+      "question": "How much can I borrow at your Modesto location?",
+      "answer": "Under California law, the maximum payday loan amount is $300, with a maximum fee of $45 (15%). You'll receive approximately $255 after the fee is deducted. We clearly explain all terms before you sign."
+    },
+    {
+      "question": "What do I need to bring to get a payday loan in Modesto?",
+      "answer": "Bring a valid California ID, proof of income (pay stub or bank statement), an active checking account, and contact information. We'll verify your information and can have you approved in about 30 minutes."
+    },
+    {
+      "question": "Do you serve the Central Valley farming community?",
+      "answer": "Absolutely! We understand the seasonal nature of agricultural work in Stanislaus County. We work with farm workers, food processing employees, and others in the agriculture industry throughout Modesto, Turlock, Ceres, and surrounding areas."
+    },
+    {
+      "question": "Is Ace Payday Loans licensed in California?",
+      "answer": "Yes, Ace Payday Loans is fully licensed by the California Department of Financial Protection and Innovation (DFPI) under the California Deferred Deposit Transaction Law. You can verify our license at dfpi.ca.gov."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Ready to Get Cash in Modesto?",
+    "subheadline": "Visit our Downtown location near the Modesto Arch or apply online now",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=modesto-ca"
+    },
+    "secondaryCta": {
+      "text": "Call (209) 555-0134",
+      "url": "tel:+12095550134"
+    },
+    "address": "1001 I Street, Suite 105, Modesto, CA 95354"
+  },
+
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FinancialService",
+    "name": "Ace Payday Loans of Modesto",
+    "image": "https://acepaydayloans.com/images/modesto-branch.jpg",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1001 I Street, Suite 105",
+      "addressLocality": "Modesto",
+      "addressRegion": "CA",
+      "postalCode": "95354",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 37.6391,
+      "longitude": -120.9969
+    },
+    "telephone": "+12095550134",
+    "url": "https://acepaydayloans.com/locations/california/modesto",
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "09:00",
+        "closes": "19:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Saturday",
+        "opens": "10:00",
+        "closes": "16:00"
+      }
+    ],
+    "priceRange": "$$",
+    "currenciesAccepted": "USD",
+    "paymentAccepted": "Cash, Check, Debit Card",
+    "areaServed": {
+      "@type": "City",
+      "name": "Modesto",
+      "containedInPlace": {
+        "@type": "State",
+        "name": "California"
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": "72"
+    }
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "California", "url": "/locations/california"},
+    {"label": "Modesto", "url": "/locations/california/modesto"}
+  ],
+
+  "images": {
+    "hero": {
+      "url": "/images/locations/modesto-branch.jpg",
+      "alt": "Ace Payday Loans Modesto branch near Downtown",
+      "caption": "Our Modesto location near the famous arch"
+    }
+  },
+
+  "metadata": {
+    "generatedAt": "2025-01-29T14:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "batch": 3
+  }
+}

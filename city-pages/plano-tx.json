@@ -1,0 +1,308 @@
+{
+  "id": "plano-tx",
+  "city": "Plano",
+  "slug": "plano",
+  "state": "Texas",
+  "stateCode": "TX",
+  "stateSlug": "texas",
+  "countyName": "Collin County",
+  "serviceNiche": "Payday Loans",
+
+  "seo": {
+    "title": "Payday Loans in Plano, TX | Fast Cash Near Legacy West | Ace Payday Loans",
+    "metaDescription": "Need fast cash in Plano? Visit Ace Payday Loans near Legacy West off US-75. Same-day funding, no hidden fees. Licensed Texas CAB serving Collin County. Call (972) 555-0147.",
+    "canonicalUrl": "/locations/texas/plano",
+    "keywords": ["payday loans plano", "plano payday loans", "cash advance plano tx", "payday loans near me plano", "fast cash plano texas", "payday loans collin county"]
+  },
+
+  "hero": {
+    "h1": "Fast Payday Loans in Plano, TX",
+    "subheadline": "Trusted lending near Legacy West serving Collin County residents",
+    "ctaText": "Apply Now for Plano Cash",
+    "ctaUrl": "/apply?location=plano-tx",
+    "secondaryCta": {
+      "text": "Call (972) 555-0147",
+      "url": "tel:+19725550147"
+    }
+  },
+
+  "localProof": {
+    "headline": "Where to Find Us in Plano",
+    "directions": "We are conveniently located at 5800 Legacy Drive, Suite 150, right near Legacy West and just minutes from The Shops at Willow Bend. If you are taking US-75, take Exit 30 (Legacy Drive) and head west. We are also easily accessible from the Dallas North Tollway via the Legacy Drive exit.",
+    "landmarks": ["Legacy West", "The Shops at Willow Bend", "Arbor Hills Nature Preserve"],
+    "highways": ["US-75", "TX-190", "Dallas North Tollway"],
+    "exits": ["US-75 Exit 30 (Legacy)", "TX-190 Exit 24 (Preston)"],
+    "neighborhoodName": "Legacy Business District",
+    "hours": {
+      "monday": "9:00 AM - 7:00 PM",
+      "tuesday": "9:00 AM - 7:00 PM",
+      "wednesday": "9:00 AM - 7:00 PM",
+      "thursday": "9:00 AM - 7:00 PM",
+      "friday": "9:00 AM - 7:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d107035.96!2d-96.75!3d33.02!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864c21e8ed7b5b5d%3A0x1c2e8e7b2b3f!2sPlano%2C%20TX!5e0!3m2!1sen!2sus"
+  },
+
+  "nap": {
+    "name": "Ace Payday Loans of Plano",
+    "street": "5800 Legacy Drive, Suite 150",
+    "city": "Plano",
+    "state": "TX",
+    "zip": "75024",
+    "phone": "(972) 555-0147",
+    "formattedPhone": "+19725550147",
+    "formattedAddress": "5800 Legacy Drive, Suite 150, Plano, TX 75024",
+    "coordinates": {
+      "latitude": 33.0198,
+      "longitude": -96.6989
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=33.0198,-96.6989"
+  },
+
+  "productLinks": {
+    "headline": "Our Plano Financial Services",
+    "intro": "We offer a full range of short-term lending and money services to help Collin County residents with their financial needs:",
+    "services": [
+      {
+        "name": "Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Short-term loans to cover unexpected expenses until your next paycheck",
+        "anchorText": "Learn About Payday Loans"
+      },
+      {
+        "name": "Cash Advances",
+        "slug": "cash-advances",
+        "url": "/services/cash-advances",
+        "description": "Quick access to emergency cash when you need it most",
+        "anchorText": "Get a Cash Advance"
+      },
+      {
+        "name": "Installment Loans",
+        "slug": "installment-loans",
+        "url": "/services/installment-loans",
+        "description": "Larger loans repaid over time with scheduled monthly payments",
+        "anchorText": "Explore Installment Loans"
+      },
+      {
+        "name": "Title Loans",
+        "slug": "title-loans",
+        "url": "/services/title-loans",
+        "description": "Use your vehicle title as collateral for larger loan amounts",
+        "anchorText": "Learn About Title Loans"
+      },
+      {
+        "name": "Check Cashing",
+        "slug": "check-cashing",
+        "url": "/services/check-cashing",
+        "description": "Convert checks to cash instantly without a bank account",
+        "anchorText": "Check Cashing Services"
+      },
+      {
+        "name": "Online Payday Loans",
+        "slug": "online-payday-loans",
+        "url": "/services/online-payday-loans",
+        "description": "Apply from home with our secure online application",
+        "anchorText": "Apply Online Now"
+      },
+      {
+        "name": "Same Day Loans",
+        "slug": "same-day-loans",
+        "url": "/services/same-day-loans",
+        "description": "Get approved and funded within the same business day",
+        "anchorText": "Same Day Funding Options"
+      },
+      {
+        "name": "Bad Credit Loans",
+        "slug": "bad-credit-loans",
+        "url": "/services/bad-credit-loans",
+        "description": "Loan options for borrowers with less-than-perfect credit",
+        "anchorText": "Bad Credit? We Can Help"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "Understanding Payday Loan Laws in Texas",
+    "content": "Plano residents should understand that payday loans are legal in Texas through licensed Credit Access Businesses (CABs). While Texas has minimal state-level restrictions, you are protected by state regulations administered by the Office of Consumer Credit Commissioner (OCCC).",
+    "keyPoints": [
+      "Texas allows payday loans through licensed Credit Access Businesses (CABs) regulated by the OCCC",
+      "There is no state cap on interest rates or CAB fees - typical APRs range from 400% to 700%+",
+      "You have the right to cancel your loan within 3 days of signing without penalty",
+      "Lenders cannot threaten criminal prosecution for non-payment (except for fraud or theft)",
+      "Your wages cannot be garnished for payday loan debt under Texas law",
+      "Your home (if declared homestead) is protected from debt collection",
+      "Always verify your lender is licensed at occc.texas.gov before borrowing"
+    ],
+    "regulatoryBody": "Texas Office of Consumer Credit Commissioner (OCCC)",
+    "regulatoryUrl": "https://occc.texas.gov",
+    "consumerHelpline": "(800) 538-1579",
+    "warningBox": {
+      "title": "Important Cost Warning",
+      "content": "Payday loans in Texas are among the most expensive in the nation. A typical $300 loan can cost over $1,000 in fees alone, resulting in APRs exceeding 700%. Consider alternatives such as credit union loans, payment plans with creditors, or nonprofit credit counseling before taking out a payday loan."
+    },
+    "disclaimer": "This information is provided for general educational purposes only and should not be construed as legal advice. Payday loan laws and regulations change frequently. The information presented may not reflect the most current legal developments. For the most accurate and up-to-date information, contact the Texas Office of Consumer Credit Commissioner at (800) 538-1579 or visit occc.texas.gov. If you need legal advice, please consult with a licensed attorney in Texas."
+  },
+
+  "cityOrdinance": null,
+
+  "localReviews": {
+    "headline": "What Our Plano Customers Say",
+    "locationId": "plano-tx",
+    "reviewSource": "Google Business Profile",
+    "averageRating": 4.5,
+    "totalReviews": 87,
+    "featuredReviews": [
+      {
+        "name": "Michael R.",
+        "rating": 5,
+        "text": "The Plano location near Legacy West was super convenient. Staff explained everything clearly and I had cash in my account the same day. Much better experience than I expected.",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "Jennifer L.",
+        "rating": 5,
+        "text": "Needed emergency funds for car repair. The team at Ace Payday Loans in Plano was professional and fast. No hidden fees - exactly what they quoted me.",
+        "date": "2024-10-28"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "text": "Easy process from start to finish. Appreciated the transparency about fees. Would use again if needed.",
+        "date": "2024-10-10"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby Cities",
+    "intro": "Can't make it to our Plano location? We also serve these nearby communities:",
+    "cities": [
+      {"name": "Frisco", "slug": "frisco", "url": "/locations/texas/frisco", "distanceMiles": 11},
+      {"name": "McKinney", "slug": "mckinney", "url": "/locations/texas/mckinney", "distanceMiles": 13},
+      {"name": "Garland", "slug": "garland", "url": "/locations/texas/garland", "distanceMiles": 12},
+      {"name": "Dallas", "slug": "dallas", "url": "/locations/texas/dallas", "distanceMiles": 18}
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Plano location?",
+      "answer": "Our Plano branch is located at 5800 Legacy Drive, Suite 150, near Legacy West. Take US-75 Exit 30 (Legacy Drive) and head west. We're just minutes from The Shops at Willow Bend in the Legacy Business District."
+    },
+    {
+      "question": "What are your hours in Plano?",
+      "answer": "We're open Monday through Friday from 9 AM to 7 PM, and Saturday from 10 AM to 4 PM. We're closed on Sundays. You can also apply online 24/7."
+    },
+    {
+      "question": "How much can I borrow at the Plano location?",
+      "answer": "Loan amounts vary based on your income and ability to repay. Texas has no state maximum for payday loans, but we evaluate each application individually. First-time borrowers typically qualify for $100-$500, with higher amounts available after establishing a repayment history."
+    },
+    {
+      "question": "Do I need an appointment at the Plano branch?",
+      "answer": "No appointment is necessary - walk-ins are always welcome. However, you can save time by starting your application online before visiting our Plano location."
+    },
+    {
+      "question": "What documents do I need to bring?",
+      "answer": "Please bring a valid government-issued photo ID, proof of income (recent pay stub or bank statement), proof of residence (utility bill or lease), and your bank account information for direct deposit."
+    },
+    {
+      "question": "Does Plano have any local payday loan ordinances?",
+      "answer": "No, Plano does not currently have local ordinances restricting payday loans beyond state regulations. However, we encourage responsible borrowing and will help you understand all terms before you commit."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Ready to Get Cash in Plano?",
+    "subheadline": "Visit our Legacy Drive location or apply online now",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=plano-tx"
+    },
+    "secondaryCta": {
+      "text": "Call (972) 555-0147",
+      "url": "tel:+19725550147"
+    },
+    "address": "5800 Legacy Drive, Suite 150, Plano, TX 75024"
+  },
+
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FinancialService",
+    "name": "Ace Payday Loans of Plano",
+    "image": "https://www.acepaydayloans.com/images/plano-branch.jpg",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "5800 Legacy Drive, Suite 150",
+      "addressLocality": "Plano",
+      "addressRegion": "TX",
+      "postalCode": "75024",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 33.0198,
+      "longitude": -96.6989
+    },
+    "url": "https://www.acepaydayloans.com/locations/texas/plano",
+    "telephone": "+19725550147",
+    "priceRange": "$$",
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "09:00",
+        "closes": "19:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Saturday",
+        "opens": "10:00",
+        "closes": "16:00"
+      }
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": "87"
+    },
+    "areaServed": {
+      "@type": "City",
+      "name": "Plano",
+      "containedInPlace": {
+        "@type": "State",
+        "name": "Texas"
+      }
+    },
+    "serviceType": ["Payday Loans", "Cash Advances", "Installment Loans", "Title Loans", "Check Cashing"]
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "Texas", "url": "/locations/texas"},
+    {"label": "Plano", "url": "/locations/texas/plano"}
+  ],
+
+  "images": {
+    "hero": {
+      "url": "/images/locations/plano-tx-branch.jpg",
+      "alt": "Ace Payday Loans Plano branch exterior near Legacy West",
+      "caption": "Our Plano location on Legacy Drive"
+    },
+    "interior": {
+      "url": "/images/locations/plano-tx-interior.jpg",
+      "alt": "Clean, professional interior of Plano payday loan office",
+      "caption": "Professional service in a comfortable environment"
+    }
+  },
+
+  "metadata": {
+    "generatedAt": "2025-01-15T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "batch": 2
+  }
+}

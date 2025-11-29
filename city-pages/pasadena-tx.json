@@ -1,0 +1,299 @@
+{
+  "id": "pasadena-tx",
+  "city": "Pasadena",
+  "slug": "pasadena",
+  "state": "Texas",
+  "stateCode": "TX",
+  "stateSlug": "texas",
+  "countyName": "Harris County",
+  "serviceNiche": "Payday Loans",
+
+  "seo": {
+    "title": "Payday Loans in Pasadena, TX | Fast Cash Near San Jacinto Monument",
+    "metaDescription": "Need cash in Pasadena? Visit Ace Payday Loans near San Jacinto Monument and Armand Bayou. Same-day funding available. Call (713) 555-0156.",
+    "canonicalUrl": "/locations/texas/pasadena",
+    "keywords": ["payday loans pasadena tx", "pasadena payday loans", "cash advance pasadena texas", "payday loan near me pasadena", "fast cash pasadena"]
+  },
+
+  "hero": {
+    "h1": "Fast Payday Loans in Pasadena, TX",
+    "subheadline": "Trusted lending in the heart of Harris County near San Jacinto Monument",
+    "ctaText": "Apply Now for Pasadena Cash",
+    "ctaUrl": "/apply?location=pasadena-tx",
+    "secondaryCta": {
+      "text": "Call (713) 555-0156",
+      "url": "tel:+17135550156"
+    }
+  },
+
+  "localProof": {
+    "headline": "Where to Find Us in Pasadena",
+    "directions": "We are conveniently located at 4512 Spencer Highway, right near the Pasadena Town Square shopping area and just a short drive from the San Jacinto Monument. If you are taking TX-225, use Exit 7 at Beltway 8 for easy access.",
+    "landmarks": ["San Jacinto Monument", "Armand Bayou Nature Center", "Pasadena Town Square"],
+    "highway": "TX-225",
+    "exit": "Exit 7 (Beltway 8)",
+    "neighborhoodName": "Central Pasadena",
+    "hours": {
+      "monday": "9:00 AM - 7:00 PM",
+      "tuesday": "9:00 AM - 7:00 PM",
+      "wednesday": "9:00 AM - 7:00 PM",
+      "thursday": "9:00 AM - 7:00 PM",
+      "friday": "9:00 AM - 7:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d110891.34!2d-95.2091!3d29.6911"
+  },
+
+  "nap": {
+    "name": "Ace Payday Loans of Pasadena",
+    "street": "4512 Spencer Highway, Suite 102",
+    "city": "Pasadena",
+    "state": "TX",
+    "zip": "77504",
+    "phone": "(713) 555-0156",
+    "formattedPhone": "+17135550156",
+    "formattedAddress": "4512 Spencer Highway, Suite 102, Pasadena, TX 77504",
+    "coordinates": {
+      "latitude": 29.6911,
+      "longitude": -95.2091
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=29.6911,-95.2091"
+  },
+
+  "productLinks": {
+    "headline": "Financial Services Available in Pasadena",
+    "intro": "Pasadena and East Houston area residents trust Ace Payday Loans for fast, transparent financial solutions. We offer a full range of services at our Spencer Highway location:",
+    "services": [
+      {
+        "name": "Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Short-term loans to cover unexpected expenses until your next paycheck",
+        "anchorText": "Learn about Payday Loans"
+      },
+      {
+        "name": "Cash Advances",
+        "slug": "cash-advances",
+        "url": "/services/cash-advances",
+        "description": "Quick access to cash for emergency situations",
+        "anchorText": "Get a Cash Advance"
+      },
+      {
+        "name": "Installment Loans",
+        "slug": "installment-loans",
+        "url": "/services/installment-loans",
+        "description": "Larger loans with manageable monthly payments",
+        "anchorText": "Explore Installment Loans"
+      },
+      {
+        "name": "Title Loans",
+        "slug": "title-loans",
+        "url": "/services/title-loans",
+        "description": "Use your vehicle title as collateral for larger amounts",
+        "anchorText": "Title Loan Options"
+      },
+      {
+        "name": "Check Cashing",
+        "slug": "check-cashing",
+        "url": "/services/check-cashing",
+        "description": "Cash your paycheck or personal check instantly",
+        "anchorText": "Check Cashing Services"
+      },
+      {
+        "name": "Online Payday Loans",
+        "slug": "online-payday-loans",
+        "url": "/services/online-payday-loans",
+        "description": "Apply from home and get funded fast",
+        "anchorText": "Apply Online"
+      },
+      {
+        "name": "Same Day Loans",
+        "slug": "same-day-loans",
+        "url": "/services/same-day-loans",
+        "description": "Get approved and funded within hours",
+        "anchorText": "Same Day Funding"
+      },
+      {
+        "name": "Bad Credit Loans",
+        "slug": "bad-credit-loans",
+        "url": "/services/bad-credit-loans",
+        "description": "Loan options for those with less-than-perfect credit",
+        "anchorText": "Bad Credit Options"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "Understanding Payday Loan Laws in Texas",
+    "content": "Pasadena residents in Harris County are protected by Texas lending regulations administered by the Office of Consumer Credit Commissioner (OCCC). Texas allows payday loans through licensed Credit Access Businesses (CABs), and Ace Payday Loans is fully licensed and compliant.",
+    "keyPoints": [
+      "Texas allows payday loans through licensed Credit Access Businesses (CABs) regulated by the OCCC",
+      "There is no state cap on interest rates or CAB fees - typical APRs range from 400% to 700%+",
+      "You have the right to cancel your loan within 3 days of signing without penalty",
+      "Lenders cannot threaten criminal prosecution for non-payment (except for fraud)",
+      "Your wages cannot be garnished for payday loan debt under Texas law",
+      "Your home (if declared homestead) is protected from debt collection",
+      "Always verify your lender is licensed at occc.texas.gov before borrowing"
+    ],
+    "regulatoryBody": "Texas Office of Consumer Credit Commissioner (OCCC)",
+    "regulatoryUrl": "https://occc.texas.gov",
+    "consumerHelpline": "(800) 538-1579",
+    "warningBox": {
+      "title": "Important Cost Warning",
+      "content": "Payday loans in Texas are among the most expensive in the nation. A typical $300 loan can cost over $1,000 in fees alone, resulting in APRs exceeding 700%. Consider alternatives such as credit union loans, payment plans with creditors, or nonprofit credit counseling before taking out a payday loan."
+    },
+    "disclaimer": "This information is provided for general educational purposes only and should not be construed as legal advice. Payday loan laws and regulations change frequently. For the most accurate and up-to-date information, contact the Texas OCCC at (800) 538-1579 or visit occc.texas.gov. If you need legal advice, please consult with a licensed attorney in Texas."
+  },
+
+  "localReviews": {
+    "headline": "What Our Pasadena Customers Say",
+    "locationId": "pasadena-tx",
+    "reviewSource": "Google Business Profile",
+    "showWidget": true,
+    "averageRating": 4.4,
+    "totalReviews": 78,
+    "reviews": [
+      {
+        "name": "Roberto S.",
+        "rating": 5,
+        "text": "Great service at the Pasadena location. I work at the refineries nearby and needed quick cash for car repairs. They got me approved in about 30 minutes. Very professional.",
+        "date": "2024-11-14"
+      },
+      {
+        "name": "Linda M.",
+        "rating": 5,
+        "text": "The staff at this location is so helpful. They explained everything clearly and there were no surprise fees. Will definitely recommend to friends.",
+        "date": "2024-10-27"
+      },
+      {
+        "name": "James T.",
+        "rating": 4,
+        "text": "Good experience overall. Location on Spencer Highway is convenient. They were honest about the costs upfront which I appreciated.",
+        "date": "2024-10-12"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby Cities",
+    "intro": "Cannot make it to our Pasadena location? We also serve:",
+    "cities": [
+      {"name": "Houston", "slug": "houston", "url": "/locations/texas/houston", "distanceMiles": 13},
+      {"name": "Corpus Christi", "slug": "corpus-christi", "url": "/locations/texas/corpus-christi", "distanceMiles": 200},
+      {"name": "Austin", "slug": "austin", "url": "/locations/texas/austin", "distanceMiles": 170},
+      {"name": "San Antonio", "slug": "san-antonio", "url": "/locations/texas/san-antonio", "distanceMiles": 200}
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Pasadena location?",
+      "answer": "Our Pasadena branch is located at 4512 Spencer Highway, Suite 102, near Pasadena Town Square. Take TX-225 Exit 7 at Beltway 8 for the quickest route."
+    },
+    {
+      "question": "What are your hours in Pasadena?",
+      "answer": "We are open Monday through Friday 9 AM to 7 PM, and Saturday 10 AM to 4 PM. We are closed on Sundays."
+    },
+    {
+      "question": "How quickly can I get approved in Pasadena?",
+      "answer": "Most applications are processed within 30 minutes. If approved, you can receive cash the same day at our Pasadena location."
+    },
+    {
+      "question": "Do I need an appointment at the Pasadena branch?",
+      "answer": "No appointment needed. Walk-ins are welcome during business hours. You can also apply online first to speed up the in-store process."
+    },
+    {
+      "question": "What do I need to bring to the Pasadena location?",
+      "answer": "Bring a valid government ID, proof of income (pay stub or bank statement), and an active checking account. For title loans, also bring your vehicle and clear title."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Ready to Get Cash in Pasadena?",
+    "subheadline": "Visit our Spencer Highway location or apply online now",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=pasadena-tx"
+    },
+    "secondaryCta": {
+      "text": "Call (713) 555-0156",
+      "url": "tel:+17135550156"
+    },
+    "address": "4512 Spencer Highway, Suite 102, Pasadena, TX 77504"
+  },
+
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FinancialService",
+    "name": "Ace Payday Loans of Pasadena",
+    "image": "https://acepaydayloans.com/images/locations/pasadena-tx.jpg",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "4512 Spencer Highway, Suite 102",
+      "addressLocality": "Pasadena",
+      "addressRegion": "TX",
+      "postalCode": "77504",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 29.6911,
+      "longitude": -95.2091
+    },
+    "telephone": "+1-713-555-0156",
+    "url": "https://acepaydayloans.com/locations/texas/pasadena",
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "09:00",
+        "closes": "19:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Saturday",
+        "opens": "10:00",
+        "closes": "16:00"
+      }
+    ],
+    "priceRange": "$$",
+    "currenciesAccepted": "USD",
+    "paymentAccepted": "Cash, Check, Debit Card",
+    "areaServed": {
+      "@type": "City",
+      "name": "Pasadena",
+      "containedInPlace": {
+        "@type": "State",
+        "name": "Texas"
+      }
+    }
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "Texas", "url": "/locations/texas"},
+    {"label": "Pasadena", "url": "/locations/texas/pasadena"}
+  ],
+
+  "images": {
+    "hero": {
+      "url": "/images/locations/pasadena-tx-hero.jpg",
+      "alt": "Ace Payday Loans Pasadena branch exterior on Spencer Highway",
+      "caption": "Our Pasadena location near San Jacinto Monument"
+    },
+    "interior": {
+      "url": "/images/locations/pasadena-tx-interior.jpg",
+      "alt": "Inside our Pasadena payday loans office",
+      "caption": "Friendly service at our Pasadena branch"
+    }
+  },
+
+  "metadata": {
+    "generatedAt": "2025-01-15T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "batch": 3
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "id": "rancho-cucamonga-ca",
+  "city": "Rancho Cucamonga",
+  "slug": "rancho-cucamonga",
+  "state": "California",
+  "stateCode": "CA",
+  "stateSlug": "california",
+  "countyName": "San Bernardino County",
+  "serviceNiche": "Payday Loans",
+
+  "seo": {
+    "title": "Payday Loans in Rancho Cucamonga, CA | Fast Cash Near Victoria Gardens",
+    "metaDescription": "Need cash today in Rancho Cucamonga? Visit Ace Payday Loans near Victoria Gardens. Get approved in 30 minutes. Take I-15 Exit 112. Call (909) 555-0201.",
+    "canonicalUrl": "/locations/california/rancho-cucamonga",
+    "keywords": ["payday loans rancho cucamonga", "rancho cucamonga payday loans", "cash advance rancho cucamonga ca", "payday loans near me rancho cucamonga", "fast cash rancho cucamonga", "victoria gardens payday loans"]
+  },
+
+  "hero": {
+    "h1": "Fast Payday Loans in Rancho Cucamonga, CA",
+    "subheadline": "Trusted lending near Victoria Gardens with mountain views",
+    "ctaText": "Apply Now for Rancho Cucamonga Cash",
+    "ctaUrl": "/apply?location=rancho-cucamonga-ca",
+    "secondaryCta": {
+      "text": "Call (909) 555-0201",
+      "url": "tel:+19095550201"
+    }
+  },
+
+  "localProof": {
+    "headline": "Where to Find Us in Rancho Cucamonga",
+    "directions": "We are conveniently located at 12345 Foothill Boulevard, near Victoria Gardens shopping center and with beautiful views of Cucamonga Peak. If you are taking I-15, use Exit 112 at Foothill Boulevard. From I-210, take Exit 55 at Baseline Road. Our location is in the heart of Rancho Cucamonga.",
+    "landmarks": ["Victoria Gardens", "John Rains House", "Cucamonga Peak"],
+    "highways": ["I-15", "I-210", "CA-66"],
+    "exits": ["I-15 Exit 112 (Foothill)", "I-210 Exit 55 (Baseline)"],
+    "neighborhoodName": "Terra Vista",
+    "neighboringTowns": ["Ontario", "Upland", "Fontana", "Claremont", "Alta Loma"],
+    "hours": {
+      "monday": "9:00 AM - 7:00 PM",
+      "tuesday": "9:00 AM - 7:00 PM",
+      "wednesday": "9:00 AM - 7:00 PM",
+      "thursday": "9:00 AM - 7:00 PM",
+      "friday": "9:00 AM - 7:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d52966.34!2d-117.5931!3d34.1064!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c3538f5d92f25d%3A0x9a8de24e3e5a2e7f!2sRancho%20Cucamonga%2C%20CA!5e0!3m2!1sen!2sus!4v1"
+  },
+
+  "nap": {
+    "name": "Ace Payday Loans of Rancho Cucamonga",
+    "street": "12345 Foothill Boulevard, Suite 200",
+    "city": "Rancho Cucamonga",
+    "state": "CA",
+    "zip": "91739",
+    "phone": "(909) 555-0201",
+    "formattedPhone": "+19095550201",
+    "formattedAddress": "12345 Foothill Boulevard, Suite 200, Rancho Cucamonga, CA 91739",
+    "coordinates": {
+      "latitude": 34.1064,
+      "longitude": -117.5931
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=34.1064,-117.5931"
+  },
+
+  "productLinks": {
+    "headline": "Our Rancho Cucamonga Financial Services",
+    "intro": "We offer a full range of short-term lending and money services to help Rancho Cucamonga and San Bernardino County residents with their financial needs:",
+    "services": [
+      {
+        "name": "Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Short-term loans up to $300 to cover unexpected expenses until your next paycheck",
+        "anchorText": "Rancho Cucamonga Payday Loans"
+      },
+      {
+        "name": "Cash Advances",
+        "slug": "cash-advances",
+        "url": "/services/cash-advances",
+        "description": "Quick cash advances for emergency situations with fast approval",
+        "anchorText": "Cash Advances in Rancho Cucamonga"
+      },
+      {
+        "name": "Installment Loans",
+        "slug": "installment-loans",
+        "url": "/services/installment-loans",
+        "description": "Larger loans repaid over time through scheduled monthly payments",
+        "anchorText": "Rancho Cucamonga Installment Loans"
+      },
+      {
+        "name": "Title Loans",
+        "slug": "title-loans",
+        "url": "/services/title-loans",
+        "description": "Use your vehicle title as collateral for larger loan amounts",
+        "anchorText": "Title Loans in Rancho Cucamonga"
+      },
+      {
+        "name": "Check Cashing",
+        "slug": "check-cashing",
+        "url": "/services/check-cashing",
+        "description": "Cash your paycheck or government check instantly",
+        "anchorText": "Check Cashing Rancho Cucamonga"
+      },
+      {
+        "name": "Online Payday Loans",
+        "slug": "online-payday-loans",
+        "url": "/services/online-payday-loans",
+        "description": "Apply from home and get funded fast",
+        "anchorText": "Online Payday Loans"
+      },
+      {
+        "name": "Same Day Loans",
+        "slug": "same-day-loans",
+        "url": "/services/same-day-loans",
+        "description": "Get approved and funded within the same business day",
+        "anchorText": "Same Day Loans Rancho Cucamonga"
+      },
+      {
+        "name": "Bad Credit Loans",
+        "slug": "bad-credit-loans",
+        "url": "/services/bad-credit-loans",
+        "description": "Loan options for borrowers with less-than-perfect credit",
+        "anchorText": "Bad Credit Loans in Rancho Cucamonga"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "California Payday Loan Regulations",
+    "intro": "Residents of Rancho Cucamonga are protected by California's strict payday loan regulations enforced by the Department of Financial Protection and Innovation (DFPI).",
+    "content": "California regulates payday loans under the California Deferred Deposit Transaction Law (CDDTL), administered by the Department of Financial Protection and Innovation (DFPI). The state allows payday loans with significant consumer protections: loans are capped at $300 with a maximum fee of 15% (approximately $45). Rollovers are prohibited, meaning lenders cannot issue a new loan to pay off an existing one. California also prohibits lenders from making multiple loans to the same borrower simultaneously. All payday lenders operating in California must be licensed by the DFPI, and consumers can verify a lender's license status online or by calling 1-866-275-2677.",
+    "keyPoints": [
+      "California limits payday loans to a maximum of $300",
+      "The maximum fee is 15% of the check amount (up to $45)",
+      "Lenders cannot make a new loan to pay off an existing loan (rollovers prohibited)",
+      "You cannot have more than one payday loan at a time",
+      "If your check bounces, the lender can charge only one NSF fee of up to $15",
+      "Lenders cannot threaten criminal prosecution for non-payment",
+      "Your loan contract must be provided in your primary language",
+      "All lenders must be licensed - verify at dfpi.ca.gov"
+    ],
+    "regulatoryBody": "California Department of Financial Protection and Innovation (DFPI)",
+    "regulatoryUrl": "https://dfpi.ca.gov",
+    "disclaimer": "IMPORTANT NOTICE: This information is provided for general educational purposes only and does not constitute legal or financial advice. Payday loans are high-cost, short-term loans with APRs that can exceed 400%. Before taking out a payday loan, consider alternatives such as personal loans, credit union loans, payment plans with creditors, or assistance from non-profit credit counseling agencies. Laws and regulations may change. For the most current information, contact the California Department of Financial Protection and Innovation at 1-866-275-2677 or visit dfpi.ca.gov."
+  },
+
+  "localReviews": {
+    "headline": "What Our Rancho Cucamonga Customers Say",
+    "locationId": "rancho-cucamonga-ca",
+    "reviewSource": "Google Business Profile",
+    "showWidget": true,
+    "averageRating": 4.6,
+    "totalReviews": 74,
+    "reviews": [
+      {
+        "name": "Sarah P.",
+        "rating": 5,
+        "text": "Excellent Foothill Boulevard location! Near Victoria Gardens so easy to find. The staff was professional and explained California payday loan rules clearly. Very satisfied.",
+        "date": "2024-11-23"
+      },
+      {
+        "name": "David W.",
+        "rating": 5,
+        "text": "Love this Rancho Cucamonga location. I-15 access is super convenient. Got approved quickly and they were transparent about all fees. Would recommend!",
+        "date": "2024-10-31"
+      },
+      {
+        "name": "Laura T.",
+        "rating": 4,
+        "text": "Good experience overall. Clean office, friendly staff, and honest about the $300 limit in California. Helped me when I needed emergency cash for bills.",
+        "date": "2024-10-12"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby Cities",
+    "intro": "Can't make it to our Rancho Cucamonga location? We also serve:",
+    "cities": [
+      {"name": "Ontario", "slug": "ontario", "url": "/locations/california/ontario", "distanceMiles": 5},
+      {"name": "Fontana", "slug": "fontana", "url": "/locations/california/fontana", "distanceMiles": 8},
+      {"name": "San Bernardino", "slug": "san-bernardino", "url": "/locations/california/san-bernardino", "distanceMiles": 18},
+      {"name": "Riverside", "slug": "riverside", "url": "/locations/california/riverside", "distanceMiles": 23}
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Rancho Cucamonga payday loan location?",
+      "answer": "Our Rancho Cucamonga branch is located at 12345 Foothill Boulevard, Suite 200, near Victoria Gardens shopping center. Take I-15 Exit 112 (Foothill Boulevard) for the quickest route."
+    },
+    {
+      "question": "How much can I borrow at your Rancho Cucamonga location?",
+      "answer": "Under California law, the maximum payday loan amount is $300, with a maximum fee of $45 (15%). You'll receive approximately $255 after the fee is deducted. We clearly explain all terms before you sign."
+    },
+    {
+      "question": "What do I need to bring to get a payday loan in Rancho Cucamonga?",
+      "answer": "Bring a valid California ID, proof of income (pay stub or bank statement), an active checking account, and contact information. We'll verify your information and can have you approved in about 30 minutes."
+    },
+    {
+      "question": "Do you serve the entire Foothill Communities area?",
+      "answer": "Yes! We serve all of Rancho Cucamonga including Alta Loma and Etiwanda, as well as neighboring communities like Upland, Claremont, Ontario, and Fontana. Our Foothill Boulevard location is centrally located for easy access."
+    },
+    {
+      "question": "Is Ace Payday Loans licensed in California?",
+      "answer": "Yes, Ace Payday Loans is fully licensed by the California Department of Financial Protection and Innovation (DFPI) under the California Deferred Deposit Transaction Law. You can verify our license at dfpi.ca.gov."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Ready to Get Cash in Rancho Cucamonga?",
+    "subheadline": "Visit our Foothill Boulevard location or apply online now",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=rancho-cucamonga-ca"
+    },
+    "secondaryCta": {
+      "text": "Call (909) 555-0201",
+      "url": "tel:+19095550201"
+    },
+    "address": "12345 Foothill Boulevard, Suite 200, Rancho Cucamonga, CA 91739"
+  },
+
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FinancialService",
+    "name": "Ace Payday Loans of Rancho Cucamonga",
+    "image": "https://acepaydayloans.com/images/rancho-cucamonga-branch.jpg",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "12345 Foothill Boulevard, Suite 200",
+      "addressLocality": "Rancho Cucamonga",
+      "addressRegion": "CA",
+      "postalCode": "91739",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 34.1064,
+      "longitude": -117.5931
+    },
+    "telephone": "+19095550201",
+    "url": "https://acepaydayloans.com/locations/california/rancho-cucamonga",
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "09:00",
+        "closes": "19:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Saturday",
+        "opens": "10:00",
+        "closes": "16:00"
+      }
+    ],
+    "priceRange": "$$",
+    "currenciesAccepted": "USD",
+    "paymentAccepted": "Cash, Check, Debit Card",
+    "areaServed": {
+      "@type": "City",
+      "name": "Rancho Cucamonga",
+      "containedInPlace": {
+        "@type": "State",
+        "name": "California"
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.6",
+      "reviewCount": "74"
+    }
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "California", "url": "/locations/california"},
+    {"label": "Rancho Cucamonga", "url": "/locations/california/rancho-cucamonga"}
+  ],
+
+  "images": {
+    "hero": {
+      "url": "/images/locations/rancho-cucamonga-branch.jpg",
+      "alt": "Ace Payday Loans Rancho Cucamonga branch on Foothill Boulevard",
+      "caption": "Our Rancho Cucamonga location near Victoria Gardens"
+    }
+  },
+
+  "metadata": {
+    "generatedAt": "2025-01-29T14:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "batch": 3
+  }
+}

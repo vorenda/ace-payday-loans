@@ -1,0 +1,330 @@
+{
+  "id": "santa-ana-ca",
+  "city": "Santa Ana",
+  "state": "California",
+  "stateCode": "CA",
+  "stateSlug": "california",
+  "slug": "santa-ana",
+  "countyName": "Orange County",
+  "areaCode": "714",
+  "population": 310000,
+  "serviceNiche": "Payday Loans",
+
+  "coordinates": {
+    "latitude": 33.7455,
+    "longitude": -117.8677
+  },
+
+  "seo": {
+    "title": "Payday Loans in Santa Ana, CA | Ace Payday Loans",
+    "metaDescription": "Get fast payday loans in Santa Ana near the Bowers Museum. Licensed California lender. Apply online or visit us off I-5. Call (714) 555-0345.",
+    "canonicalUrl": "/locations/california/santa-ana",
+    "keywords": [
+      "payday loans santa ana",
+      "santa ana payday loans",
+      "cash advance santa ana ca",
+      "payday loans near me santa ana",
+      "fast cash santa ana",
+      "emergency loans santa ana",
+      "payday lenders orange county",
+      "same day loans santa ana"
+    ]
+  },
+
+  "hero": {
+    "h1": "Fast Payday Loans in Santa Ana, CA",
+    "subheadline": "Get cash today near the Bowers Museum - Licensed California Lender",
+    "ctaText": "Apply Now",
+    "ctaUrl": "/apply?location=santa-ana-ca",
+    "secondaryCta": {
+      "text": "Call (714) 555-0345",
+      "url": "tel:+17145550345"
+    }
+  },
+
+  "localProof": {
+    "headline": "Serving Santa Ana & Orange County",
+    "directions": "We are conveniently located in downtown Santa Ana, the county seat of Orange County. Our office is near the Bowers Museum and Discovery Cube Orange County. If you are taking I-5, use Exit 107 (Downtown Santa Ana) and head east. From CA-55, take Exit 8 (Main Street) for quick access to our location.",
+    "landmarks": ["Bowers Museum", "Discovery Cube Orange County", "Santa Ana Zoo"],
+    "highways": ["I-5", "CA-55", "CA-22"],
+    "exits": ["I-5 Exit 107 (Downtown)", "CA-55 Exit 8 (Main Street)"],
+    "neighboringTowns": ["Irvine", "Garden Grove", "Costa Mesa", "Tustin", "Orange"],
+    "localDescription": "Santa Ana is the county seat of Orange County and a cultural center with rich Hispanic heritage.",
+    "serviceAreaDescription": "We proudly serve all of Orange County including Irvine, Garden Grove, Costa Mesa, Tustin, Orange, and the surrounding communities. As the heart of Orange County, our Santa Ana location is central to all the cities we serve."
+  },
+
+  "nap": {
+    "name": "Ace Payday Loans - Santa Ana",
+    "street": "1505 North Main Street, Suite 110",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "92701",
+    "phone": "(714) 555-0345",
+    "formattedPhone": "+17145550345",
+    "formattedAddress": "1505 North Main Street, Suite 110, Santa Ana, CA 92701",
+    "googleMapsUrl": "https://www.google.com/maps?q=33.7455,-117.8677",
+    "hours": {
+      "monday": "9:00 AM - 7:00 PM",
+      "tuesday": "9:00 AM - 7:00 PM",
+      "wednesday": "9:00 AM - 7:00 PM",
+      "thursday": "9:00 AM - 7:00 PM",
+      "friday": "9:00 AM - 7:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    }
+  },
+
+  "services": {
+    "headline": "Our Santa Ana Financial Services",
+    "intro": "We offer a full range of short-term lending and money services to help Santa Ana residents with their financial needs.",
+    "servicesList": [
+      {
+        "name": "Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Short-term loans up to $300 to help cover unexpected expenses until your next paycheck.",
+        "anchorText": "Learn about Payday Loans"
+      },
+      {
+        "name": "Cash Advances",
+        "slug": "cash-advances",
+        "url": "/services/cash-advances",
+        "description": "Quick access to cash before your next payday for emergency expenses.",
+        "anchorText": "Get a Cash Advance"
+      },
+      {
+        "name": "Installment Loans",
+        "slug": "installment-loans",
+        "url": "/services/installment-loans",
+        "description": "Larger loans repaid over time through scheduled monthly payments.",
+        "anchorText": "Explore Installment Loans"
+      },
+      {
+        "name": "Title Loans",
+        "slug": "title-loans",
+        "url": "/services/title-loans",
+        "description": "Use your vehicle title as collateral for larger loan amounts.",
+        "anchorText": "Learn about Title Loans"
+      },
+      {
+        "name": "Check Cashing",
+        "slug": "check-cashing",
+        "url": "/services/check-cashing",
+        "description": "Convert checks to cash instantly without a bank account.",
+        "anchorText": "Check Cashing Services"
+      },
+      {
+        "name": "Online Payday Loans",
+        "slug": "online-payday-loans",
+        "url": "/services/online-payday-loans",
+        "description": "Apply for payday loans from the comfort of your home with fast online approval.",
+        "anchorText": "Apply Online Now"
+      },
+      {
+        "name": "Same Day Loans",
+        "slug": "same-day-loans",
+        "url": "/services/same-day-loans",
+        "description": "Get approved and funded within the same business day for urgent needs.",
+        "anchorText": "Same Day Funding"
+      },
+      {
+        "name": "Bad Credit Loans",
+        "slug": "bad-credit-loans",
+        "url": "/services/bad-credit-loans",
+        "description": "Loan options available for borrowers with less-than-perfect credit history.",
+        "anchorText": "Bad Credit Options"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "California Payday Loan Regulations",
+    "intro": "Residents of Santa Ana are protected by California's strict payday loan regulations enforced by the Department of Financial Protection and Innovation (DFPI).",
+    "content": "California regulates payday loans under the California Deferred Deposit Transaction Law (CDDTL), administered by the Department of Financial Protection and Innovation (DFPI). The state allows payday loans with significant consumer protections: loans are capped at $300 with a maximum fee of 15% (approximately $45). Rollovers are prohibited, meaning lenders cannot issue a new loan to pay off an existing one. California also prohibits lenders from making multiple loans to the same borrower simultaneously. All payday lenders operating in California must be licensed by the DFPI, and consumers can verify a lender's license status online or by calling 1-866-275-2677.",
+    "keyPoints": [
+      "California limits payday loans to a maximum of $300",
+      "The maximum fee is 15% of the check amount (up to $45)",
+      "Lenders cannot make a new loan to pay off an existing loan (rollovers prohibited)",
+      "You cannot have more than one payday loan at a time",
+      "If your check bounces, the lender can charge only one NSF fee of up to $15",
+      "Lenders cannot threaten criminal prosecution for non-payment",
+      "Your loan contract must be provided in your primary language",
+      "All lenders must be licensed - verify at dfpi.ca.gov"
+    ],
+    "protections": [
+      "Maximum loan amount: $300",
+      "Maximum fee: 15% of check face value ($45 maximum)",
+      "Maximum term: 31 days",
+      "Rollovers: Prohibited",
+      "Multiple loans: Not allowed simultaneously",
+      "NSF fee: $15 maximum (one fee only)",
+      "Criminal prosecution: Cannot be threatened for non-payment"
+    ],
+    "regulatoryBody": {
+      "name": "Department of Financial Protection and Innovation",
+      "abbreviation": "DFPI",
+      "website": "https://dfpi.ca.gov",
+      "phone": "1-866-275-2677",
+      "verificationUrl": "https://dfpi.ca.gov/regulated-industries/regulated-entities-list/"
+    },
+    "aprDisclosure": "The typical Annual Percentage Rate (APR) for a payday loan in California is approximately 426-460% for a two-week loan. By comparison, credit cards typically have APRs between 15-30% and personal loans between 6-36%. The high APR reflects the short-term nature of payday loans and the fees charged. A $300 payday loan with a $45 fee repaid in 14 days has an APR of approximately 391%.",
+    "disclaimer": "IMPORTANT NOTICE: This information is provided for general educational purposes only and does not constitute legal or financial advice. Payday loans are high-cost, short-term loans with APRs that can exceed 400%. Before taking out a payday loan, consider alternatives such as personal loans, credit union loans, payment plans with creditors, or assistance from non-profit credit counseling agencies. Laws and regulations may change. For the most current information, contact the California Department of Financial Protection and Innovation at 1-866-275-2677 or visit dfpi.ca.gov. If you are experiencing financial difficulties, contact a HUD-approved housing counselor or the National Foundation for Credit Counseling at 1-800-388-2227."
+  },
+
+  "testimonials": {
+    "headline": "What Santa Ana Customers Say",
+    "reviews": [
+      {
+        "text": "Living in Santa Ana, I needed a lender I could trust. Ace Payday Loans made the process simple and they spoke Spanish which made everything easier for my mother. Great service!",
+        "author": "Rosa G.",
+        "rating": 5,
+        "date": "2024-10"
+      },
+      {
+        "text": "The downtown Santa Ana location is easy to find right off Main Street. Quick approval and the staff really took time to explain everything. Very professional.",
+        "author": "Michael H.",
+        "rating": 5,
+        "date": "2024-09"
+      },
+      {
+        "text": "I had a utility bill emergency and needed help fast. The team at Ace in Santa Ana was quick and efficient. No judgment, just professional service.",
+        "author": "Teresa L.",
+        "rating": 4,
+        "date": "2024-11"
+      }
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Santa Ana location?",
+      "answer": "Our Santa Ana branch is located at 1505 North Main Street, Suite 110, in downtown Santa Ana. We are near the Bowers Museum. From I-5, take Exit 107 (Downtown) and head east. From CA-55, use Exit 8 (Main Street)."
+    },
+    {
+      "question": "What are your hours in Santa Ana?",
+      "answer": "We are open Monday through Friday from 9 AM to 7 PM, and Saturday from 10 AM to 4 PM. We are closed on Sundays."
+    },
+    {
+      "question": "Do you have Spanish-speaking staff in Santa Ana?",
+      "answer": "Yes, our Santa Ana location has bilingual staff members who can assist you in Spanish. California law also requires that your loan contract be provided in your primary language."
+    },
+    {
+      "question": "How much can I borrow at your Santa Ana location?",
+      "answer": "In California, payday loans are limited to $300 maximum by state law. After the maximum fee of $45, you would receive approximately $255. We also offer other loan products like installment loans for larger amounts."
+    },
+    {
+      "question": "What do I need to bring to the Santa Ana branch?",
+      "answer": "Please bring a valid government-issued photo ID, proof of income (pay stub or bank statement), an active checking account, and a working phone number. Our staff will guide you through the rest of the process."
+    },
+    {
+      "question": "Can I get same-day funding in Santa Ana?",
+      "answer": "Yes, if you apply in-store and are approved, you can receive your funds the same day. For online applications, we offer next-business-day funding or instant funding to a debit card where available."
+    }
+  ],
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby Cities",
+    "intro": "Cannot make it to our Santa Ana location? We also serve these nearby areas:",
+    "cities": [
+      {
+        "name": "Anaheim",
+        "slug": "anaheim",
+        "url": "/locations/california/anaheim",
+        "distanceMiles": 7
+      },
+      {
+        "name": "Irvine",
+        "slug": "irvine",
+        "url": "/locations/california/irvine",
+        "distanceMiles": 7
+      },
+      {
+        "name": "Long Beach",
+        "slug": "long-beach",
+        "url": "/locations/california/long-beach",
+        "distanceMiles": 14
+      },
+      {
+        "name": "Huntington Beach",
+        "slug": "huntington-beach",
+        "url": "/locations/california/huntington-beach",
+        "distanceMiles": 11
+      }
+    ]
+  },
+
+  "ctaSection": {
+    "headline": "Ready to Get Cash in Santa Ana?",
+    "subheadline": "Visit our North Main Street location or apply online now",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=santa-ana-ca"
+    },
+    "secondaryCta": {
+      "text": "Call (714) 555-0345",
+      "url": "tel:+17145550345"
+    },
+    "address": "1505 North Main Street, Suite 110, Santa Ana, CA 92701"
+  },
+
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FinancialService",
+    "name": "Ace Payday Loans - Santa Ana",
+    "description": "Fast payday loans and cash advances in Santa Ana, CA. Licensed California lender in downtown Orange County.",
+    "url": "https://www.acepaydayloans.com/locations/california/santa-ana",
+    "telephone": "+17145550345",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1505 North Main Street, Suite 110",
+      "addressLocality": "Santa Ana",
+      "addressRegion": "CA",
+      "postalCode": "92701",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 33.7455,
+      "longitude": -117.8677
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "09:00",
+        "closes": "19:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Saturday",
+        "opens": "10:00",
+        "closes": "16:00"
+      }
+    ],
+    "priceRange": "$$",
+    "currenciesAccepted": "USD",
+    "paymentAccepted": "Cash, Debit Card",
+    "areaServed": {
+      "@type": "City",
+      "name": "Santa Ana",
+      "containedInPlace": {
+        "@type": "State",
+        "name": "California"
+      }
+    }
+  },
+
+  "breadcrumbs": [
+    { "label": "Home", "url": "/" },
+    { "label": "Locations", "url": "/locations" },
+    { "label": "California", "url": "/locations/california" },
+    { "label": "Santa Ana", "url": "/locations/california/santa-ana" }
+  ],
+
+  "metadata": {
+    "generatedAt": "2025-01-15T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "batch": "california-batch-2"
+  }
+}

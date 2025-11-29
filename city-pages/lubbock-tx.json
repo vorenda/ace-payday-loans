@@ -1,0 +1,308 @@
+{
+  "id": "lubbock-tx",
+  "city": "Lubbock",
+  "slug": "lubbock",
+  "state": "Texas",
+  "stateCode": "TX",
+  "stateSlug": "texas",
+  "countyName": "Lubbock County",
+  "serviceNiche": "Payday Loans",
+
+  "seo": {
+    "title": "Payday Loans in Lubbock, TX | Fast Cash Near Texas Tech | Ace Payday Loans",
+    "metaDescription": "Need fast cash in Lubbock? Visit Ace Payday Loans near the Buddy Holly Center off I-27. Same-day funding, no hidden fees. Licensed Texas CAB. Call (806) 555-0182.",
+    "canonicalUrl": "/locations/texas/lubbock",
+    "keywords": ["payday loans lubbock", "lubbock payday loans", "cash advance lubbock tx", "payday loans near me lubbock", "fast cash lubbock texas", "payday loans texas tech"]
+  },
+
+  "hero": {
+    "h1": "Fast Payday Loans in Lubbock, TX",
+    "subheadline": "Trusted lending in the Hub City serving Lubbock County and West Texas",
+    "ctaText": "Apply Now for Lubbock Cash",
+    "ctaUrl": "/apply?location=lubbock-tx",
+    "secondaryCta": {
+      "text": "Call (806) 555-0182",
+      "url": "tel:+18065550182"
+    }
+  },
+
+  "localProof": {
+    "headline": "Where to Find Us in Lubbock",
+    "directions": "We are conveniently located at 4521 50th Street, Suite 102, just west of the Buddy Holly Center and minutes from Texas Tech University. If you are taking I-27, take Exit 4 toward Downtown Lubbock and head west on 50th Street. We're also easily accessible from US-84 via the Loop 289 interchange.",
+    "landmarks": ["Buddy Holly Center", "Texas Tech University", "Silent Wings Museum"],
+    "highways": ["I-27", "US-84", "US-62", "Loop 289"],
+    "exits": ["I-27 Exit 4 (Downtown)", "US-84 Exit (Texas Tech)"],
+    "neighborhoodName": "Tech Terrace Area",
+    "hours": {
+      "monday": "9:00 AM - 7:00 PM",
+      "tuesday": "9:00 AM - 7:00 PM",
+      "wednesday": "9:00 AM - 7:00 PM",
+      "thursday": "9:00 AM - 7:00 PM",
+      "friday": "9:00 AM - 7:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d106800.55!2d-101.92!3d33.58!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86fe12add37dc8e5%3A0x615205!2sLubbock%2C%20TX!5e0!3m2!1sen!2sus"
+  },
+
+  "nap": {
+    "name": "Ace Payday Loans of Lubbock",
+    "street": "4521 50th Street, Suite 102",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79414",
+    "phone": "(806) 555-0182",
+    "formattedPhone": "+18065550182",
+    "formattedAddress": "4521 50th Street, Suite 102, Lubbock, TX 79414",
+    "coordinates": {
+      "latitude": 33.5779,
+      "longitude": -101.8552
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=33.5779,-101.8552"
+  },
+
+  "productLinks": {
+    "headline": "Our Lubbock Financial Services",
+    "intro": "We offer a full range of short-term lending and money services to help Lubbock County and West Texas residents with their financial needs:",
+    "services": [
+      {
+        "name": "Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Short-term loans to cover unexpected expenses until your next paycheck",
+        "anchorText": "Learn About Payday Loans"
+      },
+      {
+        "name": "Cash Advances",
+        "slug": "cash-advances",
+        "url": "/services/cash-advances",
+        "description": "Quick access to emergency cash when you need it most",
+        "anchorText": "Get a Cash Advance"
+      },
+      {
+        "name": "Installment Loans",
+        "slug": "installment-loans",
+        "url": "/services/installment-loans",
+        "description": "Larger loans repaid over time with scheduled monthly payments",
+        "anchorText": "Explore Installment Loans"
+      },
+      {
+        "name": "Title Loans",
+        "slug": "title-loans",
+        "url": "/services/title-loans",
+        "description": "Use your vehicle title as collateral for larger loan amounts",
+        "anchorText": "Learn About Title Loans"
+      },
+      {
+        "name": "Check Cashing",
+        "slug": "check-cashing",
+        "url": "/services/check-cashing",
+        "description": "Convert checks to cash instantly without a bank account",
+        "anchorText": "Check Cashing Services"
+      },
+      {
+        "name": "Online Payday Loans",
+        "slug": "online-payday-loans",
+        "url": "/services/online-payday-loans",
+        "description": "Apply from home with our secure online application",
+        "anchorText": "Apply Online Now"
+      },
+      {
+        "name": "Same Day Loans",
+        "slug": "same-day-loans",
+        "url": "/services/same-day-loans",
+        "description": "Get approved and funded within the same business day",
+        "anchorText": "Same Day Funding Options"
+      },
+      {
+        "name": "Bad Credit Loans",
+        "slug": "bad-credit-loans",
+        "url": "/services/bad-credit-loans",
+        "description": "Loan options for borrowers with less-than-perfect credit",
+        "anchorText": "Bad Credit? We Can Help"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "Understanding Payday Loan Laws in Texas",
+    "content": "Lubbock residents should understand that payday loans are legal in Texas through licensed Credit Access Businesses (CABs). While Texas has minimal state-level restrictions, you are protected by state regulations administered by the Office of Consumer Credit Commissioner (OCCC).",
+    "keyPoints": [
+      "Texas allows payday loans through licensed Credit Access Businesses (CABs) regulated by the OCCC",
+      "There is no state cap on interest rates or CAB fees - typical APRs range from 400% to 700%+",
+      "You have the right to cancel your loan within 3 days of signing without penalty",
+      "Lenders cannot threaten criminal prosecution for non-payment (except for fraud or theft)",
+      "Your wages cannot be garnished for payday loan debt under Texas law",
+      "Your home (if declared homestead) is protected from debt collection",
+      "Always verify your lender is licensed at occc.texas.gov before borrowing"
+    ],
+    "regulatoryBody": "Texas Office of Consumer Credit Commissioner (OCCC)",
+    "regulatoryUrl": "https://occc.texas.gov",
+    "consumerHelpline": "(800) 538-1579",
+    "warningBox": {
+      "title": "Important Cost Warning",
+      "content": "Payday loans in Texas are among the most expensive in the nation. A typical $300 loan can cost over $1,000 in fees alone, resulting in APRs exceeding 700%. Consider alternatives such as credit union loans, payment plans with creditors, or nonprofit credit counseling before taking out a payday loan."
+    },
+    "disclaimer": "This information is provided for general educational purposes only and should not be construed as legal advice. Payday loan laws and regulations change frequently. The information presented may not reflect the most current legal developments. For the most accurate and up-to-date information, contact the Texas Office of Consumer Credit Commissioner at (800) 538-1579 or visit occc.texas.gov. If you need legal advice, please consult with a licensed attorney in Texas."
+  },
+
+  "cityOrdinance": null,
+
+  "localReviews": {
+    "headline": "What Our Lubbock Customers Say",
+    "locationId": "lubbock-tx",
+    "reviewSource": "Google Business Profile",
+    "averageRating": 4.4,
+    "totalReviews": 62,
+    "featuredReviews": [
+      {
+        "name": "Carlos M.",
+        "rating": 5,
+        "text": "As a Texas Tech student, I was in a tight spot when my laptop broke. The Lubbock team helped me get the cash I needed quickly. Very professional and understanding.",
+        "date": "2024-11-08"
+      },
+      {
+        "name": "Sandra W.",
+        "rating": 5,
+        "text": "The location on 50th Street is convenient and the staff was great. They explained all the fees upfront and made sure I understood everything before signing.",
+        "date": "2024-10-22"
+      },
+      {
+        "name": "Tommy R.",
+        "rating": 4,
+        "text": "Good service in the Hub City. Had an emergency come up and they helped me out the same day. Would recommend to others.",
+        "date": "2024-09-15"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby Cities",
+    "intro": "Can't make it to our Lubbock location? We also serve these nearby communities:",
+    "cities": [
+      {"name": "Amarillo", "slug": "amarillo", "url": "/locations/texas/amarillo", "distanceMiles": 119},
+      {"name": "Midland", "slug": "midland", "url": "/locations/texas/midland", "distanceMiles": 118},
+      {"name": "Odessa", "slug": "odessa", "url": "/locations/texas/odessa", "distanceMiles": 125},
+      {"name": "El Paso", "slug": "el-paso", "url": "/locations/texas/el-paso", "distanceMiles": 342}
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Lubbock location?",
+      "answer": "Our Lubbock branch is located at 4521 50th Street, Suite 102, in the Tech Terrace area. Take I-27 Exit 4 toward Downtown and head west on 50th Street. We're just minutes from Texas Tech University and the Buddy Holly Center."
+    },
+    {
+      "question": "What are your hours in Lubbock?",
+      "answer": "We're open Monday through Friday from 9 AM to 7 PM, and Saturday from 10 AM to 4 PM. We're closed on Sundays. You can also apply online 24/7."
+    },
+    {
+      "question": "Do you serve Texas Tech students?",
+      "answer": "Yes, we serve all Lubbock residents including Texas Tech students. You'll need to meet our standard requirements including proof of income and a bank account. Student employment counts as verifiable income."
+    },
+    {
+      "question": "How quickly can I get cash in Lubbock?",
+      "answer": "If you apply in-store during business hours and are approved, you can receive cash the same day. For online applications approved by 6 PM CT, funds are typically deposited the next business day."
+    },
+    {
+      "question": "What documents do I need to bring?",
+      "answer": "Please bring a valid government-issued photo ID, proof of income (recent pay stub or bank statement), proof of residence (utility bill or lease), and your bank account information for direct deposit."
+    },
+    {
+      "question": "Does Lubbock have any local payday loan ordinances?",
+      "answer": "No, Lubbock does not currently have local ordinances restricting payday loans beyond state regulations. However, we encourage responsible borrowing and will help you understand all terms before you commit."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Ready to Get Cash in Lubbock?",
+    "subheadline": "Visit our 50th Street location or apply online now",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=lubbock-tx"
+    },
+    "secondaryCta": {
+      "text": "Call (806) 555-0182",
+      "url": "tel:+18065550182"
+    },
+    "address": "4521 50th Street, Suite 102, Lubbock, TX 79414"
+  },
+
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FinancialService",
+    "name": "Ace Payday Loans of Lubbock",
+    "image": "https://www.acepaydayloans.com/images/lubbock-branch.jpg",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "4521 50th Street, Suite 102",
+      "addressLocality": "Lubbock",
+      "addressRegion": "TX",
+      "postalCode": "79414",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 33.5779,
+      "longitude": -101.8552
+    },
+    "url": "https://www.acepaydayloans.com/locations/texas/lubbock",
+    "telephone": "+18065550182",
+    "priceRange": "$$",
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "09:00",
+        "closes": "19:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Saturday",
+        "opens": "10:00",
+        "closes": "16:00"
+      }
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.4",
+      "reviewCount": "62"
+    },
+    "areaServed": {
+      "@type": "City",
+      "name": "Lubbock",
+      "containedInPlace": {
+        "@type": "State",
+        "name": "Texas"
+      }
+    },
+    "serviceType": ["Payday Loans", "Cash Advances", "Installment Loans", "Title Loans", "Check Cashing"]
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "Texas", "url": "/locations/texas"},
+    {"label": "Lubbock", "url": "/locations/texas/lubbock"}
+  ],
+
+  "images": {
+    "hero": {
+      "url": "/images/locations/lubbock-tx-branch.jpg",
+      "alt": "Ace Payday Loans Lubbock branch exterior on 50th Street",
+      "caption": "Our Lubbock location on 50th Street"
+    },
+    "interior": {
+      "url": "/images/locations/lubbock-tx-interior.jpg",
+      "alt": "Clean, professional interior of Lubbock payday loan office",
+      "caption": "Professional service in a comfortable environment"
+    }
+  },
+
+  "metadata": {
+    "generatedAt": "2025-01-15T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "batch": 2
+  }
+}

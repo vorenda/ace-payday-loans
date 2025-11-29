@@ -1,0 +1,185 @@
+{
+  "stateCode": "CA",
+  "stateName": "California",
+  "serviceNiche": "Payday Loans",
+  "lastUpdated": "2025-01-29",
+  "lastVerified": "2025-01-29",
+  "researchSources": [
+    "California Department of Financial Protection and Innovation (DFPI)",
+    "California Deferred Deposit Transaction Law (CDDTL) - Financial Code Division 10",
+    "DFPI Consumer Guide: What You Need to Know About Payday Loans",
+    "CFPB Market Snapshot: State Payday Loan Extended Payment Plans (April 2022)",
+    "California Financial Code Sections 23000-23106"
+  ],
+
+  "legalStatus": {
+    "isLegal": true,
+    "loanTypeAllowed": "Payday Loans (Deferred Deposit Transactions)",
+    "restrictions": "Strict regulations under California Deferred Deposit Transaction Law (CDDTL)",
+    "notes": "California allows payday loans but with significant consumer protections including loan amount caps, fee limits, and rollover prohibitions"
+  },
+
+  "regulatoryBody": {
+    "name": "Department of Financial Protection and Innovation",
+    "abbreviation": "DFPI",
+    "website": "https://dfpi.ca.gov",
+    "regulatoryUrl": "https://dfpi.ca.gov/regulated-industries/payday-lenders/",
+    "verificationUrl": "https://dfpi.ca.gov/regulated-industries/regulated-entities-list/",
+    "licenseType": "California Deferred Deposit Transaction Law (CDDTL) License",
+    "contactPhone": "1-866-275-2677",
+    "contactTTY": "1-800-735-2922",
+    "complaintUrl": "https://dfpi.ca.gov/submit-a-complaint/"
+  },
+
+  "regulations": {
+    "maxLoanAmount": 300,
+    "maxLoanAmountNote": "Maximum face value of check is $300; borrower receives approximately $255 after fees",
+    "minLoanAmount": null,
+    "maxAPR": null,
+    "maxAPRNote": "California does not cap APR directly but limits fees; typical APR is 426-460% for a 2-week loan",
+    "typicalAPR": "426-460%",
+    "maxFee": "15% of the face amount of the check",
+    "maxFeeAmount": 45,
+    "maxFeeNote": "Maximum fee of $45 on maximum $300 loan",
+    "maxTermDays": 31,
+    "minTermDays": null,
+    "minTermNote": "No minimum term specified; average is 16-17 days",
+    "coolingOffPeriod": null,
+    "coolingOffNote": "No mandatory cooling-off period between loans",
+    "rolloverAllowed": false,
+    "rolloverLimit": "Prohibited - cannot make new loan to pay off existing loan",
+    "simultaneousLoansAllowed": false,
+    "simultaneousLoansNote": "Cannot issue new loan while borrower has existing loan, even if combined balance would not exceed $300",
+    "extendedPaymentPlan": {
+      "required": false,
+      "available": "At lender discretion",
+      "note": "Lender may offer extended payment plan; no additional fees can be charged for extension, but lender is not legally required to grant request"
+    },
+    "databaseRequired": false
+  },
+
+  "fees": {
+    "originationFee": "Included in 15% maximum fee",
+    "latePaymentFee": "No additional late fees beyond original fee",
+    "nsfFee": "$15 maximum (one bounced check fee only)",
+    "nsfNote": "Lender may charge only one bounced check fee up to $15; borrower's bank may charge additional fees",
+    "collectionFees": "Limited - no additional collection fees beyond original agreement",
+    "otherFees": "No additional fees permitted; 15% is all-inclusive"
+  },
+
+  "militaryProtections": {
+    "applicable": true,
+    "description": "Military Lending Act (MLA) and California AB 7 provide additional protections",
+    "maxAPR": "36% MAPR for active duty military and dependents",
+    "note": "Due to fee restrictions, many payday lenders choose not to make loans to servicemembers and their dependents"
+  },
+
+  "consumerProtections": {
+    "rightToRescind": {
+      "available": false,
+      "period": "N/A",
+      "notes": "California does not mandate a rescission period for payday loans"
+    },
+    "requiredDisclosures": [
+      "Total cost of loan in writing",
+      "Annual Percentage Rate (APR)",
+      "Payment due date",
+      "All fees and charges",
+      "Contract must be provided in borrower's primary language",
+      "License must be posted at every location",
+      "Fee schedule must be posted at every location"
+    ],
+    "prohibitedPractices": [
+      "Making a new loan to pay off an existing loan (rollovers)",
+      "Issuing a new loan while borrower has an existing loan",
+      "Charging fees beyond 15% of check face value",
+      "Charging more than one bounced check fee ($15 max)",
+      "Threatening criminal prosecution for insufficient funds",
+      "Operating without a DFPI license",
+      "Charging additional fees for payment plan or extension requests"
+    ],
+    "languageRequirements": "Contract must be provided in borrower's primary language"
+  },
+
+  "collectionRules": {
+    "criminalProsecution": "Prohibited - cannot threaten criminal prosecution for non-payment",
+    "civilActions": "Allowed - may pursue civil remedies only",
+    "garnishment": "Limited - must obtain court judgment first",
+    "courtActions": "Civil only",
+    "collectionPractices": "Must comply with California Fair Debt Collection Practices Act"
+  },
+
+  "licensing": {
+    "required": true,
+    "licenseType": "CDDTL License",
+    "regulatoryBody": "California Department of Financial Protection and Innovation (DFPI)",
+    "regulatoryUrl": "https://dfpi.ca.gov/regulated-industries/payday-lenders/",
+    "verificationUrl": "https://dfpi.ca.gov/regulated-industries/regulated-entities-list/",
+    "exemptEntities": [
+      "State or federally chartered banks",
+      "Thrifts and savings associations",
+      "Industrial loan companies",
+      "Credit unions",
+      "Retail sellers offering check cashing as incidental service (fee not exceeding $2)"
+    ],
+    "examinationFrequency": "At least once every two years",
+    "assessmentFee": "Pro rata share of DFPI administration costs (approximately $941 per location as of 2007/08)"
+  },
+
+  "recentChanges": [
+    {
+      "date": "2024-01-01",
+      "change": "Continued enforcement of existing CDDTL protections",
+      "source": "California DFPI"
+    },
+    {
+      "date": "2020-01-01",
+      "change": "DFPI renamed from Department of Business Oversight (DBO)",
+      "source": "California DFPI"
+    },
+    {
+      "date": "2007-10-01",
+      "change": "Assembly Bill 7 (Chapter 358) restricted payday lending to military servicemembers",
+      "source": "California Legislature"
+    }
+  ],
+
+  "marketData": {
+    "annualTransactionVolume": "$2.5 billion (as of 2006 data)",
+    "averageLoanAmount": "$254",
+    "averageLoanTerm": "16-17 days",
+    "numberOfCustomers": "Approximately 1.4-1.5 million annually",
+    "numberOfTransactions": "Over 10 million annually",
+    "numberOfLicensedLocations": "Approximately 2,400 licensed locations",
+    "chargeOffRate": "Approximately 3% of overall annualized volume"
+  },
+
+  "cityPageContent": {
+    "headline": "California Payday Loan Regulations",
+    "intro": "Residents of {{city}} are protected by California's strict payday loan regulations enforced by the Department of Financial Protection and Innovation (DFPI).",
+    "keyPoints": [
+      "California limits payday loans to a maximum of $300",
+      "The maximum fee is 15% of the check amount (up to $45)",
+      "Lenders cannot make a new loan to pay off an existing loan (rollovers prohibited)",
+      "You cannot have more than one payday loan at a time",
+      "If your check bounces, the lender can charge only one NSF fee of up to $15",
+      "Lenders cannot threaten criminal prosecution for non-payment",
+      "Your loan contract must be provided in your primary language",
+      "All lenders must be licensed - verify at dfpi.ca.gov"
+    ],
+    "complianceHeading": "Understanding California Payday Loan Laws",
+    "complianceText": "California regulates payday loans under the California Deferred Deposit Transaction Law (CDDTL), administered by the Department of Financial Protection and Innovation (DFPI). The state allows payday loans with significant consumer protections: loans are capped at $300 with a maximum fee of 15% (approximately $45). Rollovers are prohibited, meaning lenders cannot issue a new loan to pay off an existing one. California also prohibits lenders from making multiple loans to the same borrower simultaneously. All payday lenders operating in California must be licensed by the DFPI, and consumers can verify a lender's license status online or by calling 1-866-275-2677.",
+    "protectionsList": [
+      "Maximum loan amount: $300",
+      "Maximum fee: 15% of check face value ($45 maximum)",
+      "Maximum term: 31 days",
+      "Rollovers: Prohibited",
+      "Multiple loans: Not allowed simultaneously",
+      "NSF fee: $15 maximum (one fee only)",
+      "Criminal prosecution: Cannot be threatened for non-payment"
+    ],
+    "disclaimer": "IMPORTANT NOTICE: This information is provided for general educational purposes only and does not constitute legal or financial advice. Payday loans are high-cost, short-term loans with APRs that can exceed 400%. Before taking out a payday loan, consider alternatives such as personal loans, credit union loans, payment plans with creditors, or assistance from non-profit credit counseling agencies. Laws and regulations may change. For the most current information, contact the California Department of Financial Protection and Innovation at 1-866-275-2677 or visit dfpi.ca.gov. If you are experiencing financial difficulties, contact a HUD-approved housing counselor or the National Foundation for Credit Counseling at 1-800-388-2227.",
+    "aprDisclosure": "The typical Annual Percentage Rate (APR) for a payday loan in California is approximately 426-460% for a two-week loan. By comparison, credit cards typically have APRs between 15-30% and personal loans between 6-36%. The high APR reflects the short-term nature of payday loans and the fees charged. A $300 payday loan with a $45 fee repaid in 14 days has an APR of approximately 391%.",
+    "verifyLenderText": "Before obtaining a payday loan, verify the lender is licensed by the California DFPI. You can check license status at dfpi.ca.gov or call 1-866-275-2677. Unlicensed lenders may charge illegal fees, use aggressive collection tactics, and are not subject to California consumer protection laws."
+  }
+}

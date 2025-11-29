@@ -1,0 +1,82 @@
+{
+  "serviceNiche": "Payday Loans",
+  "totalStates": 50,
+  "statesResearched": 2,
+  "generatedAt": "2025-01-29T12:00:00Z",
+  "lastUpdated": "2025-01-29",
+  "states": {
+    "CA": {
+      "name": "California",
+      "abbreviation": "CA",
+      "isLegal": true,
+      "maxLoanAmount": 300,
+      "maxFee": "15% (up to $45)",
+      "maxAPR": "No cap (typically 426-460%)",
+      "maxTermDays": 31,
+      "rolloverAllowed": false,
+      "strictnessLevel": "strict",
+      "regulatoryBody": "DFPI",
+      "file": "/state-compliance/CA.json"
+    },
+    "TX": {
+      "name": "Texas",
+      "abbreviation": "TX",
+      "isLegal": true,
+      "loanModel": "Credit Access Business (CAB)",
+      "maxLoanAmount": null,
+      "maxLoanAmountNote": "No state limit. City ordinances limit to 20% of gross monthly income.",
+      "maxFee": "No state cap",
+      "maxAPR": "No state cap (typically 400-700%+)",
+      "maxTermDays": 180,
+      "rolloverAllowed": true,
+      "rolloverLimit": "No state limit. City ordinances limit to 3 rollovers with 25% principal reduction each.",
+      "strictnessLevel": "permissive",
+      "hasLocalOrdinances": true,
+      "localOrdinanceCities": 22,
+      "regulatoryBody": "OCCC",
+      "file": "/state-compliance/TX.json"
+    }
+  },
+  "statesByStrictness": {
+    "prohibited": [],
+    "strict": ["CA"],
+    "moderate": [],
+    "permissive": ["TX"]
+  },
+  "regulationSummary": {
+    "CA": {
+      "keyFeatures": [
+        "Maximum loan: $300",
+        "Maximum fee: 15% ($45)",
+        "Rollovers prohibited",
+        "Single loan at a time",
+        "DFPI licensing required"
+      ],
+      "consumerProtections": "Strong - fee caps, rollover prohibition, language requirements, no criminal prosecution threats",
+      "militaryProtections": "Yes - MLA and California AB 7 apply"
+    },
+    "TX": {
+      "keyFeatures": [
+        "No state APR or fee caps",
+        "Credit Access Business (CAB) broker model",
+        "22+ cities with local ordinances (20% income limit, 3 rollover max)",
+        "180-day maximum term",
+        "3-day right to rescind",
+        "No wage garnishment for consumer debt",
+        "Homestead protected from collection"
+      ],
+      "consumerProtections": "Limited at state level - Required disclosures, 3-day cancellation, no criminal prosecution threats. Stronger in cities with local ordinances.",
+      "militaryProtections": "Yes - Military Lending Act applies",
+      "uniqueFeatures": [
+        "CAB model allows virtually unlimited fees",
+        "State law explicitly prohibits capping CAB fees",
+        "Local city ordinances provide additional protections in major metro areas"
+      ]
+    }
+  },
+  "metadata": {
+    "generatedBy": "state-compliance-researcher",
+    "purpose": "YMYL compliance for payday loan city pages",
+    "disclaimer": "This data is for informational purposes only. Laws change frequently. Verify current regulations with state regulatory agencies."
+  }
+}

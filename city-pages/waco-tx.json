@@ -1,0 +1,299 @@
+{
+  "id": "waco-tx",
+  "city": "Waco",
+  "slug": "waco",
+  "state": "Texas",
+  "stateCode": "TX",
+  "stateSlug": "texas",
+  "countyName": "McLennan County",
+  "serviceNiche": "Payday Loans",
+
+  "seo": {
+    "title": "Payday Loans in Waco, TX | Fast Cash Near Magnolia Market & Baylor",
+    "metaDescription": "Need cash in Waco? Visit Ace Payday Loans near Magnolia Market at the Silos and Baylor University. Same-day funding available. Call (254) 555-0194.",
+    "canonicalUrl": "/locations/texas/waco",
+    "keywords": ["payday loans waco", "waco payday loans", "cash advance waco tx", "payday loan near magnolia", "fast cash waco", "baylor payday loans"]
+  },
+
+  "hero": {
+    "h1": "Fast Payday Loans in Waco, TX",
+    "subheadline": "Trusted lending near Magnolia Market and Baylor University",
+    "ctaText": "Apply Now for Waco Cash",
+    "ctaUrl": "/apply?location=waco-tx",
+    "secondaryCta": {
+      "text": "Call (254) 555-0194",
+      "url": "tel:+12545550194"
+    }
+  },
+
+  "localProof": {
+    "headline": "Where to Find Us in Waco",
+    "directions": "We are conveniently located at 4300 W Waco Drive, right near the Richland Mall and just a short drive from Magnolia Market at the Silos and Baylor University. If you are taking I-35, use Exit 335 toward Downtown Waco for easy access.",
+    "landmarks": ["Magnolia Market at the Silos", "Baylor University", "Waco Mammoth National Monument"],
+    "highway": "I-35",
+    "exit": "Exit 335 (Downtown)",
+    "neighborhoodName": "West Waco",
+    "hours": {
+      "monday": "9:00 AM - 7:00 PM",
+      "tuesday": "9:00 AM - 7:00 PM",
+      "wednesday": "9:00 AM - 7:00 PM",
+      "thursday": "9:00 AM - 7:00 PM",
+      "friday": "9:00 AM - 7:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d108234.56!2d-97.1467!3d31.5493"
+  },
+
+  "nap": {
+    "name": "Ace Payday Loans of Waco",
+    "street": "4300 W Waco Drive, Suite 108",
+    "city": "Waco",
+    "state": "TX",
+    "zip": "76710",
+    "phone": "(254) 555-0194",
+    "formattedPhone": "+12545550194",
+    "formattedAddress": "4300 W Waco Drive, Suite 108, Waco, TX 76710",
+    "coordinates": {
+      "latitude": 31.5493,
+      "longitude": -97.1467
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=31.5493,-97.1467"
+  },
+
+  "productLinks": {
+    "headline": "Financial Services Available in Waco",
+    "intro": "Waco and Central Texas residents trust Ace Payday Loans for fast, transparent financial solutions. We serve the Baylor community and visitors to Magnolia Market alike:",
+    "services": [
+      {
+        "name": "Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Short-term loans to cover unexpected expenses until your next paycheck",
+        "anchorText": "Learn about Payday Loans"
+      },
+      {
+        "name": "Cash Advances",
+        "slug": "cash-advances",
+        "url": "/services/cash-advances",
+        "description": "Quick access to cash for emergency situations",
+        "anchorText": "Get a Cash Advance"
+      },
+      {
+        "name": "Installment Loans",
+        "slug": "installment-loans",
+        "url": "/services/installment-loans",
+        "description": "Larger loans with manageable monthly payments",
+        "anchorText": "Explore Installment Loans"
+      },
+      {
+        "name": "Title Loans",
+        "slug": "title-loans",
+        "url": "/services/title-loans",
+        "description": "Use your vehicle title as collateral for larger amounts",
+        "anchorText": "Title Loan Options"
+      },
+      {
+        "name": "Check Cashing",
+        "slug": "check-cashing",
+        "url": "/services/check-cashing",
+        "description": "Cash your paycheck or personal check instantly",
+        "anchorText": "Check Cashing Services"
+      },
+      {
+        "name": "Online Payday Loans",
+        "slug": "online-payday-loans",
+        "url": "/services/online-payday-loans",
+        "description": "Apply from home and get funded fast",
+        "anchorText": "Apply Online"
+      },
+      {
+        "name": "Same Day Loans",
+        "slug": "same-day-loans",
+        "url": "/services/same-day-loans",
+        "description": "Get approved and funded within hours",
+        "anchorText": "Same Day Funding"
+      },
+      {
+        "name": "Bad Credit Loans",
+        "slug": "bad-credit-loans",
+        "url": "/services/bad-credit-loans",
+        "description": "Loan options for those with less-than-perfect credit",
+        "anchorText": "Bad Credit Options"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "Understanding Payday Loan Laws in Texas",
+    "content": "Waco residents in McLennan County are protected by Texas lending regulations administered by the Office of Consumer Credit Commissioner (OCCC). Texas allows payday loans through licensed Credit Access Businesses (CABs), and Ace Payday Loans is fully licensed and compliant.",
+    "keyPoints": [
+      "Texas allows payday loans through licensed Credit Access Businesses (CABs) regulated by the OCCC",
+      "There is no state cap on interest rates or CAB fees - typical APRs range from 400% to 700%+",
+      "You have the right to cancel your loan within 3 days of signing without penalty",
+      "Lenders cannot threaten criminal prosecution for non-payment (except for fraud)",
+      "Your wages cannot be garnished for payday loan debt under Texas law",
+      "Your home (if declared homestead) is protected from debt collection",
+      "Always verify your lender is licensed at occc.texas.gov before borrowing"
+    ],
+    "regulatoryBody": "Texas Office of Consumer Credit Commissioner (OCCC)",
+    "regulatoryUrl": "https://occc.texas.gov",
+    "consumerHelpline": "(800) 538-1579",
+    "warningBox": {
+      "title": "Important Cost Warning",
+      "content": "Payday loans in Texas are among the most expensive in the nation. A typical $300 loan can cost over $1,000 in fees alone, resulting in APRs exceeding 700%. Consider alternatives such as credit union loans, payment plans with creditors, or nonprofit credit counseling before taking out a payday loan."
+    },
+    "disclaimer": "This information is provided for general educational purposes only and should not be construed as legal advice. Payday loan laws and regulations change frequently. For the most accurate and up-to-date information, contact the Texas OCCC at (800) 538-1579 or visit occc.texas.gov. If you need legal advice, please consult with a licensed attorney in Texas."
+  },
+
+  "localReviews": {
+    "headline": "What Our Waco Customers Say",
+    "locationId": "waco-tx",
+    "reviewSource": "Google Business Profile",
+    "showWidget": true,
+    "averageRating": 4.5,
+    "totalReviews": 86,
+    "reviews": [
+      {
+        "name": "Christina B.",
+        "rating": 5,
+        "text": "Great experience at the Waco location. I'm a Baylor staff member and needed emergency funds. They were fast, professional, and explained everything clearly.",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "Thomas R.",
+        "rating": 5,
+        "text": "Very convenient location on Waco Drive. Staff was friendly and didn't make me feel judged for needing help. Got approved same day.",
+        "date": "2024-10-28"
+      },
+      {
+        "name": "Maria S.",
+        "rating": 4,
+        "text": "Good service overall. Location is easy to find off I-35. They were upfront about all costs which I appreciated.",
+        "date": "2024-10-11"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby Cities",
+    "intro": "Cannot make it to our Waco location? We also serve:",
+    "cities": [
+      {"name": "Killeen", "slug": "killeen", "url": "/locations/texas/killeen", "distanceMiles": 50},
+      {"name": "Austin", "slug": "austin", "url": "/locations/texas/austin", "distanceMiles": 103},
+      {"name": "Dallas", "slug": "dallas", "url": "/locations/texas/dallas", "distanceMiles": 96},
+      {"name": "Fort Worth", "slug": "fort-worth", "url": "/locations/texas/fort-worth", "distanceMiles": 88}
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Waco location?",
+      "answer": "Our Waco branch is located at 4300 W Waco Drive, Suite 108, near Richland Mall. Take I-35 Exit 335 toward Downtown Waco for the quickest route."
+    },
+    {
+      "question": "What are your hours in Waco?",
+      "answer": "We are open Monday through Friday 9 AM to 7 PM, and Saturday 10 AM to 4 PM. We are closed on Sundays."
+    },
+    {
+      "question": "Is the Waco location near Magnolia Market?",
+      "answer": "We are about a 10-minute drive from Magnolia Market at the Silos. Our location on Waco Drive is easily accessible from downtown and the Baylor area."
+    },
+    {
+      "question": "Do I need an appointment at the Waco branch?",
+      "answer": "No appointment needed. Walk-ins are welcome during business hours. You can also apply online first to speed up the in-store process."
+    },
+    {
+      "question": "What do I need to bring to the Waco location?",
+      "answer": "Bring a valid government ID, proof of income (pay stub or bank statement), and an active checking account. For title loans, also bring your vehicle and clear title."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Ready to Get Cash in Waco?",
+    "subheadline": "Visit our Waco Drive location or apply online now",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=waco-tx"
+    },
+    "secondaryCta": {
+      "text": "Call (254) 555-0194",
+      "url": "tel:+12545550194"
+    },
+    "address": "4300 W Waco Drive, Suite 108, Waco, TX 76710"
+  },
+
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FinancialService",
+    "name": "Ace Payday Loans of Waco",
+    "image": "https://acepaydayloans.com/images/locations/waco-tx.jpg",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "4300 W Waco Drive, Suite 108",
+      "addressLocality": "Waco",
+      "addressRegion": "TX",
+      "postalCode": "76710",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 31.5493,
+      "longitude": -97.1467
+    },
+    "telephone": "+1-254-555-0194",
+    "url": "https://acepaydayloans.com/locations/texas/waco",
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "09:00",
+        "closes": "19:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Saturday",
+        "opens": "10:00",
+        "closes": "16:00"
+      }
+    ],
+    "priceRange": "$$",
+    "currenciesAccepted": "USD",
+    "paymentAccepted": "Cash, Check, Debit Card",
+    "areaServed": {
+      "@type": "City",
+      "name": "Waco",
+      "containedInPlace": {
+        "@type": "State",
+        "name": "Texas"
+      }
+    }
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "Texas", "url": "/locations/texas"},
+    {"label": "Waco", "url": "/locations/texas/waco"}
+  ],
+
+  "images": {
+    "hero": {
+      "url": "/images/locations/waco-tx-hero.jpg",
+      "alt": "Ace Payday Loans Waco branch exterior on Waco Drive",
+      "caption": "Our Waco location near Magnolia Market"
+    },
+    "interior": {
+      "url": "/images/locations/waco-tx-interior.jpg",
+      "alt": "Inside our Waco payday loans office",
+      "caption": "Friendly service at our Waco branch"
+    }
+  },
+
+  "metadata": {
+    "generatedAt": "2025-01-15T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "batch": 3
+  }
+}

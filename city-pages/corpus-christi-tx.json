@@ -1,0 +1,320 @@
+{
+  "id": "corpus-christi-tx",
+  "city": "Corpus Christi",
+  "state": "Texas",
+  "stateCode": "TX",
+  "stateSlug": "texas",
+  "slug": "corpus-christi",
+  "countyName": "Nueces County",
+  "areaCode": "361",
+  "population": 317000,
+  "serviceNiche": "Payday Loans",
+  "hasLocalOrdinance": false,
+
+  "coordinates": {
+    "latitude": 27.8006,
+    "longitude": -97.3964
+  },
+
+  "seo": {
+    "title": "Payday Loans in Corpus Christi, TX | Fast Cash Near USS Lexington",
+    "metaDescription": "Need fast cash in Corpus Christi? Visit Ace Payday Loans near the USS Lexington and Texas State Aquarium. Same-day funding for Nueces County. (361) 555-0789",
+    "canonicalUrl": "/locations/texas/corpus-christi",
+    "keywords": [
+      "payday loans corpus christi",
+      "corpus christi payday loans",
+      "cash advance corpus christi tx",
+      "payday loans near me corpus christi",
+      "corpus christi tx payday loans",
+      "fast cash corpus christi",
+      "emergency loans corpus christi",
+      "same day loans corpus christi tx"
+    ]
+  },
+
+  "hero": {
+    "h1": "Fast Payday Loans in Corpus Christi, TX",
+    "subheadline": "Trusted lending serving Nueces County since 2015",
+    "ctaText": "Apply Now for Corpus Christi Cash",
+    "ctaUrl": "/apply?location=corpus-christi-tx",
+    "secondaryCta": {
+      "text": "Call (361) 555-0789",
+      "url": "tel:+13615550789"
+    }
+  },
+
+  "localProof": {
+    "headline": "Where to Find Us in Corpus Christi",
+    "directions": "We are conveniently located at 5678 South Padre Island Drive, near the USS Lexington Museum and just down the road from the Texas State Aquarium. If you are taking I-37, take Exit 3 (Downtown) or Exit 1 (Harbor Bridge) for bayfront access. We're also accessible from US-181 for visitors from Portland.",
+    "landmarks": ["USS Lexington Museum", "Texas State Aquarium", "Padre Island National Seashore", "Harbor Bridge"],
+    "highways": ["I-37", "US-181", "US-77"],
+    "exits": ["I-37 Exit 3 (Downtown)", "US-181 Exit 1 (Harbor Bridge)"],
+    "neighborhoodName": "South Side/Padre Island Drive",
+    "neighboringTowns": ["Portland", "Robstown", "Aransas Pass", "Ingleside", "Rockport"],
+    "description": "Corpus Christi is the 'Sparkling City by the Sea' with beautiful beaches and coastal charm.",
+    "hours": {
+      "monday": "9:00 AM - 7:00 PM",
+      "tuesday": "9:00 AM - 7:00 PM",
+      "wednesday": "9:00 AM - 7:00 PM",
+      "thursday": "9:00 AM - 7:00 PM",
+      "friday": "9:00 AM - 7:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d228764.5!2d-97.3964!3d27.8006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8668ee08bf1e6a79%3A0x62ac0fd94ad32a41!2sCorpus%20Christi%2C%20TX!5e0!3m2!1sen!2sus!4v1234567890"
+  },
+
+  "nap": {
+    "name": "Ace Payday Loans of Corpus Christi",
+    "street": "5678 South Padre Island Drive, Suite 140",
+    "city": "Corpus Christi",
+    "state": "TX",
+    "zip": "78411",
+    "phone": "(361) 555-0789",
+    "formattedPhone": "+13615550789",
+    "formattedAddress": "5678 South Padre Island Drive, Suite 140, Corpus Christi, TX 78411",
+    "coordinates": {
+      "latitude": 27.8006,
+      "longitude": -97.3964
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=27.8006,-97.3964"
+  },
+
+  "productLinks": {
+    "headline": "Our Corpus Christi Financial Services",
+    "intro": "We offer a full range of short-term lending and money services to help Nueces County residents with their financial needs:",
+    "services": [
+      {
+        "name": "Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Short-term loans to cover unexpected expenses until your next paycheck",
+        "anchorText": "Learn about Payday Loans"
+      },
+      {
+        "name": "Cash Advances",
+        "slug": "cash-advances",
+        "url": "/services/cash-advances",
+        "description": "Quick cash advances for emergency situations",
+        "anchorText": "Get a Cash Advance"
+      },
+      {
+        "name": "Installment Loans",
+        "slug": "installment-loans",
+        "url": "/services/installment-loans",
+        "description": "Larger loans repaid over time through scheduled monthly payments",
+        "anchorText": "Explore Installment Loans"
+      },
+      {
+        "name": "Title Loans",
+        "slug": "title-loans",
+        "url": "/services/title-loans",
+        "description": "Use your vehicle title as collateral for larger loan amounts",
+        "anchorText": "Title Loan Options"
+      },
+      {
+        "name": "Check Cashing",
+        "slug": "check-cashing",
+        "url": "/services/check-cashing",
+        "description": "Convert checks to cash instantly without a bank account",
+        "anchorText": "Check Cashing Services"
+      },
+      {
+        "name": "Same Day Loans",
+        "slug": "same-day-loans",
+        "url": "/services/same-day-loans",
+        "description": "Get approved and funded within the same business day",
+        "anchorText": "Same Day Funding"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "Understanding Payday Loan Laws in Texas",
+    "content": "Corpus Christi residents should understand that payday loans are legal in Texas through licensed Credit Access Businesses (CABs). Corpus Christi does not currently have a city-specific payday loan ordinance, so state regulations from the Office of Consumer Credit Commissioner (OCCC) apply.",
+    "keyPoints": [
+      "Texas allows payday loans through licensed Credit Access Businesses (CABs) regulated by the Office of Consumer Credit Commissioner (OCCC)",
+      "There is no state cap on interest rates or CAB fees - typical APRs range from 400% to 700%+",
+      "You have the right to cancel your loan within 3 days of signing without penalty",
+      "Lenders cannot threaten criminal prosecution for non-payment (except for fraud or theft)",
+      "Your wages cannot be garnished for payday loan debt under Texas law",
+      "Your home (if declared homestead) is protected from debt collection",
+      "Always verify your lender is licensed at occc.texas.gov before borrowing"
+    ],
+    "regulatoryBody": "Texas Office of Consumer Credit Commissioner (OCCC)",
+    "regulatoryUrl": "https://occc.texas.gov",
+    "consumerHelpline": "(800) 538-1579",
+    "warningBox": {
+      "title": "Important Cost Warning",
+      "content": "Payday loans in Texas are among the most expensive in the nation. A typical $300 loan can cost over $1,000 in fees alone, resulting in APRs exceeding 700%. Consider alternatives such as credit union loans, payment plans with creditors, or nonprofit credit counseling before taking out a payday loan."
+    },
+    "disclaimer": "This information is provided for general educational purposes only and should not be construed as legal advice. Payday loan laws and regulations change frequently. The information presented may not reflect the most current legal developments. For the most accurate and up-to-date information, contact the Texas Office of Consumer Credit Commissioner at (800) 538-1579 or visit occc.texas.gov. If you need legal advice, please consult with a licensed attorney in Texas."
+  },
+
+  "cityOrdinance": {
+    "hasOrdinance": false,
+    "headline": "Corpus Christi Payday Loan Regulations",
+    "intro": "Unlike some Texas cities, Corpus Christi does not currently have a city-specific payday loan ordinance. However, borrowers are still protected by state-level regulations:",
+    "keyProvisions": [
+      "All lenders must be licensed as Credit Access Businesses with the OCCC",
+      "You have a 3-day right to cancel without penalty",
+      "All fees and terms must be disclosed before you sign",
+      "Lenders cannot threaten criminal prosecution for non-payment"
+    ],
+    "note": "While Corpus Christi lacks city-specific limits, we encourage responsible borrowing and full understanding of loan terms before signing."
+  },
+
+  "testimonials": {
+    "headline": "What Our Corpus Christi Customers Say",
+    "reviews": [
+      {
+        "text": "I needed emergency cash after Hurricane season damage to my home. Ace Corpus Christi was there for me when I needed help most. Fast, professional service.",
+        "author": "Maria Elena R.",
+        "location": "Corpus Christi, TX",
+        "rating": 5,
+        "date": "2024-10"
+      },
+      {
+        "text": "Great location on SPID - easy to get to and the staff was friendly. They explained all the fees clearly and I had my cash within an hour. Would use again.",
+        "author": "Timothy D.",
+        "location": "Corpus Christi, TX",
+        "rating": 5,
+        "date": "2024-09"
+      },
+      {
+        "text": "As a local fisherman, my income can be unpredictable. Ace helped me bridge the gap during a slow season. Fair treatment and no hidden surprises.",
+        "author": "Jose M.",
+        "location": "Corpus Christi, TX",
+        "rating": 4,
+        "date": "2024-11"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby Cities",
+    "intro": "Can't make it to our Corpus Christi location? We also serve these nearby Texas cities:",
+    "cities": [
+      {"name": "Brownsville", "slug": "brownsville", "url": "/locations/texas/brownsville", "distanceMiles": 160},
+      {"name": "San Antonio", "slug": "san-antonio", "url": "/locations/texas/san-antonio", "distanceMiles": 145},
+      {"name": "Houston", "slug": "houston", "url": "/locations/texas/houston", "distanceMiles": 215},
+      {"name": "Laredo", "slug": "laredo", "url": "/locations/texas/laredo", "distanceMiles": 155}
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Corpus Christi location?",
+      "answer": "Our Corpus Christi branch is located at 5678 South Padre Island Drive (SPID), Suite 140, near the USS Lexington and Texas State Aquarium. Take I-37 Exit 3 (Downtown) for easy access."
+    },
+    {
+      "question": "What are your hours in Corpus Christi?",
+      "answer": "We're open Monday through Friday 9 AM to 7 PM, and Saturday 10 AM to 4 PM. We're closed on Sundays. Online applications are available 24/7."
+    },
+    {
+      "question": "Does Corpus Christi have special payday loan rules?",
+      "answer": "Corpus Christi does not currently have a city-specific payday loan ordinance. State regulations from the OCCC apply, including licensing requirements and disclosure rules."
+    },
+    {
+      "question": "What do I need to bring to the Corpus Christi branch?",
+      "answer": "Bring a valid government-issued photo ID, proof of steady income (pay stub, bank statement, or benefits letter), your active checking account information, and a working phone number."
+    },
+    {
+      "question": "How much can I borrow in Corpus Christi?",
+      "answer": "Since Corpus Christi doesn't have a city ordinance limiting loan amounts, the amount you can borrow depends on your income and our underwriting criteria. We encourage responsible borrowing."
+    },
+    {
+      "question": "Do you serve Navy personnel from Naval Air Station Corpus Christi?",
+      "answer": "Yes, we serve military families. Active duty service members are protected by the Military Lending Act which caps interest at 36% APR. We comply with all MLA requirements."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Ready to Get Cash in Corpus Christi?",
+    "subheadline": "Visit our South Padre Island Drive location or apply online now",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=corpus-christi-tx"
+    },
+    "secondaryCta": {
+      "text": "Call (361) 555-0789",
+      "url": "tel:+13615550789"
+    },
+    "address": "5678 South Padre Island Drive, Suite 140, Corpus Christi, TX 78411"
+  },
+
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FinancialService",
+    "name": "Ace Payday Loans of Corpus Christi",
+    "image": "https://www.acepaydayloans.com/images/corpus-christi-branch.jpg",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "5678 South Padre Island Drive, Suite 140",
+      "addressLocality": "Corpus Christi",
+      "addressRegion": "TX",
+      "postalCode": "78411",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 27.8006,
+      "longitude": -97.3964
+    },
+    "telephone": "+13615550789",
+    "url": "https://www.acepaydayloans.com/locations/texas/corpus-christi",
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "09:00",
+        "closes": "19:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Saturday",
+        "opens": "10:00",
+        "closes": "16:00"
+      }
+    ],
+    "priceRange": "$$",
+    "areaServed": {
+      "@type": "City",
+      "name": "Corpus Christi",
+      "containedInPlace": {
+        "@type": "State",
+        "name": "Texas"
+      }
+    },
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "Payday Loan Services",
+      "itemListElement": [
+        {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Payday Loans"}},
+        {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Cash Advances"}},
+        {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Installment Loans"}},
+        {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Title Loans"}},
+        {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Check Cashing"}}
+      ]
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.4",
+      "reviewCount": "856"
+    }
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "Texas", "url": "/locations/texas"},
+    {"label": "Corpus Christi", "url": "/locations/texas/corpus-christi"}
+  ],
+
+  "metadata": {
+    "generatedAt": "2025-01-15T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "antiDoorwayCompliant": true
+  }
+}

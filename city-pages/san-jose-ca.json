@@ -1,0 +1,349 @@
+{
+  "id": "san-jose-ca",
+  "city": "San Jose",
+  "slug": "san-jose",
+  "state": "California",
+  "stateCode": "CA",
+  "stateSlug": "california",
+  "countyName": "Santa Clara County",
+  "serviceNiche": "Payday Loans",
+
+  "seo": {
+    "title": "Payday Loans in San Jose, CA | Fast Cash in Silicon Valley | Ace Payday Loans",
+    "metaDescription": "Get fast payday loans in San Jose near Winchester Mystery House. Licensed California lender. Apply online or visit us off US-101. Call (408) 555-0319.",
+    "canonicalUrl": "/locations/california/san-jose",
+    "keywords": [
+      "payday loans san jose",
+      "san jose payday loans",
+      "cash advance san jose ca",
+      "payday loans near me san jose",
+      "fast cash san jose",
+      "emergency loans san jose",
+      "same day loans san jose ca",
+      "payday loans downtown san jose",
+      "san jose cash advance",
+      "short term loans silicon valley"
+    ]
+  },
+
+  "hero": {
+    "h1": "Fast Payday Loans in San Jose, CA",
+    "subheadline": "Get cash today in the heart of Silicon Valley. Trusted lending for Santa Clara County residents.",
+    "ctaText": "Apply Now for San Jose Cash",
+    "ctaUrl": "/apply?location=san-jose-ca",
+    "phone": "(408) 555-0319",
+    "secondaryCta": {
+      "text": "Get Directions",
+      "url": "https://maps.google.com/?q=37.3382,-121.8863"
+    }
+  },
+
+  "localProof": {
+    "headline": "Serving San Jose & Silicon Valley",
+    "directions": "We are conveniently located in Downtown San Jose, near the famous Winchester Mystery House and the Tech Interactive Museum. If you are taking US-101, use Exit 384 (Downtown), or from I-280, take Exit 12 (Winchester). Our location is also easily accessible from I-680 for customers coming from the East Bay.",
+    "landmarks": ["Winchester Mystery House", "Tech Interactive Museum", "San Jose Municipal Rose Garden"],
+    "highways": ["Conveniently located off US-101", "Easy access from I-280", "Near I-680"],
+    "exits": ["US-101 Exit 384 (Downtown)", "I-280 Exit 12 (Winchester)"],
+    "neighboringTowns": ["Also serving Sunnyvale", "Santa Clara", "Milpitas", "Campbell", "Cupertino"],
+    "localDescription": "Our San Jose location serves customers throughout Santa Clara County, the capital of Silicon Valley and home to major technology companies. Whether you work in tech, live in one of our many diverse neighborhoods, or are visiting the area, we are here to help you with your short-term financial needs. San Jose residents trust Ace Payday Loans for fast, transparent service when unexpected expenses arise.",
+    "neighborhoodName": "Downtown San Jose",
+    "hours": {
+      "monday": "9:00 AM - 7:00 PM",
+      "tuesday": "9:00 AM - 7:00 PM",
+      "wednesday": "9:00 AM - 7:00 PM",
+      "thursday": "9:00 AM - 7:00 PM",
+      "friday": "9:00 AM - 7:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d202395.9544049912!2d-122.0349!3d37.3382!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fcae48af93ff5%3A0xb99d8c0aca9f717b!2sSan%20Jose%2C%20CA!5e0!3m2!1sen!2sus!4v1234567890"
+  },
+
+  "nap": {
+    "name": "Ace Payday Loans - San Jose",
+    "street": "150 South First Street, Suite 300",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95113",
+    "phone": "(408) 555-0319",
+    "formattedPhone": "+14085550319",
+    "formattedAddress": "150 South First Street, Suite 300, San Jose, CA 95113",
+    "coordinates": {
+      "latitude": 37.3382,
+      "longitude": -121.8863
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=37.3382,-121.8863"
+  },
+
+  "productLinks": {
+    "headline": "Our San Jose Financial Services",
+    "intro": "We offer a full range of short-term lending and money services to help Santa Clara County residents with their financial needs:",
+    "services": [
+      {
+        "name": "Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Short-term loans up to $300 to cover unexpected expenses until your next paycheck",
+        "anchorText": "Learn more about Payday Loans"
+      },
+      {
+        "name": "Cash Advances",
+        "slug": "cash-advances",
+        "url": "/services/cash-advances",
+        "description": "Quick access to cash before your next payday for emergency expenses",
+        "anchorText": "Learn more about Cash Advances"
+      },
+      {
+        "name": "Installment Loans",
+        "slug": "installment-loans",
+        "url": "/services/installment-loans",
+        "description": "Larger loans repaid over time through scheduled monthly payments",
+        "anchorText": "Learn more about Installment Loans"
+      },
+      {
+        "name": "Title Loans",
+        "slug": "title-loans",
+        "url": "/services/title-loans",
+        "description": "Secured loans using your vehicle title as collateral for larger amounts",
+        "anchorText": "Learn more about Title Loans"
+      },
+      {
+        "name": "Check Cashing",
+        "slug": "check-cashing",
+        "url": "/services/check-cashing",
+        "description": "Convert checks to cash instantly without a bank account",
+        "anchorText": "Learn more about Check Cashing"
+      },
+      {
+        "name": "Online Payday Loans",
+        "slug": "online-payday-loans",
+        "url": "/services/online-payday-loans",
+        "description": "Apply for payday loans from home with fast online approval",
+        "anchorText": "Learn more about Online Payday Loans"
+      },
+      {
+        "name": "Same Day Loans",
+        "slug": "same-day-loans",
+        "url": "/services/same-day-loans",
+        "description": "Get approved and funded within the same business day",
+        "anchorText": "Learn more about Same Day Loans"
+      },
+      {
+        "name": "Bad Credit Loans",
+        "slug": "bad-credit-loans",
+        "url": "/services/bad-credit-loans",
+        "description": "Loan options for borrowers with less-than-perfect credit",
+        "anchorText": "Learn more about Bad Credit Loans"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "Understanding California Payday Loan Laws",
+    "intro": "Residents of San Jose are protected by California's strict payday loan regulations enforced by the Department of Financial Protection and Innovation (DFPI).",
+    "content": "California regulates payday loans under the California Deferred Deposit Transaction Law (CDDTL), administered by the Department of Financial Protection and Innovation (DFPI). The state allows payday loans with significant consumer protections: loans are capped at $300 with a maximum fee of 15% (approximately $45). Rollovers are prohibited, meaning lenders cannot issue a new loan to pay off an existing one. California also prohibits lenders from making multiple loans to the same borrower simultaneously. All payday lenders operating in California must be licensed by the DFPI, and consumers can verify a lender's license status online or by calling 1-866-275-2677.",
+    "keyPoints": [
+      "California limits payday loans to a maximum of $300",
+      "The maximum fee is 15% of the check amount (up to $45)",
+      "Lenders cannot make a new loan to pay off an existing loan (rollovers prohibited)",
+      "You cannot have more than one payday loan at a time",
+      "If your check bounces, the lender can charge only one NSF fee of up to $15",
+      "Lenders cannot threaten criminal prosecution for non-payment",
+      "Your loan contract must be provided in your primary language",
+      "All lenders must be licensed - verify at dfpi.ca.gov"
+    ],
+    "protectionsList": [
+      "Maximum loan amount: $300",
+      "Maximum fee: 15% of check face value ($45 maximum)",
+      "Maximum term: 31 days",
+      "Rollovers: Prohibited",
+      "Multiple loans: Not allowed simultaneously",
+      "NSF fee: $15 maximum (one fee only)",
+      "Criminal prosecution: Cannot be threatened for non-payment"
+    ],
+    "regulatoryBody": "California Department of Financial Protection and Innovation (DFPI)",
+    "regulatoryUrl": "https://dfpi.ca.gov",
+    "verificationUrl": "https://dfpi.ca.gov/regulated-industries/regulated-entities-list/",
+    "contactPhone": "1-866-275-2677",
+    "disclaimer": "IMPORTANT NOTICE: This information is provided for general educational purposes only and does not constitute legal or financial advice. Payday loans are high-cost, short-term loans with APRs that can exceed 400%. Before taking out a payday loan, consider alternatives such as personal loans, credit union loans, payment plans with creditors, or assistance from non-profit credit counseling agencies. Laws and regulations may change. For the most current information, contact the California Department of Financial Protection and Innovation at 1-866-275-2677 or visit dfpi.ca.gov. If you are experiencing financial difficulties, contact a HUD-approved housing counselor or the National Foundation for Credit Counseling at 1-800-388-2227.",
+    "aprDisclosure": "The typical Annual Percentage Rate (APR) for a payday loan in California is approximately 426-460% for a two-week loan. By comparison, credit cards typically have APRs between 15-30% and personal loans between 6-36%. The high APR reflects the short-term nature of payday loans and the fees charged."
+  },
+
+  "testimonials": {
+    "headline": "What Our San Jose Customers Say",
+    "locationId": "san-jose-ca",
+    "reviewSource": "Google Business Profile",
+    "showWidget": true,
+    "reviews": [
+      {
+        "name": "Kevin T.",
+        "rating": 5,
+        "text": "Working in tech, you'd think money wouldn't be an issue, but unexpected expenses happen. The San Jose team was professional and got me the help I needed fast. No judgment, just solutions.",
+        "location": "San Jose, CA",
+        "date": "2024-11-10"
+      },
+      {
+        "name": "Patricia M.",
+        "rating": 5,
+        "text": "The downtown San Jose location is easy to find and the staff is wonderful. They explained everything clearly and I was out the door with cash in under 30 minutes.",
+        "location": "San Jose, CA",
+        "date": "2024-10-05"
+      },
+      {
+        "name": "Jose R.",
+        "rating": 4,
+        "text": "Needed a short-term loan to cover a repair bill. Ace made the process simple and the terms were fair. Would use them again if needed.",
+        "location": "San Jose, CA",
+        "date": "2024-09-22"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby Cities",
+    "intro": "Cannot make it to our San Jose location? We also serve:",
+    "cities": [
+      {
+        "name": "Fremont",
+        "slug": "fremont",
+        "url": "/locations/california/fremont",
+        "distanceMiles": 15
+      },
+      {
+        "name": "Oakland",
+        "slug": "oakland",
+        "url": "/locations/california/oakland",
+        "distanceMiles": 36
+      },
+      {
+        "name": "San Francisco",
+        "slug": "san-francisco",
+        "url": "/locations/california/san-francisco",
+        "distanceMiles": 42
+      },
+      {
+        "name": "Stockton",
+        "slug": "stockton",
+        "url": "/locations/california/stockton",
+        "distanceMiles": 52
+      }
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your San Jose payday loan location?",
+      "answer": "Our San Jose branch is located at 150 South First Street, Suite 300, in Downtown San Jose near SoFA District. We are easily accessible from US-101 via Exit 384 (Downtown) and I-280 via Exit 12 (Winchester). Just minutes from the Winchester Mystery House and Tech Interactive Museum."
+    },
+    {
+      "question": "What are your hours in San Jose?",
+      "answer": "We are open Monday through Friday from 9 AM to 7 PM, and Saturday from 10 AM to 4 PM. We are closed on Sundays. You can also apply online 24/7."
+    },
+    {
+      "question": "How much can I borrow at your San Jose location?",
+      "answer": "Under California law, payday loans are capped at $300. After the maximum 15% fee ($45), you would receive approximately $255. We also offer installment loans and title loans for larger amounts."
+    },
+    {
+      "question": "Do I need an appointment at the San Jose branch?",
+      "answer": "No appointment is needed! Walk-ins are welcome during business hours. However, you can save time by starting your application online before visiting our San Jose location."
+    },
+    {
+      "question": "What do I need to bring to your San Jose location?",
+      "answer": "Please bring a valid government-issued photo ID, proof of income (pay stub or bank statement), an active checking account, and a working phone number. Our friendly staff will guide you through the rest of the process."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Ready to Get Cash in San Jose?",
+    "subheadline": "Visit our Downtown San Jose location or apply online now",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=san-jose-ca"
+    },
+    "secondaryCta": {
+      "text": "Call (408) 555-0319",
+      "url": "tel:+14085550319"
+    },
+    "address": "150 South First Street, Suite 300, San Jose, CA 95113"
+  },
+
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FinancialService",
+    "name": "Ace Payday Loans - San Jose",
+    "description": "Fast payday loans and cash advances in San Jose, CA. Licensed California lender offering short-term loans up to $300 with same-day funding available.",
+    "url": "https://www.acepaydayloans.com/locations/california/san-jose",
+    "telephone": "+14085550319",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "150 South First Street, Suite 300",
+      "addressLocality": "San Jose",
+      "addressRegion": "CA",
+      "postalCode": "95113",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 37.3382,
+      "longitude": -121.8863
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "09:00",
+        "closes": "19:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Saturday",
+        "opens": "10:00",
+        "closes": "16:00"
+      }
+    ],
+    "priceRange": "$",
+    "currenciesAccepted": "USD",
+    "paymentAccepted": "Cash, Debit Card, Check",
+    "areaServed": {
+      "@type": "City",
+      "name": "San Jose",
+      "containedInPlace": {
+        "@type": "State",
+        "name": "California"
+      }
+    },
+    "serviceType": ["Payday Loans", "Cash Advances", "Check Cashing", "Installment Loans", "Title Loans"],
+    "hasCredential": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "license",
+      "name": "California DFPI CDDTL License"
+    }
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "California", "url": "/locations/california"},
+    {"label": "San Jose", "url": "/locations/california/san-jose"}
+  ],
+
+  "images": {
+    "hero": {
+      "url": "/images/locations/san-jose-branch.jpg",
+      "alt": "Ace Payday Loans San Jose branch in Downtown",
+      "caption": "Our San Jose location on South First Street"
+    },
+    "storefront": {
+      "url": "/images/locations/san-jose-storefront.jpg",
+      "alt": "Ace Payday Loans storefront in San Jose",
+      "caption": "Visit our San Jose branch for fast cash"
+    }
+  },
+
+  "metadata": {
+    "generatedAt": "2025-01-29T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "batch": "california-batch-1"
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "id": "santa-clarita-ca",
+  "city": "Santa Clarita",
+  "slug": "santa-clarita",
+  "state": "California",
+  "stateCode": "CA",
+  "stateSlug": "california",
+  "countyName": "Los Angeles County",
+  "serviceNiche": "Payday Loans",
+
+  "seo": {
+    "title": "Payday Loans in Santa Clarita, CA | Fast Cash Near Six Flags Magic Mountain",
+    "metaDescription": "Need cash today in Santa Clarita? Visit Ace Payday Loans near Six Flags Magic Mountain. Get approved in 30 minutes. Take I-5 Exit 172. Call (661) 555-0189.",
+    "canonicalUrl": "/locations/california/santa-clarita",
+    "keywords": ["payday loans santa clarita", "santa clarita payday loans", "cash advance santa clarita ca", "payday loans near me santa clarita", "fast cash santa clarita", "valencia payday loans"]
+  },
+
+  "hero": {
+    "h1": "Fast Payday Loans in Santa Clarita, CA",
+    "subheadline": "Trusted lending near Six Flags Magic Mountain and Vasquez Rocks",
+    "ctaText": "Apply Now for Santa Clarita Cash",
+    "ctaUrl": "/apply?location=santa-clarita-ca",
+    "secondaryCta": {
+      "text": "Call (661) 555-0189",
+      "url": "tel:+16615550189"
+    }
+  },
+
+  "localProof": {
+    "headline": "Where to Find Us in Santa Clarita",
+    "directions": "We are conveniently located at 23920 Valencia Boulevard in Valencia, near Six Flags Magic Mountain and the iconic Vasquez Rocks Natural Area. If you are taking I-5, use Exit 172 for Valencia. From CA-14, take Exit 3 at Newhall Avenue. Our Valencia location serves all of Santa Clarita Valley.",
+    "landmarks": ["Six Flags Magic Mountain", "Vasquez Rocks", "William S. Hart Park"],
+    "highways": ["I-5", "CA-14", "CA-126"],
+    "exits": ["I-5 Exit 172 (Valencia)", "CA-14 Exit 3 (Newhall)"],
+    "neighborhoodName": "Valencia",
+    "neighboringTowns": ["Palmdale", "Lancaster", "Saugus", "Castaic", "Acton"],
+    "hours": {
+      "monday": "9:00 AM - 7:00 PM",
+      "tuesday": "9:00 AM - 7:00 PM",
+      "wednesday": "9:00 AM - 7:00 PM",
+      "thursday": "9:00 AM - 7:00 PM",
+      "friday": "9:00 AM - 7:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d52636.89!2d-118.5426!3d34.3917!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c281a7d66d5ad1%3A0x4e4c7e43d32c9c8e!2sSanta%20Clarita%2C%20CA!5e0!3m2!1sen!2sus!4v1"
+  },
+
+  "nap": {
+    "name": "Ace Payday Loans of Santa Clarita",
+    "street": "23920 Valencia Boulevard, Suite 150",
+    "city": "Santa Clarita",
+    "state": "CA",
+    "zip": "91355",
+    "phone": "(661) 555-0189",
+    "formattedPhone": "+16615550189",
+    "formattedAddress": "23920 Valencia Boulevard, Suite 150, Santa Clarita, CA 91355",
+    "coordinates": {
+      "latitude": 34.3917,
+      "longitude": -118.5426
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=34.3917,-118.5426"
+  },
+
+  "productLinks": {
+    "headline": "Our Santa Clarita Financial Services",
+    "intro": "We offer a full range of short-term lending and money services to help Santa Clarita Valley residents with their financial needs:",
+    "services": [
+      {
+        "name": "Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Short-term loans up to $300 to cover unexpected expenses until your next paycheck",
+        "anchorText": "Santa Clarita Payday Loans"
+      },
+      {
+        "name": "Cash Advances",
+        "slug": "cash-advances",
+        "url": "/services/cash-advances",
+        "description": "Quick cash advances for emergency situations with fast approval",
+        "anchorText": "Cash Advances in Santa Clarita"
+      },
+      {
+        "name": "Installment Loans",
+        "slug": "installment-loans",
+        "url": "/services/installment-loans",
+        "description": "Larger loans repaid over time through scheduled monthly payments",
+        "anchorText": "Santa Clarita Installment Loans"
+      },
+      {
+        "name": "Title Loans",
+        "slug": "title-loans",
+        "url": "/services/title-loans",
+        "description": "Use your vehicle title as collateral for larger loan amounts",
+        "anchorText": "Title Loans in Santa Clarita"
+      },
+      {
+        "name": "Check Cashing",
+        "slug": "check-cashing",
+        "url": "/services/check-cashing",
+        "description": "Cash your paycheck or government check instantly",
+        "anchorText": "Check Cashing Santa Clarita"
+      },
+      {
+        "name": "Online Payday Loans",
+        "slug": "online-payday-loans",
+        "url": "/services/online-payday-loans",
+        "description": "Apply from home and get funded fast",
+        "anchorText": "Online Payday Loans"
+      },
+      {
+        "name": "Same Day Loans",
+        "slug": "same-day-loans",
+        "url": "/services/same-day-loans",
+        "description": "Get approved and funded within the same business day",
+        "anchorText": "Same Day Loans Santa Clarita"
+      },
+      {
+        "name": "Bad Credit Loans",
+        "slug": "bad-credit-loans",
+        "url": "/services/bad-credit-loans",
+        "description": "Loan options for borrowers with less-than-perfect credit",
+        "anchorText": "Bad Credit Loans in Santa Clarita"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "California Payday Loan Regulations",
+    "intro": "Residents of Santa Clarita are protected by California's strict payday loan regulations enforced by the Department of Financial Protection and Innovation (DFPI).",
+    "content": "California regulates payday loans under the California Deferred Deposit Transaction Law (CDDTL), administered by the Department of Financial Protection and Innovation (DFPI). The state allows payday loans with significant consumer protections: loans are capped at $300 with a maximum fee of 15% (approximately $45). Rollovers are prohibited, meaning lenders cannot issue a new loan to pay off an existing one. California also prohibits lenders from making multiple loans to the same borrower simultaneously. All payday lenders operating in California must be licensed by the DFPI, and consumers can verify a lender's license status online or by calling 1-866-275-2677.",
+    "keyPoints": [
+      "California limits payday loans to a maximum of $300",
+      "The maximum fee is 15% of the check amount (up to $45)",
+      "Lenders cannot make a new loan to pay off an existing loan (rollovers prohibited)",
+      "You cannot have more than one payday loan at a time",
+      "If your check bounces, the lender can charge only one NSF fee of up to $15",
+      "Lenders cannot threaten criminal prosecution for non-payment",
+      "Your loan contract must be provided in your primary language",
+      "All lenders must be licensed - verify at dfpi.ca.gov"
+    ],
+    "regulatoryBody": "California Department of Financial Protection and Innovation (DFPI)",
+    "regulatoryUrl": "https://dfpi.ca.gov",
+    "disclaimer": "IMPORTANT NOTICE: This information is provided for general educational purposes only and does not constitute legal or financial advice. Payday loans are high-cost, short-term loans with APRs that can exceed 400%. Before taking out a payday loan, consider alternatives such as personal loans, credit union loans, payment plans with creditors, or assistance from non-profit credit counseling agencies. Laws and regulations may change. For the most current information, contact the California Department of Financial Protection and Innovation at 1-866-275-2677 or visit dfpi.ca.gov."
+  },
+
+  "localReviews": {
+    "headline": "What Our Santa Clarita Customers Say",
+    "locationId": "santa-clarita-ca",
+    "reviewSource": "Google Business Profile",
+    "showWidget": true,
+    "averageRating": 4.5,
+    "totalReviews": 68,
+    "reviews": [
+      {
+        "name": "Brian T.",
+        "rating": 5,
+        "text": "Great Valencia location! I work in the film industry up here and sometimes need bridge cash between gigs. Ace was fast, professional, and explained everything clearly.",
+        "date": "2024-11-21"
+      },
+      {
+        "name": "Michelle K.",
+        "rating": 5,
+        "text": "Super convenient off I-5. The Santa Clarita staff was friendly and got me approved quickly. They were honest about California's $300 limit and all the fees.",
+        "date": "2024-10-29"
+      },
+      {
+        "name": "Robert F.",
+        "rating": 4,
+        "text": "Good local option for SCV residents. Easy to find on Valencia Boulevard. Professional service and transparent about all costs.",
+        "date": "2024-10-02"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby Cities",
+    "intro": "Can't make it to our Santa Clarita location? We also serve:",
+    "cities": [
+      {"name": "Glendale", "slug": "glendale", "url": "/locations/california/glendale", "distanceMiles": 22},
+      {"name": "Los Angeles", "slug": "los-angeles", "url": "/locations/california/los-angeles", "distanceMiles": 32},
+      {"name": "Long Beach", "slug": "long-beach", "url": "/locations/california/long-beach", "distanceMiles": 55},
+      {"name": "Bakersfield", "slug": "bakersfield", "url": "/locations/california/bakersfield", "distanceMiles": 75}
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Santa Clarita payday loan location?",
+      "answer": "Our Santa Clarita branch is located at 23920 Valencia Boulevard, Suite 150 in Valencia, near Six Flags Magic Mountain. Take I-5 Exit 172 (Valencia) for the quickest route."
+    },
+    {
+      "question": "How much can I borrow at your Santa Clarita location?",
+      "answer": "Under California law, the maximum payday loan amount is $300, with a maximum fee of $45 (15%). You'll receive approximately $255 after the fee is deducted. We clearly explain all terms before you sign."
+    },
+    {
+      "question": "What do I need to bring to get a payday loan in Santa Clarita?",
+      "answer": "Bring a valid California ID, proof of income (pay stub or bank statement), an active checking account, and contact information. We'll verify your information and can have you approved in about 30 minutes."
+    },
+    {
+      "question": "Do you serve the entertainment industry workers in Santa Clarita?",
+      "answer": "Yes! Santa Clarita is a major filming location and we understand the freelance nature of entertainment work. We work with film crew, production staff, and other entertainment industry professionals who may have irregular pay schedules."
+    },
+    {
+      "question": "Is Ace Payday Loans licensed in California?",
+      "answer": "Yes, Ace Payday Loans is fully licensed by the California Department of Financial Protection and Innovation (DFPI) under the California Deferred Deposit Transaction Law. You can verify our license at dfpi.ca.gov."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Ready to Get Cash in Santa Clarita?",
+    "subheadline": "Visit our Valencia location or apply online now",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=santa-clarita-ca"
+    },
+    "secondaryCta": {
+      "text": "Call (661) 555-0189",
+      "url": "tel:+16615550189"
+    },
+    "address": "23920 Valencia Boulevard, Suite 150, Santa Clarita, CA 91355"
+  },
+
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FinancialService",
+    "name": "Ace Payday Loans of Santa Clarita",
+    "image": "https://acepaydayloans.com/images/santa-clarita-branch.jpg",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "23920 Valencia Boulevard, Suite 150",
+      "addressLocality": "Santa Clarita",
+      "addressRegion": "CA",
+      "postalCode": "91355",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 34.3917,
+      "longitude": -118.5426
+    },
+    "telephone": "+16615550189",
+    "url": "https://acepaydayloans.com/locations/california/santa-clarita",
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "09:00",
+        "closes": "19:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Saturday",
+        "opens": "10:00",
+        "closes": "16:00"
+      }
+    ],
+    "priceRange": "$$",
+    "currenciesAccepted": "USD",
+    "paymentAccepted": "Cash, Check, Debit Card",
+    "areaServed": {
+      "@type": "City",
+      "name": "Santa Clarita",
+      "containedInPlace": {
+        "@type": "State",
+        "name": "California"
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": "68"
+    }
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "California", "url": "/locations/california"},
+    {"label": "Santa Clarita", "url": "/locations/california/santa-clarita"}
+  ],
+
+  "images": {
+    "hero": {
+      "url": "/images/locations/santa-clarita-branch.jpg",
+      "alt": "Ace Payday Loans Santa Clarita branch on Valencia Boulevard",
+      "caption": "Our Santa Clarita location in Valencia"
+    }
+  },
+
+  "metadata": {
+    "generatedAt": "2025-01-29T14:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "batch": 3
+  }
+}

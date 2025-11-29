@@ -1,0 +1,1424 @@
+{
+  "mode": "state",
+  "serviceArea": {
+    "name": "California and Texas",
+    "type": "multi-state",
+    "states": ["CA", "TX"]
+  },
+  "totalLocations": 50,
+  "generatedAt": "2025-01-15T10:30:00Z",
+  "states": [
+    {
+      "name": "California",
+      "abbreviation": "CA",
+      "cities": [
+        {
+          "id": "los-angeles-ca",
+          "name": "Los Angeles",
+          "slug": "los-angeles",
+          "county": "Los Angeles County",
+          "areaCode": "213",
+          "population": 3900000,
+          "coordinates": {
+            "latitude": 34.0522,
+            "longitude": -118.2437
+          },
+          "localFacts": {
+            "landmarks": ["Hollywood Sign", "Griffith Observatory", "Santa Monica Pier"],
+            "highways": ["I-405", "I-10", "US-101"],
+            "exits": ["I-405 Exit 54A (Getty Center)", "I-10 Exit 17B (Downtown)"],
+            "neighboringTowns": ["Santa Monica", "Burbank", "Pasadena", "Long Beach", "Glendale"],
+            "description": "Los Angeles, the entertainment capital of the world, is home to Hollywood and world-famous beaches."
+          },
+          "neuralMesh": {
+            "ringPosition": 0,
+            "neighbors": [
+              { "id": "glendale-ca", "name": "Glendale", "slug": "glendale", "distanceMiles": 8 },
+              { "id": "long-beach-ca", "name": "Long Beach", "slug": "long-beach", "distanceMiles": 22 },
+              { "id": "anaheim-ca", "name": "Anaheim", "slug": "anaheim", "distanceMiles": 26 },
+              { "id": "santa-clarita-ca", "name": "Santa Clarita", "slug": "santa-clarita", "distanceMiles": 32 }
+            ]
+          }
+        },
+        {
+          "id": "san-diego-ca",
+          "name": "San Diego",
+          "slug": "san-diego",
+          "county": "San Diego County",
+          "areaCode": "619",
+          "population": 1425000,
+          "coordinates": {
+            "latitude": 32.7157,
+            "longitude": -117.1611
+          },
+          "localFacts": {
+            "landmarks": ["San Diego Zoo", "Balboa Park", "USS Midway Museum"],
+            "highways": ["I-5", "I-8", "I-15"],
+            "exits": ["I-5 Exit 17 (Downtown)", "I-8 Exit 2 (Mission Bay)"],
+            "neighboringTowns": ["Chula Vista", "Oceanside", "Escondido", "El Cajon", "Carlsbad"],
+            "description": "San Diego is known for its mild year-round climate, beautiful beaches, and proximity to the Mexican border."
+          },
+          "neuralMesh": {
+            "ringPosition": 1,
+            "neighbors": [
+              { "id": "chula-vista-ca", "name": "Chula Vista", "slug": "chula-vista", "distanceMiles": 8 },
+              { "id": "irvine-ca", "name": "Irvine", "slug": "irvine", "distanceMiles": 76 },
+              { "id": "anaheim-ca", "name": "Anaheim", "slug": "anaheim", "distanceMiles": 85 },
+              { "id": "riverside-ca", "name": "Riverside", "slug": "riverside", "distanceMiles": 89 }
+            ]
+          }
+        },
+        {
+          "id": "san-jose-ca",
+          "name": "San Jose",
+          "slug": "san-jose",
+          "county": "Santa Clara County",
+          "areaCode": "408",
+          "population": 1013000,
+          "coordinates": {
+            "latitude": 37.3382,
+            "longitude": -121.8863
+          },
+          "localFacts": {
+            "landmarks": ["Winchester Mystery House", "Tech Interactive Museum", "San Jose Municipal Rose Garden"],
+            "highways": ["US-101", "I-280", "I-680"],
+            "exits": ["US-101 Exit 384 (Downtown)", "I-280 Exit 12 (Winchester)"],
+            "neighboringTowns": ["Sunnyvale", "Santa Clara", "Milpitas", "Campbell", "Cupertino"],
+            "description": "San Jose is the capital of Silicon Valley and home to major technology companies."
+          },
+          "neuralMesh": {
+            "ringPosition": 2,
+            "neighbors": [
+              { "id": "fremont-ca", "name": "Fremont", "slug": "fremont", "distanceMiles": 15 },
+              { "id": "oakland-ca", "name": "Oakland", "slug": "oakland", "distanceMiles": 36 },
+              { "id": "san-francisco-ca", "name": "San Francisco", "slug": "san-francisco", "distanceMiles": 42 },
+              { "id": "stockton-ca", "name": "Stockton", "slug": "stockton", "distanceMiles": 52 }
+            ]
+          }
+        },
+        {
+          "id": "san-francisco-ca",
+          "name": "San Francisco",
+          "slug": "san-francisco",
+          "county": "San Francisco County",
+          "areaCode": "415",
+          "population": 874000,
+          "coordinates": {
+            "latitude": 37.7749,
+            "longitude": -122.4194
+          },
+          "localFacts": {
+            "landmarks": ["Golden Gate Bridge", "Alcatraz Island", "Fisherman's Wharf"],
+            "highways": ["US-101", "I-80", "I-280"],
+            "exits": ["US-101 Exit 431 (Civic Center)", "I-80 Exit 2 (Bay Bridge)"],
+            "neighboringTowns": ["Oakland", "Daly City", "Berkeley", "South San Francisco", "Sausalito"],
+            "description": "San Francisco is known for its iconic Golden Gate Bridge, cable cars, and vibrant culture."
+          },
+          "neuralMesh": {
+            "ringPosition": 3,
+            "neighbors": [
+              { "id": "oakland-ca", "name": "Oakland", "slug": "oakland", "distanceMiles": 10 },
+              { "id": "fremont-ca", "name": "Fremont", "slug": "fremont", "distanceMiles": 36 },
+              { "id": "san-jose-ca", "name": "San Jose", "slug": "san-jose", "distanceMiles": 42 },
+              { "id": "stockton-ca", "name": "Stockton", "slug": "stockton", "distanceMiles": 68 }
+            ]
+          }
+        },
+        {
+          "id": "fresno-ca",
+          "name": "Fresno",
+          "slug": "fresno",
+          "county": "Fresno County",
+          "areaCode": "559",
+          "population": 545000,
+          "coordinates": {
+            "latitude": 36.7378,
+            "longitude": -119.7871
+          },
+          "localFacts": {
+            "landmarks": ["Fresno Chaffee Zoo", "Forestiere Underground Gardens", "Woodward Park"],
+            "highways": ["CA-99", "CA-41", "CA-180"],
+            "exits": ["CA-99 Exit 130 (Downtown)", "CA-41 Exit 129 (Yosemite)"],
+            "neighboringTowns": ["Clovis", "Madera", "Sanger", "Selma", "Reedley"],
+            "description": "Fresno is the agricultural hub of California's Central Valley, gateway to Yosemite and Sequoia National Parks."
+          },
+          "neuralMesh": {
+            "ringPosition": 4,
+            "neighbors": [
+              { "id": "modesto-ca", "name": "Modesto", "slug": "modesto", "distanceMiles": 78 },
+              { "id": "bakersfield-ca", "name": "Bakersfield", "slug": "bakersfield", "distanceMiles": 108 },
+              { "id": "stockton-ca", "name": "Stockton", "slug": "stockton", "distanceMiles": 117 },
+              { "id": "san-jose-ca", "name": "San Jose", "slug": "san-jose", "distanceMiles": 145 }
+            ]
+          }
+        },
+        {
+          "id": "sacramento-ca",
+          "name": "Sacramento",
+          "slug": "sacramento",
+          "county": "Sacramento County",
+          "areaCode": "916",
+          "population": 525000,
+          "coordinates": {
+            "latitude": 38.5816,
+            "longitude": -121.4944
+          },
+          "localFacts": {
+            "landmarks": ["California State Capitol", "Old Sacramento", "Crocker Art Museum"],
+            "highways": ["I-5", "US-50", "I-80"],
+            "exits": ["I-5 Exit 519 (Downtown)", "US-50 Exit 4 (Midtown)"],
+            "neighboringTowns": ["Elk Grove", "Roseville", "Folsom", "Rancho Cordova", "West Sacramento"],
+            "description": "Sacramento is California's capital city, known for its historic Old Town and farm-to-fork dining."
+          },
+          "neuralMesh": {
+            "ringPosition": 5,
+            "neighbors": [
+              { "id": "stockton-ca", "name": "Stockton", "slug": "stockton", "distanceMiles": 45 },
+              { "id": "oakland-ca", "name": "Oakland", "slug": "oakland", "distanceMiles": 75 },
+              { "id": "san-francisco-ca", "name": "San Francisco", "slug": "san-francisco", "distanceMiles": 85 },
+              { "id": "modesto-ca", "name": "Modesto", "slug": "modesto", "distanceMiles": 76 }
+            ]
+          }
+        },
+        {
+          "id": "long-beach-ca",
+          "name": "Long Beach",
+          "slug": "long-beach",
+          "county": "Los Angeles County",
+          "areaCode": "562",
+          "population": 466000,
+          "coordinates": {
+            "latitude": 33.7701,
+            "longitude": -118.1937
+          },
+          "localFacts": {
+            "landmarks": ["Queen Mary Ship", "Aquarium of the Pacific", "Long Beach Convention Center"],
+            "highways": ["I-405", "I-710", "CA-1"],
+            "exits": ["I-405 Exit 32 (Downtown)", "I-710 Exit 1 (Port of Long Beach)"],
+            "neighboringTowns": ["Lakewood", "Signal Hill", "Carson", "Seal Beach", "Compton"],
+            "description": "Long Beach is a major port city known for the historic Queen Mary and vibrant waterfront."
+          },
+          "neuralMesh": {
+            "ringPosition": 6,
+            "neighbors": [
+              { "id": "los-angeles-ca", "name": "Los Angeles", "slug": "los-angeles", "distanceMiles": 22 },
+              { "id": "anaheim-ca", "name": "Anaheim", "slug": "anaheim", "distanceMiles": 12 },
+              { "id": "huntington-beach-ca", "name": "Huntington Beach", "slug": "huntington-beach", "distanceMiles": 10 },
+              { "id": "santa-ana-ca", "name": "Santa Ana", "slug": "santa-ana", "distanceMiles": 14 }
+            ]
+          }
+        },
+        {
+          "id": "oakland-ca",
+          "name": "Oakland",
+          "slug": "oakland",
+          "county": "Alameda County",
+          "areaCode": "510",
+          "population": 433000,
+          "coordinates": {
+            "latitude": 37.8044,
+            "longitude": -122.2712
+          },
+          "localFacts": {
+            "landmarks": ["Jack London Square", "Oakland Museum of California", "Lake Merritt"],
+            "highways": ["I-880", "I-580", "I-980"],
+            "exits": ["I-880 Exit 42 (Downtown)", "I-580 Exit 19B (Lake Merritt)"],
+            "neighboringTowns": ["Berkeley", "Alameda", "Emeryville", "San Leandro", "Piedmont"],
+            "description": "Oakland is a diverse city across the Bay from San Francisco, known for arts and culture."
+          },
+          "neuralMesh": {
+            "ringPosition": 7,
+            "neighbors": [
+              { "id": "san-francisco-ca", "name": "San Francisco", "slug": "san-francisco", "distanceMiles": 10 },
+              { "id": "fremont-ca", "name": "Fremont", "slug": "fremont", "distanceMiles": 22 },
+              { "id": "san-jose-ca", "name": "San Jose", "slug": "san-jose", "distanceMiles": 36 },
+              { "id": "stockton-ca", "name": "Stockton", "slug": "stockton", "distanceMiles": 60 }
+            ]
+          }
+        },
+        {
+          "id": "bakersfield-ca",
+          "name": "Bakersfield",
+          "slug": "bakersfield",
+          "county": "Kern County",
+          "areaCode": "661",
+          "population": 403000,
+          "coordinates": {
+            "latitude": 35.3733,
+            "longitude": -119.0187
+          },
+          "localFacts": {
+            "landmarks": ["Buck Owens Crystal Palace", "Kern County Museum", "The Fox Theater"],
+            "highways": ["CA-99", "CA-58", "CA-178"],
+            "exits": ["CA-99 Exit 24 (Downtown)", "CA-58 Exit 110 (Tehachapi)"],
+            "neighboringTowns": ["Delano", "Wasco", "Shafter", "Arvin", "Tehachapi"],
+            "description": "Bakersfield is an oil and agriculture center in California's southern Central Valley."
+          },
+          "neuralMesh": {
+            "ringPosition": 8,
+            "neighbors": [
+              { "id": "fresno-ca", "name": "Fresno", "slug": "fresno", "distanceMiles": 108 },
+              { "id": "santa-clarita-ca", "name": "Santa Clarita", "slug": "santa-clarita", "distanceMiles": 75 },
+              { "id": "los-angeles-ca", "name": "Los Angeles", "slug": "los-angeles", "distanceMiles": 112 },
+              { "id": "riverside-ca", "name": "Riverside", "slug": "riverside", "distanceMiles": 145 }
+            ]
+          }
+        },
+        {
+          "id": "anaheim-ca",
+          "name": "Anaheim",
+          "slug": "anaheim",
+          "county": "Orange County",
+          "areaCode": "714",
+          "population": 350000,
+          "coordinates": {
+            "latitude": 33.8366,
+            "longitude": -117.9143
+          },
+          "localFacts": {
+            "landmarks": ["Disneyland Resort", "Angel Stadium", "Honda Center"],
+            "highways": ["I-5", "CA-91", "CA-57"],
+            "exits": ["I-5 Exit 110 (Disneyland)", "CA-91 Exit 45 (Angel Stadium)"],
+            "neighboringTowns": ["Fullerton", "Garden Grove", "Orange", "Buena Park", "Placentia"],
+            "description": "Anaheim is home to the world-famous Disneyland Resort and major sports venues."
+          },
+          "neuralMesh": {
+            "ringPosition": 9,
+            "neighbors": [
+              { "id": "santa-ana-ca", "name": "Santa Ana", "slug": "santa-ana", "distanceMiles": 7 },
+              { "id": "long-beach-ca", "name": "Long Beach", "slug": "long-beach", "distanceMiles": 12 },
+              { "id": "irvine-ca", "name": "Irvine", "slug": "irvine", "distanceMiles": 12 },
+              { "id": "huntington-beach-ca", "name": "Huntington Beach", "slug": "huntington-beach", "distanceMiles": 14 }
+            ]
+          }
+        },
+        {
+          "id": "santa-ana-ca",
+          "name": "Santa Ana",
+          "slug": "santa-ana",
+          "county": "Orange County",
+          "areaCode": "714",
+          "population": 310000,
+          "coordinates": {
+            "latitude": 33.7455,
+            "longitude": -117.8677
+          },
+          "localFacts": {
+            "landmarks": ["Bowers Museum", "Discovery Cube Orange County", "Santa Ana Zoo"],
+            "highways": ["I-5", "CA-55", "CA-22"],
+            "exits": ["I-5 Exit 107 (Downtown)", "CA-55 Exit 8 (Main Street)"],
+            "neighboringTowns": ["Irvine", "Garden Grove", "Costa Mesa", "Tustin", "Orange"],
+            "description": "Santa Ana is the county seat of Orange County and a cultural center with rich Hispanic heritage."
+          },
+          "neuralMesh": {
+            "ringPosition": 10,
+            "neighbors": [
+              { "id": "anaheim-ca", "name": "Anaheim", "slug": "anaheim", "distanceMiles": 7 },
+              { "id": "irvine-ca", "name": "Irvine", "slug": "irvine", "distanceMiles": 7 },
+              { "id": "long-beach-ca", "name": "Long Beach", "slug": "long-beach", "distanceMiles": 14 },
+              { "id": "huntington-beach-ca", "name": "Huntington Beach", "slug": "huntington-beach", "distanceMiles": 11 }
+            ]
+          }
+        },
+        {
+          "id": "riverside-ca",
+          "name": "Riverside",
+          "slug": "riverside",
+          "county": "Riverside County",
+          "areaCode": "951",
+          "population": 314000,
+          "coordinates": {
+            "latitude": 33.9533,
+            "longitude": -117.3962
+          },
+          "localFacts": {
+            "landmarks": ["Mission Inn Hotel", "California Citrus State Historic Park", "Fox Performing Arts Center"],
+            "highways": ["CA-91", "I-215", "CA-60"],
+            "exits": ["CA-91 Exit 61 (Downtown)", "I-215 Exit 41 (University)"],
+            "neighboringTowns": ["Moreno Valley", "Corona", "San Bernardino", "Norco", "Jurupa Valley"],
+            "description": "Riverside is the birthplace of California's citrus industry and home to the historic Mission Inn."
+          },
+          "neuralMesh": {
+            "ringPosition": 11,
+            "neighbors": [
+              { "id": "moreno-valley-ca", "name": "Moreno Valley", "slug": "moreno-valley", "distanceMiles": 11 },
+              { "id": "san-bernardino-ca", "name": "San Bernardino", "slug": "san-bernardino", "distanceMiles": 16 },
+              { "id": "fontana-ca", "name": "Fontana", "slug": "fontana", "distanceMiles": 12 },
+              { "id": "ontario-ca", "name": "Ontario", "slug": "ontario", "distanceMiles": 19 }
+            ]
+          }
+        },
+        {
+          "id": "stockton-ca",
+          "name": "Stockton",
+          "slug": "stockton",
+          "county": "San Joaquin County",
+          "areaCode": "209",
+          "population": 320000,
+          "coordinates": {
+            "latitude": 37.9577,
+            "longitude": -121.2908
+          },
+          "localFacts": {
+            "landmarks": ["Haggin Museum", "Banner Island Ballpark", "Weber Point Events Center"],
+            "highways": ["I-5", "CA-99", "CA-4"],
+            "exits": ["I-5 Exit 473 (Downtown)", "CA-99 Exit 265 (Waterfront)"],
+            "neighboringTowns": ["Lodi", "Manteca", "Tracy", "Lathrop", "Escalon"],
+            "description": "Stockton is a major inland port city in California's Central Valley with a rich history."
+          },
+          "neuralMesh": {
+            "ringPosition": 12,
+            "neighbors": [
+              { "id": "modesto-ca", "name": "Modesto", "slug": "modesto", "distanceMiles": 30 },
+              { "id": "sacramento-ca", "name": "Sacramento", "slug": "sacramento", "distanceMiles": 45 },
+              { "id": "fremont-ca", "name": "Fremont", "slug": "fremont", "distanceMiles": 52 },
+              { "id": "oakland-ca", "name": "Oakland", "slug": "oakland", "distanceMiles": 60 }
+            ]
+          }
+        },
+        {
+          "id": "irvine-ca",
+          "name": "Irvine",
+          "slug": "irvine",
+          "county": "Orange County",
+          "areaCode": "949",
+          "population": 307000,
+          "coordinates": {
+            "latitude": 33.6846,
+            "longitude": -117.8265
+          },
+          "localFacts": {
+            "landmarks": ["Irvine Spectrum Center", "Great Park Balloon", "William R. Mason Regional Park"],
+            "highways": ["I-405", "I-5", "CA-133"],
+            "exits": ["I-405 Exit 5 (Irvine Center)", "I-5 Exit 94 (Jamboree)"],
+            "neighboringTowns": ["Tustin", "Newport Beach", "Lake Forest", "Costa Mesa", "Santa Ana"],
+            "description": "Irvine is a master-planned city known for its safety, excellent schools, and tech companies."
+          },
+          "neuralMesh": {
+            "ringPosition": 13,
+            "neighbors": [
+              { "id": "santa-ana-ca", "name": "Santa Ana", "slug": "santa-ana", "distanceMiles": 7 },
+              { "id": "anaheim-ca", "name": "Anaheim", "slug": "anaheim", "distanceMiles": 12 },
+              { "id": "huntington-beach-ca", "name": "Huntington Beach", "slug": "huntington-beach", "distanceMiles": 11 },
+              { "id": "chula-vista-ca", "name": "Chula Vista", "slug": "chula-vista", "distanceMiles": 70 }
+            ]
+          }
+        },
+        {
+          "id": "chula-vista-ca",
+          "name": "Chula Vista",
+          "slug": "chula-vista",
+          "county": "San Diego County",
+          "areaCode": "619",
+          "population": 275000,
+          "coordinates": {
+            "latitude": 32.6401,
+            "longitude": -117.0842
+          },
+          "localFacts": {
+            "landmarks": ["Aquatica San Diego", "Living Coast Discovery Center", "Bayfront Park"],
+            "highways": ["I-5", "I-805", "CA-54"],
+            "exits": ["I-5 Exit 9 (H Street)", "I-805 Exit 6 (Palomar)"],
+            "neighboringTowns": ["National City", "Imperial Beach", "Bonita", "Eastlake", "Otay Ranch"],
+            "description": "Chula Vista is San Diego's second-largest city, located near the Mexican border."
+          },
+          "neuralMesh": {
+            "ringPosition": 14,
+            "neighbors": [
+              { "id": "san-diego-ca", "name": "San Diego", "slug": "san-diego", "distanceMiles": 8 },
+              { "id": "irvine-ca", "name": "Irvine", "slug": "irvine", "distanceMiles": 70 },
+              { "id": "riverside-ca", "name": "Riverside", "slug": "riverside", "distanceMiles": 95 },
+              { "id": "anaheim-ca", "name": "Anaheim", "slug": "anaheim", "distanceMiles": 90 }
+            ]
+          }
+        },
+        {
+          "id": "fremont-ca",
+          "name": "Fremont",
+          "slug": "fremont",
+          "county": "Alameda County",
+          "areaCode": "510",
+          "population": 230000,
+          "coordinates": {
+            "latitude": 37.5485,
+            "longitude": -121.9886
+          },
+          "localFacts": {
+            "landmarks": ["Mission San Jose", "Niles Essanay Silent Film Museum", "Central Park"],
+            "highways": ["I-880", "I-680", "CA-84"],
+            "exits": ["I-880 Exit 17 (Fremont Blvd)", "I-680 Exit 16 (Mission Blvd)"],
+            "neighboringTowns": ["Newark", "Union City", "Milpitas", "Hayward", "Sunol"],
+            "description": "Fremont is a tech hub in the East Bay, home to Tesla's factory and diverse communities."
+          },
+          "neuralMesh": {
+            "ringPosition": 15,
+            "neighbors": [
+              { "id": "san-jose-ca", "name": "San Jose", "slug": "san-jose", "distanceMiles": 15 },
+              { "id": "oakland-ca", "name": "Oakland", "slug": "oakland", "distanceMiles": 22 },
+              { "id": "san-francisco-ca", "name": "San Francisco", "slug": "san-francisco", "distanceMiles": 36 },
+              { "id": "stockton-ca", "name": "Stockton", "slug": "stockton", "distanceMiles": 52 }
+            ]
+          }
+        },
+        {
+          "id": "san-bernardino-ca",
+          "name": "San Bernardino",
+          "slug": "san-bernardino",
+          "county": "San Bernardino County",
+          "areaCode": "909",
+          "population": 222000,
+          "coordinates": {
+            "latitude": 34.1083,
+            "longitude": -117.2898
+          },
+          "localFacts": {
+            "landmarks": ["Original McDonald's Site and Museum", "San Bernardino National Forest", "California Theatre"],
+            "highways": ["I-10", "I-215", "I-15"],
+            "exits": ["I-10 Exit 75 (Downtown)", "I-215 Exit 45 (Baseline)"],
+            "neighboringTowns": ["Rialto", "Highland", "Colton", "Fontana", "Redlands"],
+            "description": "San Bernardino is the county seat and gateway to the San Bernardino Mountains."
+          },
+          "neuralMesh": {
+            "ringPosition": 16,
+            "neighbors": [
+              { "id": "fontana-ca", "name": "Fontana", "slug": "fontana", "distanceMiles": 10 },
+              { "id": "riverside-ca", "name": "Riverside", "slug": "riverside", "distanceMiles": 16 },
+              { "id": "moreno-valley-ca", "name": "Moreno Valley", "slug": "moreno-valley", "distanceMiles": 17 },
+              { "id": "rancho-cucamonga-ca", "name": "Rancho Cucamonga", "slug": "rancho-cucamonga", "distanceMiles": 18 }
+            ]
+          }
+        },
+        {
+          "id": "modesto-ca",
+          "name": "Modesto",
+          "slug": "modesto",
+          "county": "Stanislaus County",
+          "areaCode": "209",
+          "population": 218000,
+          "coordinates": {
+            "latitude": 37.6391,
+            "longitude": -120.9969
+          },
+          "localFacts": {
+            "landmarks": ["Modesto Arch", "McHenry Mansion", "Gallo Center for the Arts"],
+            "highways": ["CA-99", "CA-132", "CA-108"],
+            "exits": ["CA-99 Exit 221 (Downtown)", "CA-99 Exit 219 (Briggsmore)"],
+            "neighboringTowns": ["Turlock", "Ceres", "Salida", "Riverbank", "Oakdale"],
+            "description": "Modesto is an agricultural center known for its famous arch with the motto 'Water, Wealth, Contentment, Health.'"
+          },
+          "neuralMesh": {
+            "ringPosition": 17,
+            "neighbors": [
+              { "id": "stockton-ca", "name": "Stockton", "slug": "stockton", "distanceMiles": 30 },
+              { "id": "fresno-ca", "name": "Fresno", "slug": "fresno", "distanceMiles": 78 },
+              { "id": "fremont-ca", "name": "Fremont", "slug": "fremont", "distanceMiles": 68 },
+              { "id": "sacramento-ca", "name": "Sacramento", "slug": "sacramento", "distanceMiles": 76 }
+            ]
+          }
+        },
+        {
+          "id": "fontana-ca",
+          "name": "Fontana",
+          "slug": "fontana",
+          "county": "San Bernardino County",
+          "areaCode": "909",
+          "population": 214000,
+          "coordinates": {
+            "latitude": 34.0922,
+            "longitude": -117.4350
+          },
+          "localFacts": {
+            "landmarks": ["Auto Club Speedway", "Mary Vagle Nature Center", "Fontana Park"],
+            "highways": ["I-10", "I-15", "CA-210"],
+            "exits": ["I-10 Exit 62 (Sierra)", "I-15 Exit 109 (Baseline)"],
+            "neighboringTowns": ["Rancho Cucamonga", "Rialto", "San Bernardino", "Ontario", "Upland"],
+            "description": "Fontana is home to the Auto Club Speedway and has grown from a steel town to a thriving city."
+          },
+          "neuralMesh": {
+            "ringPosition": 18,
+            "neighbors": [
+              { "id": "rancho-cucamonga-ca", "name": "Rancho Cucamonga", "slug": "rancho-cucamonga", "distanceMiles": 8 },
+              { "id": "ontario-ca", "name": "Ontario", "slug": "ontario", "distanceMiles": 10 },
+              { "id": "san-bernardino-ca", "name": "San Bernardino", "slug": "san-bernardino", "distanceMiles": 10 },
+              { "id": "riverside-ca", "name": "Riverside", "slug": "riverside", "distanceMiles": 12 }
+            ]
+          }
+        },
+        {
+          "id": "moreno-valley-ca",
+          "name": "Moreno Valley",
+          "slug": "moreno-valley",
+          "county": "Riverside County",
+          "areaCode": "951",
+          "population": 212000,
+          "coordinates": {
+            "latitude": 33.9425,
+            "longitude": -117.2297
+          },
+          "localFacts": {
+            "landmarks": ["March Field Air Museum", "Lake Perris State Recreation Area", "Moreno Valley Mall"],
+            "highways": ["I-215", "CA-60", "CA-91"],
+            "exits": ["I-215 Exit 35 (Alessandro)", "CA-60 Exit 64 (Moreno Beach)"],
+            "neighboringTowns": ["Riverside", "Perris", "Beaumont", "Corona", "San Jacinto"],
+            "description": "Moreno Valley is one of the fastest-growing cities in the Inland Empire with military history."
+          },
+          "neuralMesh": {
+            "ringPosition": 19,
+            "neighbors": [
+              { "id": "riverside-ca", "name": "Riverside", "slug": "riverside", "distanceMiles": 11 },
+              { "id": "san-bernardino-ca", "name": "San Bernardino", "slug": "san-bernardino", "distanceMiles": 17 },
+              { "id": "fontana-ca", "name": "Fontana", "slug": "fontana", "distanceMiles": 18 },
+              { "id": "rancho-cucamonga-ca", "name": "Rancho Cucamonga", "slug": "rancho-cucamonga", "distanceMiles": 26 }
+            ]
+          }
+        },
+        {
+          "id": "glendale-ca",
+          "name": "Glendale",
+          "slug": "glendale",
+          "county": "Los Angeles County",
+          "areaCode": "818",
+          "population": 196000,
+          "coordinates": {
+            "latitude": 34.1425,
+            "longitude": -118.2551
+          },
+          "localFacts": {
+            "landmarks": ["The Americana at Brand", "Forest Lawn Memorial Park", "Museum of Neon Art"],
+            "highways": ["CA-134", "CA-2", "I-5"],
+            "exits": ["CA-134 Exit 5 (Brand Blvd)", "I-5 Exit 143 (Western)"],
+            "neighboringTowns": ["Burbank", "Pasadena", "Los Angeles", "La Canada Flintridge", "Eagle Rock"],
+            "description": "Glendale is a diverse city known for its Armenian community and upscale shopping."
+          },
+          "neuralMesh": {
+            "ringPosition": 20,
+            "neighbors": [
+              { "id": "los-angeles-ca", "name": "Los Angeles", "slug": "los-angeles", "distanceMiles": 8 },
+              { "id": "santa-clarita-ca", "name": "Santa Clarita", "slug": "santa-clarita", "distanceMiles": 22 },
+              { "id": "long-beach-ca", "name": "Long Beach", "slug": "long-beach", "distanceMiles": 28 },
+              { "id": "anaheim-ca", "name": "Anaheim", "slug": "anaheim", "distanceMiles": 32 }
+            ]
+          }
+        },
+        {
+          "id": "huntington-beach-ca",
+          "name": "Huntington Beach",
+          "slug": "huntington-beach",
+          "county": "Orange County",
+          "areaCode": "714",
+          "population": 198000,
+          "coordinates": {
+            "latitude": 33.6595,
+            "longitude": -117.9988
+          },
+          "localFacts": {
+            "landmarks": ["Huntington Beach Pier", "Bolsa Chica Ecological Reserve", "International Surfing Museum"],
+            "highways": ["I-405", "CA-1", "CA-39"],
+            "exits": ["I-405 Exit 16 (Beach Blvd)", "CA-1 Exit (Pacific Coast Highway)"],
+            "neighboringTowns": ["Costa Mesa", "Fountain Valley", "Westminster", "Seal Beach", "Newport Beach"],
+            "description": "Huntington Beach is known as 'Surf City USA' for its world-class surfing and beaches."
+          },
+          "neuralMesh": {
+            "ringPosition": 21,
+            "neighbors": [
+              { "id": "long-beach-ca", "name": "Long Beach", "slug": "long-beach", "distanceMiles": 10 },
+              { "id": "irvine-ca", "name": "Irvine", "slug": "irvine", "distanceMiles": 11 },
+              { "id": "santa-ana-ca", "name": "Santa Ana", "slug": "santa-ana", "distanceMiles": 11 },
+              { "id": "anaheim-ca", "name": "Anaheim", "slug": "anaheim", "distanceMiles": 14 }
+            ]
+          }
+        },
+        {
+          "id": "santa-clarita-ca",
+          "name": "Santa Clarita",
+          "slug": "santa-clarita",
+          "county": "Los Angeles County",
+          "areaCode": "661",
+          "population": 228000,
+          "coordinates": {
+            "latitude": 34.3917,
+            "longitude": -118.5426
+          },
+          "localFacts": {
+            "landmarks": ["Six Flags Magic Mountain", "Vasquez Rocks", "William S. Hart Park"],
+            "highways": ["I-5", "CA-14", "CA-126"],
+            "exits": ["I-5 Exit 172 (Valencia)", "CA-14 Exit 3 (Newhall)"],
+            "neighboringTowns": ["Palmdale", "Lancaster", "Saugus", "Castaic", "Acton"],
+            "description": "Santa Clarita is home to Six Flags Magic Mountain and the iconic Vasquez Rocks."
+          },
+          "neuralMesh": {
+            "ringPosition": 22,
+            "neighbors": [
+              { "id": "glendale-ca", "name": "Glendale", "slug": "glendale", "distanceMiles": 22 },
+              { "id": "los-angeles-ca", "name": "Los Angeles", "slug": "los-angeles", "distanceMiles": 32 },
+              { "id": "bakersfield-ca", "name": "Bakersfield", "slug": "bakersfield", "distanceMiles": 75 },
+              { "id": "long-beach-ca", "name": "Long Beach", "slug": "long-beach", "distanceMiles": 55 }
+            ]
+          }
+        },
+        {
+          "id": "ontario-ca",
+          "name": "Ontario",
+          "slug": "ontario",
+          "county": "San Bernardino County",
+          "areaCode": "909",
+          "population": 175000,
+          "coordinates": {
+            "latitude": 34.0633,
+            "longitude": -117.6509
+          },
+          "localFacts": {
+            "landmarks": ["Ontario Mills Mall", "Ontario International Airport", "Toyota Arena"],
+            "highways": ["I-10", "I-15", "CA-60"],
+            "exits": ["I-10 Exit 55 (Vineyard)", "I-15 Exit 105 (4th Street)"],
+            "neighboringTowns": ["Rancho Cucamonga", "Upland", "Montclair", "Pomona", "Fontana"],
+            "description": "Ontario is a logistics and retail hub with a major international airport in the Inland Empire."
+          },
+          "neuralMesh": {
+            "ringPosition": 23,
+            "neighbors": [
+              { "id": "rancho-cucamonga-ca", "name": "Rancho Cucamonga", "slug": "rancho-cucamonga", "distanceMiles": 5 },
+              { "id": "fontana-ca", "name": "Fontana", "slug": "fontana", "distanceMiles": 10 },
+              { "id": "riverside-ca", "name": "Riverside", "slug": "riverside", "distanceMiles": 19 },
+              { "id": "san-bernardino-ca", "name": "San Bernardino", "slug": "san-bernardino", "distanceMiles": 23 }
+            ]
+          }
+        },
+        {
+          "id": "rancho-cucamonga-ca",
+          "name": "Rancho Cucamonga",
+          "slug": "rancho-cucamonga",
+          "county": "San Bernardino County",
+          "areaCode": "909",
+          "population": 177000,
+          "coordinates": {
+            "latitude": 34.1064,
+            "longitude": -117.5931
+          },
+          "localFacts": {
+            "landmarks": ["Victoria Gardens", "John Rains House", "Cucamonga Peak"],
+            "highways": ["I-15", "I-210", "CA-66"],
+            "exits": ["I-15 Exit 112 (Foothill)", "I-210 Exit 55 (Baseline)"],
+            "neighboringTowns": ["Ontario", "Upland", "Fontana", "Claremont", "Alta Loma"],
+            "description": "Rancho Cucamonga is a master-planned community with excellent shopping and mountain views."
+          },
+          "neuralMesh": {
+            "ringPosition": 24,
+            "neighbors": [
+              { "id": "ontario-ca", "name": "Ontario", "slug": "ontario", "distanceMiles": 5 },
+              { "id": "fontana-ca", "name": "Fontana", "slug": "fontana", "distanceMiles": 8 },
+              { "id": "san-bernardino-ca", "name": "San Bernardino", "slug": "san-bernardino", "distanceMiles": 18 },
+              { "id": "riverside-ca", "name": "Riverside", "slug": "riverside", "distanceMiles": 23 }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Texas",
+      "abbreviation": "TX",
+      "cities": [
+        {
+          "id": "houston-tx",
+          "name": "Houston",
+          "slug": "houston",
+          "county": "Harris County",
+          "areaCode": "713",
+          "population": 2300000,
+          "coordinates": {
+            "latitude": 29.7604,
+            "longitude": -95.3698
+          },
+          "localFacts": {
+            "landmarks": ["Space Center Houston", "Houston Museum District", "Minute Maid Park"],
+            "highways": ["I-10", "I-45", "I-610"],
+            "exits": ["I-45 Exit 47 (Downtown)", "I-10 Exit 768 (Galleria)"],
+            "neighboringTowns": ["Pasadena", "Sugar Land", "Katy", "The Woodlands", "Pearland"],
+            "description": "Houston is the largest city in Texas, home to NASA's Johnson Space Center and world-class museums."
+          },
+          "neuralMesh": {
+            "ringPosition": 0,
+            "neighbors": [
+              { "id": "pasadena-tx", "name": "Pasadena", "slug": "pasadena", "distanceMiles": 13 },
+              { "id": "austin-tx", "name": "Austin", "slug": "austin", "distanceMiles": 162 },
+              { "id": "san-antonio-tx", "name": "San Antonio", "slug": "san-antonio", "distanceMiles": 197 },
+              { "id": "corpus-christi-tx", "name": "Corpus Christi", "slug": "corpus-christi", "distanceMiles": 215 }
+            ]
+          }
+        },
+        {
+          "id": "san-antonio-tx",
+          "name": "San Antonio",
+          "slug": "san-antonio",
+          "county": "Bexar County",
+          "areaCode": "210",
+          "population": 1550000,
+          "coordinates": {
+            "latitude": 29.4241,
+            "longitude": -98.4936
+          },
+          "localFacts": {
+            "landmarks": ["The Alamo", "San Antonio River Walk", "Tower of the Americas"],
+            "highways": ["I-10", "I-35", "I-37"],
+            "exits": ["I-35 Exit 155 (Downtown)", "I-10 Exit 568 (The Alamo)"],
+            "neighboringTowns": ["New Braunfels", "Boerne", "Converse", "Universal City", "Schertz"],
+            "description": "San Antonio is famous for the historic Alamo and beautiful River Walk in the heart of Texas."
+          },
+          "neuralMesh": {
+            "ringPosition": 1,
+            "neighbors": [
+              { "id": "austin-tx", "name": "Austin", "slug": "austin", "distanceMiles": 79 },
+              { "id": "corpus-christi-tx", "name": "Corpus Christi", "slug": "corpus-christi", "distanceMiles": 145 },
+              { "id": "houston-tx", "name": "Houston", "slug": "houston", "distanceMiles": 197 },
+              { "id": "laredo-tx", "name": "Laredo", "slug": "laredo", "distanceMiles": 155 }
+            ]
+          }
+        },
+        {
+          "id": "dallas-tx",
+          "name": "Dallas",
+          "slug": "dallas",
+          "county": "Dallas County",
+          "areaCode": "214",
+          "population": 1300000,
+          "coordinates": {
+            "latitude": 32.7767,
+            "longitude": -96.7970
+          },
+          "localFacts": {
+            "landmarks": ["Reunion Tower", "Dealey Plaza", "Dallas Arts District"],
+            "highways": ["I-35E", "I-30", "I-45"],
+            "exits": ["I-35E Exit 428A (Downtown)", "I-30 Exit 44 (Fair Park)"],
+            "neighboringTowns": ["Fort Worth", "Plano", "Irving", "Garland", "Arlington"],
+            "description": "Dallas is a major business hub known for its modern skyline, arts district, and rich history."
+          },
+          "neuralMesh": {
+            "ringPosition": 2,
+            "neighbors": [
+              { "id": "irving-tx", "name": "Irving", "slug": "irving", "distanceMiles": 10 },
+              { "id": "garland-tx", "name": "Garland", "slug": "garland", "distanceMiles": 12 },
+              { "id": "plano-tx", "name": "Plano", "slug": "plano", "distanceMiles": 18 },
+              { "id": "arlington-tx", "name": "Arlington", "slug": "arlington", "distanceMiles": 20 }
+            ]
+          }
+        },
+        {
+          "id": "austin-tx",
+          "name": "Austin",
+          "slug": "austin",
+          "county": "Travis County",
+          "areaCode": "512",
+          "population": 978000,
+          "coordinates": {
+            "latitude": 30.2672,
+            "longitude": -97.7431
+          },
+          "localFacts": {
+            "landmarks": ["Texas State Capitol", "Lady Bird Lake", "South Congress Avenue"],
+            "highways": ["I-35", "US-183", "US-290"],
+            "exits": ["I-35 Exit 234B (Downtown)", "I-35 Exit 240 (UT Austin)"],
+            "neighboringTowns": ["Round Rock", "Cedar Park", "Pflugerville", "San Marcos", "Georgetown"],
+            "description": "Austin is the Live Music Capital of the World and Texas's tech-focused capital city."
+          },
+          "neuralMesh": {
+            "ringPosition": 3,
+            "neighbors": [
+              { "id": "san-antonio-tx", "name": "San Antonio", "slug": "san-antonio", "distanceMiles": 79 },
+              { "id": "waco-tx", "name": "Waco", "slug": "waco", "distanceMiles": 103 },
+              { "id": "killeen-tx", "name": "Killeen", "slug": "killeen", "distanceMiles": 68 },
+              { "id": "houston-tx", "name": "Houston", "slug": "houston", "distanceMiles": 162 }
+            ]
+          }
+        },
+        {
+          "id": "fort-worth-tx",
+          "name": "Fort Worth",
+          "slug": "fort-worth",
+          "county": "Tarrant County",
+          "areaCode": "817",
+          "population": 942000,
+          "coordinates": {
+            "latitude": 32.7555,
+            "longitude": -97.3308
+          },
+          "localFacts": {
+            "landmarks": ["Fort Worth Stockyards", "Kimbell Art Museum", "Sundance Square"],
+            "highways": ["I-35W", "I-30", "I-20"],
+            "exits": ["I-35W Exit 52 (Downtown)", "I-30 Exit 12 (Cultural District)"],
+            "neighboringTowns": ["Arlington", "Dallas", "Hurst", "Euless", "Bedford"],
+            "description": "Fort Worth combines Western heritage with world-class museums in the Cultural District."
+          },
+          "neuralMesh": {
+            "ringPosition": 4,
+            "neighbors": [
+              { "id": "arlington-tx", "name": "Arlington", "slug": "arlington", "distanceMiles": 14 },
+              { "id": "dallas-tx", "name": "Dallas", "slug": "dallas", "distanceMiles": 32 },
+              { "id": "grand-prairie-tx", "name": "Grand Prairie", "slug": "grand-prairie", "distanceMiles": 20 },
+              { "id": "denton-tx", "name": "Denton", "slug": "denton", "distanceMiles": 36 }
+            ]
+          }
+        },
+        {
+          "id": "el-paso-tx",
+          "name": "El Paso",
+          "slug": "el-paso",
+          "county": "El Paso County",
+          "areaCode": "915",
+          "population": 678000,
+          "coordinates": {
+            "latitude": 31.7619,
+            "longitude": -106.4850
+          },
+          "localFacts": {
+            "landmarks": ["El Paso Mission Trail", "Franklin Mountains State Park", "Scenic Drive"],
+            "highways": ["I-10", "US-54", "US-62"],
+            "exits": ["I-10 Exit 22 (Downtown)", "US-54 Exit 4 (Fort Bliss)"],
+            "neighboringTowns": ["Juarez (Mexico)", "Socorro", "Horizon City", "Anthony", "Canutillo"],
+            "description": "El Paso is a border city with rich Mexican-American culture and stunning mountain views."
+          },
+          "neuralMesh": {
+            "ringPosition": 5,
+            "neighbors": [
+              { "id": "midland-tx", "name": "Midland", "slug": "midland", "distanceMiles": 304 },
+              { "id": "odessa-tx", "name": "Odessa", "slug": "odessa", "distanceMiles": 283 },
+              { "id": "lubbock-tx", "name": "Lubbock", "slug": "lubbock", "distanceMiles": 342 },
+              { "id": "amarillo-tx", "name": "Amarillo", "slug": "amarillo", "distanceMiles": 418 }
+            ]
+          }
+        },
+        {
+          "id": "arlington-tx",
+          "name": "Arlington",
+          "slug": "arlington",
+          "county": "Tarrant County",
+          "areaCode": "817",
+          "population": 398000,
+          "coordinates": {
+            "latitude": 32.7357,
+            "longitude": -97.1081
+          },
+          "localFacts": {
+            "landmarks": ["AT&T Stadium", "Six Flags Over Texas", "Globe Life Field"],
+            "highways": ["I-30", "I-20", "TX-360"],
+            "exits": ["I-30 Exit 28 (AT&T Stadium)", "I-20 Exit 448 (Parks Mall)"],
+            "neighboringTowns": ["Grand Prairie", "Mansfield", "Fort Worth", "Dallas", "Pantego"],
+            "description": "Arlington is the entertainment capital of DFW, home to the Cowboys and Rangers stadiums."
+          },
+          "neuralMesh": {
+            "ringPosition": 6,
+            "neighbors": [
+              { "id": "fort-worth-tx", "name": "Fort Worth", "slug": "fort-worth", "distanceMiles": 14 },
+              { "id": "grand-prairie-tx", "name": "Grand Prairie", "slug": "grand-prairie", "distanceMiles": 8 },
+              { "id": "irving-tx", "name": "Irving", "slug": "irving", "distanceMiles": 12 },
+              { "id": "dallas-tx", "name": "Dallas", "slug": "dallas", "distanceMiles": 20 }
+            ]
+          }
+        },
+        {
+          "id": "corpus-christi-tx",
+          "name": "Corpus Christi",
+          "slug": "corpus-christi",
+          "county": "Nueces County",
+          "areaCode": "361",
+          "population": 317000,
+          "coordinates": {
+            "latitude": 27.8006,
+            "longitude": -97.3964
+          },
+          "localFacts": {
+            "landmarks": ["USS Lexington Museum", "Texas State Aquarium", "Padre Island National Seashore"],
+            "highways": ["I-37", "US-181", "US-77"],
+            "exits": ["I-37 Exit 3 (Downtown)", "US-181 Exit 1 (Harbor Bridge)"],
+            "neighboringTowns": ["Portland", "Robstown", "Aransas Pass", "Ingleside", "Rockport"],
+            "description": "Corpus Christi is the 'Sparkling City by the Sea' with beautiful beaches and coastal charm."
+          },
+          "neuralMesh": {
+            "ringPosition": 7,
+            "neighbors": [
+              { "id": "brownsville-tx", "name": "Brownsville", "slug": "brownsville", "distanceMiles": 160 },
+              { "id": "san-antonio-tx", "name": "San Antonio", "slug": "san-antonio", "distanceMiles": 145 },
+              { "id": "houston-tx", "name": "Houston", "slug": "houston", "distanceMiles": 215 },
+              { "id": "laredo-tx", "name": "Laredo", "slug": "laredo", "distanceMiles": 155 }
+            ]
+          }
+        },
+        {
+          "id": "plano-tx",
+          "name": "Plano",
+          "slug": "plano",
+          "county": "Collin County",
+          "areaCode": "972",
+          "population": 287000,
+          "coordinates": {
+            "latitude": 33.0198,
+            "longitude": -96.6989
+          },
+          "localFacts": {
+            "landmarks": ["Legacy West", "The Shops at Willow Bend", "Arbor Hills Nature Preserve"],
+            "highways": ["US-75", "TX-190", "Dallas North Tollway"],
+            "exits": ["US-75 Exit 30 (Legacy)", "TX-190 Exit 24 (Preston)"],
+            "neighboringTowns": ["Frisco", "McKinney", "Richardson", "Allen", "Murphy"],
+            "description": "Plano is a prosperous suburb north of Dallas, home to many corporate headquarters."
+          },
+          "neuralMesh": {
+            "ringPosition": 8,
+            "neighbors": [
+              { "id": "frisco-tx", "name": "Frisco", "slug": "frisco", "distanceMiles": 11 },
+              { "id": "mckinney-tx", "name": "McKinney", "slug": "mckinney", "distanceMiles": 13 },
+              { "id": "garland-tx", "name": "Garland", "slug": "garland", "distanceMiles": 12 },
+              { "id": "dallas-tx", "name": "Dallas", "slug": "dallas", "distanceMiles": 18 }
+            ]
+          }
+        },
+        {
+          "id": "lubbock-tx",
+          "name": "Lubbock",
+          "slug": "lubbock",
+          "county": "Lubbock County",
+          "areaCode": "806",
+          "population": 263000,
+          "coordinates": {
+            "latitude": 33.5779,
+            "longitude": -101.8552
+          },
+          "localFacts": {
+            "landmarks": ["Buddy Holly Center", "Texas Tech University", "Silent Wings Museum"],
+            "highways": ["I-27", "US-84", "US-62"],
+            "exits": ["I-27 Exit 4 (Downtown)", "US-84 Exit (Texas Tech)"],
+            "neighboringTowns": ["Wolfforth", "Slaton", "Shallowater", "Idalou", "New Deal"],
+            "description": "Lubbock is the 'Hub City' of West Texas and home to Texas Tech University."
+          },
+          "neuralMesh": {
+            "ringPosition": 9,
+            "neighbors": [
+              { "id": "amarillo-tx", "name": "Amarillo", "slug": "amarillo", "distanceMiles": 119 },
+              { "id": "midland-tx", "name": "Midland", "slug": "midland", "distanceMiles": 118 },
+              { "id": "odessa-tx", "name": "Odessa", "slug": "odessa", "distanceMiles": 125 },
+              { "id": "el-paso-tx", "name": "El Paso", "slug": "el-paso", "distanceMiles": 342 }
+            ]
+          }
+        },
+        {
+          "id": "laredo-tx",
+          "name": "Laredo",
+          "slug": "laredo",
+          "county": "Webb County",
+          "areaCode": "956",
+          "population": 260000,
+          "coordinates": {
+            "latitude": 27.5306,
+            "longitude": -99.4803
+          },
+          "localFacts": {
+            "landmarks": ["San Agustin Plaza", "Republic of the Rio Grande Museum", "Lake Casa Blanca"],
+            "highways": ["I-35", "US-59", "US-83"],
+            "exits": ["I-35 Exit 3 (Downtown)", "I-35 Exit 8 (Mall del Norte)"],
+            "neighboringTowns": ["Nuevo Laredo (Mexico)", "Rio Bravo", "El Cenizo", "Cotulla", "Zapata"],
+            "description": "Laredo is a major international trade hub on the US-Mexico border with rich heritage."
+          },
+          "neuralMesh": {
+            "ringPosition": 10,
+            "neighbors": [
+              { "id": "san-antonio-tx", "name": "San Antonio", "slug": "san-antonio", "distanceMiles": 155 },
+              { "id": "corpus-christi-tx", "name": "Corpus Christi", "slug": "corpus-christi", "distanceMiles": 155 },
+              { "id": "brownsville-tx", "name": "Brownsville", "slug": "brownsville", "distanceMiles": 177 },
+              { "id": "houston-tx", "name": "Houston", "slug": "houston", "distanceMiles": 315 }
+            ]
+          }
+        },
+        {
+          "id": "irving-tx",
+          "name": "Irving",
+          "slug": "irving",
+          "county": "Dallas County",
+          "areaCode": "972",
+          "population": 256000,
+          "coordinates": {
+            "latitude": 32.8140,
+            "longitude": -96.9489
+          },
+          "localFacts": {
+            "landmarks": ["Toyota Music Factory", "Las Colinas Urban Center", "Irving Arts Center"],
+            "highways": ["TX-183", "TX-114", "TX-161"],
+            "exits": ["TX-183 Exit 10 (Las Colinas)", "TX-114 Exit 8 (DFW Airport)"],
+            "neighboringTowns": ["Dallas", "Grand Prairie", "Coppell", "Grapevine", "Carrollton"],
+            "description": "Irving is home to Las Colinas, DFW Airport, and major corporate headquarters."
+          },
+          "neuralMesh": {
+            "ringPosition": 11,
+            "neighbors": [
+              { "id": "dallas-tx", "name": "Dallas", "slug": "dallas", "distanceMiles": 10 },
+              { "id": "grand-prairie-tx", "name": "Grand Prairie", "slug": "grand-prairie", "distanceMiles": 8 },
+              { "id": "arlington-tx", "name": "Arlington", "slug": "arlington", "distanceMiles": 12 },
+              { "id": "carrollton-tx", "name": "Carrollton", "slug": "carrollton", "distanceMiles": 10 }
+            ]
+          }
+        },
+        {
+          "id": "garland-tx",
+          "name": "Garland",
+          "slug": "garland",
+          "county": "Dallas County",
+          "areaCode": "972",
+          "population": 240000,
+          "coordinates": {
+            "latitude": 32.9126,
+            "longitude": -96.6389
+          },
+          "localFacts": {
+            "landmarks": ["Firewheel Town Center", "Hawaiian Falls", "Surf and Swim"],
+            "highways": ["I-30", "I-635", "US-75"],
+            "exits": ["I-30 Exit 56 (Northwest Highway)", "I-635 Exit 11 (Garland Road)"],
+            "neighboringTowns": ["Dallas", "Rowlett", "Mesquite", "Richardson", "Sachse"],
+            "description": "Garland is a diverse suburb east of Dallas with family-friendly attractions."
+          },
+          "neuralMesh": {
+            "ringPosition": 12,
+            "neighbors": [
+              { "id": "dallas-tx", "name": "Dallas", "slug": "dallas", "distanceMiles": 12 },
+              { "id": "plano-tx", "name": "Plano", "slug": "plano", "distanceMiles": 12 },
+              { "id": "mckinney-tx", "name": "McKinney", "slug": "mckinney", "distanceMiles": 20 },
+              { "id": "frisco-tx", "name": "Frisco", "slug": "frisco", "distanceMiles": 18 }
+            ]
+          }
+        },
+        {
+          "id": "frisco-tx",
+          "name": "Frisco",
+          "slug": "frisco",
+          "county": "Collin County",
+          "areaCode": "469",
+          "population": 210000,
+          "coordinates": {
+            "latitude": 33.1507,
+            "longitude": -96.8236
+          },
+          "localFacts": {
+            "landmarks": ["The Star (Dallas Cowboys HQ)", "Stonebriar Centre", "Dr Pepper Ballpark"],
+            "highways": ["Dallas North Tollway", "TX-121", "US-380"],
+            "exits": ["Dallas North Tollway Exit 34 (Legacy)", "TX-121 Exit 36 (Eldorado)"],
+            "neighboringTowns": ["Plano", "McKinney", "Little Elm", "Prosper", "The Colony"],
+            "description": "Frisco is one of America's fastest-growing cities with top-rated sports facilities."
+          },
+          "neuralMesh": {
+            "ringPosition": 13,
+            "neighbors": [
+              { "id": "plano-tx", "name": "Plano", "slug": "plano", "distanceMiles": 11 },
+              { "id": "mckinney-tx", "name": "McKinney", "slug": "mckinney", "distanceMiles": 12 },
+              { "id": "carrollton-tx", "name": "Carrollton", "slug": "carrollton", "distanceMiles": 14 },
+              { "id": "denton-tx", "name": "Denton", "slug": "denton", "distanceMiles": 21 }
+            ]
+          }
+        },
+        {
+          "id": "mckinney-tx",
+          "name": "McKinney",
+          "slug": "mckinney",
+          "county": "Collin County",
+          "areaCode": "972",
+          "population": 199000,
+          "coordinates": {
+            "latitude": 33.1972,
+            "longitude": -96.6397
+          },
+          "localFacts": {
+            "landmarks": ["Historic Downtown McKinney", "Heard Natural Science Museum", "Adriatica Village"],
+            "highways": ["US-75", "US-380", "TX-121"],
+            "exits": ["US-75 Exit 43 (Highway 380)", "US-380 Exit (Downtown)"],
+            "neighboringTowns": ["Allen", "Frisco", "Plano", "Anna", "Melissa"],
+            "description": "McKinney has a charming historic downtown and was named the best place to live in America."
+          },
+          "neuralMesh": {
+            "ringPosition": 14,
+            "neighbors": [
+              { "id": "frisco-tx", "name": "Frisco", "slug": "frisco", "distanceMiles": 12 },
+              { "id": "plano-tx", "name": "Plano", "slug": "plano", "distanceMiles": 13 },
+              { "id": "garland-tx", "name": "Garland", "slug": "garland", "distanceMiles": 20 },
+              { "id": "denton-tx", "name": "Denton", "slug": "denton", "distanceMiles": 28 }
+            ]
+          }
+        },
+        {
+          "id": "amarillo-tx",
+          "name": "Amarillo",
+          "slug": "amarillo",
+          "county": "Potter County",
+          "areaCode": "806",
+          "population": 199000,
+          "coordinates": {
+            "latitude": 35.2220,
+            "longitude": -101.8313
+          },
+          "localFacts": {
+            "landmarks": ["Cadillac Ranch", "The Big Texan Steak Ranch", "Palo Duro Canyon"],
+            "highways": ["I-40", "I-27", "US-87"],
+            "exits": ["I-40 Exit 70 (Downtown)", "I-27 Exit 123 (Medical Center)"],
+            "neighboringTowns": ["Canyon", "Bushland", "Panhandle", "Hereford", "Dumas"],
+            "description": "Amarillo is the heart of the Texas Panhandle, known for Route 66 and Palo Duro Canyon."
+          },
+          "neuralMesh": {
+            "ringPosition": 15,
+            "neighbors": [
+              { "id": "lubbock-tx", "name": "Lubbock", "slug": "lubbock", "distanceMiles": 119 },
+              { "id": "midland-tx", "name": "Midland", "slug": "midland", "distanceMiles": 237 },
+              { "id": "odessa-tx", "name": "Odessa", "slug": "odessa", "distanceMiles": 241 },
+              { "id": "el-paso-tx", "name": "El Paso", "slug": "el-paso", "distanceMiles": 418 }
+            ]
+          }
+        },
+        {
+          "id": "grand-prairie-tx",
+          "name": "Grand Prairie",
+          "slug": "grand-prairie",
+          "county": "Dallas County",
+          "areaCode": "972",
+          "population": 196000,
+          "coordinates": {
+            "latitude": 32.7460,
+            "longitude": -96.9978
+          },
+          "localFacts": {
+            "landmarks": ["Epic Waters Indoor Waterpark", "Traders Village", "Lone Star Park"],
+            "highways": ["I-30", "TX-161", "TX-360"],
+            "exits": ["I-30 Exit 33 (Carrier)", "TX-161 Exit 11 (Main Street)"],
+            "neighboringTowns": ["Arlington", "Irving", "Dallas", "Cedar Hill", "Duncanville"],
+            "description": "Grand Prairie offers family entertainment with Epic Waters and major shopping destinations."
+          },
+          "neuralMesh": {
+            "ringPosition": 16,
+            "neighbors": [
+              { "id": "arlington-tx", "name": "Arlington", "slug": "arlington", "distanceMiles": 8 },
+              { "id": "irving-tx", "name": "Irving", "slug": "irving", "distanceMiles": 8 },
+              { "id": "dallas-tx", "name": "Dallas", "slug": "dallas", "distanceMiles": 14 },
+              { "id": "fort-worth-tx", "name": "Fort Worth", "slug": "fort-worth", "distanceMiles": 20 }
+            ]
+          }
+        },
+        {
+          "id": "brownsville-tx",
+          "name": "Brownsville",
+          "slug": "brownsville",
+          "county": "Cameron County",
+          "areaCode": "956",
+          "population": 186000,
+          "coordinates": {
+            "latitude": 25.9017,
+            "longitude": -97.4975
+          },
+          "localFacts": {
+            "landmarks": ["Palo Alto Battlefield", "Gladys Porter Zoo", "SpaceX Starbase"],
+            "highways": ["US-77", "US-83", "US-281"],
+            "exits": ["US-77 Exit 3 (Downtown)", "US-83 Exit (Port of Brownsville)"],
+            "neighboringTowns": ["Harlingen", "San Benito", "Los Fresnos", "Port Isabel", "South Padre Island"],
+            "description": "Brownsville is at the southern tip of Texas, near South Padre Island and SpaceX operations."
+          },
+          "neuralMesh": {
+            "ringPosition": 17,
+            "neighbors": [
+              { "id": "corpus-christi-tx", "name": "Corpus Christi", "slug": "corpus-christi", "distanceMiles": 160 },
+              { "id": "laredo-tx", "name": "Laredo", "slug": "laredo", "distanceMiles": 177 },
+              { "id": "san-antonio-tx", "name": "San Antonio", "slug": "san-antonio", "distanceMiles": 275 },
+              { "id": "houston-tx", "name": "Houston", "slug": "houston", "distanceMiles": 355 }
+            ]
+          }
+        },
+        {
+          "id": "killeen-tx",
+          "name": "Killeen",
+          "slug": "killeen",
+          "county": "Bell County",
+          "areaCode": "254",
+          "population": 153000,
+          "coordinates": {
+            "latitude": 31.1171,
+            "longitude": -97.7278
+          },
+          "localFacts": {
+            "landmarks": ["Fort Hood (Fort Cavazos)", "Mayborn Science Theater", "Vive Les Arts Theatre"],
+            "highways": ["US-190", "US-183", "TX-195"],
+            "exits": ["US-190 Exit (Fort Hood)", "US-183 Exit (Downtown)"],
+            "neighboringTowns": ["Temple", "Harker Heights", "Copperas Cove", "Belton", "Nolanville"],
+            "description": "Killeen is home to Fort Cavazos (formerly Fort Hood), one of the largest military bases."
+          },
+          "neuralMesh": {
+            "ringPosition": 18,
+            "neighbors": [
+              { "id": "waco-tx", "name": "Waco", "slug": "waco", "distanceMiles": 50 },
+              { "id": "austin-tx", "name": "Austin", "slug": "austin", "distanceMiles": 68 },
+              { "id": "san-antonio-tx", "name": "San Antonio", "slug": "san-antonio", "distanceMiles": 135 },
+              { "id": "dallas-tx", "name": "Dallas", "slug": "dallas", "distanceMiles": 155 }
+            ]
+          }
+        },
+        {
+          "id": "pasadena-tx",
+          "name": "Pasadena",
+          "slug": "pasadena",
+          "county": "Harris County",
+          "areaCode": "713",
+          "population": 151000,
+          "coordinates": {
+            "latitude": 29.6911,
+            "longitude": -95.2091
+          },
+          "localFacts": {
+            "landmarks": ["San Jacinto Monument", "Armand Bayou Nature Center", "Pasadena Strawberry Festival"],
+            "highways": ["TX-225", "TX-146", "I-45"],
+            "exits": ["TX-225 Exit 7 (Beltway 8)", "I-45 Exit (NASA Road 1)"],
+            "neighboringTowns": ["Houston", "Deer Park", "La Porte", "South Houston", "Channelview"],
+            "description": "Pasadena is home to the San Jacinto Monument and the petrochemical industry along the Ship Channel."
+          },
+          "neuralMesh": {
+            "ringPosition": 19,
+            "neighbors": [
+              { "id": "houston-tx", "name": "Houston", "slug": "houston", "distanceMiles": 13 },
+              { "id": "corpus-christi-tx", "name": "Corpus Christi", "slug": "corpus-christi", "distanceMiles": 200 },
+              { "id": "austin-tx", "name": "Austin", "slug": "austin", "distanceMiles": 170 },
+              { "id": "san-antonio-tx", "name": "San Antonio", "slug": "san-antonio", "distanceMiles": 200 }
+            ]
+          }
+        },
+        {
+          "id": "denton-tx",
+          "name": "Denton",
+          "slug": "denton",
+          "county": "Denton County",
+          "areaCode": "940",
+          "population": 148000,
+          "coordinates": {
+            "latitude": 33.2148,
+            "longitude": -97.1331
+          },
+          "localFacts": {
+            "landmarks": ["University of North Texas", "Denton Square", "TWU"],
+            "highways": ["I-35E", "I-35W", "US-380"],
+            "exits": ["I-35E Exit 469 (Downtown)", "I-35W Exit 76 (University)"],
+            "neighboringTowns": ["Lewisville", "Corinth", "Argyle", "Aubrey", "Krum"],
+            "description": "Denton is a vibrant college town known for its music scene and historic downtown square."
+          },
+          "neuralMesh": {
+            "ringPosition": 20,
+            "neighbors": [
+              { "id": "frisco-tx", "name": "Frisco", "slug": "frisco", "distanceMiles": 21 },
+              { "id": "carrollton-tx", "name": "Carrollton", "slug": "carrollton", "distanceMiles": 22 },
+              { "id": "mckinney-tx", "name": "McKinney", "slug": "mckinney", "distanceMiles": 28 },
+              { "id": "fort-worth-tx", "name": "Fort Worth", "slug": "fort-worth", "distanceMiles": 36 }
+            ]
+          }
+        },
+        {
+          "id": "midland-tx",
+          "name": "Midland",
+          "slug": "midland",
+          "county": "Midland County",
+          "areaCode": "432",
+          "population": 142000,
+          "coordinates": {
+            "latitude": 31.9973,
+            "longitude": -102.0779
+          },
+          "localFacts": {
+            "landmarks": ["Petroleum Museum", "George W. Bush Childhood Home", "Commemorative Air Force"],
+            "highways": ["I-20", "US-349", "TX-158"],
+            "exits": ["I-20 Exit 136 (Downtown)", "I-20 Exit 131 (Midland Park Mall)"],
+            "neighboringTowns": ["Odessa", "Stanton", "Big Spring", "Andrews", "Crane"],
+            "description": "Midland is the heart of the Permian Basin oil industry and where George W. Bush grew up."
+          },
+          "neuralMesh": {
+            "ringPosition": 21,
+            "neighbors": [
+              { "id": "odessa-tx", "name": "Odessa", "slug": "odessa", "distanceMiles": 21 },
+              { "id": "lubbock-tx", "name": "Lubbock", "slug": "lubbock", "distanceMiles": 118 },
+              { "id": "amarillo-tx", "name": "Amarillo", "slug": "amarillo", "distanceMiles": 237 },
+              { "id": "el-paso-tx", "name": "El Paso", "slug": "el-paso", "distanceMiles": 304 }
+            ]
+          }
+        },
+        {
+          "id": "carrollton-tx",
+          "name": "Carrollton",
+          "slug": "carrollton",
+          "county": "Dallas County",
+          "areaCode": "972",
+          "population": 138000,
+          "coordinates": {
+            "latitude": 32.9537,
+            "longitude": -96.8903
+          },
+          "localFacts": {
+            "landmarks": ["Historic Downtown Carrollton", "A.W. Perry Homestead Museum", "Sandy Lake Park"],
+            "highways": ["I-35E", "TX-190", "Dallas North Tollway"],
+            "exits": ["I-35E Exit 445 (Belt Line)", "TX-190 Exit 14 (Josey Lane)"],
+            "neighboringTowns": ["Lewisville", "Addison", "Farmers Branch", "Plano", "The Colony"],
+            "description": "Carrollton has a charming historic downtown and excellent connectivity to DFW."
+          },
+          "neuralMesh": {
+            "ringPosition": 22,
+            "neighbors": [
+              { "id": "irving-tx", "name": "Irving", "slug": "irving", "distanceMiles": 10 },
+              { "id": "plano-tx", "name": "Plano", "slug": "plano", "distanceMiles": 12 },
+              { "id": "frisco-tx", "name": "Frisco", "slug": "frisco", "distanceMiles": 14 },
+              { "id": "dallas-tx", "name": "Dallas", "slug": "dallas", "distanceMiles": 15 }
+            ]
+          }
+        },
+        {
+          "id": "waco-tx",
+          "name": "Waco",
+          "slug": "waco",
+          "county": "McLennan County",
+          "areaCode": "254",
+          "population": 138000,
+          "coordinates": {
+            "latitude": 31.5493,
+            "longitude": -97.1467
+          },
+          "localFacts": {
+            "landmarks": ["Magnolia Market at the Silos", "Baylor University", "Waco Mammoth National Monument"],
+            "highways": ["I-35", "US-84", "TX-6"],
+            "exits": ["I-35 Exit 335 (Downtown)", "I-35 Exit 339 (Baylor)"],
+            "neighboringTowns": ["Temple", "Killeen", "Hewitt", "Bellmead", "Woodway"],
+            "description": "Waco is home to Baylor University and Magnolia Market, drawing visitors from across the country."
+          },
+          "neuralMesh": {
+            "ringPosition": 23,
+            "neighbors": [
+              { "id": "killeen-tx", "name": "Killeen", "slug": "killeen", "distanceMiles": 50 },
+              { "id": "austin-tx", "name": "Austin", "slug": "austin", "distanceMiles": 103 },
+              { "id": "dallas-tx", "name": "Dallas", "slug": "dallas", "distanceMiles": 96 },
+              { "id": "fort-worth-tx", "name": "Fort Worth", "slug": "fort-worth", "distanceMiles": 88 }
+            ]
+          }
+        },
+        {
+          "id": "odessa-tx",
+          "name": "Odessa",
+          "slug": "odessa",
+          "county": "Ector County",
+          "areaCode": "432",
+          "population": 115000,
+          "coordinates": {
+            "latitude": 31.8457,
+            "longitude": -102.3676
+          },
+          "localFacts": {
+            "landmarks": ["Presidential Archives and Leadership Library", "Globe of the Great Southwest", "Meteor Crater"],
+            "highways": ["I-20", "US-385", "TX-191"],
+            "exits": ["I-20 Exit 116 (Downtown)", "I-20 Exit 121 (Music City Mall)"],
+            "neighboringTowns": ["Midland", "Andrews", "Monahans", "Kermit", "Crane"],
+            "description": "Odessa is the Friday Night Lights city, known for high school football and oil industry."
+          },
+          "neuralMesh": {
+            "ringPosition": 24,
+            "neighbors": [
+              { "id": "midland-tx", "name": "Midland", "slug": "midland", "distanceMiles": 21 },
+              { "id": "lubbock-tx", "name": "Lubbock", "slug": "lubbock", "distanceMiles": 125 },
+              { "id": "amarillo-tx", "name": "Amarillo", "slug": "amarillo", "distanceMiles": 241 },
+              { "id": "el-paso-tx", "name": "El Paso", "slug": "el-paso", "distanceMiles": 283 }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

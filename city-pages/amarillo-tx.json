@@ -1,0 +1,320 @@
+{
+  "id": "amarillo-tx",
+  "city": "Amarillo",
+  "slug": "amarillo",
+  "state": "Texas",
+  "stateCode": "TX",
+  "stateSlug": "texas",
+  "countyName": "Potter County",
+  "serviceNiche": "Payday Loans",
+
+  "seo": {
+    "title": "Payday Loans in Amarillo, TX | Fast Cash Near Cadillac Ranch | Ace Payday Loans",
+    "metaDescription": "Need fast cash in Amarillo? Visit Ace Payday Loans near Cadillac Ranch off I-40. Same-day funding, no hidden fees. Licensed Texas CAB serving the Panhandle. Call (806) 555-0145.",
+    "canonicalUrl": "/locations/texas/amarillo",
+    "keywords": ["payday loans amarillo", "amarillo payday loans", "cash advance amarillo tx", "payday loans near me amarillo", "fast cash amarillo texas", "payday loans texas panhandle"]
+  },
+
+  "hero": {
+    "h1": "Fast Payday Loans in Amarillo, TX",
+    "subheadline": "Trusted lending in the heart of the Texas Panhandle on Historic Route 66",
+    "ctaText": "Apply Now for Amarillo Cash",
+    "ctaUrl": "/apply?location=amarillo-tx",
+    "secondaryCta": {
+      "text": "Call (806) 555-0145",
+      "url": "tel:+18065550145"
+    }
+  },
+
+  "localProof": {
+    "headline": "Where to Find Us in Amarillo",
+    "directions": "We are conveniently located at 2815 South Coulter Street, Suite 110, near The Big Texan Steak Ranch and just minutes from the famous Cadillac Ranch. If you are taking I-40, take Exit 70 (Downtown) or Exit 68 (Coulter Street) for direct access. We're also easily accessible from I-27 via Exit 123 (Medical Center).",
+    "landmarks": ["Cadillac Ranch", "The Big Texan Steak Ranch", "Palo Duro Canyon"],
+    "highways": ["I-40", "I-27", "US-87"],
+    "exits": ["I-40 Exit 70 (Downtown)", "I-27 Exit 123 (Medical Center)"],
+    "neighborhoodName": "Southwest Amarillo",
+    "hours": {
+      "monday": "9:00 AM - 7:00 PM",
+      "tuesday": "9:00 AM - 7:00 PM",
+      "wednesday": "9:00 AM - 7:00 PM",
+      "thursday": "9:00 AM - 7:00 PM",
+      "friday": "9:00 AM - 7:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d106200.55!2d-101.88!3d35.22!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x870148d!2sAmarillo%2C%20TX!5e0!3m2!1sen!2sus"
+  },
+
+  "nap": {
+    "name": "Ace Payday Loans of Amarillo",
+    "street": "2815 South Coulter Street, Suite 110",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79106",
+    "phone": "(806) 555-0145",
+    "formattedPhone": "+18065550145",
+    "formattedAddress": "2815 South Coulter Street, Suite 110, Amarillo, TX 79106",
+    "coordinates": {
+      "latitude": 35.2220,
+      "longitude": -101.8313
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=35.2220,-101.8313"
+  },
+
+  "productLinks": {
+    "headline": "Our Amarillo Financial Services",
+    "intro": "We offer a full range of short-term lending and money services to help Amarillo and Texas Panhandle residents with their financial needs:",
+    "services": [
+      {
+        "name": "Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Short-term loans to cover unexpected expenses until your next paycheck",
+        "anchorText": "Learn About Payday Loans"
+      },
+      {
+        "name": "Cash Advances",
+        "slug": "cash-advances",
+        "url": "/services/cash-advances",
+        "description": "Quick access to emergency cash when you need it most",
+        "anchorText": "Get a Cash Advance"
+      },
+      {
+        "name": "Installment Loans",
+        "slug": "installment-loans",
+        "url": "/services/installment-loans",
+        "description": "Larger loans repaid over time with scheduled monthly payments",
+        "anchorText": "Explore Installment Loans"
+      },
+      {
+        "name": "Title Loans",
+        "slug": "title-loans",
+        "url": "/services/title-loans",
+        "description": "Use your vehicle title as collateral for larger loan amounts",
+        "anchorText": "Learn About Title Loans"
+      },
+      {
+        "name": "Check Cashing",
+        "slug": "check-cashing",
+        "url": "/services/check-cashing",
+        "description": "Convert checks to cash instantly without a bank account",
+        "anchorText": "Check Cashing Services"
+      },
+      {
+        "name": "Online Payday Loans",
+        "slug": "online-payday-loans",
+        "url": "/services/online-payday-loans",
+        "description": "Apply from home with our secure online application",
+        "anchorText": "Apply Online Now"
+      },
+      {
+        "name": "Same Day Loans",
+        "slug": "same-day-loans",
+        "url": "/services/same-day-loans",
+        "description": "Get approved and funded within the same business day",
+        "anchorText": "Same Day Funding Options"
+      },
+      {
+        "name": "Bad Credit Loans",
+        "slug": "bad-credit-loans",
+        "url": "/services/bad-credit-loans",
+        "description": "Loan options for borrowers with less-than-perfect credit",
+        "anchorText": "Bad Credit? We Can Help"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "Understanding Payday Loan Laws in Texas",
+    "content": "Amarillo residents should understand that payday loans are legal in Texas through licensed Credit Access Businesses (CABs). While Texas has minimal state-level restrictions, Amarillo has a local ordinance that provides additional consumer protections.",
+    "keyPoints": [
+      "Texas allows payday loans through licensed Credit Access Businesses (CABs) regulated by the OCCC",
+      "There is no state cap on interest rates or CAB fees - typical APRs range from 400% to 700%+",
+      "You have the right to cancel your loan within 3 days of signing without penalty",
+      "Lenders cannot threaten criminal prosecution for non-payment (except for fraud or theft)",
+      "Your wages cannot be garnished for payday loan debt under Texas law",
+      "Your home (if declared homestead) is protected from debt collection",
+      "Always verify your lender is licensed at occc.texas.gov before borrowing"
+    ],
+    "regulatoryBody": "Texas Office of Consumer Credit Commissioner (OCCC)",
+    "regulatoryUrl": "https://occc.texas.gov",
+    "consumerHelpline": "(800) 538-1579",
+    "warningBox": {
+      "title": "Important Cost Warning",
+      "content": "Payday loans in Texas are among the most expensive in the nation. A typical $300 loan can cost over $1,000 in fees alone, resulting in APRs exceeding 700%. Consider alternatives such as credit union loans, payment plans with creditors, or nonprofit credit counseling before taking out a payday loan."
+    },
+    "disclaimer": "This information is provided for general educational purposes only and should not be construed as legal advice. Payday loan laws and regulations change frequently. The information presented may not reflect the most current legal developments. For the most accurate and up-to-date information, contact the Texas Office of Consumer Credit Commissioner at (800) 538-1579 or visit occc.texas.gov. If you need legal advice, please consult with a licensed attorney in Texas."
+  },
+
+  "cityOrdinance": {
+    "hasOrdinance": true,
+    "headline": "Amarillo Local Payday Loan Ordinance",
+    "summary": "The City of Amarillo has adopted a local ordinance providing additional consumer protections for payday loan borrowers.",
+    "keyProvisions": [
+      "Payday loans are limited to 20% of the borrower's gross monthly income",
+      "Maximum of 3 rollovers or renewals allowed",
+      "Each rollover/renewal must reduce the principal by at least 25%",
+      "CABs must register with the City of Amarillo"
+    ],
+    "effectiveDate": "Local ordinance in effect",
+    "source": "City of Amarillo Code of Ordinances"
+  },
+
+  "localReviews": {
+    "headline": "What Our Amarillo Customers Say",
+    "locationId": "amarillo-tx",
+    "reviewSource": "Google Business Profile",
+    "averageRating": 4.5,
+    "totalReviews": 47,
+    "featuredReviews": [
+      {
+        "name": "Billy J.",
+        "rating": 5,
+        "text": "Great service here in Amarillo. Truck broke down on I-40 and I was in a bind. They helped me out quick and got me back on the road.",
+        "date": "2024-11-02"
+      },
+      {
+        "name": "Rebecca S.",
+        "rating": 5,
+        "text": "The Coulter Street location is convenient and the staff was friendly. They explained the local rules clearly and made sure I understood everything.",
+        "date": "2024-10-18"
+      },
+      {
+        "name": "Marcus D.",
+        "rating": 4,
+        "text": "Good experience overall. Appreciated the transparency about fees. Would recommend to anyone in the Panhandle who needs quick cash.",
+        "date": "2024-09-25"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby Cities",
+    "intro": "Can't make it to our Amarillo location? We also serve these nearby communities:",
+    "cities": [
+      {"name": "Lubbock", "slug": "lubbock", "url": "/locations/texas/lubbock", "distanceMiles": 119},
+      {"name": "Midland", "slug": "midland", "url": "/locations/texas/midland", "distanceMiles": 237},
+      {"name": "Odessa", "slug": "odessa", "url": "/locations/texas/odessa", "distanceMiles": 241},
+      {"name": "El Paso", "slug": "el-paso", "url": "/locations/texas/el-paso", "distanceMiles": 418}
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Amarillo location?",
+      "answer": "Our Amarillo branch is located at 2815 South Coulter Street, Suite 110, in Southwest Amarillo. Take I-40 Exit 70 (Downtown) or Exit 68 (Coulter Street). We're near The Big Texan Steak Ranch and just minutes from Cadillac Ranch."
+    },
+    {
+      "question": "What are your hours in Amarillo?",
+      "answer": "We're open Monday through Friday from 9 AM to 7 PM, and Saturday from 10 AM to 4 PM. We're closed on Sundays. You can also apply online 24/7."
+    },
+    {
+      "question": "Does Amarillo have local payday loan ordinances?",
+      "answer": "Yes, Amarillo has a local ordinance that limits payday loans to 20% of your gross monthly income, allows a maximum of 3 rollovers, and requires each rollover to reduce the principal by 25%. These rules help protect consumers."
+    },
+    {
+      "question": "How does the Amarillo ordinance affect my loan?",
+      "answer": "The ordinance limits how much you can borrow based on your income and restricts rollovers. We'll explain exactly how this applies to your situation during the application process."
+    },
+    {
+      "question": "What documents do I need to bring?",
+      "answer": "Please bring a valid government-issued photo ID, proof of income (recent pay stub or bank statement showing gross income), proof of residence (utility bill or lease), and your bank account information for direct deposit."
+    },
+    {
+      "question": "Do you serve travelers on Route 66?",
+      "answer": "Yes! We're conveniently located near I-40 (Historic Route 66) and can help travelers who find themselves in need of emergency funds. You'll need to meet our standard requirements including proof of income."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Ready to Get Cash in Amarillo?",
+    "subheadline": "Visit our Coulter Street location or apply online now",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=amarillo-tx"
+    },
+    "secondaryCta": {
+      "text": "Call (806) 555-0145",
+      "url": "tel:+18065550145"
+    },
+    "address": "2815 South Coulter Street, Suite 110, Amarillo, TX 79106"
+  },
+
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FinancialService",
+    "name": "Ace Payday Loans of Amarillo",
+    "image": "https://www.acepaydayloans.com/images/amarillo-branch.jpg",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2815 South Coulter Street, Suite 110",
+      "addressLocality": "Amarillo",
+      "addressRegion": "TX",
+      "postalCode": "79106",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 35.2220,
+      "longitude": -101.8313
+    },
+    "url": "https://www.acepaydayloans.com/locations/texas/amarillo",
+    "telephone": "+18065550145",
+    "priceRange": "$$",
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "09:00",
+        "closes": "19:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Saturday",
+        "opens": "10:00",
+        "closes": "16:00"
+      }
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": "47"
+    },
+    "areaServed": {
+      "@type": "City",
+      "name": "Amarillo",
+      "containedInPlace": {
+        "@type": "State",
+        "name": "Texas"
+      }
+    },
+    "serviceType": ["Payday Loans", "Cash Advances", "Installment Loans", "Title Loans", "Check Cashing"]
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "Texas", "url": "/locations/texas"},
+    {"label": "Amarillo", "url": "/locations/texas/amarillo"}
+  ],
+
+  "images": {
+    "hero": {
+      "url": "/images/locations/amarillo-tx-branch.jpg",
+      "alt": "Ace Payday Loans Amarillo branch exterior on Coulter Street",
+      "caption": "Our Amarillo location on Coulter Street"
+    },
+    "interior": {
+      "url": "/images/locations/amarillo-tx-interior.jpg",
+      "alt": "Clean, professional interior of Amarillo payday loan office",
+      "caption": "Professional service in a comfortable environment"
+    }
+  },
+
+  "metadata": {
+    "generatedAt": "2025-01-15T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "batch": 2
+  }
+}

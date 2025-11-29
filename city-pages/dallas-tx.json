@@ -1,0 +1,326 @@
+{
+  "id": "dallas-tx",
+  "city": "Dallas",
+  "state": "Texas",
+  "stateCode": "TX",
+  "stateSlug": "texas",
+  "slug": "dallas",
+  "countyName": "Dallas County",
+  "areaCode": "214",
+  "population": 1300000,
+  "serviceNiche": "Payday Loans",
+  "hasLocalOrdinance": true,
+
+  "coordinates": {
+    "latitude": 32.7767,
+    "longitude": -96.7970
+  },
+
+  "seo": {
+    "title": "Payday Loans in Dallas, TX | Fast Cash Near Reunion Tower",
+    "metaDescription": "Need fast cash in Dallas? Visit Ace Payday Loans near Reunion Tower and Dealey Plaza. Same-day funding for Dallas County residents. Apply now! (214) 555-0234",
+    "canonicalUrl": "/locations/texas/dallas",
+    "keywords": [
+      "payday loans dallas",
+      "dallas payday loans",
+      "cash advance dallas tx",
+      "payday loans near me dallas",
+      "dallas tx payday loans",
+      "fast cash dallas",
+      "emergency loans dallas",
+      "same day loans dallas tx"
+    ]
+  },
+
+  "hero": {
+    "h1": "Fast Payday Loans in Dallas, TX",
+    "subheadline": "Trusted lending serving Dallas County since 2015",
+    "ctaText": "Apply Now for Dallas Cash",
+    "ctaUrl": "/apply?location=dallas-tx",
+    "secondaryCta": {
+      "text": "Call (214) 555-0234",
+      "url": "tel:+12145550234"
+    }
+  },
+
+  "localProof": {
+    "headline": "Where to Find Us in Dallas",
+    "directions": "We are conveniently located at 3456 Commerce Street, right near Reunion Tower and just down the road from Dealey Plaza and the Dallas Arts District. If you are taking I-35E, take Exit 428A (Downtown). We're also easily accessible from I-30 via Exit 44 (Fair Park) for east Dallas customers.",
+    "landmarks": ["Reunion Tower", "Dealey Plaza", "Dallas Arts District", "Fair Park"],
+    "highways": ["I-35E", "I-30", "I-45"],
+    "exits": ["I-35E Exit 428A (Downtown)", "I-30 Exit 44 (Fair Park)"],
+    "neighborhoodName": "Downtown Dallas",
+    "neighboringTowns": ["Fort Worth", "Plano", "Irving", "Garland", "Arlington"],
+    "description": "Dallas is a major business hub known for its modern skyline, arts district, and rich history.",
+    "hours": {
+      "monday": "9:00 AM - 7:00 PM",
+      "tuesday": "9:00 AM - 7:00 PM",
+      "wednesday": "9:00 AM - 7:00 PM",
+      "thursday": "9:00 AM - 7:00 PM",
+      "friday": "9:00 AM - 7:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d428788.5!2d-96.7970!3d32.7767!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864c19f77b45974b%3A0xb9ec9ba4f647678f!2sDallas%2C%20TX!5e0!3m2!1sen!2sus!4v1234567890"
+  },
+
+  "nap": {
+    "name": "Ace Payday Loans of Dallas",
+    "street": "3456 Commerce Street, Suite 200",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75226",
+    "phone": "(214) 555-0234",
+    "formattedPhone": "+12145550234",
+    "formattedAddress": "3456 Commerce Street, Suite 200, Dallas, TX 75226",
+    "coordinates": {
+      "latitude": 32.7767,
+      "longitude": -96.7970
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=32.7767,-96.7970"
+  },
+
+  "productLinks": {
+    "headline": "Our Dallas Financial Services",
+    "intro": "We offer a full range of short-term lending and money services to help Dallas County residents with their financial needs:",
+    "services": [
+      {
+        "name": "Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Short-term loans to cover unexpected expenses until your next paycheck",
+        "anchorText": "Learn about Payday Loans"
+      },
+      {
+        "name": "Cash Advances",
+        "slug": "cash-advances",
+        "url": "/services/cash-advances",
+        "description": "Quick cash advances for emergency situations",
+        "anchorText": "Get a Cash Advance"
+      },
+      {
+        "name": "Installment Loans",
+        "slug": "installment-loans",
+        "url": "/services/installment-loans",
+        "description": "Larger loans repaid over time through scheduled monthly payments",
+        "anchorText": "Explore Installment Loans"
+      },
+      {
+        "name": "Title Loans",
+        "slug": "title-loans",
+        "url": "/services/title-loans",
+        "description": "Use your vehicle title as collateral for larger loan amounts",
+        "anchorText": "Title Loan Options"
+      },
+      {
+        "name": "Check Cashing",
+        "slug": "check-cashing",
+        "url": "/services/check-cashing",
+        "description": "Convert checks to cash instantly without a bank account",
+        "anchorText": "Check Cashing Services"
+      },
+      {
+        "name": "Same Day Loans",
+        "slug": "same-day-loans",
+        "url": "/services/same-day-loans",
+        "description": "Get approved and funded within the same business day",
+        "anchorText": "Same Day Funding"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "Understanding Payday Loan Laws in Texas",
+    "content": "Dallas residents should understand that payday loans are legal in Texas through licensed Credit Access Businesses (CABs). While Texas has minimal state-level restrictions, Dallas has additional local ordinances that provide extra consumer protections for Dallas County residents.",
+    "keyPoints": [
+      "Texas allows payday loans through licensed Credit Access Businesses (CABs) regulated by the Office of Consumer Credit Commissioner (OCCC)",
+      "There is no state cap on interest rates or CAB fees - typical APRs range from 400% to 700%+",
+      "You have the right to cancel your loan within 3 days of signing without penalty",
+      "Lenders cannot threaten criminal prosecution for non-payment (except for fraud or theft)",
+      "Your wages cannot be garnished for payday loan debt under Texas law",
+      "Your home (if declared homestead) is protected from debt collection",
+      "Always verify your lender is licensed at occc.texas.gov before borrowing"
+    ],
+    "regulatoryBody": "Texas Office of Consumer Credit Commissioner (OCCC)",
+    "regulatoryUrl": "https://occc.texas.gov",
+    "consumerHelpline": "(800) 538-1579",
+    "warningBox": {
+      "title": "Important Cost Warning",
+      "content": "Payday loans in Texas are among the most expensive in the nation. A typical $300 loan can cost over $1,000 in fees alone, resulting in APRs exceeding 700%. Consider alternatives such as credit union loans, payment plans with creditors, or nonprofit credit counseling before taking out a payday loan."
+    },
+    "disclaimer": "This information is provided for general educational purposes only and should not be construed as legal advice. Payday loan laws and regulations change frequently. The information presented may not reflect the most current legal developments. For the most accurate and up-to-date information, contact the Texas Office of Consumer Credit Commissioner at (800) 538-1579 or visit occc.texas.gov. If you need legal advice, please consult with a licensed attorney in Texas."
+  },
+
+  "cityOrdinance": {
+    "hasOrdinance": true,
+    "effectiveDate": "2012-01-01",
+    "ordinanceCode": "Chapter 50, Article XI, Dallas Code of Ordinances",
+    "headline": "Dallas City Payday Loan Protections",
+    "intro": "Dallas has enacted local ordinances that provide additional protections beyond state law for payday loan borrowers:",
+    "keyProvisions": [
+      "Payday loans limited to 20% of gross monthly income",
+      "Maximum 3 rollovers with 25% principal reduction each time",
+      "Zoning restrictions on alternative financial establishments",
+      "CABs must register with the City of Dallas"
+    ],
+    "maxLoanPercent": "20% of gross monthly income",
+    "maxRollovers": 3,
+    "principalReduction": "25% per rollover",
+    "registrationRequired": true,
+    "violationPenalty": "Criminal offense with up to $500 fine"
+  },
+
+  "testimonials": {
+    "headline": "What Our Dallas Customers Say",
+    "reviews": [
+      {
+        "text": "I have used Ace Payday Loans twice now when unexpected expenses came up. Both times the process was smooth and professional. They treat you with respect and never make you feel judged for needing help.",
+        "author": "Robert M.",
+        "location": "Dallas, TX",
+        "rating": 4,
+        "date": "2024-08"
+      },
+      {
+        "text": "The Commerce Street location is convenient and the staff is excellent. They explained Dallas's payday loan ordinance and made sure I understood all my options. Highly recommend.",
+        "author": "Patricia W.",
+        "location": "Dallas, TX",
+        "rating": 5,
+        "date": "2024-10"
+      },
+      {
+        "text": "Fast approval and transparent fees. I appreciated that they follow Dallas's city rules - it made me feel more protected as a borrower. Good experience overall.",
+        "author": "Anthony J.",
+        "location": "Dallas, TX",
+        "rating": 5,
+        "date": "2024-11"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby Cities",
+    "intro": "Can't make it to our Dallas location? We also serve these nearby Texas cities:",
+    "cities": [
+      {"name": "Irving", "slug": "irving", "url": "/locations/texas/irving", "distanceMiles": 10},
+      {"name": "Garland", "slug": "garland", "url": "/locations/texas/garland", "distanceMiles": 12},
+      {"name": "Plano", "slug": "plano", "url": "/locations/texas/plano", "distanceMiles": 18},
+      {"name": "Arlington", "slug": "arlington", "url": "/locations/texas/arlington", "distanceMiles": 20}
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Dallas location?",
+      "answer": "Our Dallas branch is located at 3456 Commerce Street, Suite 200, near Reunion Tower and Dealey Plaza. Take I-35E Exit 428A (Downtown) for the quickest route."
+    },
+    {
+      "question": "What are your hours in Dallas?",
+      "answer": "We're open Monday through Friday 9 AM to 7 PM, and Saturday 10 AM to 4 PM. We're closed on Sundays. Online applications are available 24/7."
+    },
+    {
+      "question": "Does Dallas have special payday loan rules?",
+      "answer": "Yes, Dallas has a city ordinance that limits payday loans to 20% of your gross monthly income, allows only 3 rollovers with 25% principal reduction each time, and includes zoning restrictions for payday lenders."
+    },
+    {
+      "question": "What do I need to bring to the Dallas branch?",
+      "answer": "Bring a valid government-issued photo ID, proof of steady income (pay stub, bank statement, or benefits letter), your active checking account information, and a working phone number."
+    },
+    {
+      "question": "How much can I borrow in Dallas?",
+      "answer": "Under Dallas's city ordinance, payday loans are limited to 20% of your gross monthly income. For example, if you earn $4,000 per month, your maximum loan would be $800."
+    },
+    {
+      "question": "Can I apply online for a Dallas payday loan?",
+      "answer": "Yes, you can start your application online 24/7 and complete the process at our Dallas location or receive funds via direct deposit if approved."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Ready to Get Cash in Dallas?",
+    "subheadline": "Visit our Commerce Street location or apply online now",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=dallas-tx"
+    },
+    "secondaryCta": {
+      "text": "Call (214) 555-0234",
+      "url": "tel:+12145550234"
+    },
+    "address": "3456 Commerce Street, Suite 200, Dallas, TX 75226"
+  },
+
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FinancialService",
+    "name": "Ace Payday Loans of Dallas",
+    "image": "https://www.acepaydayloans.com/images/dallas-branch.jpg",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "3456 Commerce Street, Suite 200",
+      "addressLocality": "Dallas",
+      "addressRegion": "TX",
+      "postalCode": "75226",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 32.7767,
+      "longitude": -96.7970
+    },
+    "telephone": "+12145550234",
+    "url": "https://www.acepaydayloans.com/locations/texas/dallas",
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "09:00",
+        "closes": "19:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Saturday",
+        "opens": "10:00",
+        "closes": "16:00"
+      }
+    ],
+    "priceRange": "$$",
+    "areaServed": {
+      "@type": "City",
+      "name": "Dallas",
+      "containedInPlace": {
+        "@type": "State",
+        "name": "Texas"
+      }
+    },
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "Payday Loan Services",
+      "itemListElement": [
+        {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Payday Loans"}},
+        {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Cash Advances"}},
+        {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Installment Loans"}},
+        {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Title Loans"}},
+        {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Check Cashing"}}
+      ]
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.4",
+      "reviewCount": "856"
+    }
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "Texas", "url": "/locations/texas"},
+    {"label": "Dallas", "url": "/locations/texas/dallas"}
+  ],
+
+  "metadata": {
+    "generatedAt": "2025-01-15T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "antiDoorwayCompliant": true
+  }
+}

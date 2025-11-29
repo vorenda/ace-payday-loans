@@ -1,0 +1,330 @@
+{
+  "id": "anaheim-ca",
+  "city": "Anaheim",
+  "state": "California",
+  "stateCode": "CA",
+  "stateSlug": "california",
+  "slug": "anaheim",
+  "countyName": "Orange County",
+  "areaCode": "714",
+  "population": 350000,
+  "serviceNiche": "Payday Loans",
+
+  "coordinates": {
+    "latitude": 33.8366,
+    "longitude": -117.9143
+  },
+
+  "seo": {
+    "title": "Payday Loans in Anaheim, CA | Ace Payday Loans",
+    "metaDescription": "Get fast payday loans in Anaheim near Disneyland Resort. Licensed California lender. Apply online or visit us off I-5. Call (714) 555-0234.",
+    "canonicalUrl": "/locations/california/anaheim",
+    "keywords": [
+      "payday loans anaheim",
+      "anaheim payday loans",
+      "cash advance anaheim ca",
+      "payday loans near me anaheim",
+      "fast cash anaheim",
+      "emergency loans anaheim",
+      "payday lenders orange county",
+      "same day loans anaheim"
+    ]
+  },
+
+  "hero": {
+    "h1": "Fast Payday Loans in Anaheim, CA",
+    "subheadline": "Get cash today near Disneyland Resort - Licensed California Lender",
+    "ctaText": "Apply Now",
+    "ctaUrl": "/apply?location=anaheim-ca",
+    "secondaryCta": {
+      "text": "Call (714) 555-0234",
+      "url": "tel:+17145550234"
+    }
+  },
+
+  "localProof": {
+    "headline": "Serving Anaheim & Orange County",
+    "directions": "We are conveniently located in Anaheim, just a short drive from Disneyland Resort and Angel Stadium. If you are taking I-5, use Exit 110 (Disneyland Drive/Ball Road) and head east. From CA-91, take Exit 45 near Angel Stadium. Our location is easily accessible from anywhere in Orange County.",
+    "landmarks": ["Disneyland Resort", "Angel Stadium", "Honda Center"],
+    "highways": ["I-5", "CA-91", "CA-57"],
+    "exits": ["I-5 Exit 110 (Disneyland)", "CA-91 Exit 45 (Angel Stadium)"],
+    "neighboringTowns": ["Fullerton", "Garden Grove", "Orange", "Buena Park", "Placentia"],
+    "localDescription": "Anaheim is home to the world-famous Disneyland Resort and major sports venues.",
+    "serviceAreaDescription": "We proudly serve all of Orange County including Fullerton, Garden Grove, Orange, Buena Park, Placentia, and the surrounding communities. Whether you work in the hospitality industry near Disneyland or anywhere else in Anaheim, we are here to help."
+  },
+
+  "nap": {
+    "name": "Ace Payday Loans - Anaheim",
+    "street": "2100 East Katella Avenue, Suite 205",
+    "city": "Anaheim",
+    "state": "CA",
+    "zip": "92806",
+    "phone": "(714) 555-0234",
+    "formattedPhone": "+17145550234",
+    "formattedAddress": "2100 East Katella Avenue, Suite 205, Anaheim, CA 92806",
+    "googleMapsUrl": "https://www.google.com/maps?q=33.8366,-117.9143",
+    "hours": {
+      "monday": "9:00 AM - 7:00 PM",
+      "tuesday": "9:00 AM - 7:00 PM",
+      "wednesday": "9:00 AM - 7:00 PM",
+      "thursday": "9:00 AM - 7:00 PM",
+      "friday": "9:00 AM - 7:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    }
+  },
+
+  "services": {
+    "headline": "Our Anaheim Financial Services",
+    "intro": "We offer a full range of short-term lending and money services to help Anaheim residents with their financial needs.",
+    "servicesList": [
+      {
+        "name": "Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Short-term loans up to $300 to help cover unexpected expenses until your next paycheck.",
+        "anchorText": "Learn about Payday Loans"
+      },
+      {
+        "name": "Cash Advances",
+        "slug": "cash-advances",
+        "url": "/services/cash-advances",
+        "description": "Quick access to cash before your next payday for emergency expenses.",
+        "anchorText": "Get a Cash Advance"
+      },
+      {
+        "name": "Installment Loans",
+        "slug": "installment-loans",
+        "url": "/services/installment-loans",
+        "description": "Larger loans repaid over time through scheduled monthly payments.",
+        "anchorText": "Explore Installment Loans"
+      },
+      {
+        "name": "Title Loans",
+        "slug": "title-loans",
+        "url": "/services/title-loans",
+        "description": "Use your vehicle title as collateral for larger loan amounts.",
+        "anchorText": "Learn about Title Loans"
+      },
+      {
+        "name": "Check Cashing",
+        "slug": "check-cashing",
+        "url": "/services/check-cashing",
+        "description": "Convert checks to cash instantly without a bank account.",
+        "anchorText": "Check Cashing Services"
+      },
+      {
+        "name": "Online Payday Loans",
+        "slug": "online-payday-loans",
+        "url": "/services/online-payday-loans",
+        "description": "Apply for payday loans from the comfort of your home with fast online approval.",
+        "anchorText": "Apply Online Now"
+      },
+      {
+        "name": "Same Day Loans",
+        "slug": "same-day-loans",
+        "url": "/services/same-day-loans",
+        "description": "Get approved and funded within the same business day for urgent needs.",
+        "anchorText": "Same Day Funding"
+      },
+      {
+        "name": "Bad Credit Loans",
+        "slug": "bad-credit-loans",
+        "url": "/services/bad-credit-loans",
+        "description": "Loan options available for borrowers with less-than-perfect credit history.",
+        "anchorText": "Bad Credit Options"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "California Payday Loan Regulations",
+    "intro": "Residents of Anaheim are protected by California's strict payday loan regulations enforced by the Department of Financial Protection and Innovation (DFPI).",
+    "content": "California regulates payday loans under the California Deferred Deposit Transaction Law (CDDTL), administered by the Department of Financial Protection and Innovation (DFPI). The state allows payday loans with significant consumer protections: loans are capped at $300 with a maximum fee of 15% (approximately $45). Rollovers are prohibited, meaning lenders cannot issue a new loan to pay off an existing one. California also prohibits lenders from making multiple loans to the same borrower simultaneously. All payday lenders operating in California must be licensed by the DFPI, and consumers can verify a lender's license status online or by calling 1-866-275-2677.",
+    "keyPoints": [
+      "California limits payday loans to a maximum of $300",
+      "The maximum fee is 15% of the check amount (up to $45)",
+      "Lenders cannot make a new loan to pay off an existing loan (rollovers prohibited)",
+      "You cannot have more than one payday loan at a time",
+      "If your check bounces, the lender can charge only one NSF fee of up to $15",
+      "Lenders cannot threaten criminal prosecution for non-payment",
+      "Your loan contract must be provided in your primary language",
+      "All lenders must be licensed - verify at dfpi.ca.gov"
+    ],
+    "protections": [
+      "Maximum loan amount: $300",
+      "Maximum fee: 15% of check face value ($45 maximum)",
+      "Maximum term: 31 days",
+      "Rollovers: Prohibited",
+      "Multiple loans: Not allowed simultaneously",
+      "NSF fee: $15 maximum (one fee only)",
+      "Criminal prosecution: Cannot be threatened for non-payment"
+    ],
+    "regulatoryBody": {
+      "name": "Department of Financial Protection and Innovation",
+      "abbreviation": "DFPI",
+      "website": "https://dfpi.ca.gov",
+      "phone": "1-866-275-2677",
+      "verificationUrl": "https://dfpi.ca.gov/regulated-industries/regulated-entities-list/"
+    },
+    "aprDisclosure": "The typical Annual Percentage Rate (APR) for a payday loan in California is approximately 426-460% for a two-week loan. By comparison, credit cards typically have APRs between 15-30% and personal loans between 6-36%. The high APR reflects the short-term nature of payday loans and the fees charged. A $300 payday loan with a $45 fee repaid in 14 days has an APR of approximately 391%.",
+    "disclaimer": "IMPORTANT NOTICE: This information is provided for general educational purposes only and does not constitute legal or financial advice. Payday loans are high-cost, short-term loans with APRs that can exceed 400%. Before taking out a payday loan, consider alternatives such as personal loans, credit union loans, payment plans with creditors, or assistance from non-profit credit counseling agencies. Laws and regulations may change. For the most current information, contact the California Department of Financial Protection and Innovation at 1-866-275-2677 or visit dfpi.ca.gov. If you are experiencing financial difficulties, contact a HUD-approved housing counselor or the National Foundation for Credit Counseling at 1-800-388-2227."
+  },
+
+  "testimonials": {
+    "headline": "What Anaheim Customers Say",
+    "reviews": [
+      {
+        "text": "Working in hospitality near Disneyland means irregular paychecks sometimes. When I needed help between checks, Ace Payday Loans in Anaheim came through fast. Professional service and no hidden fees.",
+        "author": "Jennifer M.",
+        "rating": 5,
+        "date": "2024-10"
+      },
+      {
+        "text": "The Anaheim location is super convenient, right off I-5. I had an emergency expense and they helped me out the same day. Would definitely recommend to anyone in Orange County.",
+        "author": "Kevin P.",
+        "rating": 5,
+        "date": "2024-09"
+      },
+      {
+        "text": "I was worried about my credit history but the staff at Ace in Anaheim were helpful and non-judgmental. They explained all my options clearly and I got the help I needed.",
+        "author": "Stephanie W.",
+        "rating": 4,
+        "date": "2024-11"
+      }
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Anaheim location?",
+      "answer": "Our Anaheim branch is located at 2100 East Katella Avenue, Suite 205. We are near Angel Stadium and just a short drive from Disneyland Resort. From I-5, take Exit 110 (Disneyland Drive/Ball Road) and head east."
+    },
+    {
+      "question": "What are your hours in Anaheim?",
+      "answer": "We are open Monday through Friday from 9 AM to 7 PM, and Saturday from 10 AM to 4 PM. We are closed on Sundays."
+    },
+    {
+      "question": "How much can I borrow at your Anaheim location?",
+      "answer": "In California, payday loans are limited to $300 maximum by state law. After the maximum fee of $45, you would receive approximately $255. We also offer other loan products like installment loans for larger amounts."
+    },
+    {
+      "question": "Do I need an appointment at the Anaheim location?",
+      "answer": "No appointment is needed. Walk-ins are welcome during our business hours. You can also apply online first to speed up the in-store process."
+    },
+    {
+      "question": "What do I need to bring to the Anaheim branch?",
+      "answer": "Please bring a valid government-issued photo ID, proof of income (pay stub or bank statement), an active checking account, and a working phone number. Our staff will guide you through the rest of the process."
+    },
+    {
+      "question": "Can I get same-day funding in Anaheim?",
+      "answer": "Yes, if you apply in-store and are approved, you can receive your funds the same day. For online applications, we offer next-business-day funding or instant funding to a debit card where available."
+    }
+  ],
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby Cities",
+    "intro": "Cannot make it to our Anaheim location? We also serve these nearby areas:",
+    "cities": [
+      {
+        "name": "Santa Ana",
+        "slug": "santa-ana",
+        "url": "/locations/california/santa-ana",
+        "distanceMiles": 7
+      },
+      {
+        "name": "Long Beach",
+        "slug": "long-beach",
+        "url": "/locations/california/long-beach",
+        "distanceMiles": 12
+      },
+      {
+        "name": "Irvine",
+        "slug": "irvine",
+        "url": "/locations/california/irvine",
+        "distanceMiles": 12
+      },
+      {
+        "name": "Huntington Beach",
+        "slug": "huntington-beach",
+        "url": "/locations/california/huntington-beach",
+        "distanceMiles": 14
+      }
+    ]
+  },
+
+  "ctaSection": {
+    "headline": "Ready to Get Cash in Anaheim?",
+    "subheadline": "Visit our Katella Avenue location or apply online now",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=anaheim-ca"
+    },
+    "secondaryCta": {
+      "text": "Call (714) 555-0234",
+      "url": "tel:+17145550234"
+    },
+    "address": "2100 East Katella Avenue, Suite 205, Anaheim, CA 92806"
+  },
+
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FinancialService",
+    "name": "Ace Payday Loans - Anaheim",
+    "description": "Fast payday loans and cash advances in Anaheim, CA. Licensed California lender offering same-day funding near Disneyland.",
+    "url": "https://www.acepaydayloans.com/locations/california/anaheim",
+    "telephone": "+17145550234",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2100 East Katella Avenue, Suite 205",
+      "addressLocality": "Anaheim",
+      "addressRegion": "CA",
+      "postalCode": "92806",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 33.8366,
+      "longitude": -117.9143
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "09:00",
+        "closes": "19:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Saturday",
+        "opens": "10:00",
+        "closes": "16:00"
+      }
+    ],
+    "priceRange": "$$",
+    "currenciesAccepted": "USD",
+    "paymentAccepted": "Cash, Debit Card",
+    "areaServed": {
+      "@type": "City",
+      "name": "Anaheim",
+      "containedInPlace": {
+        "@type": "State",
+        "name": "California"
+      }
+    }
+  },
+
+  "breadcrumbs": [
+    { "label": "Home", "url": "/" },
+    { "label": "Locations", "url": "/locations" },
+    { "label": "California", "url": "/locations/california" },
+    { "label": "Anaheim", "url": "/locations/california/anaheim" }
+  ],
+
+  "metadata": {
+    "generatedAt": "2025-01-15T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "batch": "california-batch-2"
+  }
+}

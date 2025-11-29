@@ -1,0 +1,308 @@
+{
+  "id": "irving-tx",
+  "city": "Irving",
+  "slug": "irving",
+  "state": "Texas",
+  "stateCode": "TX",
+  "stateSlug": "texas",
+  "countyName": "Dallas County",
+  "serviceNiche": "Payday Loans",
+
+  "seo": {
+    "title": "Payday Loans in Irving, TX | Fast Cash Near Las Colinas | Ace Payday Loans",
+    "metaDescription": "Need fast cash in Irving? Visit Ace Payday Loans near Toyota Music Factory off TX-183. Same-day funding, no hidden fees. Licensed Texas CAB. Call (972) 555-0156.",
+    "canonicalUrl": "/locations/texas/irving",
+    "keywords": ["payday loans irving", "irving payday loans", "cash advance irving tx", "payday loans near me irving", "fast cash irving texas", "payday loans las colinas"]
+  },
+
+  "hero": {
+    "h1": "Fast Payday Loans in Irving, TX",
+    "subheadline": "Trusted lending near Las Colinas serving Irving and DFW Airport workers",
+    "ctaText": "Apply Now for Irving Cash",
+    "ctaUrl": "/apply?location=irving-tx",
+    "secondaryCta": {
+      "text": "Call (972) 555-0156",
+      "url": "tel:+19725550156"
+    }
+  },
+
+  "localProof": {
+    "headline": "Where to Find Us in Irving",
+    "directions": "We are conveniently located at 3401 North MacArthur Boulevard, Suite 200, in the Las Colinas Urban Center near Toyota Music Factory. If you are taking TX-183, take Exit 10 (Las Colinas Blvd) and head south. We're easily accessible from TX-114 via the MacArthur Boulevard exit, and just minutes from DFW Airport for airport employees.",
+    "landmarks": ["Toyota Music Factory", "Las Colinas Urban Center", "Irving Arts Center"],
+    "highways": ["TX-183", "TX-114", "TX-161"],
+    "exits": ["TX-183 Exit 10 (Las Colinas)", "TX-114 Exit 8 (DFW Airport)"],
+    "neighborhoodName": "Las Colinas",
+    "hours": {
+      "monday": "9:00 AM - 7:00 PM",
+      "tuesday": "9:00 AM - 7:00 PM",
+      "wednesday": "9:00 AM - 7:00 PM",
+      "thursday": "9:00 AM - 7:00 PM",
+      "friday": "9:00 AM - 7:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d107150.35!2d-96.99!3d32.81!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864e820d9b3a6!2sIrving%2C%20TX!5e0!3m2!1sen!2sus"
+  },
+
+  "nap": {
+    "name": "Ace Payday Loans of Irving",
+    "street": "3401 North MacArthur Boulevard, Suite 200",
+    "city": "Irving",
+    "state": "TX",
+    "zip": "75062",
+    "phone": "(972) 555-0156",
+    "formattedPhone": "+19725550156",
+    "formattedAddress": "3401 North MacArthur Boulevard, Suite 200, Irving, TX 75062",
+    "coordinates": {
+      "latitude": 32.8140,
+      "longitude": -96.9489
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=32.8140,-96.9489"
+  },
+
+  "productLinks": {
+    "headline": "Our Irving Financial Services",
+    "intro": "We offer a full range of short-term lending and money services to help Irving and Las Colinas residents with their financial needs:",
+    "services": [
+      {
+        "name": "Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Short-term loans to cover unexpected expenses until your next paycheck",
+        "anchorText": "Learn About Payday Loans"
+      },
+      {
+        "name": "Cash Advances",
+        "slug": "cash-advances",
+        "url": "/services/cash-advances",
+        "description": "Quick access to emergency cash when you need it most",
+        "anchorText": "Get a Cash Advance"
+      },
+      {
+        "name": "Installment Loans",
+        "slug": "installment-loans",
+        "url": "/services/installment-loans",
+        "description": "Larger loans repaid over time with scheduled monthly payments",
+        "anchorText": "Explore Installment Loans"
+      },
+      {
+        "name": "Title Loans",
+        "slug": "title-loans",
+        "url": "/services/title-loans",
+        "description": "Use your vehicle title as collateral for larger loan amounts",
+        "anchorText": "Learn About Title Loans"
+      },
+      {
+        "name": "Check Cashing",
+        "slug": "check-cashing",
+        "url": "/services/check-cashing",
+        "description": "Convert checks to cash instantly without a bank account",
+        "anchorText": "Check Cashing Services"
+      },
+      {
+        "name": "Online Payday Loans",
+        "slug": "online-payday-loans",
+        "url": "/services/online-payday-loans",
+        "description": "Apply from home with our secure online application",
+        "anchorText": "Apply Online Now"
+      },
+      {
+        "name": "Same Day Loans",
+        "slug": "same-day-loans",
+        "url": "/services/same-day-loans",
+        "description": "Get approved and funded within the same business day",
+        "anchorText": "Same Day Funding Options"
+      },
+      {
+        "name": "Bad Credit Loans",
+        "slug": "bad-credit-loans",
+        "url": "/services/bad-credit-loans",
+        "description": "Loan options for borrowers with less-than-perfect credit",
+        "anchorText": "Bad Credit? We Can Help"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "Understanding Payday Loan Laws in Texas",
+    "content": "Irving residents should understand that payday loans are legal in Texas through licensed Credit Access Businesses (CABs). While Texas has minimal state-level restrictions, you are protected by state regulations administered by the Office of Consumer Credit Commissioner (OCCC).",
+    "keyPoints": [
+      "Texas allows payday loans through licensed Credit Access Businesses (CABs) regulated by the OCCC",
+      "There is no state cap on interest rates or CAB fees - typical APRs range from 400% to 700%+",
+      "You have the right to cancel your loan within 3 days of signing without penalty",
+      "Lenders cannot threaten criminal prosecution for non-payment (except for fraud or theft)",
+      "Your wages cannot be garnished for payday loan debt under Texas law",
+      "Your home (if declared homestead) is protected from debt collection",
+      "Always verify your lender is licensed at occc.texas.gov before borrowing"
+    ],
+    "regulatoryBody": "Texas Office of Consumer Credit Commissioner (OCCC)",
+    "regulatoryUrl": "https://occc.texas.gov",
+    "consumerHelpline": "(800) 538-1579",
+    "warningBox": {
+      "title": "Important Cost Warning",
+      "content": "Payday loans in Texas are among the most expensive in the nation. A typical $300 loan can cost over $1,000 in fees alone, resulting in APRs exceeding 700%. Consider alternatives such as credit union loans, payment plans with creditors, or nonprofit credit counseling before taking out a payday loan."
+    },
+    "disclaimer": "This information is provided for general educational purposes only and should not be construed as legal advice. Payday loan laws and regulations change frequently. The information presented may not reflect the most current legal developments. For the most accurate and up-to-date information, contact the Texas Office of Consumer Credit Commissioner at (800) 538-1579 or visit occc.texas.gov. If you need legal advice, please consult with a licensed attorney in Texas."
+  },
+
+  "cityOrdinance": null,
+
+  "localReviews": {
+    "headline": "What Our Irving Customers Say",
+    "locationId": "irving-tx",
+    "reviewSource": "Google Business Profile",
+    "averageRating": 4.6,
+    "totalReviews": 73,
+    "featuredReviews": [
+      {
+        "name": "Angela M.",
+        "rating": 5,
+        "text": "I work at the airport and the Irving location is perfect for my schedule. They were fast and professional, and I had cash the same day.",
+        "date": "2024-11-10"
+      },
+      {
+        "name": "Richard T.",
+        "rating": 5,
+        "text": "Great location in Las Colinas near the Toyota Music Factory. Staff was helpful and explained everything clearly. No hidden fees.",
+        "date": "2024-10-18"
+      },
+      {
+        "name": "Stephanie H.",
+        "rating": 4,
+        "text": "Convenient and professional. Got the help I needed when an unexpected bill came up. Would recommend.",
+        "date": "2024-09-28"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby Cities",
+    "intro": "Can't make it to our Irving location? We also serve these nearby communities:",
+    "cities": [
+      {"name": "Dallas", "slug": "dallas", "url": "/locations/texas/dallas", "distanceMiles": 10},
+      {"name": "Grand Prairie", "slug": "grand-prairie", "url": "/locations/texas/grand-prairie", "distanceMiles": 8},
+      {"name": "Arlington", "slug": "arlington", "url": "/locations/texas/arlington", "distanceMiles": 12},
+      {"name": "Carrollton", "slug": "carrollton", "url": "/locations/texas/carrollton", "distanceMiles": 10}
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Irving location?",
+      "answer": "Our Irving branch is located at 3401 North MacArthur Boulevard, Suite 200, in the Las Colinas area near Toyota Music Factory. Take TX-183 Exit 10 (Las Colinas Blvd) and head south. We're easily accessible from DFW Airport."
+    },
+    {
+      "question": "What are your hours in Irving?",
+      "answer": "We're open Monday through Friday from 9 AM to 7 PM, and Saturday from 10 AM to 4 PM. We're closed on Sundays. You can also apply online 24/7."
+    },
+    {
+      "question": "Do you serve DFW Airport employees?",
+      "answer": "Absolutely! We're conveniently located near DFW Airport and serve many airport workers. Our hours accommodate various shift schedules, and you can also apply online before or after work."
+    },
+    {
+      "question": "How quickly can I get cash in Irving?",
+      "answer": "If you apply in-store during business hours and are approved, you can receive cash the same day. For online applications approved by 6 PM CT, funds are typically deposited the next business day."
+    },
+    {
+      "question": "What documents do I need to bring?",
+      "answer": "Please bring a valid government-issued photo ID, proof of income (recent pay stub or bank statement), proof of residence (utility bill or lease), and your bank account information for direct deposit."
+    },
+    {
+      "question": "Does Irving have any local payday loan ordinances?",
+      "answer": "No, Irving does not currently have local ordinances restricting payday loans beyond state regulations. However, we encourage responsible borrowing and will help you understand all terms before you commit."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Ready to Get Cash in Irving?",
+    "subheadline": "Visit our Las Colinas location or apply online now",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=irving-tx"
+    },
+    "secondaryCta": {
+      "text": "Call (972) 555-0156",
+      "url": "tel:+19725550156"
+    },
+    "address": "3401 North MacArthur Boulevard, Suite 200, Irving, TX 75062"
+  },
+
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FinancialService",
+    "name": "Ace Payday Loans of Irving",
+    "image": "https://www.acepaydayloans.com/images/irving-branch.jpg",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "3401 North MacArthur Boulevard, Suite 200",
+      "addressLocality": "Irving",
+      "addressRegion": "TX",
+      "postalCode": "75062",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 32.8140,
+      "longitude": -96.9489
+    },
+    "url": "https://www.acepaydayloans.com/locations/texas/irving",
+    "telephone": "+19725550156",
+    "priceRange": "$$",
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "09:00",
+        "closes": "19:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Saturday",
+        "opens": "10:00",
+        "closes": "16:00"
+      }
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.6",
+      "reviewCount": "73"
+    },
+    "areaServed": {
+      "@type": "City",
+      "name": "Irving",
+      "containedInPlace": {
+        "@type": "State",
+        "name": "Texas"
+      }
+    },
+    "serviceType": ["Payday Loans", "Cash Advances", "Installment Loans", "Title Loans", "Check Cashing"]
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "Texas", "url": "/locations/texas"},
+    {"label": "Irving", "url": "/locations/texas/irving"}
+  ],
+
+  "images": {
+    "hero": {
+      "url": "/images/locations/irving-tx-branch.jpg",
+      "alt": "Ace Payday Loans Irving branch exterior near Las Colinas",
+      "caption": "Our Irving location on MacArthur Boulevard"
+    },
+    "interior": {
+      "url": "/images/locations/irving-tx-interior.jpg",
+      "alt": "Clean, professional interior of Irving payday loan office",
+      "caption": "Professional service in a comfortable environment"
+    }
+  },
+
+  "metadata": {
+    "generatedAt": "2025-01-15T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "batch": 2
+  }
+}

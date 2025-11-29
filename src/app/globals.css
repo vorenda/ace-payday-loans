@@ -1,0 +1,314 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* CSS Variables */
+:root {
+  --font-display: 'Bricolage Grotesque', system-ui, sans-serif;
+  --font-body: 'DM Sans', system-ui, sans-serif;
+  --color-primary: #0d4f4f;
+  --color-primary-light: #1a6b6b;
+  --color-primary-dark: #083838;
+  --color-primary-subtle: #e8f4f4;
+  --color-accent: #d4a853;
+  --color-accent-light: #e8c77b;
+  --color-accent-dark: #b8923d;
+  --color-success: #2d8a5e;
+  --color-warning: #e09f3e;
+  --color-error: #c44536;
+  --color-background: #faf8f5;
+  --color-background-alt: #f5f1eb;
+  --color-surface: #ffffff;
+  --color-text: #1a1a1a;
+  --color-text-secondary: #4a4a4a;
+  --color-text-muted: #6b6b6b;
+  --color-border: rgba(13, 79, 79, 0.1);
+  --shadow-md: 0 4px 12px rgba(13, 79, 79, 0.08);
+  --shadow-lg: 0 8px 24px rgba(13, 79, 79, 0.12);
+  --shadow-xl: 0 16px 48px rgba(13, 79, 79, 0.16);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-body);
+  background-color: var(--color-background);
+  color: var(--color-text);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-display);
+}
+
+/* Custom Button Styles */
+.btn {
+  @apply inline-flex items-center justify-center gap-2 px-6 py-3 font-bold rounded-xl transition-all duration-300 whitespace-nowrap;
+  font-family: var(--font-display);
+}
+
+.btn--primary {
+  background: linear-gradient(135deg, var(--color-accent) 0%, var(--color-accent-dark) 100%);
+  color: var(--color-text);
+  box-shadow: var(--shadow-md);
+}
+
+.btn--primary:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-lg), 0 0 20px rgba(212, 168, 83, 0.4);
+}
+
+.btn--secondary {
+  @apply bg-white border-2;
+  border-color: var(--color-primary);
+  color: var(--color-primary);
+}
+
+.btn--secondary:hover {
+  background: var(--color-primary);
+  color: white;
+}
+
+.btn--phone {
+  background: var(--color-success);
+  color: white;
+}
+
+.btn--phone:hover {
+  background: #238b4e;
+}
+
+.btn--large {
+  @apply px-8 py-4 text-lg;
+}
+
+/* Section Styles */
+.section {
+  @apply py-20;
+}
+
+.section--alt {
+  background-color: var(--color-background-alt);
+}
+
+.section--primary {
+  background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-primary-dark) 100%);
+  color: white;
+}
+
+/* Section Header */
+.section-label {
+  @apply inline-block px-4 py-1 text-sm font-bold uppercase tracking-wider rounded-full mb-4;
+  background: var(--color-primary-subtle);
+  color: var(--color-primary);
+  font-family: var(--font-display);
+}
+
+.section-title {
+  @apply text-4xl md:text-5xl font-bold mb-4;
+  font-family: var(--font-display);
+}
+
+.section-subtitle {
+  @apply text-lg;
+  color: var(--color-text-muted);
+}
+
+/* Trust Badge */
+.trust-badge {
+  @apply flex items-center gap-2 px-3 py-2 text-sm rounded-lg border;
+  background: var(--color-surface);
+  border-color: var(--color-border);
+  color: var(--color-text-secondary);
+}
+
+.trust-badge svg {
+  color: var(--color-success);
+}
+
+.trust-badge--gold svg {
+  color: var(--color-accent);
+}
+
+/* Card Styles */
+.card {
+  @apply rounded-2xl p-6 transition-all duration-300;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-lg);
+  border-color: var(--color-primary);
+}
+
+/* FAQ Styles */
+.faq-item {
+  @apply rounded-xl overflow-hidden mb-3;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+}
+
+.faq-item:hover,
+.faq-item.open {
+  border-color: var(--color-primary);
+}
+
+.faq-question {
+  @apply flex items-center justify-between w-full p-5 text-left font-bold;
+  font-family: var(--font-display);
+  font-size: 1.125rem;
+}
+
+.faq-question::after {
+  content: '';
+  width: 12px;
+  height: 12px;
+  border-right: 2px solid var(--color-primary);
+  border-bottom: 2px solid var(--color-primary);
+  transform: rotate(45deg);
+  transition: transform 0.2s ease;
+  flex-shrink: 0;
+  margin-left: 1rem;
+}
+
+.faq-item.open .faq-question::after {
+  transform: rotate(-135deg);
+}
+
+/* Compliance Card */
+.compliance-card {
+  @apply rounded-2xl p-6;
+  background: var(--color-surface);
+  border-left: 4px solid var(--color-primary);
+}
+
+.compliance-list {
+  @apply space-y-2 list-none;
+}
+
+.compliance-list li {
+  @apply relative pl-6;
+  color: var(--color-text-secondary);
+}
+
+.compliance-list li::before {
+  content: '';
+  @apply absolute left-0 top-2 w-2 h-2 rounded-full;
+  background: var(--color-accent);
+}
+
+/* Footer */
+.footer-disclaimer {
+  @apply py-8 border-t border-b;
+  border-color: rgba(255, 255, 255, 0.1);
+}
+
+.disclaimer-box {
+  @apply rounded-xl p-6;
+  background: rgba(255, 255, 255, 0.05);
+  border-left: 4px solid var(--color-warning);
+}
+
+/* Mobile Sticky CTA */
+.mobile-sticky-cta {
+  @apply fixed bottom-0 left-0 right-0 p-4 flex gap-2 z-50 md:hidden;
+  background: var(--color-surface);
+  box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* Animations */
+.reveal-on-scroll {
+  @apply opacity-0 translate-y-8 transition-all duration-700;
+}
+
+.reveal-on-scroll.revealed {
+  @apply opacity-100 translate-y-0;
+}
+
+/* Star Rating */
+.star-rating {
+  @apply flex gap-0.5;
+  color: var(--color-accent);
+}
+
+.star-rating svg {
+  @apply w-5 h-5 fill-current;
+}
+
+/* Form Styles */
+.form-group label {
+  @apply block font-medium mb-2;
+  font-family: var(--font-display);
+}
+
+.form-group input,
+.form-group select,
+.form-group textarea {
+  @apply w-full p-3 rounded-lg border transition-all duration-200;
+  background: var(--color-background);
+  border-color: var(--color-border);
+}
+
+.form-group input:focus,
+.form-group select:focus,
+.form-group textarea:focus {
+  @apply outline-none;
+  border-color: var(--color-primary);
+  box-shadow: 0 0 0 3px var(--color-primary-subtle);
+}
+
+/* Logo */
+.logo-icon {
+  @apply w-10 h-10 rounded-lg flex items-center justify-center text-white font-bold;
+  background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-primary-light) 100%);
+}
+
+/* Hero Pattern */
+.hero-pattern {
+  background-image:
+    linear-gradient(rgba(13, 79, 79, 0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(13, 79, 79, 0.03) 1px, transparent 1px);
+  background-size: 50px 50px;
+}
+
+/* Highlight underline */
+.highlight {
+  position: relative;
+  color: var(--color-primary);
+}
+
+.highlight::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 8px;
+  background: var(--color-accent);
+  opacity: 0.3;
+  border-radius: 4px;
+}
+
+/* Step connector line */
+@media (min-width: 1024px) {
+  .step:not(:last-child)::after {
+    content: '';
+    position: absolute;
+    top: 50px;
+    right: -30px;
+    width: 60px;
+    height: 2px;
+    background: linear-gradient(90deg, var(--color-primary) 0%, var(--color-border) 100%);
+  }
+}
+
+/* Testimonial */
+.testimonial-avatar {
+  @apply w-12 h-12 rounded-full flex items-center justify-center font-bold;
+  background: var(--color-primary-subtle);
+  color: var(--color-primary);
+  font-family: var(--font-display);
+}

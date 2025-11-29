@@ -1,0 +1,301 @@
+{
+  "id": "midland-tx",
+  "city": "Midland",
+  "slug": "midland",
+  "state": "Texas",
+  "stateCode": "TX",
+  "stateSlug": "texas",
+  "countyName": "Midland County",
+  "serviceNiche": "Payday Loans",
+
+  "seo": {
+    "title": "Payday Loans in Midland, TX | Fast Cash in the Permian Basin",
+    "metaDescription": "Need cash in Midland? Visit Ace Payday Loans near the Petroleum Museum and Midland Park Mall. Same-day funding for oil field workers. Call (432) 555-0171.",
+    "canonicalUrl": "/locations/texas/midland",
+    "keywords": ["payday loans midland", "midland payday loans", "cash advance midland tx", "payday loan near me midland", "fast cash midland", "permian basin payday loans"]
+  },
+
+  "hero": {
+    "h1": "Fast Payday Loans in Midland, TX",
+    "subheadline": "Serving the Permian Basin oil field community with reliable lending",
+    "ctaText": "Apply Now for Midland Cash",
+    "ctaUrl": "/apply?location=midland-tx",
+    "secondaryCta": {
+      "text": "Call (432) 555-0171",
+      "url": "tel:+14325550171"
+    }
+  },
+
+  "localProof": {
+    "headline": "Where to Find Us in Midland",
+    "directions": "We are conveniently located at 4610 N Midkiff Road, right near the Midland Park Mall and just a short drive from the Petroleum Museum. If you are taking I-20, use Exit 136 toward Downtown Midland for easy access.",
+    "landmarks": ["Petroleum Museum", "George W. Bush Childhood Home", "Commemorative Air Force Museum"],
+    "highway": "I-20",
+    "exit": "Exit 136 (Downtown)",
+    "neighborhoodName": "North Midland",
+    "hours": {
+      "monday": "9:00 AM - 7:00 PM",
+      "tuesday": "9:00 AM - 7:00 PM",
+      "wednesday": "9:00 AM - 7:00 PM",
+      "thursday": "9:00 AM - 7:00 PM",
+      "friday": "9:00 AM - 7:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d107556.78!2d-102.0779!3d31.9973"
+  },
+
+  "nap": {
+    "name": "Ace Payday Loans of Midland",
+    "street": "4610 N Midkiff Road, Suite 204",
+    "city": "Midland",
+    "state": "TX",
+    "zip": "79705",
+    "phone": "(432) 555-0171",
+    "formattedPhone": "+14325550171",
+    "formattedAddress": "4610 N Midkiff Road, Suite 204, Midland, TX 79705",
+    "coordinates": {
+      "latitude": 31.9973,
+      "longitude": -102.0779
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=31.9973,-102.0779"
+  },
+
+  "productLinks": {
+    "headline": "Financial Services Available in Midland",
+    "intro": "Midland and Permian Basin residents trust Ace Payday Loans for fast, transparent financial solutions. We understand the unique needs of oil field workers and offer flexible services:",
+    "services": [
+      {
+        "name": "Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Short-term loans to cover unexpected expenses until your next paycheck",
+        "anchorText": "Learn about Payday Loans"
+      },
+      {
+        "name": "Cash Advances",
+        "slug": "cash-advances",
+        "url": "/services/cash-advances",
+        "description": "Quick access to cash for emergency situations",
+        "anchorText": "Get a Cash Advance"
+      },
+      {
+        "name": "Installment Loans",
+        "slug": "installment-loans",
+        "url": "/services/installment-loans",
+        "description": "Larger loans with manageable monthly payments",
+        "anchorText": "Explore Installment Loans"
+      },
+      {
+        "name": "Title Loans",
+        "slug": "title-loans",
+        "url": "/services/title-loans",
+        "description": "Use your vehicle title as collateral for larger amounts",
+        "anchorText": "Title Loan Options"
+      },
+      {
+        "name": "Check Cashing",
+        "slug": "check-cashing",
+        "url": "/services/check-cashing",
+        "description": "Cash your paycheck or personal check instantly",
+        "anchorText": "Check Cashing Services"
+      },
+      {
+        "name": "Online Payday Loans",
+        "slug": "online-payday-loans",
+        "url": "/services/online-payday-loans",
+        "description": "Apply from home and get funded fast",
+        "anchorText": "Apply Online"
+      },
+      {
+        "name": "Same Day Loans",
+        "slug": "same-day-loans",
+        "url": "/services/same-day-loans",
+        "description": "Get approved and funded within hours",
+        "anchorText": "Same Day Funding"
+      },
+      {
+        "name": "Bad Credit Loans",
+        "slug": "bad-credit-loans",
+        "url": "/services/bad-credit-loans",
+        "description": "Loan options for those with less-than-perfect credit",
+        "anchorText": "Bad Credit Options"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "Understanding Payday Loan Laws in Midland, Texas",
+    "content": "Midland residents are protected by both Texas state lending regulations and a local city ordinance that provides additional consumer protections. Texas allows payday loans through licensed Credit Access Businesses (CABs), and Ace Payday Loans is fully licensed and compliant with all state and local requirements.",
+    "hasLocalOrdinance": true,
+    "localOrdinanceNote": "Midland has enacted a local payday lending ordinance that provides additional consumer protections. Under this ordinance, payday loans are limited to 20% of your gross monthly income, and rollovers are limited to 3 with a 25% principal reduction each time.",
+    "keyPoints": [
+      "Texas allows payday loans through licensed Credit Access Businesses (CABs) regulated by the OCCC",
+      "Midland has a local ordinance limiting payday loans to 20% of gross monthly income",
+      "Maximum 3 rollovers allowed with 25% principal reduction each time (city ordinance)",
+      "You have the right to cancel your loan within 3 days of signing without penalty",
+      "Lenders cannot threaten criminal prosecution for non-payment (except for fraud)",
+      "Your wages cannot be garnished for payday loan debt under Texas law",
+      "Always verify your lender is licensed at occc.texas.gov before borrowing"
+    ],
+    "regulatoryBody": "Texas Office of Consumer Credit Commissioner (OCCC)",
+    "regulatoryUrl": "https://occc.texas.gov",
+    "consumerHelpline": "(800) 538-1579",
+    "warningBox": {
+      "title": "Important Cost Warning",
+      "content": "Payday loans in Texas are among the most expensive in the nation. A typical $300 loan can cost over $1,000 in fees alone, resulting in APRs exceeding 700%. Consider alternatives such as credit union loans, payment plans with creditors, or nonprofit credit counseling before taking out a payday loan."
+    },
+    "disclaimer": "This information is provided for general educational purposes only and should not be construed as legal advice. Payday loan laws and regulations change frequently. For the most accurate and up-to-date information, contact the Texas OCCC at (800) 538-1579 or visit occc.texas.gov. If you need legal advice, please consult with a licensed attorney in Texas."
+  },
+
+  "localReviews": {
+    "headline": "What Our Midland Customers Say",
+    "locationId": "midland-tx",
+    "reviewSource": "Google Business Profile",
+    "showWidget": true,
+    "averageRating": 4.4,
+    "totalReviews": 71,
+    "reviews": [
+      {
+        "name": "Travis B.",
+        "rating": 5,
+        "text": "Working in the oil field means sometimes pay is inconsistent. Ace helped me bridge the gap when I needed it. Fast service and they understand the Permian Basin lifestyle.",
+        "date": "2024-11-13"
+      },
+      {
+        "name": "Melissa R.",
+        "rating": 5,
+        "text": "Great location near the mall. The staff was friendly and the approval was quick. They explained the Midland city rules which was helpful.",
+        "date": "2024-10-26"
+      },
+      {
+        "name": "Daniel K.",
+        "rating": 4,
+        "text": "Needed emergency cash for truck repairs. They got me approved the same day. Location on Midkiff is easy to find coming off I-20.",
+        "date": "2024-10-09"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby Cities",
+    "intro": "Cannot make it to our Midland location? We also serve:",
+    "cities": [
+      {"name": "Odessa", "slug": "odessa", "url": "/locations/texas/odessa", "distanceMiles": 21},
+      {"name": "Lubbock", "slug": "lubbock", "url": "/locations/texas/lubbock", "distanceMiles": 118},
+      {"name": "Amarillo", "slug": "amarillo", "url": "/locations/texas/amarillo", "distanceMiles": 237},
+      {"name": "El Paso", "slug": "el-paso", "url": "/locations/texas/el-paso", "distanceMiles": 304}
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Midland location?",
+      "answer": "Our Midland branch is located at 4610 N Midkiff Road, Suite 204, near Midland Park Mall. Take I-20 Exit 136 toward Downtown Midland for the quickest route."
+    },
+    {
+      "question": "What are your hours in Midland?",
+      "answer": "We are open Monday through Friday 9 AM to 7 PM, and Saturday 10 AM to 4 PM. We are closed on Sundays."
+    },
+    {
+      "question": "Does Midland have special payday loan rules?",
+      "answer": "Yes, Midland has a local ordinance that limits payday loans to 20% of your gross monthly income and restricts rollovers to a maximum of 3 with 25% principal reduction each time."
+    },
+    {
+      "question": "Do you work with oil field workers with irregular pay schedules?",
+      "answer": "Yes, we understand that many Permian Basin workers have variable pay schedules. We work with your specific pay cycle to create a repayment plan that fits your situation."
+    },
+    {
+      "question": "What do I need to bring to the Midland location?",
+      "answer": "Bring a valid government ID, proof of income (pay stub or bank statement), and an active checking account. For title loans, also bring your vehicle and clear title."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Ready to Get Cash in Midland?",
+    "subheadline": "Visit our Midkiff Road location or apply online now",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=midland-tx"
+    },
+    "secondaryCta": {
+      "text": "Call (432) 555-0171",
+      "url": "tel:+14325550171"
+    },
+    "address": "4610 N Midkiff Road, Suite 204, Midland, TX 79705"
+  },
+
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FinancialService",
+    "name": "Ace Payday Loans of Midland",
+    "image": "https://acepaydayloans.com/images/locations/midland-tx.jpg",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "4610 N Midkiff Road, Suite 204",
+      "addressLocality": "Midland",
+      "addressRegion": "TX",
+      "postalCode": "79705",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 31.9973,
+      "longitude": -102.0779
+    },
+    "telephone": "+1-432-555-0171",
+    "url": "https://acepaydayloans.com/locations/texas/midland",
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "09:00",
+        "closes": "19:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Saturday",
+        "opens": "10:00",
+        "closes": "16:00"
+      }
+    ],
+    "priceRange": "$$",
+    "currenciesAccepted": "USD",
+    "paymentAccepted": "Cash, Check, Debit Card",
+    "areaServed": {
+      "@type": "City",
+      "name": "Midland",
+      "containedInPlace": {
+        "@type": "State",
+        "name": "Texas"
+      }
+    }
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "Texas", "url": "/locations/texas"},
+    {"label": "Midland", "url": "/locations/texas/midland"}
+  ],
+
+  "images": {
+    "hero": {
+      "url": "/images/locations/midland-tx-hero.jpg",
+      "alt": "Ace Payday Loans Midland branch exterior on Midkiff Road",
+      "caption": "Our Midland location serving the Permian Basin"
+    },
+    "interior": {
+      "url": "/images/locations/midland-tx-interior.jpg",
+      "alt": "Inside our Midland payday loans office",
+      "caption": "Friendly service at our Midland branch"
+    }
+  },
+
+  "metadata": {
+    "generatedAt": "2025-01-15T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "batch": 3
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "id": "killeen-tx",
+  "city": "Killeen",
+  "slug": "killeen",
+  "state": "Texas",
+  "stateCode": "TX",
+  "stateSlug": "texas",
+  "countyName": "Bell County",
+  "serviceNiche": "Payday Loans",
+
+  "seo": {
+    "title": "Payday Loans in Killeen, TX | Fast Cash Near Fort Cavazos",
+    "metaDescription": "Need cash in Killeen? Visit Ace Payday Loans near Fort Cavazos (Fort Hood). Military-friendly lending with same-day funding. Call (254) 555-0139.",
+    "canonicalUrl": "/locations/texas/killeen",
+    "keywords": ["payday loans killeen", "killeen payday loans", "cash advance killeen tx", "payday loan near fort hood", "fast cash killeen", "military payday loans killeen"]
+  },
+
+  "hero": {
+    "h1": "Fast Payday Loans in Killeen, TX",
+    "subheadline": "Proudly serving the Fort Cavazos military community since 2015",
+    "ctaText": "Apply Now for Killeen Cash",
+    "ctaUrl": "/apply?location=killeen-tx",
+    "secondaryCta": {
+      "text": "Call (254) 555-0139",
+      "url": "tel:+12545550139"
+    }
+  },
+
+  "localProof": {
+    "headline": "Where to Find Us in Killeen",
+    "directions": "We are conveniently located at 3102 E Central Texas Expressway, right near the Killeen Mall and just minutes from Fort Cavazos (formerly Fort Hood) main gate. If you are taking US-190, our location is directly accessible from the expressway near the Clear Creek Road intersection.",
+    "landmarks": ["Fort Cavazos (Fort Hood)", "Killeen Mall", "Mayborn Science Theater"],
+    "highway": "US-190",
+    "exit": "Clear Creek Road",
+    "neighborhoodName": "Central Killeen",
+    "hours": {
+      "monday": "9:00 AM - 7:00 PM",
+      "tuesday": "9:00 AM - 7:00 PM",
+      "wednesday": "9:00 AM - 7:00 PM",
+      "thursday": "9:00 AM - 7:00 PM",
+      "friday": "9:00 AM - 7:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d109245.67!2d-97.7278!3d31.1171"
+  },
+
+  "nap": {
+    "name": "Ace Payday Loans of Killeen",
+    "street": "3102 E Central Texas Expressway, Suite 8",
+    "city": "Killeen",
+    "state": "TX",
+    "zip": "76543",
+    "phone": "(254) 555-0139",
+    "formattedPhone": "+12545550139",
+    "formattedAddress": "3102 E Central Texas Expressway, Suite 8, Killeen, TX 76543",
+    "coordinates": {
+      "latitude": 31.1171,
+      "longitude": -97.7278
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=31.1171,-97.7278"
+  },
+
+  "productLinks": {
+    "headline": "Financial Services Available in Killeen",
+    "intro": "Killeen residents and the Fort Cavazos military community trust Ace Payday Loans for fast, transparent financial solutions. We offer a full range of services:",
+    "services": [
+      {
+        "name": "Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Short-term loans to cover unexpected expenses until your next paycheck",
+        "anchorText": "Learn about Payday Loans"
+      },
+      {
+        "name": "Cash Advances",
+        "slug": "cash-advances",
+        "url": "/services/cash-advances",
+        "description": "Quick access to cash for emergency situations",
+        "anchorText": "Get a Cash Advance"
+      },
+      {
+        "name": "Installment Loans",
+        "slug": "installment-loans",
+        "url": "/services/installment-loans",
+        "description": "Larger loans with manageable monthly payments",
+        "anchorText": "Explore Installment Loans"
+      },
+      {
+        "name": "Title Loans",
+        "slug": "title-loans",
+        "url": "/services/title-loans",
+        "description": "Use your vehicle title as collateral for larger amounts",
+        "anchorText": "Title Loan Options"
+      },
+      {
+        "name": "Check Cashing",
+        "slug": "check-cashing",
+        "url": "/services/check-cashing",
+        "description": "Cash your paycheck or personal check instantly",
+        "anchorText": "Check Cashing Services"
+      },
+      {
+        "name": "Online Payday Loans",
+        "slug": "online-payday-loans",
+        "url": "/services/online-payday-loans",
+        "description": "Apply from home and get funded fast",
+        "anchorText": "Apply Online"
+      },
+      {
+        "name": "Same Day Loans",
+        "slug": "same-day-loans",
+        "url": "/services/same-day-loans",
+        "description": "Get approved and funded within hours",
+        "anchorText": "Same Day Funding"
+      },
+      {
+        "name": "Bad Credit Loans",
+        "slug": "bad-credit-loans",
+        "url": "/services/bad-credit-loans",
+        "description": "Loan options for those with less-than-perfect credit",
+        "anchorText": "Bad Credit Options"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "Understanding Payday Loan Laws in Texas",
+    "content": "Killeen residents are protected by Texas lending regulations administered by the Office of Consumer Credit Commissioner (OCCC). Texas allows payday loans through licensed Credit Access Businesses (CABs), and Ace Payday Loans is fully licensed and compliant.",
+    "militaryNote": "Active duty military members and their dependents are protected by the Military Lending Act (MLA), which caps APR at 36% for covered borrowers. We comply fully with MLA requirements and provide required disclosures to all military personnel.",
+    "keyPoints": [
+      "Texas allows payday loans through licensed Credit Access Businesses (CABs) regulated by the OCCC",
+      "There is no state cap on interest rates or CAB fees - typical APRs range from 400% to 700%+",
+      "Military members are protected by the Military Lending Act (MLA) with 36% APR cap",
+      "You have the right to cancel your loan within 3 days of signing without penalty",
+      "Lenders cannot threaten criminal prosecution for non-payment (except for fraud)",
+      "Your wages cannot be garnished for payday loan debt under Texas law",
+      "Always verify your lender is licensed at occc.texas.gov before borrowing"
+    ],
+    "regulatoryBody": "Texas Office of Consumer Credit Commissioner (OCCC)",
+    "regulatoryUrl": "https://occc.texas.gov",
+    "consumerHelpline": "(800) 538-1579",
+    "warningBox": {
+      "title": "Important Cost Warning",
+      "content": "Payday loans in Texas are among the most expensive in the nation. A typical $300 loan can cost over $1,000 in fees alone, resulting in APRs exceeding 700%. Consider alternatives such as credit union loans, military relief societies, payment plans with creditors, or nonprofit credit counseling before taking out a payday loan."
+    },
+    "disclaimer": "This information is provided for general educational purposes only and should not be construed as legal advice. Payday loan laws and regulations change frequently. For the most accurate and up-to-date information, contact the Texas OCCC at (800) 538-1579 or visit occc.texas.gov. If you need legal advice, please consult with a licensed attorney in Texas."
+  },
+
+  "localReviews": {
+    "headline": "What Our Killeen Customers Say",
+    "locationId": "killeen-tx",
+    "reviewSource": "Google Business Profile",
+    "showWidget": true,
+    "averageRating": 4.5,
+    "totalReviews": 124,
+    "reviews": [
+      {
+        "name": "Sgt. Michael R.",
+        "rating": 5,
+        "text": "As military, I was nervous about payday loans, but Ace explained the MLA protections and made sure I got a fair deal. Fast service and professional staff.",
+        "date": "2024-11-18"
+      },
+      {
+        "name": "Amanda K.",
+        "rating": 5,
+        "text": "The Killeen location is very convenient, right off 190. Needed emergency cash for car repairs and they had me approved in less than an hour. Very helpful team.",
+        "date": "2024-10-30"
+      },
+      {
+        "name": "Derek J.",
+        "rating": 4,
+        "text": "Good experience. They were upfront about all the costs and didn't try to push me into borrowing more than I needed. Location near the mall is easy to find.",
+        "date": "2024-10-15"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby Cities",
+    "intro": "Cannot make it to our Killeen location? We also serve:",
+    "cities": [
+      {"name": "Waco", "slug": "waco", "url": "/locations/texas/waco", "distanceMiles": 50},
+      {"name": "Austin", "slug": "austin", "url": "/locations/texas/austin", "distanceMiles": 68},
+      {"name": "San Antonio", "slug": "san-antonio", "url": "/locations/texas/san-antonio", "distanceMiles": 135},
+      {"name": "Dallas", "slug": "dallas", "url": "/locations/texas/dallas", "distanceMiles": 155}
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Killeen location?",
+      "answer": "Our Killeen branch is located at 3102 E Central Texas Expressway, Suite 8, near the Killeen Mall and just minutes from Fort Cavazos main gate. We are easily accessible from US-190."
+    },
+    {
+      "question": "What are your hours in Killeen?",
+      "answer": "We are open Monday through Friday 9 AM to 7 PM, and Saturday 10 AM to 4 PM. We are closed on Sundays."
+    },
+    {
+      "question": "Do you offer special rates for military members?",
+      "answer": "Active duty military members and their dependents are protected by the Military Lending Act (MLA), which caps APR at 36%. We fully comply with MLA requirements and provide all required disclosures to military personnel."
+    },
+    {
+      "question": "Do I need an appointment at the Killeen branch?",
+      "answer": "No appointment needed. Walk-ins are welcome during business hours. You can also apply online first to speed up the in-store process."
+    },
+    {
+      "question": "What do I need to bring to the Killeen location?",
+      "answer": "Bring a valid government ID (military ID accepted), proof of income (LES or pay stub), and an active checking account. For title loans, also bring your vehicle and clear title."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Ready to Get Cash in Killeen?",
+    "subheadline": "Visit our Central Texas Expressway location or apply online now",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=killeen-tx"
+    },
+    "secondaryCta": {
+      "text": "Call (254) 555-0139",
+      "url": "tel:+12545550139"
+    },
+    "address": "3102 E Central Texas Expressway, Suite 8, Killeen, TX 76543"
+  },
+
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FinancialService",
+    "name": "Ace Payday Loans of Killeen",
+    "image": "https://acepaydayloans.com/images/locations/killeen-tx.jpg",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "3102 E Central Texas Expressway, Suite 8",
+      "addressLocality": "Killeen",
+      "addressRegion": "TX",
+      "postalCode": "76543",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 31.1171,
+      "longitude": -97.7278
+    },
+    "telephone": "+1-254-555-0139",
+    "url": "https://acepaydayloans.com/locations/texas/killeen",
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "09:00",
+        "closes": "19:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Saturday",
+        "opens": "10:00",
+        "closes": "16:00"
+      }
+    ],
+    "priceRange": "$$",
+    "currenciesAccepted": "USD",
+    "paymentAccepted": "Cash, Check, Debit Card",
+    "areaServed": {
+      "@type": "City",
+      "name": "Killeen",
+      "containedInPlace": {
+        "@type": "State",
+        "name": "Texas"
+      }
+    }
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "Texas", "url": "/locations/texas"},
+    {"label": "Killeen", "url": "/locations/texas/killeen"}
+  ],
+
+  "images": {
+    "hero": {
+      "url": "/images/locations/killeen-tx-hero.jpg",
+      "alt": "Ace Payday Loans Killeen branch exterior on Central Texas Expressway",
+      "caption": "Our Killeen location near Fort Cavazos"
+    },
+    "interior": {
+      "url": "/images/locations/killeen-tx-interior.jpg",
+      "alt": "Inside our Killeen payday loans office",
+      "caption": "Military-friendly service at our Killeen branch"
+    }
+  },
+
+  "metadata": {
+    "generatedAt": "2025-01-15T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "batch": 3
+  }
+}

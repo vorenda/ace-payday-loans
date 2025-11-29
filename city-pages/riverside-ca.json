@@ -1,0 +1,330 @@
+{
+  "id": "riverside-ca",
+  "city": "Riverside",
+  "state": "California",
+  "stateCode": "CA",
+  "stateSlug": "california",
+  "slug": "riverside",
+  "countyName": "Riverside County",
+  "areaCode": "951",
+  "population": 314000,
+  "serviceNiche": "Payday Loans",
+
+  "coordinates": {
+    "latitude": 33.9533,
+    "longitude": -117.3962
+  },
+
+  "seo": {
+    "title": "Payday Loans in Riverside, CA | Ace Payday Loans",
+    "metaDescription": "Get fast payday loans in Riverside near the Mission Inn Hotel. Licensed California lender. Apply online or visit us off CA-91. Call (951) 555-0456.",
+    "canonicalUrl": "/locations/california/riverside",
+    "keywords": [
+      "payday loans riverside",
+      "riverside payday loans",
+      "cash advance riverside ca",
+      "payday loans near me riverside",
+      "fast cash riverside",
+      "emergency loans riverside",
+      "payday lenders inland empire",
+      "same day loans riverside"
+    ]
+  },
+
+  "hero": {
+    "h1": "Fast Payday Loans in Riverside, CA",
+    "subheadline": "Get cash today near the historic Mission Inn - Licensed California Lender",
+    "ctaText": "Apply Now",
+    "ctaUrl": "/apply?location=riverside-ca",
+    "secondaryCta": {
+      "text": "Call (951) 555-0456",
+      "url": "tel:+19515550456"
+    }
+  },
+
+  "localProof": {
+    "headline": "Serving Riverside & the Inland Empire",
+    "directions": "We are conveniently located in downtown Riverside, near the historic Mission Inn Hotel and the Fox Performing Arts Center. If you are taking CA-91, use Exit 61 (Downtown) and head north on University Avenue. From I-215, take Exit 41 (University) for direct access to our location. We serve the entire Inland Empire.",
+    "landmarks": ["Mission Inn Hotel", "California Citrus State Historic Park", "Fox Performing Arts Center"],
+    "highways": ["CA-91", "I-215", "CA-60"],
+    "exits": ["CA-91 Exit 61 (Downtown)", "I-215 Exit 41 (University)"],
+    "neighboringTowns": ["Moreno Valley", "Corona", "San Bernardino", "Norco", "Jurupa Valley"],
+    "localDescription": "Riverside is the birthplace of California's citrus industry and home to the historic Mission Inn.",
+    "serviceAreaDescription": "We proudly serve all of Riverside County and the Inland Empire including Moreno Valley, Corona, San Bernardino, Norco, Jurupa Valley, and surrounding communities. Whether you are in downtown Riverside or the greater Inland Empire, we are here to help."
+  },
+
+  "nap": {
+    "name": "Ace Payday Loans - Riverside",
+    "street": "3700 University Avenue, Suite 150",
+    "city": "Riverside",
+    "state": "CA",
+    "zip": "92501",
+    "phone": "(951) 555-0456",
+    "formattedPhone": "+19515550456",
+    "formattedAddress": "3700 University Avenue, Suite 150, Riverside, CA 92501",
+    "googleMapsUrl": "https://www.google.com/maps?q=33.9533,-117.3962",
+    "hours": {
+      "monday": "9:00 AM - 7:00 PM",
+      "tuesday": "9:00 AM - 7:00 PM",
+      "wednesday": "9:00 AM - 7:00 PM",
+      "thursday": "9:00 AM - 7:00 PM",
+      "friday": "9:00 AM - 7:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    }
+  },
+
+  "services": {
+    "headline": "Our Riverside Financial Services",
+    "intro": "We offer a full range of short-term lending and money services to help Riverside residents with their financial needs.",
+    "servicesList": [
+      {
+        "name": "Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Short-term loans up to $300 to help cover unexpected expenses until your next paycheck.",
+        "anchorText": "Learn about Payday Loans"
+      },
+      {
+        "name": "Cash Advances",
+        "slug": "cash-advances",
+        "url": "/services/cash-advances",
+        "description": "Quick access to cash before your next payday for emergency expenses.",
+        "anchorText": "Get a Cash Advance"
+      },
+      {
+        "name": "Installment Loans",
+        "slug": "installment-loans",
+        "url": "/services/installment-loans",
+        "description": "Larger loans repaid over time through scheduled monthly payments.",
+        "anchorText": "Explore Installment Loans"
+      },
+      {
+        "name": "Title Loans",
+        "slug": "title-loans",
+        "url": "/services/title-loans",
+        "description": "Use your vehicle title as collateral for larger loan amounts.",
+        "anchorText": "Learn about Title Loans"
+      },
+      {
+        "name": "Check Cashing",
+        "slug": "check-cashing",
+        "url": "/services/check-cashing",
+        "description": "Convert checks to cash instantly without a bank account.",
+        "anchorText": "Check Cashing Services"
+      },
+      {
+        "name": "Online Payday Loans",
+        "slug": "online-payday-loans",
+        "url": "/services/online-payday-loans",
+        "description": "Apply for payday loans from the comfort of your home with fast online approval.",
+        "anchorText": "Apply Online Now"
+      },
+      {
+        "name": "Same Day Loans",
+        "slug": "same-day-loans",
+        "url": "/services/same-day-loans",
+        "description": "Get approved and funded within the same business day for urgent needs.",
+        "anchorText": "Same Day Funding"
+      },
+      {
+        "name": "Bad Credit Loans",
+        "slug": "bad-credit-loans",
+        "url": "/services/bad-credit-loans",
+        "description": "Loan options available for borrowers with less-than-perfect credit history.",
+        "anchorText": "Bad Credit Options"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "California Payday Loan Regulations",
+    "intro": "Residents of Riverside are protected by California's strict payday loan regulations enforced by the Department of Financial Protection and Innovation (DFPI).",
+    "content": "California regulates payday loans under the California Deferred Deposit Transaction Law (CDDTL), administered by the Department of Financial Protection and Innovation (DFPI). The state allows payday loans with significant consumer protections: loans are capped at $300 with a maximum fee of 15% (approximately $45). Rollovers are prohibited, meaning lenders cannot issue a new loan to pay off an existing one. California also prohibits lenders from making multiple loans to the same borrower simultaneously. All payday lenders operating in California must be licensed by the DFPI, and consumers can verify a lender's license status online or by calling 1-866-275-2677.",
+    "keyPoints": [
+      "California limits payday loans to a maximum of $300",
+      "The maximum fee is 15% of the check amount (up to $45)",
+      "Lenders cannot make a new loan to pay off an existing loan (rollovers prohibited)",
+      "You cannot have more than one payday loan at a time",
+      "If your check bounces, the lender can charge only one NSF fee of up to $15",
+      "Lenders cannot threaten criminal prosecution for non-payment",
+      "Your loan contract must be provided in your primary language",
+      "All lenders must be licensed - verify at dfpi.ca.gov"
+    ],
+    "protections": [
+      "Maximum loan amount: $300",
+      "Maximum fee: 15% of check face value ($45 maximum)",
+      "Maximum term: 31 days",
+      "Rollovers: Prohibited",
+      "Multiple loans: Not allowed simultaneously",
+      "NSF fee: $15 maximum (one fee only)",
+      "Criminal prosecution: Cannot be threatened for non-payment"
+    ],
+    "regulatoryBody": {
+      "name": "Department of Financial Protection and Innovation",
+      "abbreviation": "DFPI",
+      "website": "https://dfpi.ca.gov",
+      "phone": "1-866-275-2677",
+      "verificationUrl": "https://dfpi.ca.gov/regulated-industries/regulated-entities-list/"
+    },
+    "aprDisclosure": "The typical Annual Percentage Rate (APR) for a payday loan in California is approximately 426-460% for a two-week loan. By comparison, credit cards typically have APRs between 15-30% and personal loans between 6-36%. The high APR reflects the short-term nature of payday loans and the fees charged. A $300 payday loan with a $45 fee repaid in 14 days has an APR of approximately 391%.",
+    "disclaimer": "IMPORTANT NOTICE: This information is provided for general educational purposes only and does not constitute legal or financial advice. Payday loans are high-cost, short-term loans with APRs that can exceed 400%. Before taking out a payday loan, consider alternatives such as personal loans, credit union loans, payment plans with creditors, or assistance from non-profit credit counseling agencies. Laws and regulations may change. For the most current information, contact the California Department of Financial Protection and Innovation at 1-866-275-2677 or visit dfpi.ca.gov. If you are experiencing financial difficulties, contact a HUD-approved housing counselor or the National Foundation for Credit Counseling at 1-800-388-2227."
+  },
+
+  "testimonials": {
+    "headline": "What Riverside Customers Say",
+    "reviews": [
+      {
+        "text": "As a resident of the Inland Empire, I appreciate having a trustworthy lender in Riverside. The location on University Avenue is easy to find and the staff is always professional and helpful.",
+        "author": "Anthony R.",
+        "rating": 5,
+        "date": "2024-10"
+      },
+      {
+        "text": "Needed emergency funds for a car repair so I could get to work. The Riverside Ace Payday Loans location helped me out fast. The process was straightforward and I was back on the road quickly.",
+        "author": "Lisa M.",
+        "rating": 5,
+        "date": "2024-09"
+      },
+      {
+        "text": "Good service at the Riverside branch. They took time to explain all the terms and made sure I understood everything before signing. Appreciate the transparency.",
+        "author": "Raymond K.",
+        "rating": 4,
+        "date": "2024-11"
+      }
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Riverside location?",
+      "answer": "Our Riverside branch is located at 3700 University Avenue, Suite 150, in downtown Riverside near the historic Mission Inn Hotel. From CA-91, take Exit 61 (Downtown) and head north. From I-215, use Exit 41 (University)."
+    },
+    {
+      "question": "What are your hours in Riverside?",
+      "answer": "We are open Monday through Friday from 9 AM to 7 PM, and Saturday from 10 AM to 4 PM. We are closed on Sundays."
+    },
+    {
+      "question": "Do you serve the entire Inland Empire?",
+      "answer": "Yes, our Riverside location serves customers throughout Riverside County and the greater Inland Empire, including Moreno Valley, Corona, San Bernardino, Norco, and surrounding areas."
+    },
+    {
+      "question": "How much can I borrow at your Riverside location?",
+      "answer": "In California, payday loans are limited to $300 maximum by state law. After the maximum fee of $45, you would receive approximately $255. We also offer other loan products like installment loans for larger amounts."
+    },
+    {
+      "question": "What do I need to bring to the Riverside branch?",
+      "answer": "Please bring a valid government-issued photo ID, proof of income (pay stub or bank statement), an active checking account, and a working phone number. Our staff will guide you through the rest of the process."
+    },
+    {
+      "question": "Can I get same-day funding in Riverside?",
+      "answer": "Yes, if you apply in-store and are approved, you can receive your funds the same day. For online applications, we offer next-business-day funding or instant funding to a debit card where available."
+    }
+  ],
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby Cities",
+    "intro": "Cannot make it to our Riverside location? We also serve these nearby areas:",
+    "cities": [
+      {
+        "name": "Moreno Valley",
+        "slug": "moreno-valley",
+        "url": "/locations/california/moreno-valley",
+        "distanceMiles": 11
+      },
+      {
+        "name": "San Bernardino",
+        "slug": "san-bernardino",
+        "url": "/locations/california/san-bernardino",
+        "distanceMiles": 16
+      },
+      {
+        "name": "Fontana",
+        "slug": "fontana",
+        "url": "/locations/california/fontana",
+        "distanceMiles": 12
+      },
+      {
+        "name": "Ontario",
+        "slug": "ontario",
+        "url": "/locations/california/ontario",
+        "distanceMiles": 19
+      }
+    ]
+  },
+
+  "ctaSection": {
+    "headline": "Ready to Get Cash in Riverside?",
+    "subheadline": "Visit our University Avenue location or apply online now",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=riverside-ca"
+    },
+    "secondaryCta": {
+      "text": "Call (951) 555-0456",
+      "url": "tel:+19515550456"
+    },
+    "address": "3700 University Avenue, Suite 150, Riverside, CA 92501"
+  },
+
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FinancialService",
+    "name": "Ace Payday Loans - Riverside",
+    "description": "Fast payday loans and cash advances in Riverside, CA. Licensed California lender serving the Inland Empire.",
+    "url": "https://www.acepaydayloans.com/locations/california/riverside",
+    "telephone": "+19515550456",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "3700 University Avenue, Suite 150",
+      "addressLocality": "Riverside",
+      "addressRegion": "CA",
+      "postalCode": "92501",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 33.9533,
+      "longitude": -117.3962
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "09:00",
+        "closes": "19:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Saturday",
+        "opens": "10:00",
+        "closes": "16:00"
+      }
+    ],
+    "priceRange": "$$",
+    "currenciesAccepted": "USD",
+    "paymentAccepted": "Cash, Debit Card",
+    "areaServed": {
+      "@type": "City",
+      "name": "Riverside",
+      "containedInPlace": {
+        "@type": "State",
+        "name": "California"
+      }
+    }
+  },
+
+  "breadcrumbs": [
+    { "label": "Home", "url": "/" },
+    { "label": "Locations", "url": "/locations" },
+    { "label": "California", "url": "/locations/california" },
+    { "label": "Riverside", "url": "/locations/california/riverside" }
+  ],
+
+  "metadata": {
+    "generatedAt": "2025-01-15T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "batch": "california-batch-2"
+  }
+}

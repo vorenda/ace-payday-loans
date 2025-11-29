@@ -1,0 +1,308 @@
+{
+  "id": "frisco-tx",
+  "city": "Frisco",
+  "slug": "frisco",
+  "state": "Texas",
+  "stateCode": "TX",
+  "stateSlug": "texas",
+  "countyName": "Collin County",
+  "serviceNiche": "Payday Loans",
+
+  "seo": {
+    "title": "Payday Loans in Frisco, TX | Fast Cash Near The Star | Ace Payday Loans",
+    "metaDescription": "Need fast cash in Frisco? Visit Ace Payday Loans near The Star (Dallas Cowboys HQ) off Dallas North Tollway. Same-day funding, no hidden fees. Call (469) 555-0134.",
+    "canonicalUrl": "/locations/texas/frisco",
+    "keywords": ["payday loans frisco", "frisco payday loans", "cash advance frisco tx", "payday loans near me frisco", "fast cash frisco texas", "payday loans the star"]
+  },
+
+  "hero": {
+    "h1": "Fast Payday Loans in Frisco, TX",
+    "subheadline": "Trusted lending near The Star serving one of America's fastest-growing cities",
+    "ctaText": "Apply Now for Frisco Cash",
+    "ctaUrl": "/apply?location=frisco-tx",
+    "secondaryCta": {
+      "text": "Call (469) 555-0134",
+      "url": "tel:+14695550134"
+    }
+  },
+
+  "localProof": {
+    "headline": "Where to Find Us in Frisco",
+    "directions": "We are conveniently located at 4150 Legacy Drive, Suite 250, near The Star (Dallas Cowboys World Headquarters) and Stonebriar Centre. If you are taking the Dallas North Tollway, take Exit 34 (Legacy Drive) and head east. We're also accessible from TX-121 via the Eldorado Parkway exit.",
+    "landmarks": ["The Star (Dallas Cowboys HQ)", "Stonebriar Centre", "Dr Pepper Ballpark"],
+    "highways": ["Dallas North Tollway", "TX-121", "US-380"],
+    "exits": ["Dallas North Tollway Exit 34 (Legacy)", "TX-121 Exit 36 (Eldorado)"],
+    "neighborhoodName": "Legacy/Star District",
+    "hours": {
+      "monday": "9:00 AM - 7:00 PM",
+      "tuesday": "9:00 AM - 7:00 PM",
+      "wednesday": "9:00 AM - 7:00 PM",
+      "thursday": "9:00 AM - 7:00 PM",
+      "friday": "9:00 AM - 7:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d107000.35!2d-96.85!3d33.15!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864c3ca5e6!2sFrisco%2C%20TX!5e0!3m2!1sen!2sus"
+  },
+
+  "nap": {
+    "name": "Ace Payday Loans of Frisco",
+    "street": "4150 Legacy Drive, Suite 250",
+    "city": "Frisco",
+    "state": "TX",
+    "zip": "75034",
+    "phone": "(469) 555-0134",
+    "formattedPhone": "+14695550134",
+    "formattedAddress": "4150 Legacy Drive, Suite 250, Frisco, TX 75034",
+    "coordinates": {
+      "latitude": 33.1507,
+      "longitude": -96.8236
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=33.1507,-96.8236"
+  },
+
+  "productLinks": {
+    "headline": "Our Frisco Financial Services",
+    "intro": "We offer a full range of short-term lending and money services to help Frisco and Collin County residents with their financial needs:",
+    "services": [
+      {
+        "name": "Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Short-term loans to cover unexpected expenses until your next paycheck",
+        "anchorText": "Learn About Payday Loans"
+      },
+      {
+        "name": "Cash Advances",
+        "slug": "cash-advances",
+        "url": "/services/cash-advances",
+        "description": "Quick access to emergency cash when you need it most",
+        "anchorText": "Get a Cash Advance"
+      },
+      {
+        "name": "Installment Loans",
+        "slug": "installment-loans",
+        "url": "/services/installment-loans",
+        "description": "Larger loans repaid over time with scheduled monthly payments",
+        "anchorText": "Explore Installment Loans"
+      },
+      {
+        "name": "Title Loans",
+        "slug": "title-loans",
+        "url": "/services/title-loans",
+        "description": "Use your vehicle title as collateral for larger loan amounts",
+        "anchorText": "Learn About Title Loans"
+      },
+      {
+        "name": "Check Cashing",
+        "slug": "check-cashing",
+        "url": "/services/check-cashing",
+        "description": "Convert checks to cash instantly without a bank account",
+        "anchorText": "Check Cashing Services"
+      },
+      {
+        "name": "Online Payday Loans",
+        "slug": "online-payday-loans",
+        "url": "/services/online-payday-loans",
+        "description": "Apply from home with our secure online application",
+        "anchorText": "Apply Online Now"
+      },
+      {
+        "name": "Same Day Loans",
+        "slug": "same-day-loans",
+        "url": "/services/same-day-loans",
+        "description": "Get approved and funded within the same business day",
+        "anchorText": "Same Day Funding Options"
+      },
+      {
+        "name": "Bad Credit Loans",
+        "slug": "bad-credit-loans",
+        "url": "/services/bad-credit-loans",
+        "description": "Loan options for borrowers with less-than-perfect credit",
+        "anchorText": "Bad Credit? We Can Help"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "Understanding Payday Loan Laws in Texas",
+    "content": "Frisco residents should understand that payday loans are legal in Texas through licensed Credit Access Businesses (CABs). While Texas has minimal state-level restrictions, you are protected by state regulations administered by the Office of Consumer Credit Commissioner (OCCC).",
+    "keyPoints": [
+      "Texas allows payday loans through licensed Credit Access Businesses (CABs) regulated by the OCCC",
+      "There is no state cap on interest rates or CAB fees - typical APRs range from 400% to 700%+",
+      "You have the right to cancel your loan within 3 days of signing without penalty",
+      "Lenders cannot threaten criminal prosecution for non-payment (except for fraud or theft)",
+      "Your wages cannot be garnished for payday loan debt under Texas law",
+      "Your home (if declared homestead) is protected from debt collection",
+      "Always verify your lender is licensed at occc.texas.gov before borrowing"
+    ],
+    "regulatoryBody": "Texas Office of Consumer Credit Commissioner (OCCC)",
+    "regulatoryUrl": "https://occc.texas.gov",
+    "consumerHelpline": "(800) 538-1579",
+    "warningBox": {
+      "title": "Important Cost Warning",
+      "content": "Payday loans in Texas are among the most expensive in the nation. A typical $300 loan can cost over $1,000 in fees alone, resulting in APRs exceeding 700%. Consider alternatives such as credit union loans, payment plans with creditors, or nonprofit credit counseling before taking out a payday loan."
+    },
+    "disclaimer": "This information is provided for general educational purposes only and should not be construed as legal advice. Payday loan laws and regulations change frequently. The information presented may not reflect the most current legal developments. For the most accurate and up-to-date information, contact the Texas Office of Consumer Credit Commissioner at (800) 538-1579 or visit occc.texas.gov. If you need legal advice, please consult with a licensed attorney in Texas."
+  },
+
+  "cityOrdinance": null,
+
+  "localReviews": {
+    "headline": "What Our Frisco Customers Say",
+    "locationId": "frisco-tx",
+    "reviewSource": "Google Business Profile",
+    "averageRating": 4.7,
+    "totalReviews": 81,
+    "featuredReviews": [
+      {
+        "name": "Amanda K.",
+        "rating": 5,
+        "text": "The Frisco location near The Star is perfect. Clean, professional office with friendly staff. Had a great experience when I needed emergency funds.",
+        "date": "2024-11-14"
+      },
+      {
+        "name": "Jason W.",
+        "rating": 5,
+        "text": "New to Frisco and needed help with an unexpected expense. The team here was fantastic - explained everything clearly and got me approved quickly.",
+        "date": "2024-10-22"
+      },
+      {
+        "name": "Nicole B.",
+        "rating": 4,
+        "text": "Convenient location on Legacy Drive. Professional service and no surprises with the fees. Would recommend to others.",
+        "date": "2024-09-18"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby Cities",
+    "intro": "Can't make it to our Frisco location? We also serve these nearby communities:",
+    "cities": [
+      {"name": "Plano", "slug": "plano", "url": "/locations/texas/plano", "distanceMiles": 11},
+      {"name": "McKinney", "slug": "mckinney", "url": "/locations/texas/mckinney", "distanceMiles": 12},
+      {"name": "Carrollton", "slug": "carrollton", "url": "/locations/texas/carrollton", "distanceMiles": 14},
+      {"name": "Denton", "slug": "denton", "url": "/locations/texas/denton", "distanceMiles": 21}
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Frisco location?",
+      "answer": "Our Frisco branch is located at 4150 Legacy Drive, Suite 250, in the Legacy/Star District near The Star (Dallas Cowboys HQ). Take Dallas North Tollway Exit 34 (Legacy Drive) and head east."
+    },
+    {
+      "question": "What are your hours in Frisco?",
+      "answer": "We're open Monday through Friday from 9 AM to 7 PM, and Saturday from 10 AM to 4 PM. We're closed on Sundays. You can also apply online 24/7."
+    },
+    {
+      "question": "How much can I borrow at the Frisco location?",
+      "answer": "Loan amounts vary based on your income and ability to repay. Texas has no state maximum for payday loans. First-time borrowers typically qualify for $100-$500, with higher amounts available after establishing a repayment history."
+    },
+    {
+      "question": "Do I need an appointment at the Frisco branch?",
+      "answer": "No appointment is necessary - walk-ins are always welcome. However, you can save time by starting your application online before visiting our Frisco location."
+    },
+    {
+      "question": "What documents do I need to bring?",
+      "answer": "Please bring a valid government-issued photo ID, proof of income (recent pay stub or bank statement), proof of residence (utility bill or lease), and your bank account information for direct deposit."
+    },
+    {
+      "question": "Does Frisco have any local payday loan ordinances?",
+      "answer": "No, Frisco does not currently have local ordinances restricting payday loans beyond state regulations. However, we encourage responsible borrowing and will help you understand all terms before you commit."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Ready to Get Cash in Frisco?",
+    "subheadline": "Visit our Legacy Drive location or apply online now",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=frisco-tx"
+    },
+    "secondaryCta": {
+      "text": "Call (469) 555-0134",
+      "url": "tel:+14695550134"
+    },
+    "address": "4150 Legacy Drive, Suite 250, Frisco, TX 75034"
+  },
+
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FinancialService",
+    "name": "Ace Payday Loans of Frisco",
+    "image": "https://www.acepaydayloans.com/images/frisco-branch.jpg",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "4150 Legacy Drive, Suite 250",
+      "addressLocality": "Frisco",
+      "addressRegion": "TX",
+      "postalCode": "75034",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 33.1507,
+      "longitude": -96.8236
+    },
+    "url": "https://www.acepaydayloans.com/locations/texas/frisco",
+    "telephone": "+14695550134",
+    "priceRange": "$$",
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "09:00",
+        "closes": "19:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Saturday",
+        "opens": "10:00",
+        "closes": "16:00"
+      }
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.7",
+      "reviewCount": "81"
+    },
+    "areaServed": {
+      "@type": "City",
+      "name": "Frisco",
+      "containedInPlace": {
+        "@type": "State",
+        "name": "Texas"
+      }
+    },
+    "serviceType": ["Payday Loans", "Cash Advances", "Installment Loans", "Title Loans", "Check Cashing"]
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "Texas", "url": "/locations/texas"},
+    {"label": "Frisco", "url": "/locations/texas/frisco"}
+  ],
+
+  "images": {
+    "hero": {
+      "url": "/images/locations/frisco-tx-branch.jpg",
+      "alt": "Ace Payday Loans Frisco branch exterior near The Star",
+      "caption": "Our Frisco location on Legacy Drive"
+    },
+    "interior": {
+      "url": "/images/locations/frisco-tx-interior.jpg",
+      "alt": "Clean, professional interior of Frisco payday loan office",
+      "caption": "Professional service in a comfortable environment"
+    }
+  },
+
+  "metadata": {
+    "generatedAt": "2025-01-15T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "batch": 2
+  }
+}

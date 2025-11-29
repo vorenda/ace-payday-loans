@@ -1,0 +1,320 @@
+{
+  "id": "garland-tx",
+  "city": "Garland",
+  "slug": "garland",
+  "state": "Texas",
+  "stateCode": "TX",
+  "stateSlug": "texas",
+  "countyName": "Dallas County",
+  "serviceNiche": "Payday Loans",
+
+  "seo": {
+    "title": "Payday Loans in Garland, TX | Fast Cash Near Firewheel | Ace Payday Loans",
+    "metaDescription": "Need fast cash in Garland? Visit Ace Payday Loans near Firewheel Town Center off I-635. Same-day funding, no hidden fees. Licensed Texas CAB. Call (972) 555-0168.",
+    "canonicalUrl": "/locations/texas/garland",
+    "keywords": ["payday loans garland", "garland payday loans", "cash advance garland tx", "payday loans near me garland", "fast cash garland texas", "payday loans firewheel"]
+  },
+
+  "hero": {
+    "h1": "Fast Payday Loans in Garland, TX",
+    "subheadline": "Trusted lending near Firewheel Town Center serving Dallas County",
+    "ctaText": "Apply Now for Garland Cash",
+    "ctaUrl": "/apply?location=garland-tx",
+    "secondaryCta": {
+      "text": "Call (972) 555-0168",
+      "url": "tel:+19725550168"
+    }
+  },
+
+  "localProof": {
+    "headline": "Where to Find Us in Garland",
+    "directions": "We are conveniently located at 2302 Northwest Highway, Suite 110, near Firewheel Town Center and Hawaiian Falls waterpark. If you are taking I-30, take Exit 56 (Northwest Highway) and head east. From I-635 (LBJ Freeway), take Exit 11 (Garland Road) and head north to Northwest Highway.",
+    "landmarks": ["Firewheel Town Center", "Hawaiian Falls", "Surf and Swim"],
+    "highways": ["I-30", "I-635", "US-75"],
+    "exits": ["I-30 Exit 56 (Northwest Highway)", "I-635 Exit 11 (Garland Road)"],
+    "neighborhoodName": "Firewheel Area",
+    "hours": {
+      "monday": "9:00 AM - 7:00 PM",
+      "tuesday": "9:00 AM - 7:00 PM",
+      "wednesday": "9:00 AM - 7:00 PM",
+      "thursday": "9:00 AM - 7:00 PM",
+      "friday": "9:00 AM - 7:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d107000.12!2d-96.68!3d32.91!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864c211018e6a!2sGarland%2C%20TX!5e0!3m2!1sen!2sus"
+  },
+
+  "nap": {
+    "name": "Ace Payday Loans of Garland",
+    "street": "2302 Northwest Highway, Suite 110",
+    "city": "Garland",
+    "state": "TX",
+    "zip": "75041",
+    "phone": "(972) 555-0168",
+    "formattedPhone": "+19725550168",
+    "formattedAddress": "2302 Northwest Highway, Suite 110, Garland, TX 75041",
+    "coordinates": {
+      "latitude": 32.9126,
+      "longitude": -96.6389
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=32.9126,-96.6389"
+  },
+
+  "productLinks": {
+    "headline": "Our Garland Financial Services",
+    "intro": "We offer a full range of short-term lending and money services to help Garland and Dallas County residents with their financial needs:",
+    "services": [
+      {
+        "name": "Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Short-term loans to cover unexpected expenses until your next paycheck",
+        "anchorText": "Learn About Payday Loans"
+      },
+      {
+        "name": "Cash Advances",
+        "slug": "cash-advances",
+        "url": "/services/cash-advances",
+        "description": "Quick access to emergency cash when you need it most",
+        "anchorText": "Get a Cash Advance"
+      },
+      {
+        "name": "Installment Loans",
+        "slug": "installment-loans",
+        "url": "/services/installment-loans",
+        "description": "Larger loans repaid over time with scheduled monthly payments",
+        "anchorText": "Explore Installment Loans"
+      },
+      {
+        "name": "Title Loans",
+        "slug": "title-loans",
+        "url": "/services/title-loans",
+        "description": "Use your vehicle title as collateral for larger loan amounts",
+        "anchorText": "Learn About Title Loans"
+      },
+      {
+        "name": "Check Cashing",
+        "slug": "check-cashing",
+        "url": "/services/check-cashing",
+        "description": "Convert checks to cash instantly without a bank account",
+        "anchorText": "Check Cashing Services"
+      },
+      {
+        "name": "Online Payday Loans",
+        "slug": "online-payday-loans",
+        "url": "/services/online-payday-loans",
+        "description": "Apply from home with our secure online application",
+        "anchorText": "Apply Online Now"
+      },
+      {
+        "name": "Same Day Loans",
+        "slug": "same-day-loans",
+        "url": "/services/same-day-loans",
+        "description": "Get approved and funded within the same business day",
+        "anchorText": "Same Day Funding Options"
+      },
+      {
+        "name": "Bad Credit Loans",
+        "slug": "bad-credit-loans",
+        "url": "/services/bad-credit-loans",
+        "description": "Loan options for borrowers with less-than-perfect credit",
+        "anchorText": "Bad Credit? We Can Help"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "Understanding Payday Loan Laws in Texas",
+    "content": "Garland residents should understand that payday loans are legal in Texas through licensed Credit Access Businesses (CABs). While Texas has minimal state-level restrictions, Garland has a local ordinance that provides additional consumer protections.",
+    "keyPoints": [
+      "Texas allows payday loans through licensed Credit Access Businesses (CABs) regulated by the OCCC",
+      "There is no state cap on interest rates or CAB fees - typical APRs range from 400% to 700%+",
+      "You have the right to cancel your loan within 3 days of signing without penalty",
+      "Lenders cannot threaten criminal prosecution for non-payment (except for fraud or theft)",
+      "Your wages cannot be garnished for payday loan debt under Texas law",
+      "Your home (if declared homestead) is protected from debt collection",
+      "Always verify your lender is licensed at occc.texas.gov before borrowing"
+    ],
+    "regulatoryBody": "Texas Office of Consumer Credit Commissioner (OCCC)",
+    "regulatoryUrl": "https://occc.texas.gov",
+    "consumerHelpline": "(800) 538-1579",
+    "warningBox": {
+      "title": "Important Cost Warning",
+      "content": "Payday loans in Texas are among the most expensive in the nation. A typical $300 loan can cost over $1,000 in fees alone, resulting in APRs exceeding 700%. Consider alternatives such as credit union loans, payment plans with creditors, or nonprofit credit counseling before taking out a payday loan."
+    },
+    "disclaimer": "This information is provided for general educational purposes only and should not be construed as legal advice. Payday loan laws and regulations change frequently. The information presented may not reflect the most current legal developments. For the most accurate and up-to-date information, contact the Texas Office of Consumer Credit Commissioner at (800) 538-1579 or visit occc.texas.gov. If you need legal advice, please consult with a licensed attorney in Texas."
+  },
+
+  "cityOrdinance": {
+    "hasOrdinance": true,
+    "headline": "Garland Local Payday Loan Ordinance",
+    "summary": "The City of Garland has adopted a local ordinance providing additional consumer protections for payday loan borrowers.",
+    "keyProvisions": [
+      "Payday loans are limited to 20% of the borrower's gross monthly income",
+      "Maximum of 3 rollovers or renewals allowed",
+      "Each rollover/renewal must reduce the principal by at least 25%",
+      "CABs must register with the City of Garland"
+    ],
+    "effectiveDate": "Local ordinance in effect",
+    "source": "City of Garland Code of Ordinances"
+  },
+
+  "localReviews": {
+    "headline": "What Our Garland Customers Say",
+    "locationId": "garland-tx",
+    "reviewSource": "Google Business Profile",
+    "averageRating": 4.4,
+    "totalReviews": 68,
+    "featuredReviews": [
+      {
+        "name": "Kevin P.",
+        "rating": 5,
+        "text": "The Garland location near Firewheel was easy to find. Staff was friendly and explained the local rules that apply here. Got cash same day.",
+        "date": "2024-11-05"
+      },
+      {
+        "name": "Michelle D.",
+        "rating": 5,
+        "text": "Needed emergency funds for car repair. The team was professional and transparent about all the fees. Appreciated their honesty.",
+        "date": "2024-10-20"
+      },
+      {
+        "name": "Brandon L.",
+        "rating": 4,
+        "text": "Good experience overall. They made sure I understood the city ordinance limits before approving my loan. Would use again.",
+        "date": "2024-09-12"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby Cities",
+    "intro": "Can't make it to our Garland location? We also serve these nearby communities:",
+    "cities": [
+      {"name": "Dallas", "slug": "dallas", "url": "/locations/texas/dallas", "distanceMiles": 12},
+      {"name": "Plano", "slug": "plano", "url": "/locations/texas/plano", "distanceMiles": 12},
+      {"name": "McKinney", "slug": "mckinney", "url": "/locations/texas/mckinney", "distanceMiles": 20},
+      {"name": "Frisco", "slug": "frisco", "url": "/locations/texas/frisco", "distanceMiles": 18}
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Garland location?",
+      "answer": "Our Garland branch is located at 2302 Northwest Highway, Suite 110, near Firewheel Town Center. Take I-30 Exit 56 (Northwest Highway) and head east, or I-635 Exit 11 (Garland Road) and head north."
+    },
+    {
+      "question": "What are your hours in Garland?",
+      "answer": "We're open Monday through Friday from 9 AM to 7 PM, and Saturday from 10 AM to 4 PM. We're closed on Sundays. You can also apply online 24/7."
+    },
+    {
+      "question": "Does Garland have local payday loan ordinances?",
+      "answer": "Yes, Garland has a local ordinance that limits payday loans to 20% of your gross monthly income, allows a maximum of 3 rollovers, and requires each rollover to reduce the principal by 25%. These rules help protect consumers."
+    },
+    {
+      "question": "How does the Garland ordinance affect my loan?",
+      "answer": "The ordinance limits how much you can borrow based on your income and restricts rollovers. We'll explain exactly how this applies to your situation during the application process."
+    },
+    {
+      "question": "What documents do I need to bring?",
+      "answer": "Please bring a valid government-issued photo ID, proof of income (recent pay stub or bank statement showing gross income), proof of residence (utility bill or lease), and your bank account information for direct deposit."
+    },
+    {
+      "question": "How quickly can I get cash in Garland?",
+      "answer": "If you apply in-store during business hours and are approved, you can receive cash the same day. For online applications approved by 6 PM CT, funds are typically deposited the next business day."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Ready to Get Cash in Garland?",
+    "subheadline": "Visit our Northwest Highway location or apply online now",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=garland-tx"
+    },
+    "secondaryCta": {
+      "text": "Call (972) 555-0168",
+      "url": "tel:+19725550168"
+    },
+    "address": "2302 Northwest Highway, Suite 110, Garland, TX 75041"
+  },
+
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FinancialService",
+    "name": "Ace Payday Loans of Garland",
+    "image": "https://www.acepaydayloans.com/images/garland-branch.jpg",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2302 Northwest Highway, Suite 110",
+      "addressLocality": "Garland",
+      "addressRegion": "TX",
+      "postalCode": "75041",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 32.9126,
+      "longitude": -96.6389
+    },
+    "url": "https://www.acepaydayloans.com/locations/texas/garland",
+    "telephone": "+19725550168",
+    "priceRange": "$$",
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "09:00",
+        "closes": "19:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Saturday",
+        "opens": "10:00",
+        "closes": "16:00"
+      }
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.4",
+      "reviewCount": "68"
+    },
+    "areaServed": {
+      "@type": "City",
+      "name": "Garland",
+      "containedInPlace": {
+        "@type": "State",
+        "name": "Texas"
+      }
+    },
+    "serviceType": ["Payday Loans", "Cash Advances", "Installment Loans", "Title Loans", "Check Cashing"]
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "Texas", "url": "/locations/texas"},
+    {"label": "Garland", "url": "/locations/texas/garland"}
+  ],
+
+  "images": {
+    "hero": {
+      "url": "/images/locations/garland-tx-branch.jpg",
+      "alt": "Ace Payday Loans Garland branch exterior near Firewheel",
+      "caption": "Our Garland location on Northwest Highway"
+    },
+    "interior": {
+      "url": "/images/locations/garland-tx-interior.jpg",
+      "alt": "Clean, professional interior of Garland payday loan office",
+      "caption": "Professional service in a comfortable environment"
+    }
+  },
+
+  "metadata": {
+    "generatedAt": "2025-01-15T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "batch": 2
+  }
+}

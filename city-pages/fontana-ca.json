@@ -1,0 +1,297 @@
+{
+  "id": "fontana-ca",
+  "city": "Fontana",
+  "slug": "fontana",
+  "state": "California",
+  "stateCode": "CA",
+  "stateSlug": "california",
+  "countyName": "San Bernardino County",
+  "serviceNiche": "Payday Loans",
+
+  "seo": {
+    "title": "Payday Loans in Fontana, CA | Fast Cash Near Auto Club Speedway",
+    "metaDescription": "Need cash today in Fontana? Visit Ace Payday Loans near Auto Club Speedway. Get approved in 30 minutes. Take I-10 Exit 62 or I-15 Exit 109. Call (909) 555-0145.",
+    "canonicalUrl": "/locations/california/fontana",
+    "keywords": ["payday loans fontana", "fontana payday loans", "cash advance fontana ca", "payday loans near me fontana", "fast cash fontana", "fontana quick cash loans"]
+  },
+
+  "hero": {
+    "h1": "Fast Payday Loans in Fontana, CA",
+    "subheadline": "Trusted lending near Auto Club Speedway in the heart of the Inland Empire",
+    "ctaText": "Apply Now for Fontana Cash",
+    "ctaUrl": "/apply?location=fontana-ca",
+    "secondaryCta": {
+      "text": "Call (909) 555-0145",
+      "url": "tel:+19095550145"
+    }
+  },
+
+  "localProof": {
+    "headline": "Where to Find Us in Fontana",
+    "directions": "We are conveniently located at 8850 Sierra Avenue, right near Auto Club Speedway and Mary Vagle Nature Center. If you are taking I-10, use Exit 62 at Sierra Avenue. From I-15, take Exit 109 at Baseline Road. Our location is easily accessible from the CA-210 as well.",
+    "landmarks": ["Auto Club Speedway", "Mary Vagle Nature Center", "Fontana Park"],
+    "highways": ["I-10", "I-15", "CA-210"],
+    "exits": ["I-10 Exit 62 (Sierra)", "I-15 Exit 109 (Baseline)"],
+    "neighborhoodName": "Central Fontana",
+    "neighboringTowns": ["Rancho Cucamonga", "Rialto", "San Bernardino", "Ontario", "Upland"],
+    "hours": {
+      "monday": "9:00 AM - 7:00 PM",
+      "tuesday": "9:00 AM - 7:00 PM",
+      "wednesday": "9:00 AM - 7:00 PM",
+      "thursday": "9:00 AM - 7:00 PM",
+      "friday": "9:00 AM - 7:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d52989.12!2d-117.4350!3d34.0922!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c34c9a4f51bf35%3A0x4c0cd1f0c96e0f3c!2sFontana%2C%20CA!5e0!3m2!1sen!2sus!4v1"
+  },
+
+  "nap": {
+    "name": "Ace Payday Loans of Fontana",
+    "street": "8850 Sierra Avenue, Suite B",
+    "city": "Fontana",
+    "state": "CA",
+    "zip": "92335",
+    "phone": "(909) 555-0145",
+    "formattedPhone": "+19095550145",
+    "formattedAddress": "8850 Sierra Avenue, Suite B, Fontana, CA 92335",
+    "coordinates": {
+      "latitude": 34.0922,
+      "longitude": -117.4350
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=34.0922,-117.4350"
+  },
+
+  "productLinks": {
+    "headline": "Our Fontana Financial Services",
+    "intro": "We offer a full range of short-term lending and money services to help Fontana and San Bernardino County residents with their financial needs:",
+    "services": [
+      {
+        "name": "Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Short-term loans up to $300 to cover unexpected expenses until your next paycheck",
+        "anchorText": "Fontana Payday Loans"
+      },
+      {
+        "name": "Cash Advances",
+        "slug": "cash-advances",
+        "url": "/services/cash-advances",
+        "description": "Quick cash advances for emergency situations with fast approval",
+        "anchorText": "Cash Advances in Fontana"
+      },
+      {
+        "name": "Installment Loans",
+        "slug": "installment-loans",
+        "url": "/services/installment-loans",
+        "description": "Larger loans repaid over time through scheduled monthly payments",
+        "anchorText": "Fontana Installment Loans"
+      },
+      {
+        "name": "Title Loans",
+        "slug": "title-loans",
+        "url": "/services/title-loans",
+        "description": "Use your vehicle title as collateral for larger loan amounts",
+        "anchorText": "Title Loans in Fontana"
+      },
+      {
+        "name": "Check Cashing",
+        "slug": "check-cashing",
+        "url": "/services/check-cashing",
+        "description": "Cash your paycheck or government check instantly",
+        "anchorText": "Check Cashing Fontana"
+      },
+      {
+        "name": "Online Payday Loans",
+        "slug": "online-payday-loans",
+        "url": "/services/online-payday-loans",
+        "description": "Apply from home and get funded fast",
+        "anchorText": "Online Payday Loans"
+      },
+      {
+        "name": "Same Day Loans",
+        "slug": "same-day-loans",
+        "url": "/services/same-day-loans",
+        "description": "Get approved and funded within the same business day",
+        "anchorText": "Same Day Loans Fontana"
+      },
+      {
+        "name": "Bad Credit Loans",
+        "slug": "bad-credit-loans",
+        "url": "/services/bad-credit-loans",
+        "description": "Loan options for borrowers with less-than-perfect credit",
+        "anchorText": "Bad Credit Loans in Fontana"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "California Payday Loan Regulations",
+    "intro": "Residents of Fontana are protected by California's strict payday loan regulations enforced by the Department of Financial Protection and Innovation (DFPI).",
+    "content": "California regulates payday loans under the California Deferred Deposit Transaction Law (CDDTL), administered by the Department of Financial Protection and Innovation (DFPI). The state allows payday loans with significant consumer protections: loans are capped at $300 with a maximum fee of 15% (approximately $45). Rollovers are prohibited, meaning lenders cannot issue a new loan to pay off an existing one. California also prohibits lenders from making multiple loans to the same borrower simultaneously. All payday lenders operating in California must be licensed by the DFPI, and consumers can verify a lender's license status online or by calling 1-866-275-2677.",
+    "keyPoints": [
+      "California limits payday loans to a maximum of $300",
+      "The maximum fee is 15% of the check amount (up to $45)",
+      "Lenders cannot make a new loan to pay off an existing loan (rollovers prohibited)",
+      "You cannot have more than one payday loan at a time",
+      "If your check bounces, the lender can charge only one NSF fee of up to $15",
+      "Lenders cannot threaten criminal prosecution for non-payment",
+      "Your loan contract must be provided in your primary language",
+      "All lenders must be licensed - verify at dfpi.ca.gov"
+    ],
+    "regulatoryBody": "California Department of Financial Protection and Innovation (DFPI)",
+    "regulatoryUrl": "https://dfpi.ca.gov",
+    "disclaimer": "IMPORTANT NOTICE: This information is provided for general educational purposes only and does not constitute legal or financial advice. Payday loans are high-cost, short-term loans with APRs that can exceed 400%. Before taking out a payday loan, consider alternatives such as personal loans, credit union loans, payment plans with creditors, or assistance from non-profit credit counseling agencies. Laws and regulations may change. For the most current information, contact the California Department of Financial Protection and Innovation at 1-866-275-2677 or visit dfpi.ca.gov."
+  },
+
+  "localReviews": {
+    "headline": "What Our Fontana Customers Say",
+    "locationId": "fontana-ca",
+    "reviewSource": "Google Business Profile",
+    "showWidget": true,
+    "averageRating": 4.4,
+    "totalReviews": 65,
+    "reviews": [
+      {
+        "name": "Anthony R.",
+        "rating": 5,
+        "text": "Great location on Sierra Avenue - easy to find off I-10. The staff was professional and explained everything clearly. Got approved fast when I needed emergency cash.",
+        "date": "2024-11-18"
+      },
+      {
+        "name": "Crystal M.",
+        "rating": 5,
+        "text": "I work in the logistics industry here in Fontana and needed quick cash before my check came. Ace Payday Loans was straightforward with no surprises. Would use again.",
+        "date": "2024-10-22"
+      },
+      {
+        "name": "Raymond G.",
+        "rating": 4,
+        "text": "Convenient Inland Empire location. The California $300 limit is what it is, but they were honest about everything. Quick service and friendly staff.",
+        "date": "2024-09-30"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby Cities",
+    "intro": "Can't make it to our Fontana location? We also serve:",
+    "cities": [
+      {"name": "Rancho Cucamonga", "slug": "rancho-cucamonga", "url": "/locations/california/rancho-cucamonga", "distanceMiles": 8},
+      {"name": "Ontario", "slug": "ontario", "url": "/locations/california/ontario", "distanceMiles": 10},
+      {"name": "San Bernardino", "slug": "san-bernardino", "url": "/locations/california/san-bernardino", "distanceMiles": 10},
+      {"name": "Riverside", "slug": "riverside", "url": "/locations/california/riverside", "distanceMiles": 12}
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Fontana payday loan location?",
+      "answer": "Our Fontana branch is located at 8850 Sierra Avenue, Suite B, near the Auto Club Speedway. Take I-10 Exit 62 (Sierra Avenue) or I-15 Exit 109 (Baseline Road) for the quickest route."
+    },
+    {
+      "question": "How much can I borrow at your Fontana location?",
+      "answer": "Under California law, the maximum payday loan amount is $300, with a maximum fee of $45 (15%). You'll receive approximately $255 after the fee is deducted. We clearly explain all terms before you sign."
+    },
+    {
+      "question": "What do I need to bring to get a payday loan in Fontana?",
+      "answer": "Bring a valid California ID, proof of income (pay stub or bank statement), an active checking account, and contact information. We'll verify your information and can have you approved in about 30 minutes."
+    },
+    {
+      "question": "Do you serve warehouse and logistics workers in Fontana?",
+      "answer": "Yes! Fontana is a major logistics hub and we proudly serve warehouse workers, truck drivers, and logistics employees throughout the Inland Empire. We understand shift work schedules and can work with your pay cycle."
+    },
+    {
+      "question": "Is Ace Payday Loans licensed in California?",
+      "answer": "Yes, Ace Payday Loans is fully licensed by the California Department of Financial Protection and Innovation (DFPI) under the California Deferred Deposit Transaction Law. You can verify our license at dfpi.ca.gov."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Ready to Get Cash in Fontana?",
+    "subheadline": "Visit our Sierra Avenue location or apply online now",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=fontana-ca"
+    },
+    "secondaryCta": {
+      "text": "Call (909) 555-0145",
+      "url": "tel:+19095550145"
+    },
+    "address": "8850 Sierra Avenue, Suite B, Fontana, CA 92335"
+  },
+
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FinancialService",
+    "name": "Ace Payday Loans of Fontana",
+    "image": "https://acepaydayloans.com/images/fontana-branch.jpg",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "8850 Sierra Avenue, Suite B",
+      "addressLocality": "Fontana",
+      "addressRegion": "CA",
+      "postalCode": "92335",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 34.0922,
+      "longitude": -117.4350
+    },
+    "telephone": "+19095550145",
+    "url": "https://acepaydayloans.com/locations/california/fontana",
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "09:00",
+        "closes": "19:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Saturday",
+        "opens": "10:00",
+        "closes": "16:00"
+      }
+    ],
+    "priceRange": "$$",
+    "currenciesAccepted": "USD",
+    "paymentAccepted": "Cash, Check, Debit Card",
+    "areaServed": {
+      "@type": "City",
+      "name": "Fontana",
+      "containedInPlace": {
+        "@type": "State",
+        "name": "California"
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.4",
+      "reviewCount": "65"
+    }
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "California", "url": "/locations/california"},
+    {"label": "Fontana", "url": "/locations/california/fontana"}
+  ],
+
+  "images": {
+    "hero": {
+      "url": "/images/locations/fontana-branch.jpg",
+      "alt": "Ace Payday Loans Fontana branch on Sierra Avenue",
+      "caption": "Our Fontana location in the Inland Empire"
+    }
+  },
+
+  "metadata": {
+    "generatedAt": "2025-01-29T14:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "batch": 3
+  }
+}

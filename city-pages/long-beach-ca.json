@@ -1,0 +1,349 @@
+{
+  "id": "long-beach-ca",
+  "city": "Long Beach",
+  "slug": "long-beach",
+  "state": "California",
+  "stateCode": "CA",
+  "stateSlug": "california",
+  "countyName": "Los Angeles County",
+  "serviceNiche": "Payday Loans",
+
+  "seo": {
+    "title": "Payday Loans in Long Beach, CA | Fast Cash Near Queen Mary | Ace Payday Loans",
+    "metaDescription": "Get fast payday loans in Long Beach near the Queen Mary and Aquarium of the Pacific. Licensed California lender. Apply online or visit us off I-405. Call (562) 555-0759.",
+    "canonicalUrl": "/locations/california/long-beach",
+    "keywords": [
+      "payday loans long beach",
+      "long beach payday loans",
+      "cash advance long beach ca",
+      "payday loans near me long beach",
+      "fast cash long beach",
+      "emergency loans long beach",
+      "same day loans long beach ca",
+      "payday loans downtown long beach",
+      "long beach cash advance",
+      "short term loans long beach"
+    ]
+  },
+
+  "hero": {
+    "h1": "Fast Payday Loans in Long Beach, CA",
+    "subheadline": "Get cash today near the historic Queen Mary and Aquarium of the Pacific. Trusted lending for Long Beach residents.",
+    "ctaText": "Apply Now for Long Beach Cash",
+    "ctaUrl": "/apply?location=long-beach-ca",
+    "phone": "(562) 555-0759",
+    "secondaryCta": {
+      "text": "Get Directions",
+      "url": "https://maps.google.com/?q=33.7701,-118.1937"
+    }
+  },
+
+  "localProof": {
+    "headline": "Serving Long Beach & The Harbor Area",
+    "directions": "We are conveniently located in Downtown Long Beach, near the historic Queen Mary ship and the Aquarium of the Pacific. If you are taking I-405, use Exit 32 (Downtown), or from I-710, take Exit 1 (Port of Long Beach). Our location is also easily accessible from CA-1 (Pacific Coast Highway).",
+    "landmarks": ["Queen Mary Ship", "Aquarium of the Pacific", "Long Beach Convention Center"],
+    "highways": ["Conveniently located off I-405", "Easy access from I-710", "Near CA-1 (PCH)"],
+    "exits": ["I-405 Exit 32 (Downtown)", "I-710 Exit 1 (Port of Long Beach)"],
+    "neighboringTowns": ["Also serving Lakewood", "Signal Hill", "Carson", "Seal Beach", "Compton"],
+    "localDescription": "Our Long Beach location serves customers throughout the South Bay and Harbor Area. Long Beach is a major port city known for the historic Queen Mary and its vibrant waterfront. Whether you work at the port, live in Belmont Shore, or reside anywhere in this diverse coastal city, we are here to help you with your short-term financial needs. Long Beach residents trust Ace Payday Loans for fast, transparent service when unexpected expenses arise.",
+    "neighborhoodName": "Downtown Long Beach",
+    "hours": {
+      "monday": "9:00 AM - 7:00 PM",
+      "tuesday": "9:00 AM - 7:00 PM",
+      "wednesday": "9:00 AM - 7:00 PM",
+      "thursday": "9:00 AM - 7:00 PM",
+      "friday": "9:00 AM - 7:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d106078.05838!2d-118.2467!3d33.7701!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dd313b68a3ade1%3A0x7d8f7a4c3a9c7e1a!2sLong%20Beach%2C%20CA!5e0!3m2!1sen!2sus!4v1234567890"
+  },
+
+  "nap": {
+    "name": "Ace Payday Loans - Long Beach",
+    "street": "245 Pine Avenue, Suite 150",
+    "city": "Long Beach",
+    "state": "CA",
+    "zip": "90802",
+    "phone": "(562) 555-0759",
+    "formattedPhone": "+15625550759",
+    "formattedAddress": "245 Pine Avenue, Suite 150, Long Beach, CA 90802",
+    "coordinates": {
+      "latitude": 33.7701,
+      "longitude": -118.1937
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=33.7701,-118.1937"
+  },
+
+  "productLinks": {
+    "headline": "Our Long Beach Financial Services",
+    "intro": "We offer a full range of short-term lending and money services to help Long Beach residents with their financial needs:",
+    "services": [
+      {
+        "name": "Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Short-term loans up to $300 to cover unexpected expenses until your next paycheck",
+        "anchorText": "Learn more about Payday Loans"
+      },
+      {
+        "name": "Cash Advances",
+        "slug": "cash-advances",
+        "url": "/services/cash-advances",
+        "description": "Quick access to cash before your next payday for emergency expenses",
+        "anchorText": "Learn more about Cash Advances"
+      },
+      {
+        "name": "Installment Loans",
+        "slug": "installment-loans",
+        "url": "/services/installment-loans",
+        "description": "Larger loans repaid over time through scheduled monthly payments",
+        "anchorText": "Learn more about Installment Loans"
+      },
+      {
+        "name": "Title Loans",
+        "slug": "title-loans",
+        "url": "/services/title-loans",
+        "description": "Secured loans using your vehicle title as collateral for larger amounts",
+        "anchorText": "Learn more about Title Loans"
+      },
+      {
+        "name": "Check Cashing",
+        "slug": "check-cashing",
+        "url": "/services/check-cashing",
+        "description": "Convert checks to cash instantly without a bank account",
+        "anchorText": "Learn more about Check Cashing"
+      },
+      {
+        "name": "Online Payday Loans",
+        "slug": "online-payday-loans",
+        "url": "/services/online-payday-loans",
+        "description": "Apply for payday loans from home with fast online approval",
+        "anchorText": "Learn more about Online Payday Loans"
+      },
+      {
+        "name": "Same Day Loans",
+        "slug": "same-day-loans",
+        "url": "/services/same-day-loans",
+        "description": "Get approved and funded within the same business day",
+        "anchorText": "Learn more about Same Day Loans"
+      },
+      {
+        "name": "Bad Credit Loans",
+        "slug": "bad-credit-loans",
+        "url": "/services/bad-credit-loans",
+        "description": "Loan options for borrowers with less-than-perfect credit",
+        "anchorText": "Learn more about Bad Credit Loans"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "Understanding California Payday Loan Laws",
+    "intro": "Residents of Long Beach are protected by California's strict payday loan regulations enforced by the Department of Financial Protection and Innovation (DFPI).",
+    "content": "California regulates payday loans under the California Deferred Deposit Transaction Law (CDDTL), administered by the Department of Financial Protection and Innovation (DFPI). The state allows payday loans with significant consumer protections: loans are capped at $300 with a maximum fee of 15% (approximately $45). Rollovers are prohibited, meaning lenders cannot issue a new loan to pay off an existing one. California also prohibits lenders from making multiple loans to the same borrower simultaneously. All payday lenders operating in California must be licensed by the DFPI, and consumers can verify a lender's license status online or by calling 1-866-275-2677.",
+    "keyPoints": [
+      "California limits payday loans to a maximum of $300",
+      "The maximum fee is 15% of the check amount (up to $45)",
+      "Lenders cannot make a new loan to pay off an existing loan (rollovers prohibited)",
+      "You cannot have more than one payday loan at a time",
+      "If your check bounces, the lender can charge only one NSF fee of up to $15",
+      "Lenders cannot threaten criminal prosecution for non-payment",
+      "Your loan contract must be provided in your primary language",
+      "All lenders must be licensed - verify at dfpi.ca.gov"
+    ],
+    "protectionsList": [
+      "Maximum loan amount: $300",
+      "Maximum fee: 15% of check face value ($45 maximum)",
+      "Maximum term: 31 days",
+      "Rollovers: Prohibited",
+      "Multiple loans: Not allowed simultaneously",
+      "NSF fee: $15 maximum (one fee only)",
+      "Criminal prosecution: Cannot be threatened for non-payment"
+    ],
+    "regulatoryBody": "California Department of Financial Protection and Innovation (DFPI)",
+    "regulatoryUrl": "https://dfpi.ca.gov",
+    "verificationUrl": "https://dfpi.ca.gov/regulated-industries/regulated-entities-list/",
+    "contactPhone": "1-866-275-2677",
+    "disclaimer": "IMPORTANT NOTICE: This information is provided for general educational purposes only and does not constitute legal or financial advice. Payday loans are high-cost, short-term loans with APRs that can exceed 400%. Before taking out a payday loan, consider alternatives such as personal loans, credit union loans, payment plans with creditors, or assistance from non-profit credit counseling agencies. Laws and regulations may change. For the most current information, contact the California Department of Financial Protection and Innovation at 1-866-275-2677 or visit dfpi.ca.gov. If you are experiencing financial difficulties, contact a HUD-approved housing counselor or the National Foundation for Credit Counseling at 1-800-388-2227.",
+    "aprDisclosure": "The typical Annual Percentage Rate (APR) for a payday loan in California is approximately 426-460% for a two-week loan. By comparison, credit cards typically have APRs between 15-30% and personal loans between 6-36%. The high APR reflects the short-term nature of payday loans and the fees charged."
+  },
+
+  "testimonials": {
+    "headline": "What Our Long Beach Customers Say",
+    "locationId": "long-beach-ca",
+    "reviewSource": "Google Business Profile",
+    "showWidget": true,
+    "reviews": [
+      {
+        "name": "Tony V.",
+        "rating": 5,
+        "text": "Work at the port and needed some help between paychecks. The Long Beach Ace location was quick and professional. Had cash in hand within 30 minutes.",
+        "location": "Long Beach, CA",
+        "date": "2024-11-12"
+      },
+      {
+        "name": "Christina M.",
+        "rating": 5,
+        "text": "The Pine Avenue location is super convenient - walking distance from downtown. Staff explained everything clearly and there were no surprises.",
+        "location": "Long Beach, CA",
+        "date": "2024-10-08"
+      },
+      {
+        "name": "Robert J.",
+        "rating": 4,
+        "text": "Needed help with an emergency vet bill for my dog. Ace came through when I needed them. Straightforward process and fair terms.",
+        "location": "Long Beach, CA",
+        "date": "2024-09-15"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby Cities",
+    "intro": "Cannot make it to our Long Beach location? We also serve:",
+    "cities": [
+      {
+        "name": "Los Angeles",
+        "slug": "los-angeles",
+        "url": "/locations/california/los-angeles",
+        "distanceMiles": 22
+      },
+      {
+        "name": "Anaheim",
+        "slug": "anaheim",
+        "url": "/locations/california/anaheim",
+        "distanceMiles": 12
+      },
+      {
+        "name": "Huntington Beach",
+        "slug": "huntington-beach",
+        "url": "/locations/california/huntington-beach",
+        "distanceMiles": 10
+      },
+      {
+        "name": "Santa Ana",
+        "slug": "santa-ana",
+        "url": "/locations/california/santa-ana",
+        "distanceMiles": 14
+      }
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Long Beach payday loan location?",
+      "answer": "Our Long Beach branch is located at 245 Pine Avenue, Suite 150, in Downtown Long Beach near the waterfront. We are easily accessible from I-405 via Exit 32 (Downtown) and I-710 via Exit 1 (Port of Long Beach). Just a short walk from the Aquarium of the Pacific."
+    },
+    {
+      "question": "What are your hours in Long Beach?",
+      "answer": "We are open Monday through Friday from 9 AM to 7 PM, and Saturday from 10 AM to 4 PM. We are closed on Sundays. You can also apply online 24/7."
+    },
+    {
+      "question": "How much can I borrow at your Long Beach location?",
+      "answer": "Under California law, payday loans are capped at $300. After the maximum 15% fee ($45), you would receive approximately $255. We also offer installment loans and title loans for larger amounts."
+    },
+    {
+      "question": "Do I need an appointment at the Long Beach branch?",
+      "answer": "No appointment is needed! Walk-ins are welcome during business hours. However, you can save time by starting your application online before visiting our Long Beach location."
+    },
+    {
+      "question": "What do I need to bring to your Long Beach location?",
+      "answer": "Please bring a valid government-issued photo ID, proof of income (pay stub or bank statement), an active checking account, and a working phone number. Our friendly staff will guide you through the rest of the process."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Ready to Get Cash in Long Beach?",
+    "subheadline": "Visit our Downtown Long Beach location or apply online now",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=long-beach-ca"
+    },
+    "secondaryCta": {
+      "text": "Call (562) 555-0759",
+      "url": "tel:+15625550759"
+    },
+    "address": "245 Pine Avenue, Suite 150, Long Beach, CA 90802"
+  },
+
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FinancialService",
+    "name": "Ace Payday Loans - Long Beach",
+    "description": "Fast payday loans and cash advances in Long Beach, CA. Licensed California lender offering short-term loans up to $300 with same-day funding available.",
+    "url": "https://www.acepaydayloans.com/locations/california/long-beach",
+    "telephone": "+15625550759",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "245 Pine Avenue, Suite 150",
+      "addressLocality": "Long Beach",
+      "addressRegion": "CA",
+      "postalCode": "90802",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 33.7701,
+      "longitude": -118.1937
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "09:00",
+        "closes": "19:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Saturday",
+        "opens": "10:00",
+        "closes": "16:00"
+      }
+    ],
+    "priceRange": "$",
+    "currenciesAccepted": "USD",
+    "paymentAccepted": "Cash, Debit Card, Check",
+    "areaServed": {
+      "@type": "City",
+      "name": "Long Beach",
+      "containedInPlace": {
+        "@type": "State",
+        "name": "California"
+      }
+    },
+    "serviceType": ["Payday Loans", "Cash Advances", "Check Cashing", "Installment Loans", "Title Loans"],
+    "hasCredential": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "license",
+      "name": "California DFPI CDDTL License"
+    }
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "California", "url": "/locations/california"},
+    {"label": "Long Beach", "url": "/locations/california/long-beach"}
+  ],
+
+  "images": {
+    "hero": {
+      "url": "/images/locations/long-beach-branch.jpg",
+      "alt": "Ace Payday Loans Long Beach branch in Downtown",
+      "caption": "Our Long Beach location on Pine Avenue"
+    },
+    "storefront": {
+      "url": "/images/locations/long-beach-storefront.jpg",
+      "alt": "Ace Payday Loans storefront in Long Beach",
+      "caption": "Visit our Long Beach branch for fast cash"
+    }
+  },
+
+  "metadata": {
+    "generatedAt": "2025-01-29T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "batch": "california-batch-1"
+  }
+}

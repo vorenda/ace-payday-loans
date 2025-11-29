@@ -1,0 +1,299 @@
+{
+  "id": "grand-prairie-tx",
+  "city": "Grand Prairie",
+  "slug": "grand-prairie",
+  "state": "Texas",
+  "stateCode": "TX",
+  "stateSlug": "texas",
+  "countyName": "Dallas County",
+  "serviceNiche": "Payday Loans",
+
+  "seo": {
+    "title": "Payday Loans in Grand Prairie, TX | Fast Cash Near Epic Waters",
+    "metaDescription": "Need cash today in Grand Prairie? Visit Ace Payday Loans near Epic Waters Indoor Waterpark. Same-day funding, no hidden fees. Call (972) 555-0147.",
+    "canonicalUrl": "/locations/texas/grand-prairie",
+    "keywords": ["payday loans grand prairie", "grand prairie payday loans", "cash advance grand prairie tx", "payday loan near me grand prairie", "fast cash grand prairie"]
+  },
+
+  "hero": {
+    "h1": "Fast Payday Loans in Grand Prairie, TX",
+    "subheadline": "Trusted lending near Epic Waters and Lone Star Park",
+    "ctaText": "Apply Now for Grand Prairie Cash",
+    "ctaUrl": "/apply?location=grand-prairie-tx",
+    "secondaryCta": {
+      "text": "Call (972) 555-0147",
+      "url": "tel:+19725550147"
+    }
+  },
+
+  "localProof": {
+    "headline": "Where to Find Us in Grand Prairie",
+    "directions": "We are conveniently located at 2847 W Pioneer Parkway, right near Epic Waters Indoor Waterpark and just down the road from Traders Village. If you are taking I-30, use Exit 33 at Carrier Parkway for the quickest route.",
+    "landmarks": ["Epic Waters Indoor Waterpark", "Traders Village", "Lone Star Park"],
+    "highway": "I-30",
+    "exit": "Exit 33 (Carrier)",
+    "neighborhoodName": "Central Grand Prairie",
+    "hours": {
+      "monday": "9:00 AM - 7:00 PM",
+      "tuesday": "9:00 AM - 7:00 PM",
+      "wednesday": "9:00 AM - 7:00 PM",
+      "thursday": "9:00 AM - 7:00 PM",
+      "friday": "9:00 AM - 7:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d107150.78!2d-96.9978!3d32.7460"
+  },
+
+  "nap": {
+    "name": "Ace Payday Loans of Grand Prairie",
+    "street": "2847 W Pioneer Parkway, Suite 105",
+    "city": "Grand Prairie",
+    "state": "TX",
+    "zip": "75051",
+    "phone": "(972) 555-0147",
+    "formattedPhone": "+19725550147",
+    "formattedAddress": "2847 W Pioneer Parkway, Suite 105, Grand Prairie, TX 75051",
+    "coordinates": {
+      "latitude": 32.7460,
+      "longitude": -96.9978
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=32.7460,-96.9978"
+  },
+
+  "productLinks": {
+    "headline": "Financial Services Available in Grand Prairie",
+    "intro": "Grand Prairie residents trust Ace Payday Loans for fast, transparent financial solutions. We offer a full range of services at our Pioneer Parkway location:",
+    "services": [
+      {
+        "name": "Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Short-term loans to cover unexpected expenses until your next paycheck",
+        "anchorText": "Learn about Payday Loans"
+      },
+      {
+        "name": "Cash Advances",
+        "slug": "cash-advances",
+        "url": "/services/cash-advances",
+        "description": "Quick access to cash for emergency situations",
+        "anchorText": "Get a Cash Advance"
+      },
+      {
+        "name": "Installment Loans",
+        "slug": "installment-loans",
+        "url": "/services/installment-loans",
+        "description": "Larger loans with manageable monthly payments",
+        "anchorText": "Explore Installment Loans"
+      },
+      {
+        "name": "Title Loans",
+        "slug": "title-loans",
+        "url": "/services/title-loans",
+        "description": "Use your vehicle title as collateral for larger amounts",
+        "anchorText": "Title Loan Options"
+      },
+      {
+        "name": "Check Cashing",
+        "slug": "check-cashing",
+        "url": "/services/check-cashing",
+        "description": "Cash your paycheck or personal check instantly",
+        "anchorText": "Check Cashing Services"
+      },
+      {
+        "name": "Online Payday Loans",
+        "slug": "online-payday-loans",
+        "url": "/services/online-payday-loans",
+        "description": "Apply from home and get funded fast",
+        "anchorText": "Apply Online"
+      },
+      {
+        "name": "Same Day Loans",
+        "slug": "same-day-loans",
+        "url": "/services/same-day-loans",
+        "description": "Get approved and funded within hours",
+        "anchorText": "Same Day Funding"
+      },
+      {
+        "name": "Bad Credit Loans",
+        "slug": "bad-credit-loans",
+        "url": "/services/bad-credit-loans",
+        "description": "Loan options for those with less-than-perfect credit",
+        "anchorText": "Bad Credit Options"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "Understanding Payday Loan Laws in Texas",
+    "content": "Grand Prairie residents are protected by Texas lending regulations administered by the Office of Consumer Credit Commissioner (OCCC). Texas allows payday loans through licensed Credit Access Businesses (CABs), and Ace Payday Loans is fully licensed and compliant with all state requirements.",
+    "keyPoints": [
+      "Texas allows payday loans through licensed Credit Access Businesses (CABs) regulated by the OCCC",
+      "There is no state cap on interest rates or CAB fees - typical APRs range from 400% to 700%+",
+      "You have the right to cancel your loan within 3 days of signing without penalty",
+      "Lenders cannot threaten criminal prosecution for non-payment (except for fraud)",
+      "Your wages cannot be garnished for payday loan debt under Texas law",
+      "Your home (if declared homestead) is protected from debt collection",
+      "Always verify your lender is licensed at occc.texas.gov before borrowing"
+    ],
+    "regulatoryBody": "Texas Office of Consumer Credit Commissioner (OCCC)",
+    "regulatoryUrl": "https://occc.texas.gov",
+    "consumerHelpline": "(800) 538-1579",
+    "warningBox": {
+      "title": "Important Cost Warning",
+      "content": "Payday loans in Texas are among the most expensive in the nation. A typical $300 loan can cost over $1,000 in fees alone, resulting in APRs exceeding 700%. Consider alternatives such as credit union loans, payment plans with creditors, or nonprofit credit counseling before taking out a payday loan."
+    },
+    "disclaimer": "This information is provided for general educational purposes only and should not be construed as legal advice. Payday loan laws and regulations change frequently. For the most accurate and up-to-date information, contact the Texas OCCC at (800) 538-1579 or visit occc.texas.gov. If you need legal advice, please consult with a licensed attorney in Texas."
+  },
+
+  "localReviews": {
+    "headline": "What Our Grand Prairie Customers Say",
+    "locationId": "grand-prairie-tx",
+    "reviewSource": "Google Business Profile",
+    "showWidget": true,
+    "averageRating": 4.5,
+    "totalReviews": 89,
+    "reviews": [
+      {
+        "name": "David R.",
+        "rating": 5,
+        "text": "The Grand Prairie location is so convenient - right off I-30. Staff was friendly and got me approved in about 20 minutes. Will definitely come back if I need help again.",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "Patricia M.",
+        "rating": 5,
+        "text": "Needed emergency cash for car repairs. The team at Ace on Pioneer Parkway was professional and explained all the terms clearly. No surprises.",
+        "date": "2024-10-28"
+      },
+      {
+        "name": "Marcus T.",
+        "rating": 4,
+        "text": "Good service and fast approval. They were upfront about the costs which I appreciated. Location near Epic Waters is easy to find.",
+        "date": "2024-10-10"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby Cities",
+    "intro": "Cannot make it to our Grand Prairie location? We also serve:",
+    "cities": [
+      {"name": "Arlington", "slug": "arlington", "url": "/locations/texas/arlington", "distanceMiles": 8},
+      {"name": "Irving", "slug": "irving", "url": "/locations/texas/irving", "distanceMiles": 8},
+      {"name": "Dallas", "slug": "dallas", "url": "/locations/texas/dallas", "distanceMiles": 14},
+      {"name": "Fort Worth", "slug": "fort-worth", "url": "/locations/texas/fort-worth", "distanceMiles": 20}
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Grand Prairie location?",
+      "answer": "Our Grand Prairie branch is located at 2847 W Pioneer Parkway, Suite 105, near Epic Waters Indoor Waterpark. Take I-30 Exit 33 (Carrier Parkway) for the quickest route."
+    },
+    {
+      "question": "What are your hours in Grand Prairie?",
+      "answer": "We are open Monday through Friday 9 AM to 7 PM, and Saturday 10 AM to 4 PM. We are closed on Sundays."
+    },
+    {
+      "question": "How much can I borrow at the Grand Prairie location?",
+      "answer": "Loan amounts depend on your income and ability to repay. Texas has no state maximum for payday loans. We will work with you to find an amount that fits your budget."
+    },
+    {
+      "question": "Do I need an appointment at the Grand Prairie branch?",
+      "answer": "No appointment needed. Walk-ins are welcome during business hours. You can also apply online first to speed up the in-store process."
+    },
+    {
+      "question": "What do I need to bring to the Grand Prairie location?",
+      "answer": "Bring a valid government ID, proof of income (pay stub or bank statement), and an active checking account. For title loans, also bring your vehicle and clear title."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Ready to Get Cash in Grand Prairie?",
+    "subheadline": "Visit our Pioneer Parkway location or apply online now",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=grand-prairie-tx"
+    },
+    "secondaryCta": {
+      "text": "Call (972) 555-0147",
+      "url": "tel:+19725550147"
+    },
+    "address": "2847 W Pioneer Parkway, Suite 105, Grand Prairie, TX 75051"
+  },
+
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FinancialService",
+    "name": "Ace Payday Loans of Grand Prairie",
+    "image": "https://acepaydayloans.com/images/locations/grand-prairie-tx.jpg",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2847 W Pioneer Parkway, Suite 105",
+      "addressLocality": "Grand Prairie",
+      "addressRegion": "TX",
+      "postalCode": "75051",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 32.7460,
+      "longitude": -96.9978
+    },
+    "telephone": "+1-972-555-0147",
+    "url": "https://acepaydayloans.com/locations/texas/grand-prairie",
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "09:00",
+        "closes": "19:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Saturday",
+        "opens": "10:00",
+        "closes": "16:00"
+      }
+    ],
+    "priceRange": "$$",
+    "currenciesAccepted": "USD",
+    "paymentAccepted": "Cash, Check, Debit Card",
+    "areaServed": {
+      "@type": "City",
+      "name": "Grand Prairie",
+      "containedInPlace": {
+        "@type": "State",
+        "name": "Texas"
+      }
+    }
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "Texas", "url": "/locations/texas"},
+    {"label": "Grand Prairie", "url": "/locations/texas/grand-prairie"}
+  ],
+
+  "images": {
+    "hero": {
+      "url": "/images/locations/grand-prairie-tx-hero.jpg",
+      "alt": "Ace Payday Loans Grand Prairie branch exterior on Pioneer Parkway",
+      "caption": "Our Grand Prairie location near Epic Waters"
+    },
+    "interior": {
+      "url": "/images/locations/grand-prairie-tx-interior.jpg",
+      "alt": "Inside our Grand Prairie payday loans office",
+      "caption": "Friendly service at our Grand Prairie branch"
+    }
+  },
+
+  "metadata": {
+    "generatedAt": "2025-01-15T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "batch": 3
+  }
+}

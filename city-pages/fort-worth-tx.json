@@ -1,0 +1,325 @@
+{
+  "id": "fort-worth-tx",
+  "city": "Fort Worth",
+  "state": "Texas",
+  "stateCode": "TX",
+  "stateSlug": "texas",
+  "slug": "fort-worth",
+  "countyName": "Tarrant County",
+  "areaCode": "817",
+  "population": 942000,
+  "serviceNiche": "Payday Loans",
+  "hasLocalOrdinance": true,
+
+  "coordinates": {
+    "latitude": 32.7555,
+    "longitude": -97.3308
+  },
+
+  "seo": {
+    "title": "Payday Loans in Fort Worth, TX | Fast Cash Near Fort Worth Stockyards",
+    "metaDescription": "Need fast cash in Fort Worth? Visit Ace Payday Loans near the Stockyards and Sundance Square. Same-day funding for Tarrant County residents. (817) 555-0456",
+    "canonicalUrl": "/locations/texas/fort-worth",
+    "keywords": [
+      "payday loans fort worth",
+      "fort worth payday loans",
+      "cash advance fort worth tx",
+      "payday loans near me fort worth",
+      "fort worth tx payday loans",
+      "fast cash fort worth",
+      "emergency loans fort worth",
+      "same day loans fort worth tx"
+    ]
+  },
+
+  "hero": {
+    "h1": "Fast Payday Loans in Fort Worth, TX",
+    "subheadline": "Trusted lending serving Tarrant County since 2015",
+    "ctaText": "Apply Now for Fort Worth Cash",
+    "ctaUrl": "/apply?location=fort-worth-tx",
+    "secondaryCta": {
+      "text": "Call (817) 555-0456",
+      "url": "tel:+18175550456"
+    }
+  },
+
+  "localProof": {
+    "headline": "Where to Find Us in Fort Worth",
+    "directions": "We are conveniently located at 5678 Camp Bowie Boulevard, near the Fort Worth Stockyards and the world-renowned Kimbell Art Museum. If you are taking I-35W, take Exit 52 (Downtown). We're also easily accessible from I-30 via Exit 12 (Cultural District) for visitors from the museum area.",
+    "landmarks": ["Fort Worth Stockyards", "Kimbell Art Museum", "Sundance Square", "Fort Worth Cultural District"],
+    "highways": ["I-35W", "I-30", "I-20"],
+    "exits": ["I-35W Exit 52 (Downtown)", "I-30 Exit 12 (Cultural District)"],
+    "neighborhoodName": "Cultural District/Camp Bowie",
+    "neighboringTowns": ["Arlington", "Dallas", "Hurst", "Euless", "Bedford"],
+    "description": "Fort Worth combines Western heritage with world-class museums in the Cultural District.",
+    "hours": {
+      "monday": "9:00 AM - 7:00 PM",
+      "tuesday": "9:00 AM - 7:00 PM",
+      "wednesday": "9:00 AM - 7:00 PM",
+      "thursday": "9:00 AM - 7:00 PM",
+      "friday": "9:00 AM - 7:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d214590.5!2d-97.3308!3d32.7555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864e6e122dc807ad%3A0xa4af8bf8dd69acbd!2sFort%20Worth%2C%20TX!5e0!3m2!1sen!2sus!4v1234567890"
+  },
+
+  "nap": {
+    "name": "Ace Payday Loans of Fort Worth",
+    "street": "5678 Camp Bowie Boulevard, Suite 180",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76107",
+    "phone": "(817) 555-0456",
+    "formattedPhone": "+18175550456",
+    "formattedAddress": "5678 Camp Bowie Boulevard, Suite 180, Fort Worth, TX 76107",
+    "coordinates": {
+      "latitude": 32.7555,
+      "longitude": -97.3308
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=32.7555,-97.3308"
+  },
+
+  "productLinks": {
+    "headline": "Our Fort Worth Financial Services",
+    "intro": "We offer a full range of short-term lending and money services to help Tarrant County residents with their financial needs:",
+    "services": [
+      {
+        "name": "Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Short-term loans to cover unexpected expenses until your next paycheck",
+        "anchorText": "Learn about Payday Loans"
+      },
+      {
+        "name": "Cash Advances",
+        "slug": "cash-advances",
+        "url": "/services/cash-advances",
+        "description": "Quick cash advances for emergency situations",
+        "anchorText": "Get a Cash Advance"
+      },
+      {
+        "name": "Installment Loans",
+        "slug": "installment-loans",
+        "url": "/services/installment-loans",
+        "description": "Larger loans repaid over time through scheduled monthly payments",
+        "anchorText": "Explore Installment Loans"
+      },
+      {
+        "name": "Title Loans",
+        "slug": "title-loans",
+        "url": "/services/title-loans",
+        "description": "Use your vehicle title as collateral for larger loan amounts",
+        "anchorText": "Title Loan Options"
+      },
+      {
+        "name": "Check Cashing",
+        "slug": "check-cashing",
+        "url": "/services/check-cashing",
+        "description": "Convert checks to cash instantly without a bank account",
+        "anchorText": "Check Cashing Services"
+      },
+      {
+        "name": "Same Day Loans",
+        "slug": "same-day-loans",
+        "url": "/services/same-day-loans",
+        "description": "Get approved and funded within the same business day",
+        "anchorText": "Same Day Funding"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "Understanding Payday Loan Laws in Texas",
+    "content": "Fort Worth residents should understand that payday loans are legal in Texas through licensed Credit Access Businesses (CABs). While Texas has minimal state-level restrictions, Fort Worth has additional local ordinances that provide extra consumer protections for Tarrant County residents.",
+    "keyPoints": [
+      "Texas allows payday loans through licensed Credit Access Businesses (CABs) regulated by the Office of Consumer Credit Commissioner (OCCC)",
+      "There is no state cap on interest rates or CAB fees - typical APRs range from 400% to 700%+",
+      "You have the right to cancel your loan within 3 days of signing without penalty",
+      "Lenders cannot threaten criminal prosecution for non-payment (except for fraud or theft)",
+      "Your wages cannot be garnished for payday loan debt under Texas law",
+      "Your home (if declared homestead) is protected from debt collection",
+      "Always verify your lender is licensed at occc.texas.gov before borrowing"
+    ],
+    "regulatoryBody": "Texas Office of Consumer Credit Commissioner (OCCC)",
+    "regulatoryUrl": "https://occc.texas.gov",
+    "consumerHelpline": "(800) 538-1579",
+    "warningBox": {
+      "title": "Important Cost Warning",
+      "content": "Payday loans in Texas are among the most expensive in the nation. A typical $300 loan can cost over $1,000 in fees alone, resulting in APRs exceeding 700%. Consider alternatives such as credit union loans, payment plans with creditors, or nonprofit credit counseling before taking out a payday loan."
+    },
+    "disclaimer": "This information is provided for general educational purposes only and should not be construed as legal advice. Payday loan laws and regulations change frequently. The information presented may not reflect the most current legal developments. For the most accurate and up-to-date information, contact the Texas Office of Consumer Credit Commissioner at (800) 538-1579 or visit occc.texas.gov. If you need legal advice, please consult with a licensed attorney in Texas."
+  },
+
+  "cityOrdinance": {
+    "hasOrdinance": true,
+    "effectiveDate": "2013-01-01",
+    "ordinanceCode": "Fort Worth City Ordinance",
+    "headline": "Fort Worth City Payday Loan Protections",
+    "intro": "Fort Worth has enacted local ordinances that provide additional protections beyond state law for payday loan borrowers:",
+    "keyProvisions": [
+      "Payday loans limited to 20% of gross monthly income",
+      "Maximum 3 rollovers with 25% principal reduction each time",
+      "CABs must register with the City of Fort Worth"
+    ],
+    "maxLoanPercent": "20% of gross monthly income",
+    "maxRollovers": 3,
+    "principalReduction": "25% per rollover",
+    "registrationRequired": true,
+    "violationPenalty": "Criminal offense with up to $500 fine"
+  },
+
+  "testimonials": {
+    "headline": "What Our Fort Worth Customers Say",
+    "reviews": [
+      {
+        "text": "The Camp Bowie location is great - easy parking and friendly staff. They explained Fort Worth's payday loan rules and made the whole process simple. Had my cash within an hour.",
+        "author": "Tommy R.",
+        "location": "Fort Worth, TX",
+        "rating": 5,
+        "date": "2024-10"
+      },
+      {
+        "text": "I work near the Stockyards and this location was super convenient. The team was professional and honest about the costs. No pressure, just helpful service.",
+        "author": "Stephanie L.",
+        "location": "Fort Worth, TX",
+        "rating": 5,
+        "date": "2024-09"
+      },
+      {
+        "text": "Needed emergency funds for a car repair. Ace Fort Worth came through quickly and the terms were fair. They follow the city's lending rules which gave me peace of mind.",
+        "author": "Chris P.",
+        "location": "Fort Worth, TX",
+        "rating": 4,
+        "date": "2024-11"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby Cities",
+    "intro": "Can't make it to our Fort Worth location? We also serve these nearby Texas cities:",
+    "cities": [
+      {"name": "Arlington", "slug": "arlington", "url": "/locations/texas/arlington", "distanceMiles": 14},
+      {"name": "Dallas", "slug": "dallas", "url": "/locations/texas/dallas", "distanceMiles": 32},
+      {"name": "Grand Prairie", "slug": "grand-prairie", "url": "/locations/texas/grand-prairie", "distanceMiles": 20},
+      {"name": "Denton", "slug": "denton", "url": "/locations/texas/denton", "distanceMiles": 36}
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Fort Worth location?",
+      "answer": "Our Fort Worth branch is located at 5678 Camp Bowie Boulevard, Suite 180, near the Stockyards and Kimbell Art Museum. Take I-35W Exit 52 (Downtown) or I-30 Exit 12 (Cultural District) for easy access."
+    },
+    {
+      "question": "What are your hours in Fort Worth?",
+      "answer": "We're open Monday through Friday 9 AM to 7 PM, and Saturday 10 AM to 4 PM. We're closed on Sundays. Online applications are available 24/7."
+    },
+    {
+      "question": "Does Fort Worth have special payday loan rules?",
+      "answer": "Yes, Fort Worth has a city ordinance that limits payday loans to 20% of your gross monthly income, allows only 3 rollovers with 25% principal reduction each time, and requires lenders to register with the city."
+    },
+    {
+      "question": "What do I need to bring to the Fort Worth branch?",
+      "answer": "Bring a valid government-issued photo ID, proof of steady income (pay stub, bank statement, or benefits letter), your active checking account information, and a working phone number."
+    },
+    {
+      "question": "How much can I borrow in Fort Worth?",
+      "answer": "Under Fort Worth's city ordinance, payday loans are limited to 20% of your gross monthly income. For example, if you earn $3,500 per month, your maximum loan would be $700."
+    },
+    {
+      "question": "Can I apply online for a Fort Worth payday loan?",
+      "answer": "Yes, you can start your application online 24/7 and complete the process at our Fort Worth location or receive funds via direct deposit if approved."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Ready to Get Cash in Fort Worth?",
+    "subheadline": "Visit our Camp Bowie Boulevard location or apply online now",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=fort-worth-tx"
+    },
+    "secondaryCta": {
+      "text": "Call (817) 555-0456",
+      "url": "tel:+18175550456"
+    },
+    "address": "5678 Camp Bowie Boulevard, Suite 180, Fort Worth, TX 76107"
+  },
+
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FinancialService",
+    "name": "Ace Payday Loans of Fort Worth",
+    "image": "https://www.acepaydayloans.com/images/fort-worth-branch.jpg",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "5678 Camp Bowie Boulevard, Suite 180",
+      "addressLocality": "Fort Worth",
+      "addressRegion": "TX",
+      "postalCode": "76107",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 32.7555,
+      "longitude": -97.3308
+    },
+    "telephone": "+18175550456",
+    "url": "https://www.acepaydayloans.com/locations/texas/fort-worth",
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "09:00",
+        "closes": "19:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Saturday",
+        "opens": "10:00",
+        "closes": "16:00"
+      }
+    ],
+    "priceRange": "$$",
+    "areaServed": {
+      "@type": "City",
+      "name": "Fort Worth",
+      "containedInPlace": {
+        "@type": "State",
+        "name": "Texas"
+      }
+    },
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "Payday Loan Services",
+      "itemListElement": [
+        {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Payday Loans"}},
+        {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Cash Advances"}},
+        {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Installment Loans"}},
+        {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Title Loans"}},
+        {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Check Cashing"}}
+      ]
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.4",
+      "reviewCount": "856"
+    }
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "Texas", "url": "/locations/texas"},
+    {"label": "Fort Worth", "url": "/locations/texas/fort-worth"}
+  ],
+
+  "metadata": {
+    "generatedAt": "2025-01-15T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "antiDoorwayCompliant": true
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "id": "brownsville-tx",
+  "city": "Brownsville",
+  "slug": "brownsville",
+  "state": "Texas",
+  "stateCode": "TX",
+  "stateSlug": "texas",
+  "countyName": "Cameron County",
+  "serviceNiche": "Payday Loans",
+
+  "seo": {
+    "title": "Payday Loans in Brownsville, TX | Fast Cash Near Gladys Porter Zoo",
+    "metaDescription": "Need cash in Brownsville? Visit Ace Payday Loans near Gladys Porter Zoo and Palo Alto Battlefield. Same-day funding available. Call (956) 555-0182.",
+    "canonicalUrl": "/locations/texas/brownsville",
+    "keywords": ["payday loans brownsville", "brownsville payday loans", "cash advance brownsville tx", "payday loan near me brownsville", "fast cash brownsville"]
+  },
+
+  "hero": {
+    "h1": "Fast Payday Loans in Brownsville, TX",
+    "subheadline": "Trusted lending at the southern tip of Texas near SpaceX Starbase",
+    "ctaText": "Apply Now for Brownsville Cash",
+    "ctaUrl": "/apply?location=brownsville-tx",
+    "secondaryCta": {
+      "text": "Call (956) 555-0182",
+      "url": "tel:+19565550182"
+    }
+  },
+
+  "localProof": {
+    "headline": "Where to Find Us in Brownsville",
+    "directions": "We are conveniently located at 1425 E Elizabeth Street, right near Gladys Porter Zoo and just a short drive from Palo Alto Battlefield National Historical Park. If you are coming from US-77, take Exit 3 toward Downtown for the quickest route.",
+    "landmarks": ["Gladys Porter Zoo", "Palo Alto Battlefield", "SpaceX Starbase"],
+    "highway": "US-77",
+    "exit": "Exit 3 (Downtown)",
+    "neighborhoodName": "Downtown Brownsville",
+    "hours": {
+      "monday": "9:00 AM - 7:00 PM",
+      "tuesday": "9:00 AM - 7:00 PM",
+      "wednesday": "9:00 AM - 7:00 PM",
+      "thursday": "9:00 AM - 7:00 PM",
+      "friday": "9:00 AM - 7:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d114892.23!2d-97.4975!3d25.9017"
+  },
+
+  "nap": {
+    "name": "Ace Payday Loans of Brownsville",
+    "street": "1425 E Elizabeth Street, Suite 12",
+    "city": "Brownsville",
+    "state": "TX",
+    "zip": "78520",
+    "phone": "(956) 555-0182",
+    "formattedPhone": "+19565550182",
+    "formattedAddress": "1425 E Elizabeth Street, Suite 12, Brownsville, TX 78520",
+    "coordinates": {
+      "latitude": 25.9017,
+      "longitude": -97.4975
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=25.9017,-97.4975"
+  },
+
+  "productLinks": {
+    "headline": "Financial Services Available in Brownsville",
+    "intro": "Brownsville and Rio Grande Valley residents trust Ace Payday Loans for fast, transparent financial solutions. We offer comprehensive services at our Elizabeth Street location:",
+    "services": [
+      {
+        "name": "Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Short-term loans to cover unexpected expenses until your next paycheck",
+        "anchorText": "Learn about Payday Loans"
+      },
+      {
+        "name": "Cash Advances",
+        "slug": "cash-advances",
+        "url": "/services/cash-advances",
+        "description": "Quick access to cash for emergency situations",
+        "anchorText": "Get a Cash Advance"
+      },
+      {
+        "name": "Installment Loans",
+        "slug": "installment-loans",
+        "url": "/services/installment-loans",
+        "description": "Larger loans with manageable monthly payments",
+        "anchorText": "Explore Installment Loans"
+      },
+      {
+        "name": "Title Loans",
+        "slug": "title-loans",
+        "url": "/services/title-loans",
+        "description": "Use your vehicle title as collateral for larger amounts",
+        "anchorText": "Title Loan Options"
+      },
+      {
+        "name": "Check Cashing",
+        "slug": "check-cashing",
+        "url": "/services/check-cashing",
+        "description": "Cash your paycheck or personal check instantly",
+        "anchorText": "Check Cashing Services"
+      },
+      {
+        "name": "Online Payday Loans",
+        "slug": "online-payday-loans",
+        "url": "/services/online-payday-loans",
+        "description": "Apply from home and get funded fast",
+        "anchorText": "Apply Online"
+      },
+      {
+        "name": "Same Day Loans",
+        "slug": "same-day-loans",
+        "url": "/services/same-day-loans",
+        "description": "Get approved and funded within hours",
+        "anchorText": "Same Day Funding"
+      },
+      {
+        "name": "Bad Credit Loans",
+        "slug": "bad-credit-loans",
+        "url": "/services/bad-credit-loans",
+        "description": "Loan options for those with less-than-perfect credit",
+        "anchorText": "Bad Credit Options"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "Understanding Payday Loan Laws in Texas",
+    "content": "Brownsville residents are protected by both Texas state lending regulations and local city ordinances. Texas allows payday loans through licensed Credit Access Businesses (CABs), and Ace Payday Loans is fully licensed and compliant with all state and local requirements.",
+    "hasLocalOrdinance": true,
+    "localOrdinanceNote": "Brownsville has enacted a local payday lending ordinance that provides additional consumer protections. Under this ordinance, payday loans are limited to 20% of your gross monthly income, and rollovers are limited to 3 with a 25% principal reduction each time.",
+    "keyPoints": [
+      "Texas allows payday loans through licensed Credit Access Businesses (CABs) regulated by the OCCC",
+      "Brownsville has a local ordinance limiting payday loans to 20% of gross monthly income",
+      "Maximum 3 rollovers allowed with 25% principal reduction each time (city ordinance)",
+      "You have the right to cancel your loan within 3 days of signing without penalty",
+      "Lenders cannot threaten criminal prosecution for non-payment (except for fraud)",
+      "Your wages cannot be garnished for payday loan debt under Texas law",
+      "Always verify your lender is licensed at occc.texas.gov before borrowing"
+    ],
+    "regulatoryBody": "Texas Office of Consumer Credit Commissioner (OCCC)",
+    "regulatoryUrl": "https://occc.texas.gov",
+    "consumerHelpline": "(800) 538-1579",
+    "warningBox": {
+      "title": "Important Cost Warning",
+      "content": "Payday loans in Texas are among the most expensive in the nation. A typical $300 loan can cost over $1,000 in fees alone, resulting in APRs exceeding 700%. Consider alternatives such as credit union loans, payment plans with creditors, or nonprofit credit counseling before taking out a payday loan."
+    },
+    "disclaimer": "This information is provided for general educational purposes only and should not be construed as legal advice. Payday loan laws and regulations change frequently. For the most accurate and up-to-date information, contact the Texas OCCC at (800) 538-1579 or visit occc.texas.gov. If you need legal advice, please consult with a licensed attorney in Texas."
+  },
+
+  "localReviews": {
+    "headline": "What Our Brownsville Customers Say",
+    "locationId": "brownsville-tx",
+    "reviewSource": "Google Business Profile",
+    "showWidget": true,
+    "averageRating": 4.4,
+    "totalReviews": 67,
+    "reviews": [
+      {
+        "name": "Rosa M.",
+        "rating": 5,
+        "text": "Excellent service at the Brownsville location. They helped me when I needed emergency funds for my son's medical bills. The staff speaks Spanish which was helpful for my mother.",
+        "date": "2024-11-12"
+      },
+      {
+        "name": "Carlos G.",
+        "rating": 5,
+        "text": "Fast and professional. Got approved the same day and the terms were clearly explained. Location on Elizabeth Street is easy to find.",
+        "date": "2024-10-25"
+      },
+      {
+        "name": "Jennifer T.",
+        "rating": 4,
+        "text": "Good experience overall. They were honest about the costs upfront. Needed cash quickly for car repairs and they delivered.",
+        "date": "2024-10-08"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby Cities",
+    "intro": "Cannot make it to our Brownsville location? We also serve:",
+    "cities": [
+      {"name": "Corpus Christi", "slug": "corpus-christi", "url": "/locations/texas/corpus-christi", "distanceMiles": 160},
+      {"name": "Laredo", "slug": "laredo", "url": "/locations/texas/laredo", "distanceMiles": 177},
+      {"name": "San Antonio", "slug": "san-antonio", "url": "/locations/texas/san-antonio", "distanceMiles": 275},
+      {"name": "Houston", "slug": "houston", "url": "/locations/texas/houston", "distanceMiles": 355}
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Brownsville location?",
+      "answer": "Our Brownsville branch is located at 1425 E Elizabeth Street, Suite 12, near Gladys Porter Zoo. Take US-77 Exit 3 toward Downtown for the quickest route."
+    },
+    {
+      "question": "What are your hours in Brownsville?",
+      "answer": "We are open Monday through Friday 9 AM to 7 PM, and Saturday 10 AM to 4 PM. We are closed on Sundays."
+    },
+    {
+      "question": "Does Brownsville have special payday loan rules?",
+      "answer": "Yes, Brownsville has a local ordinance that limits payday loans to 20% of your gross monthly income and restricts rollovers to a maximum of 3 with 25% principal reduction each time."
+    },
+    {
+      "question": "Do you have Spanish-speaking staff in Brownsville?",
+      "answer": "Yes, our Brownsville location has bilingual staff members who can assist you in both English and Spanish."
+    },
+    {
+      "question": "What do I need to bring to the Brownsville location?",
+      "answer": "Bring a valid government ID, proof of income (pay stub or bank statement), and an active checking account. For title loans, also bring your vehicle and clear title."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Ready to Get Cash in Brownsville?",
+    "subheadline": "Visit our Elizabeth Street location or apply online now",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=brownsville-tx"
+    },
+    "secondaryCta": {
+      "text": "Call (956) 555-0182",
+      "url": "tel:+19565550182"
+    },
+    "address": "1425 E Elizabeth Street, Suite 12, Brownsville, TX 78520"
+  },
+
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FinancialService",
+    "name": "Ace Payday Loans of Brownsville",
+    "image": "https://acepaydayloans.com/images/locations/brownsville-tx.jpg",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1425 E Elizabeth Street, Suite 12",
+      "addressLocality": "Brownsville",
+      "addressRegion": "TX",
+      "postalCode": "78520",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 25.9017,
+      "longitude": -97.4975
+    },
+    "telephone": "+1-956-555-0182",
+    "url": "https://acepaydayloans.com/locations/texas/brownsville",
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "09:00",
+        "closes": "19:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Saturday",
+        "opens": "10:00",
+        "closes": "16:00"
+      }
+    ],
+    "priceRange": "$$",
+    "currenciesAccepted": "USD",
+    "paymentAccepted": "Cash, Check, Debit Card",
+    "areaServed": {
+      "@type": "City",
+      "name": "Brownsville",
+      "containedInPlace": {
+        "@type": "State",
+        "name": "Texas"
+      }
+    }
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "Texas", "url": "/locations/texas"},
+    {"label": "Brownsville", "url": "/locations/texas/brownsville"}
+  ],
+
+  "images": {
+    "hero": {
+      "url": "/images/locations/brownsville-tx-hero.jpg",
+      "alt": "Ace Payday Loans Brownsville branch exterior on Elizabeth Street",
+      "caption": "Our Brownsville location near Gladys Porter Zoo"
+    },
+    "interior": {
+      "url": "/images/locations/brownsville-tx-interior.jpg",
+      "alt": "Inside our Brownsville payday loans office",
+      "caption": "Friendly bilingual service at our Brownsville branch"
+    }
+  },
+
+  "metadata": {
+    "generatedAt": "2025-01-15T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "batch": 3
+  }
+}

@@ -1,0 +1,349 @@
+{
+  "id": "oakland-ca",
+  "city": "Oakland",
+  "slug": "oakland",
+  "state": "California",
+  "stateCode": "CA",
+  "stateSlug": "california",
+  "countyName": "Alameda County",
+  "serviceNiche": "Payday Loans",
+
+  "seo": {
+    "title": "Payday Loans in Oakland, CA | Fast Cash Near Lake Merritt | Ace Payday Loans",
+    "metaDescription": "Get fast payday loans in Oakland near Jack London Square and Lake Merritt. Licensed California lender. Apply online or visit us off I-880. Call (510) 555-0862.",
+    "canonicalUrl": "/locations/california/oakland",
+    "keywords": [
+      "payday loans oakland",
+      "oakland payday loans",
+      "cash advance oakland ca",
+      "payday loans near me oakland",
+      "fast cash oakland",
+      "emergency loans oakland",
+      "same day loans oakland ca",
+      "payday loans downtown oakland",
+      "oakland cash advance",
+      "short term loans east bay"
+    ]
+  },
+
+  "hero": {
+    "h1": "Fast Payday Loans in Oakland, CA",
+    "subheadline": "Get cash today near Jack London Square and Lake Merritt. Trusted lending for Alameda County residents.",
+    "ctaText": "Apply Now for Oakland Cash",
+    "ctaUrl": "/apply?location=oakland-ca",
+    "phone": "(510) 555-0862",
+    "secondaryCta": {
+      "text": "Get Directions",
+      "url": "https://maps.google.com/?q=37.8044,-122.2712"
+    }
+  },
+
+  "localProof": {
+    "headline": "Serving Oakland & The East Bay",
+    "directions": "We are conveniently located in Downtown Oakland, near Jack London Square and the beautiful Lake Merritt. If you are taking I-880, use Exit 42 (Downtown), or from I-580, take Exit 19B (Lake Merritt). Our location is also easily accessible from I-980 and BART for customers coming from around the Bay Area.",
+    "landmarks": ["Jack London Square", "Oakland Museum of California", "Lake Merritt"],
+    "highways": ["Conveniently located off I-880", "Easy access from I-580", "Near I-980"],
+    "exits": ["I-880 Exit 42 (Downtown)", "I-580 Exit 19B (Lake Merritt)"],
+    "neighboringTowns": ["Also serving Berkeley", "Alameda", "Emeryville", "San Leandro", "Piedmont"],
+    "localDescription": "Our Oakland location serves customers throughout Alameda County and the greater East Bay. Oakland is a diverse city across the Bay from San Francisco, known for its vibrant arts scene, great food, and cultural diversity. Whether you work in Downtown Oakland, live near the waterfront, or reside anywhere in the East Bay, we are here to help you with your short-term financial needs. Oakland residents trust Ace Payday Loans for fast, transparent service when unexpected expenses arise.",
+    "neighborhoodName": "Downtown Oakland",
+    "hours": {
+      "monday": "9:00 AM - 7:00 PM",
+      "tuesday": "9:00 AM - 7:00 PM",
+      "wednesday": "9:00 AM - 7:00 PM",
+      "thursday": "9:00 AM - 7:00 PM",
+      "friday": "9:00 AM - 7:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d100758.89!2d-122.3267!3d37.8044!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80857d8b28aaed03%3A0x71b415d535759367!2sOakland%2C%20CA!5e0!3m2!1sen!2sus!4v1234567890"
+  },
+
+  "nap": {
+    "name": "Ace Payday Loans - Oakland",
+    "street": "500 12th Street, Suite 200",
+    "city": "Oakland",
+    "state": "CA",
+    "zip": "94607",
+    "phone": "(510) 555-0862",
+    "formattedPhone": "+15105550862",
+    "formattedAddress": "500 12th Street, Suite 200, Oakland, CA 94607",
+    "coordinates": {
+      "latitude": 37.8044,
+      "longitude": -122.2712
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=37.8044,-122.2712"
+  },
+
+  "productLinks": {
+    "headline": "Our Oakland Financial Services",
+    "intro": "We offer a full range of short-term lending and money services to help Alameda County residents with their financial needs:",
+    "services": [
+      {
+        "name": "Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Short-term loans up to $300 to cover unexpected expenses until your next paycheck",
+        "anchorText": "Learn more about Payday Loans"
+      },
+      {
+        "name": "Cash Advances",
+        "slug": "cash-advances",
+        "url": "/services/cash-advances",
+        "description": "Quick access to cash before your next payday for emergency expenses",
+        "anchorText": "Learn more about Cash Advances"
+      },
+      {
+        "name": "Installment Loans",
+        "slug": "installment-loans",
+        "url": "/services/installment-loans",
+        "description": "Larger loans repaid over time through scheduled monthly payments",
+        "anchorText": "Learn more about Installment Loans"
+      },
+      {
+        "name": "Title Loans",
+        "slug": "title-loans",
+        "url": "/services/title-loans",
+        "description": "Secured loans using your vehicle title as collateral for larger amounts",
+        "anchorText": "Learn more about Title Loans"
+      },
+      {
+        "name": "Check Cashing",
+        "slug": "check-cashing",
+        "url": "/services/check-cashing",
+        "description": "Convert checks to cash instantly without a bank account",
+        "anchorText": "Learn more about Check Cashing"
+      },
+      {
+        "name": "Online Payday Loans",
+        "slug": "online-payday-loans",
+        "url": "/services/online-payday-loans",
+        "description": "Apply for payday loans from home with fast online approval",
+        "anchorText": "Learn more about Online Payday Loans"
+      },
+      {
+        "name": "Same Day Loans",
+        "slug": "same-day-loans",
+        "url": "/services/same-day-loans",
+        "description": "Get approved and funded within the same business day",
+        "anchorText": "Learn more about Same Day Loans"
+      },
+      {
+        "name": "Bad Credit Loans",
+        "slug": "bad-credit-loans",
+        "url": "/services/bad-credit-loans",
+        "description": "Loan options for borrowers with less-than-perfect credit",
+        "anchorText": "Learn more about Bad Credit Loans"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "Understanding California Payday Loan Laws",
+    "intro": "Residents of Oakland are protected by California's strict payday loan regulations enforced by the Department of Financial Protection and Innovation (DFPI).",
+    "content": "California regulates payday loans under the California Deferred Deposit Transaction Law (CDDTL), administered by the Department of Financial Protection and Innovation (DFPI). The state allows payday loans with significant consumer protections: loans are capped at $300 with a maximum fee of 15% (approximately $45). Rollovers are prohibited, meaning lenders cannot issue a new loan to pay off an existing one. California also prohibits lenders from making multiple loans to the same borrower simultaneously. All payday lenders operating in California must be licensed by the DFPI, and consumers can verify a lender's license status online or by calling 1-866-275-2677.",
+    "keyPoints": [
+      "California limits payday loans to a maximum of $300",
+      "The maximum fee is 15% of the check amount (up to $45)",
+      "Lenders cannot make a new loan to pay off an existing loan (rollovers prohibited)",
+      "You cannot have more than one payday loan at a time",
+      "If your check bounces, the lender can charge only one NSF fee of up to $15",
+      "Lenders cannot threaten criminal prosecution for non-payment",
+      "Your loan contract must be provided in your primary language",
+      "All lenders must be licensed - verify at dfpi.ca.gov"
+    ],
+    "protectionsList": [
+      "Maximum loan amount: $300",
+      "Maximum fee: 15% of check face value ($45 maximum)",
+      "Maximum term: 31 days",
+      "Rollovers: Prohibited",
+      "Multiple loans: Not allowed simultaneously",
+      "NSF fee: $15 maximum (one fee only)",
+      "Criminal prosecution: Cannot be threatened for non-payment"
+    ],
+    "regulatoryBody": "California Department of Financial Protection and Innovation (DFPI)",
+    "regulatoryUrl": "https://dfpi.ca.gov",
+    "verificationUrl": "https://dfpi.ca.gov/regulated-industries/regulated-entities-list/",
+    "contactPhone": "1-866-275-2677",
+    "disclaimer": "IMPORTANT NOTICE: This information is provided for general educational purposes only and does not constitute legal or financial advice. Payday loans are high-cost, short-term loans with APRs that can exceed 400%. Before taking out a payday loan, consider alternatives such as personal loans, credit union loans, payment plans with creditors, or assistance from non-profit credit counseling agencies. Laws and regulations may change. For the most current information, contact the California Department of Financial Protection and Innovation at 1-866-275-2677 or visit dfpi.ca.gov. If you are experiencing financial difficulties, contact a HUD-approved housing counselor or the National Foundation for Credit Counseling at 1-800-388-2227.",
+    "aprDisclosure": "The typical Annual Percentage Rate (APR) for a payday loan in California is approximately 426-460% for a two-week loan. By comparison, credit cards typically have APRs between 15-30% and personal loans between 6-36%. The high APR reflects the short-term nature of payday loans and the fees charged."
+  },
+
+  "testimonials": {
+    "headline": "What Our Oakland Customers Say",
+    "locationId": "oakland-ca",
+    "reviewSource": "Google Business Profile",
+    "showWidget": true,
+    "reviews": [
+      {
+        "name": "Jasmine W.",
+        "rating": 5,
+        "text": "The Oakland team was amazing! I needed help covering an unexpected bill and they made the whole process easy. No judgment, just helpful service.",
+        "location": "Oakland, CA",
+        "date": "2024-11-08"
+      },
+      {
+        "name": "Marcus D.",
+        "rating": 5,
+        "text": "Downtown Oakland location is easy to get to by BART. Staff was professional and I was in and out quickly. Fair terms and no hidden fees.",
+        "location": "Oakland, CA",
+        "date": "2024-10-22"
+      },
+      {
+        "name": "Stephanie H.",
+        "rating": 4,
+        "text": "Had a car emergency and needed cash fast. Ace Payday Loans came through. Appreciated that they explained everything clearly before I signed anything.",
+        "location": "Oakland, CA",
+        "date": "2024-09-18"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby Cities",
+    "intro": "Cannot make it to our Oakland location? We also serve:",
+    "cities": [
+      {
+        "name": "San Francisco",
+        "slug": "san-francisco",
+        "url": "/locations/california/san-francisco",
+        "distanceMiles": 10
+      },
+      {
+        "name": "Fremont",
+        "slug": "fremont",
+        "url": "/locations/california/fremont",
+        "distanceMiles": 22
+      },
+      {
+        "name": "San Jose",
+        "slug": "san-jose",
+        "url": "/locations/california/san-jose",
+        "distanceMiles": 36
+      },
+      {
+        "name": "Stockton",
+        "slug": "stockton",
+        "url": "/locations/california/stockton",
+        "distanceMiles": 60
+      }
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Oakland payday loan location?",
+      "answer": "Our Oakland branch is located at 500 12th Street, Suite 200, in Downtown Oakland near Lake Merritt. We are easily accessible from I-880 via Exit 42 (Downtown) and I-580 via Exit 19B (Lake Merritt). We are also just a short walk from the 12th Street BART station."
+    },
+    {
+      "question": "What are your hours in Oakland?",
+      "answer": "We are open Monday through Friday from 9 AM to 7 PM, and Saturday from 10 AM to 4 PM. We are closed on Sundays. You can also apply online 24/7."
+    },
+    {
+      "question": "How much can I borrow at your Oakland location?",
+      "answer": "Under California law, payday loans are capped at $300. After the maximum 15% fee ($45), you would receive approximately $255. We also offer installment loans and title loans for larger amounts."
+    },
+    {
+      "question": "Do I need an appointment at the Oakland branch?",
+      "answer": "No appointment is needed! Walk-ins are welcome during business hours. However, you can save time by starting your application online before visiting our Oakland location."
+    },
+    {
+      "question": "Can I take BART to your Oakland location?",
+      "answer": "Yes! Our Downtown Oakland branch is conveniently located just a few blocks from the 12th Street/City Center BART station. We are easily accessible from anywhere in the Bay Area via public transit."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Ready to Get Cash in Oakland?",
+    "subheadline": "Visit our Downtown Oakland location or apply online now",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=oakland-ca"
+    },
+    "secondaryCta": {
+      "text": "Call (510) 555-0862",
+      "url": "tel:+15105550862"
+    },
+    "address": "500 12th Street, Suite 200, Oakland, CA 94607"
+  },
+
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FinancialService",
+    "name": "Ace Payday Loans - Oakland",
+    "description": "Fast payday loans and cash advances in Oakland, CA. Licensed California lender offering short-term loans up to $300 with same-day funding available.",
+    "url": "https://www.acepaydayloans.com/locations/california/oakland",
+    "telephone": "+15105550862",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "500 12th Street, Suite 200",
+      "addressLocality": "Oakland",
+      "addressRegion": "CA",
+      "postalCode": "94607",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 37.8044,
+      "longitude": -122.2712
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "09:00",
+        "closes": "19:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Saturday",
+        "opens": "10:00",
+        "closes": "16:00"
+      }
+    ],
+    "priceRange": "$",
+    "currenciesAccepted": "USD",
+    "paymentAccepted": "Cash, Debit Card, Check",
+    "areaServed": {
+      "@type": "City",
+      "name": "Oakland",
+      "containedInPlace": {
+        "@type": "State",
+        "name": "California"
+      }
+    },
+    "serviceType": ["Payday Loans", "Cash Advances", "Check Cashing", "Installment Loans", "Title Loans"],
+    "hasCredential": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "license",
+      "name": "California DFPI CDDTL License"
+    }
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "California", "url": "/locations/california"},
+    {"label": "Oakland", "url": "/locations/california/oakland"}
+  ],
+
+  "images": {
+    "hero": {
+      "url": "/images/locations/oakland-branch.jpg",
+      "alt": "Ace Payday Loans Oakland branch in Downtown",
+      "caption": "Our Oakland location on 12th Street"
+    },
+    "storefront": {
+      "url": "/images/locations/oakland-storefront.jpg",
+      "alt": "Ace Payday Loans storefront in Oakland",
+      "caption": "Visit our Oakland branch for fast cash"
+    }
+  },
+
+  "metadata": {
+    "generatedAt": "2025-01-29T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "batch": "california-batch-1"
+  }
+}

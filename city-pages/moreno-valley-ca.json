@@ -1,0 +1,297 @@
+{
+  "id": "moreno-valley-ca",
+  "city": "Moreno Valley",
+  "slug": "moreno-valley",
+  "state": "California",
+  "stateCode": "CA",
+  "stateSlug": "california",
+  "countyName": "Riverside County",
+  "serviceNiche": "Payday Loans",
+
+  "seo": {
+    "title": "Payday Loans in Moreno Valley, CA | Fast Cash Near March Field Air Museum",
+    "metaDescription": "Need cash today in Moreno Valley? Visit Ace Payday Loans near March Field Air Museum. Get approved in 30 minutes. Take I-215 Exit 35. Call (951) 555-0156.",
+    "canonicalUrl": "/locations/california/moreno-valley",
+    "keywords": ["payday loans moreno valley", "moreno valley payday loans", "cash advance moreno valley ca", "payday loans near me moreno valley", "fast cash moreno valley", "riverside county payday loans"]
+  },
+
+  "hero": {
+    "h1": "Fast Payday Loans in Moreno Valley, CA",
+    "subheadline": "Trusted lending near March Field Air Museum and Lake Perris",
+    "ctaText": "Apply Now for Moreno Valley Cash",
+    "ctaUrl": "/apply?location=moreno-valley-ca",
+    "secondaryCta": {
+      "text": "Call (951) 555-0156",
+      "url": "tel:+19515550156"
+    }
+  },
+
+  "localProof": {
+    "headline": "Where to Find Us in Moreno Valley",
+    "directions": "We are conveniently located at 24667 Sunnymead Boulevard, right near the March Field Air Museum and the Moreno Valley Mall. If you are taking I-215, use Exit 35 at Alessandro Boulevard. From CA-60, take Exit 64 at Moreno Beach Drive. We are centrally located to serve all of Moreno Valley.",
+    "landmarks": ["March Field Air Museum", "Lake Perris State Recreation Area", "Moreno Valley Mall"],
+    "highways": ["I-215", "CA-60", "CA-91"],
+    "exits": ["I-215 Exit 35 (Alessandro)", "CA-60 Exit 64 (Moreno Beach)"],
+    "neighborhoodName": "Sunnymead",
+    "neighboringTowns": ["Riverside", "Perris", "Beaumont", "Corona", "San Jacinto"],
+    "hours": {
+      "monday": "9:00 AM - 7:00 PM",
+      "tuesday": "9:00 AM - 7:00 PM",
+      "wednesday": "9:00 AM - 7:00 PM",
+      "thursday": "9:00 AM - 7:00 PM",
+      "friday": "9:00 AM - 7:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d53178.45!2d-117.2297!3d33.9425!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dcb0a4a2c5f76d%3A0x5e7b2d5c5b95b96c!2sMoreno%20Valley%2C%20CA!5e0!3m2!1sen!2sus!4v1"
+  },
+
+  "nap": {
+    "name": "Ace Payday Loans of Moreno Valley",
+    "street": "24667 Sunnymead Boulevard, Suite 102",
+    "city": "Moreno Valley",
+    "state": "CA",
+    "zip": "92553",
+    "phone": "(951) 555-0156",
+    "formattedPhone": "+19515550156",
+    "formattedAddress": "24667 Sunnymead Boulevard, Suite 102, Moreno Valley, CA 92553",
+    "coordinates": {
+      "latitude": 33.9425,
+      "longitude": -117.2297
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=33.9425,-117.2297"
+  },
+
+  "productLinks": {
+    "headline": "Our Moreno Valley Financial Services",
+    "intro": "We offer a full range of short-term lending and money services to help Riverside County residents with their financial needs:",
+    "services": [
+      {
+        "name": "Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Short-term loans up to $300 to cover unexpected expenses until your next paycheck",
+        "anchorText": "Moreno Valley Payday Loans"
+      },
+      {
+        "name": "Cash Advances",
+        "slug": "cash-advances",
+        "url": "/services/cash-advances",
+        "description": "Quick cash advances for emergency situations with fast approval",
+        "anchorText": "Cash Advances in Moreno Valley"
+      },
+      {
+        "name": "Installment Loans",
+        "slug": "installment-loans",
+        "url": "/services/installment-loans",
+        "description": "Larger loans repaid over time through scheduled monthly payments",
+        "anchorText": "Moreno Valley Installment Loans"
+      },
+      {
+        "name": "Title Loans",
+        "slug": "title-loans",
+        "url": "/services/title-loans",
+        "description": "Use your vehicle title as collateral for larger loan amounts",
+        "anchorText": "Title Loans in Moreno Valley"
+      },
+      {
+        "name": "Check Cashing",
+        "slug": "check-cashing",
+        "url": "/services/check-cashing",
+        "description": "Cash your paycheck or government check instantly",
+        "anchorText": "Check Cashing Moreno Valley"
+      },
+      {
+        "name": "Online Payday Loans",
+        "slug": "online-payday-loans",
+        "url": "/services/online-payday-loans",
+        "description": "Apply from home and get funded fast",
+        "anchorText": "Online Payday Loans"
+      },
+      {
+        "name": "Same Day Loans",
+        "slug": "same-day-loans",
+        "url": "/services/same-day-loans",
+        "description": "Get approved and funded within the same business day",
+        "anchorText": "Same Day Loans Moreno Valley"
+      },
+      {
+        "name": "Bad Credit Loans",
+        "slug": "bad-credit-loans",
+        "url": "/services/bad-credit-loans",
+        "description": "Loan options for borrowers with less-than-perfect credit",
+        "anchorText": "Bad Credit Loans in Moreno Valley"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "California Payday Loan Regulations",
+    "intro": "Residents of Moreno Valley are protected by California's strict payday loan regulations enforced by the Department of Financial Protection and Innovation (DFPI).",
+    "content": "California regulates payday loans under the California Deferred Deposit Transaction Law (CDDTL), administered by the Department of Financial Protection and Innovation (DFPI). The state allows payday loans with significant consumer protections: loans are capped at $300 with a maximum fee of 15% (approximately $45). Rollovers are prohibited, meaning lenders cannot issue a new loan to pay off an existing one. California also prohibits lenders from making multiple loans to the same borrower simultaneously. All payday lenders operating in California must be licensed by the DFPI, and consumers can verify a lender's license status online or by calling 1-866-275-2677.",
+    "keyPoints": [
+      "California limits payday loans to a maximum of $300",
+      "The maximum fee is 15% of the check amount (up to $45)",
+      "Lenders cannot make a new loan to pay off an existing loan (rollovers prohibited)",
+      "You cannot have more than one payday loan at a time",
+      "If your check bounces, the lender can charge only one NSF fee of up to $15",
+      "Lenders cannot threaten criminal prosecution for non-payment",
+      "Your loan contract must be provided in your primary language",
+      "All lenders must be licensed - verify at dfpi.ca.gov"
+    ],
+    "regulatoryBody": "California Department of Financial Protection and Innovation (DFPI)",
+    "regulatoryUrl": "https://dfpi.ca.gov",
+    "disclaimer": "IMPORTANT NOTICE: This information is provided for general educational purposes only and does not constitute legal or financial advice. Payday loans are high-cost, short-term loans with APRs that can exceed 400%. Before taking out a payday loan, consider alternatives such as personal loans, credit union loans, payment plans with creditors, or assistance from non-profit credit counseling agencies. Laws and regulations may change. For the most current information, contact the California Department of Financial Protection and Innovation at 1-866-275-2677 or visit dfpi.ca.gov."
+  },
+
+  "localReviews": {
+    "headline": "What Our Moreno Valley Customers Say",
+    "locationId": "moreno-valley-ca",
+    "reviewSource": "Google Business Profile",
+    "showWidget": true,
+    "averageRating": 4.5,
+    "totalReviews": 58,
+    "reviews": [
+      {
+        "name": "Lisa T.",
+        "rating": 5,
+        "text": "Great Sunnymead location - easy to get to from I-215. Staff was friendly and explained all the fees upfront. Had my cash within an hour of walking in.",
+        "date": "2024-11-12"
+      },
+      {
+        "name": "James W.",
+        "rating": 5,
+        "text": "I work at March ARB and needed quick cash before payday. The Moreno Valley team was respectful and efficient. They made the process simple.",
+        "date": "2024-10-25"
+      },
+      {
+        "name": "Sandra K.",
+        "rating": 4,
+        "text": "Good location for Riverside County residents. They follow California rules and are honest about the $300 limit. No pressure, no surprises.",
+        "date": "2024-09-18"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby Cities",
+    "intro": "Can't make it to our Moreno Valley location? We also serve:",
+    "cities": [
+      {"name": "Riverside", "slug": "riverside", "url": "/locations/california/riverside", "distanceMiles": 11},
+      {"name": "San Bernardino", "slug": "san-bernardino", "url": "/locations/california/san-bernardino", "distanceMiles": 17},
+      {"name": "Fontana", "slug": "fontana", "url": "/locations/california/fontana", "distanceMiles": 18},
+      {"name": "Rancho Cucamonga", "slug": "rancho-cucamonga", "url": "/locations/california/rancho-cucamonga", "distanceMiles": 26}
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Moreno Valley payday loan location?",
+      "answer": "Our Moreno Valley branch is located at 24667 Sunnymead Boulevard, Suite 102, near the Moreno Valley Mall. Take I-215 Exit 35 (Alessandro Boulevard) or CA-60 Exit 64 (Moreno Beach Drive) for the quickest route."
+    },
+    {
+      "question": "How much can I borrow at your Moreno Valley location?",
+      "answer": "Under California law, the maximum payday loan amount is $300, with a maximum fee of $45 (15%). You'll receive approximately $255 after the fee is deducted. We clearly explain all terms before you sign."
+    },
+    {
+      "question": "What do I need to bring to get a payday loan in Moreno Valley?",
+      "answer": "Bring a valid California ID, proof of income (pay stub or bank statement), an active checking account, and contact information. We'll verify your information and can have you approved in about 30 minutes."
+    },
+    {
+      "question": "Do you serve military personnel from March Air Reserve Base?",
+      "answer": "Yes! We're proud to serve military personnel and their families in Moreno Valley. However, please note that active duty servicemembers and their dependents are subject to the Military Lending Act, which caps APR at 36%. Contact us for more details on military-specific options."
+    },
+    {
+      "question": "Is Ace Payday Loans licensed in California?",
+      "answer": "Yes, Ace Payday Loans is fully licensed by the California Department of Financial Protection and Innovation (DFPI) under the California Deferred Deposit Transaction Law. You can verify our license at dfpi.ca.gov."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Ready to Get Cash in Moreno Valley?",
+    "subheadline": "Visit our Sunnymead location or apply online now",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=moreno-valley-ca"
+    },
+    "secondaryCta": {
+      "text": "Call (951) 555-0156",
+      "url": "tel:+19515550156"
+    },
+    "address": "24667 Sunnymead Boulevard, Suite 102, Moreno Valley, CA 92553"
+  },
+
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FinancialService",
+    "name": "Ace Payday Loans of Moreno Valley",
+    "image": "https://acepaydayloans.com/images/moreno-valley-branch.jpg",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "24667 Sunnymead Boulevard, Suite 102",
+      "addressLocality": "Moreno Valley",
+      "addressRegion": "CA",
+      "postalCode": "92553",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 33.9425,
+      "longitude": -117.2297
+    },
+    "telephone": "+19515550156",
+    "url": "https://acepaydayloans.com/locations/california/moreno-valley",
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "09:00",
+        "closes": "19:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Saturday",
+        "opens": "10:00",
+        "closes": "16:00"
+      }
+    ],
+    "priceRange": "$$",
+    "currenciesAccepted": "USD",
+    "paymentAccepted": "Cash, Check, Debit Card",
+    "areaServed": {
+      "@type": "City",
+      "name": "Moreno Valley",
+      "containedInPlace": {
+        "@type": "State",
+        "name": "California"
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": "58"
+    }
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "California", "url": "/locations/california"},
+    {"label": "Moreno Valley", "url": "/locations/california/moreno-valley"}
+  ],
+
+  "images": {
+    "hero": {
+      "url": "/images/locations/moreno-valley-branch.jpg",
+      "alt": "Ace Payday Loans Moreno Valley branch on Sunnymead Boulevard",
+      "caption": "Our Moreno Valley location in Riverside County"
+    }
+  },
+
+  "metadata": {
+    "generatedAt": "2025-01-29T14:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "batch": 3
+  }
+}

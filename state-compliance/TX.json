@@ -1,0 +1,351 @@
+{
+  "stateCode": "TX",
+  "stateName": "Texas",
+  "serviceNiche": "Payday Loans",
+  "lastUpdated": "2025-01-15",
+  "lastVerified": "2025-01-15",
+  "researchSources": [
+    "Texas Office of Consumer Credit Commissioner (OCCC) - https://occc.texas.gov/industry/cab",
+    "Texas Finance Code Chapter 393 - Credit Services Organizations",
+    "7 Texas Administrative Code Chapter 83, Subchapter B - Rules for Credit Access Businesses",
+    "Texas Municipal League Payday Lending Clearinghouse - http://www.tml.org/312/Payday-Lending-Clearinghouse",
+    "Texas Appleseed City Ordinance Summary 2023",
+    "OCCC 2024 Report on Consumer Loan Products",
+    "Consumer Financial Protection Bureau (CFPB) State Data"
+  ],
+
+  "legalStatus": {
+    "isLegal": true,
+    "loanTypeAllowed": "Payday Loans (via Credit Access Business Model)",
+    "restrictions": "Must operate as licensed Credit Access Business (CAB)",
+    "notes": "Texas uses a unique CAB model where the credit access business (broker) is licensed, not the actual third-party lender. The CAB charges fees for arranging the loan, which are not subject to state caps. This creates one of the least restrictive payday lending environments in the United States."
+  },
+
+  "regulatoryBody": {
+    "name": "Office of Consumer Credit Commissioner",
+    "abbreviation": "OCCC",
+    "website": "https://occc.texas.gov",
+    "licenseType": "Credit Access Business (CAB) License",
+    "licenseVerificationUrl": "https://occc.texas.gov/industry/cabs/licensing-forms",
+    "consumerHelpline": "(800) 538-1579",
+    "consumerEmail": "consumer.complaints@occc.texas.gov",
+    "address": "Finance Commission Building, 2601 N. Lamar Blvd., Austin, TX 78705",
+    "phone": "512-936-7600"
+  },
+
+  "regulations": {
+    "maxLoanAmount": null,
+    "maxLoanAmountNotes": "No state limit. City ordinances in major cities limit payday loans to 20% of gross monthly income.",
+    "minLoanAmount": null,
+    "maxAPR": null,
+    "maxAPRNotes": "Texas does not cap APR for CAB transactions. Typical APRs range from 400% to 700%+. Example: A $300 loan for 168 days can have $1,008 in CAB fees alone (730% APR).",
+    "typicalAPRRange": "400% - 700%+",
+    "maxLoanTerm": 180,
+    "maxLoanTermUnit": "days",
+    "minLoanTerm": 7,
+    "minLoanTermUnit": "days",
+    "allowsRollover": true,
+    "rolloverLimit": null,
+    "rolloverLimitNotes": "No state limit on rollovers. City ordinances limit to 3 rollovers/renewals with 25% principal reduction each time.",
+    "coolingOffPeriod": null,
+    "coolingOffPeriodNotes": "No state cooling-off period. Some city ordinances define renewal as loan within 7 days of previous loan.",
+    "paymentPlanRequired": false,
+    "databaseRequired": false,
+    "databaseNotes": "Texas does not maintain a statewide payday loan database."
+  },
+
+  "fees": {
+    "originationFee": "No state cap",
+    "originationFeeNotes": "CAB fees are typically calculated as a percentage of the loan amount, often 10-25% per payment period.",
+    "latePaymentFee": "No state cap",
+    "latePaymentFeeNotes": "Late fees are not capped at the state level.",
+    "nsfFee": "No state cap",
+    "cabFee": "Typical 10-25% of loan amount per payment period",
+    "cabFeeNotes": "The CAB fee is the primary cost to borrowers and is separate from interest charged by the third-party lender. Interest to the lender is typically 10%, but CAB fees often exceed $1,000 on a $300 loan over 6 months.",
+    "totalCostExample": {
+      "loanAmount": 300,
+      "termDays": 168,
+      "interestToLender": 13.81,
+      "cabFees": 1008.00,
+      "totalRepayment": 1321.81,
+      "effectiveAPR": "730%"
+    }
+  },
+
+  "licensing": {
+    "required": true,
+    "licenseType": "Credit Access Business (CAB) License",
+    "issuedBy": "Texas Office of Consumer Credit Commissioner (OCCC)",
+    "applicationSystem": "ALECS (Application, Licensing, Examination, Compliance System)",
+    "requirements": [
+      "Submit application through ALECS online system",
+      "Identify compliance officer for each location",
+      "Submit fingerprints for background check",
+      "Provide surety bond or trust account",
+      "Pay application and licensing fees"
+    ],
+    "bondRequired": true,
+    "bondAmount": "Varies based on transaction volume",
+    "renewalPeriod": "Annual"
+  },
+
+  "consumerProtections": {
+    "rightToRescind": {
+      "available": true,
+      "period": "3 days",
+      "notes": "Consumer may cancel contract within 3 days after signing without penalty. Must provide written cancellation notice."
+    },
+    "requiredDisclosures": [
+      "Total cost of loan in dollars and as APR",
+      "Interest paid to third-party lender",
+      "Specific fees paid to CAB for services",
+      "Name of the lender providing the extension of credit",
+      "Payment schedule with all fees",
+      "Statement that there is no prepayment penalty",
+      "OCCC contact information and consumer helpline",
+      "Cost comparison chart showing payday loans as most expensive option",
+      "Repayment statistics from OCCC data",
+      "Military Lending Act disclosure (if applicable)"
+    ],
+    "prohibitedPractices": [
+      "Threatening or pursuing criminal charges for bounced checks absent fraud, forgery, or theft",
+      "Failing to comply with Fair Debt Collection Practices Act",
+      "Charging prepayment penalties",
+      "Misrepresenting loan terms or costs",
+      "Failing to provide required disclosures before loan application"
+    ],
+    "noCriminalProsecution": true,
+    "noCriminalProsecutionNotes": "Lenders cannot threaten or pursue criminal charges against borrowers for bounced checks or non-payment, except in cases of forgery, fraud, theft, or other criminal conduct."
+  },
+
+  "collectionRules": {
+    "canRepossess": false,
+    "repossessNotes": "Payday loans are unsecured. For auto title loans (separate product), repossession is allowed.",
+    "canGarnishWages": false,
+    "garnishmentNotes": "Texas law prohibits wage garnishment for consumer debt. Wages may only be garnished for child support, back taxes, and defaulted student loans.",
+    "canTakeHome": false,
+    "homesteadNotes": "Texas homestead exemption protects primary residence from debt collection.",
+    "deficiencyBalance": false,
+    "gracePeriod": null,
+    "collectionLawsSource": "Texas Debt Collection Act"
+  },
+
+  "cityOrdinances": {
+    "overview": "As of 2024, 22+ Texas cities have passed local ordinances restricting payday and auto title lending. These cover over 7.6 million Texans and 40%+ of licensed payday stores in the state.",
+    "modelOrdinanceFeatures": [
+      "Payday loans limited to 20% of borrower's gross monthly income",
+      "Auto title loans limited to lesser of 3% annual income or 70% vehicle value",
+      "Maximum 4 installments or 3 rollovers/renewals",
+      "Each installment/renewal must reduce principal by 25%",
+      "Renewal defined as loan within 7 days of previous loan payoff",
+      "CABs must register with the city",
+      "Violation is criminal offense with $500 penalty"
+    ],
+    "citiesWithOrdinances": [
+      {
+        "city": "Austin",
+        "effectiveDate": "2012-01-01",
+        "ordinanceCode": "Chapter 4-12, Austin Code of Ordinances",
+        "keyProvisions": [
+          "Payday loans limited to 20% of gross monthly income",
+          "Maximum 3 rollovers with 25% principal reduction each",
+          "CABs must register with city",
+          "Violation is Class C misdemeanor ($500 fine)"
+        ],
+        "registrationRequired": true,
+        "registrationUrl": "https://www.austintexas.gov/page/payday-and-auto-lender-complaints"
+      },
+      {
+        "city": "Dallas",
+        "effectiveDate": "2012-01-01",
+        "ordinanceCode": "Chapter 50, Article XI, Dallas Code of Ordinances",
+        "keyProvisions": [
+          "Payday loans limited to 20% of gross monthly income",
+          "Maximum 3 rollovers with 25% principal reduction",
+          "Zoning restrictions on alternative financial establishments"
+        ],
+        "registrationRequired": true
+      },
+      {
+        "city": "Houston",
+        "effectiveDate": "2014-07-01",
+        "ordinanceCode": "Chapter 28, Article XV, Division 1, Houston Code of Ordinances",
+        "keyProvisions": [
+          "Payday loans limited to 20% of gross monthly income",
+          "Maximum 3 rollovers with 25% principal reduction",
+          "CABs must register with city"
+        ],
+        "registrationRequired": true
+      },
+      {
+        "city": "San Antonio",
+        "effectiveDate": "2013-01-01",
+        "ordinanceCode": "Chapter 16, Article XVI, San Antonio Code of Ordinances",
+        "keyProvisions": [
+          "Payday loans limited to 20% of gross monthly income",
+          "Maximum 3 rollovers with 25% principal reduction",
+          "CABs must register with city and pay $50 fee"
+        ],
+        "registrationRequired": true,
+        "registrationFee": 50,
+        "registrationUrl": "https://www.sa.gov/Directory/Departments/Finance/Payday-Loans/CAB-Lender"
+      },
+      {
+        "city": "El Paso",
+        "effectiveDate": "2013-01-08",
+        "ordinanceCode": "Chapter 5-17, El Paso Code of Ordinances",
+        "keyProvisions": [
+          "Payday loans limited to 20% of gross monthly income",
+          "Maximum 3 rollovers with 25% principal reduction"
+        ],
+        "registrationRequired": true
+      },
+      {
+        "city": "Fort Worth",
+        "effectiveDate": "2013-01-01",
+        "keyProvisions": [
+          "Payday loans limited to 20% of gross monthly income",
+          "Maximum 3 rollovers with 25% principal reduction"
+        ],
+        "registrationRequired": true
+      }
+    ],
+    "otherCitiesWithOrdinances": [
+      "Amarillo",
+      "Balcones Heights",
+      "Baytown",
+      "Bellaire",
+      "Brownsville",
+      "Bryan",
+      "College Station",
+      "Denton",
+      "Dickinson",
+      "Flower Mound",
+      "Galveston",
+      "Garland",
+      "Midland",
+      "Somerset",
+      "South Houston",
+      "Universal City",
+      "West University"
+    ]
+  },
+
+  "recentChanges": [
+    {
+      "date": "2024-09-01",
+      "change": "New consumer disclosure forms required with updated repayment statistics and cost comparison charts",
+      "source": "OCCC Rule Amendments to 7 TAC Chapter 83, Subchapter B",
+      "effectiveDate": "2024-09-01"
+    },
+    {
+      "date": "2024-03-07",
+      "change": "Updated CAB license application requirements including new compliance officer designation",
+      "source": "Finance Commission of Texas Rule Adoption",
+      "effectiveDate": "2024-03-07"
+    },
+    {
+      "date": "2023-12-01",
+      "change": "OCCC 2024 Report shows 15% decline in lending volume, attributed to some lenders shifting to bank partnership models",
+      "source": "OCCC 2024 Report on Consumer Loan Products"
+    }
+  ],
+
+  "statistics": {
+    "source": "OCCC 2024 Report on Consumer Loan Products",
+    "year": 2023,
+    "totalLoansOriginated": "Approximately 2.1 million CAB transactions",
+    "totalLoanVolume": "Declined 15% from 2022",
+    "repaymentPatterns": {
+      "singlePaymentPayday": {
+        "paidOnTime": "57.5%",
+        "renewed1Time": "15%",
+        "renewed2to4Times": "17.5%",
+        "renewed5PlusOrNeverPaidOff": "10%"
+      }
+    },
+    "industryTrends": "Some lenders shifting to bank partnership models which may not be reported to OCCC"
+  },
+
+  "cityPageContent": {
+    "headline": "Understanding Payday Loan Laws in Texas",
+    "intro": "Texas residents in {{city}} should understand that payday loans are legal in Texas through licensed Credit Access Businesses (CABs). While Texas has minimal state-level restrictions, {{city}} may have additional local ordinances that provide extra consumer protections.",
+    "keyPoints": [
+      "Texas allows payday loans through licensed Credit Access Businesses (CABs) regulated by the Office of Consumer Credit Commissioner (OCCC)",
+      "There is no state cap on interest rates or CAB fees - typical APRs range from 400% to 700%+",
+      "You have the right to cancel your loan within 3 days of signing without penalty",
+      "Lenders cannot threaten criminal prosecution for non-payment (except for fraud or theft)",
+      "Your wages cannot be garnished for payday loan debt under Texas law",
+      "Your home (if declared homestead) is protected from debt collection",
+      "Always verify your lender is licensed at occc.texas.gov before borrowing"
+    ],
+    "cityOrdinanceNote": "If you live in Austin, Dallas, Houston, San Antonio, Fort Worth, El Paso, or one of 20+ other Texas cities with local ordinances, additional protections may apply including loan amount limits (20% of gross monthly income) and rollover restrictions (maximum 3 with 25% principal reduction each).",
+    "warningBox": {
+      "title": "Important Cost Warning",
+      "content": "Payday loans in Texas are among the most expensive in the nation. A typical $300 loan can cost over $1,000 in fees alone, resulting in APRs exceeding 700%. Consider alternatives such as credit union loans, payment plans with creditors, or nonprofit credit counseling before taking out a payday loan."
+    },
+    "disclaimer": "This information is provided for general educational purposes only and should not be construed as legal advice. Payday loan laws and regulations change frequently. The information presented may not reflect the most current legal developments. For the most accurate and up-to-date information, contact the Texas Office of Consumer Credit Commissioner at (800) 538-1579 or visit occc.texas.gov. If you need legal advice, please consult with a licensed attorney in Texas.",
+    "resourceLinks": [
+      {
+        "title": "Texas OCCC Consumer Helpline",
+        "url": "https://occc.texas.gov/consumers",
+        "description": "File complaints and get help with payday loan issues"
+      },
+      {
+        "title": "Verify a Lender's License",
+        "url": "https://occc.texas.gov/industry/cabs/licensing-forms",
+        "description": "Check if your lender is properly licensed"
+      },
+      {
+        "title": "Texas Fair Lending Alliance",
+        "url": "http://www.texasfairlending.org/",
+        "description": "Consumer advocacy and resources"
+      },
+      {
+        "title": "Consumer Financial Protection Bureau",
+        "url": "https://www.consumerfinance.gov/",
+        "description": "Federal consumer protection resources"
+      }
+    ]
+  },
+
+  "seoContent": {
+    "metaTitle": "Texas Payday Loan Laws | {{city}} TX Regulations & Consumer Rights",
+    "metaDescription": "Learn about payday loan laws in {{city}}, Texas. Understand CAB regulations, APR limits, consumer protections, and your rights under Texas law. OCCC licensed lenders only.",
+    "primaryKeywords": [
+      "Texas payday loans",
+      "{{city}} payday loans",
+      "Texas CAB loans",
+      "payday loan laws Texas",
+      "OCCC licensed lenders"
+    ],
+    "secondaryKeywords": [
+      "credit access business Texas",
+      "payday loan regulations {{city}}",
+      "Texas payday loan APR",
+      "cash advance {{city}} TX"
+    ]
+  },
+
+  "complianceChecklist": {
+    "forLenders": [
+      "Obtain CAB license from OCCC through ALECS system",
+      "Register with city (if operating in city with local ordinance)",
+      "Provide all required disclosures BEFORE loan application",
+      "Display OCCC license prominently",
+      "Submit quarterly and annual reports to OCCC",
+      "Comply with Military Lending Act for covered borrowers",
+      "Maintain surety bond or trust account",
+      "Designate compliance officer for each location"
+    ],
+    "forBorrowers": [
+      "Verify lender is licensed with OCCC before borrowing",
+      "Request and review all cost disclosures",
+      "Understand total repayment amount including all fees",
+      "Know your 3-day right to cancel",
+      "Check if your city has additional protections",
+      "Keep copies of all loan documents",
+      "Contact OCCC if you have problems with a lender"
+    ]
+  }
+}

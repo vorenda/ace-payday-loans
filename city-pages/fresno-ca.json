@@ -1,0 +1,349 @@
+{
+  "id": "fresno-ca",
+  "city": "Fresno",
+  "slug": "fresno",
+  "state": "California",
+  "stateCode": "CA",
+  "stateSlug": "california",
+  "countyName": "Fresno County",
+  "serviceNiche": "Payday Loans",
+
+  "seo": {
+    "title": "Payday Loans in Fresno, CA | Fast Cash in Central Valley | Ace Payday Loans",
+    "metaDescription": "Get fast payday loans in Fresno near Woodward Park and the Fresno Chaffee Zoo. Licensed California lender. Apply online or visit us off CA-99. Call (559) 555-0537.",
+    "canonicalUrl": "/locations/california/fresno",
+    "keywords": [
+      "payday loans fresno",
+      "fresno payday loans",
+      "cash advance fresno ca",
+      "payday loans near me fresno",
+      "fast cash fresno",
+      "emergency loans fresno",
+      "same day loans fresno ca",
+      "payday loans downtown fresno",
+      "fresno cash advance",
+      "short term loans central valley"
+    ]
+  },
+
+  "hero": {
+    "h1": "Fast Payday Loans in Fresno, CA",
+    "subheadline": "Get cash today in the heart of California's Central Valley. Trusted lending for Fresno County residents.",
+    "ctaText": "Apply Now for Fresno Cash",
+    "ctaUrl": "/apply?location=fresno-ca",
+    "phone": "(559) 555-0537",
+    "secondaryCta": {
+      "text": "Get Directions",
+      "url": "https://maps.google.com/?q=36.7378,-119.7871"
+    }
+  },
+
+  "localProof": {
+    "headline": "Serving Fresno & The Central Valley",
+    "directions": "We are conveniently located in Downtown Fresno, near the Fresno Chaffee Zoo and the unique Forestiere Underground Gardens. If you are taking CA-99, use Exit 130 (Downtown), or from CA-41, take Exit 129 (Yosemite Gateway). Our location is the perfect stop for Central Valley residents and those heading to Yosemite National Park.",
+    "landmarks": ["Fresno Chaffee Zoo", "Forestiere Underground Gardens", "Woodward Park"],
+    "highways": ["Conveniently located off CA-99", "Easy access from CA-41", "Near CA-180"],
+    "exits": ["CA-99 Exit 130 (Downtown)", "CA-41 Exit 129 (Yosemite)"],
+    "neighboringTowns": ["Also serving Clovis", "Madera", "Sanger", "Selma", "Reedley"],
+    "localDescription": "Our Fresno location serves customers throughout Fresno County, the agricultural hub of California's Central Valley and the gateway to Yosemite and Sequoia National Parks. Whether you work in agriculture, live in one of our growing communities, or are just passing through, we are here to help you with your short-term financial needs. Fresno residents trust Ace Payday Loans for fast, transparent service when unexpected expenses arise.",
+    "neighborhoodName": "Downtown Fresno",
+    "hours": {
+      "monday": "9:00 AM - 7:00 PM",
+      "tuesday": "9:00 AM - 7:00 PM",
+      "wednesday": "9:00 AM - 7:00 PM",
+      "thursday": "9:00 AM - 7:00 PM",
+      "friday": "9:00 AM - 7:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d204495.42389!2d-119.9!3d36.7378!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x809439e1c1e0b9f9%3A0xdeb26a0a94d52841!2sFresno%2C%20CA!5e0!3m2!1sen!2sus!4v1234567890"
+  },
+
+  "nap": {
+    "name": "Ace Payday Loans - Fresno",
+    "street": "1234 Fulton Street, Suite 100",
+    "city": "Fresno",
+    "state": "CA",
+    "zip": "93721",
+    "phone": "(559) 555-0537",
+    "formattedPhone": "+15595550537",
+    "formattedAddress": "1234 Fulton Street, Suite 100, Fresno, CA 93721",
+    "coordinates": {
+      "latitude": 36.7378,
+      "longitude": -119.7871
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=36.7378,-119.7871"
+  },
+
+  "productLinks": {
+    "headline": "Our Fresno Financial Services",
+    "intro": "We offer a full range of short-term lending and money services to help Fresno County residents with their financial needs:",
+    "services": [
+      {
+        "name": "Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Short-term loans up to $300 to cover unexpected expenses until your next paycheck",
+        "anchorText": "Learn more about Payday Loans"
+      },
+      {
+        "name": "Cash Advances",
+        "slug": "cash-advances",
+        "url": "/services/cash-advances",
+        "description": "Quick access to cash before your next payday for emergency expenses",
+        "anchorText": "Learn more about Cash Advances"
+      },
+      {
+        "name": "Installment Loans",
+        "slug": "installment-loans",
+        "url": "/services/installment-loans",
+        "description": "Larger loans repaid over time through scheduled monthly payments",
+        "anchorText": "Learn more about Installment Loans"
+      },
+      {
+        "name": "Title Loans",
+        "slug": "title-loans",
+        "url": "/services/title-loans",
+        "description": "Secured loans using your vehicle title as collateral for larger amounts",
+        "anchorText": "Learn more about Title Loans"
+      },
+      {
+        "name": "Check Cashing",
+        "slug": "check-cashing",
+        "url": "/services/check-cashing",
+        "description": "Convert checks to cash instantly without a bank account",
+        "anchorText": "Learn more about Check Cashing"
+      },
+      {
+        "name": "Online Payday Loans",
+        "slug": "online-payday-loans",
+        "url": "/services/online-payday-loans",
+        "description": "Apply for payday loans from home with fast online approval",
+        "anchorText": "Learn more about Online Payday Loans"
+      },
+      {
+        "name": "Same Day Loans",
+        "slug": "same-day-loans",
+        "url": "/services/same-day-loans",
+        "description": "Get approved and funded within the same business day",
+        "anchorText": "Learn more about Same Day Loans"
+      },
+      {
+        "name": "Bad Credit Loans",
+        "slug": "bad-credit-loans",
+        "url": "/services/bad-credit-loans",
+        "description": "Loan options for borrowers with less-than-perfect credit",
+        "anchorText": "Learn more about Bad Credit Loans"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "Understanding California Payday Loan Laws",
+    "intro": "Residents of Fresno are protected by California's strict payday loan regulations enforced by the Department of Financial Protection and Innovation (DFPI).",
+    "content": "California regulates payday loans under the California Deferred Deposit Transaction Law (CDDTL), administered by the Department of Financial Protection and Innovation (DFPI). The state allows payday loans with significant consumer protections: loans are capped at $300 with a maximum fee of 15% (approximately $45). Rollovers are prohibited, meaning lenders cannot issue a new loan to pay off an existing one. California also prohibits lenders from making multiple loans to the same borrower simultaneously. All payday lenders operating in California must be licensed by the DFPI, and consumers can verify a lender's license status online or by calling 1-866-275-2677.",
+    "keyPoints": [
+      "California limits payday loans to a maximum of $300",
+      "The maximum fee is 15% of the check amount (up to $45)",
+      "Lenders cannot make a new loan to pay off an existing loan (rollovers prohibited)",
+      "You cannot have more than one payday loan at a time",
+      "If your check bounces, the lender can charge only one NSF fee of up to $15",
+      "Lenders cannot threaten criminal prosecution for non-payment",
+      "Your loan contract must be provided in your primary language",
+      "All lenders must be licensed - verify at dfpi.ca.gov"
+    ],
+    "protectionsList": [
+      "Maximum loan amount: $300",
+      "Maximum fee: 15% of check face value ($45 maximum)",
+      "Maximum term: 31 days",
+      "Rollovers: Prohibited",
+      "Multiple loans: Not allowed simultaneously",
+      "NSF fee: $15 maximum (one fee only)",
+      "Criminal prosecution: Cannot be threatened for non-payment"
+    ],
+    "regulatoryBody": "California Department of Financial Protection and Innovation (DFPI)",
+    "regulatoryUrl": "https://dfpi.ca.gov",
+    "verificationUrl": "https://dfpi.ca.gov/regulated-industries/regulated-entities-list/",
+    "contactPhone": "1-866-275-2677",
+    "disclaimer": "IMPORTANT NOTICE: This information is provided for general educational purposes only and does not constitute legal or financial advice. Payday loans are high-cost, short-term loans with APRs that can exceed 400%. Before taking out a payday loan, consider alternatives such as personal loans, credit union loans, payment plans with creditors, or assistance from non-profit credit counseling agencies. Laws and regulations may change. For the most current information, contact the California Department of Financial Protection and Innovation at 1-866-275-2677 or visit dfpi.ca.gov. If you are experiencing financial difficulties, contact a HUD-approved housing counselor or the National Foundation for Credit Counseling at 1-800-388-2227.",
+    "aprDisclosure": "The typical Annual Percentage Rate (APR) for a payday loan in California is approximately 426-460% for a two-week loan. By comparison, credit cards typically have APRs between 15-30% and personal loans between 6-36%. The high APR reflects the short-term nature of payday loans and the fees charged."
+  },
+
+  "testimonials": {
+    "headline": "What Our Fresno Customers Say",
+    "locationId": "fresno-ca",
+    "reviewSource": "Google Business Profile",
+    "showWidget": true,
+    "reviews": [
+      {
+        "name": "Carlos M.",
+        "rating": 5,
+        "text": "Working in agriculture means income can be unpredictable. Ace Payday Loans helped me cover an emergency car repair so I could keep getting to work. Fast and fair service.",
+        "location": "Fresno, CA",
+        "date": "2024-11-05"
+      },
+      {
+        "name": "Teresa L.",
+        "rating": 5,
+        "text": "The Fresno location on Fulton Street is easy to find. Staff was friendly and patient, explained everything in Spanish for my mom. We really appreciated that.",
+        "location": "Fresno, CA",
+        "date": "2024-10-12"
+      },
+      {
+        "name": "Brian K.",
+        "rating": 4,
+        "text": "Needed some help with a medical bill. Process was straightforward and I had cash in my hand within an hour. Will use again if needed.",
+        "location": "Fresno, CA",
+        "date": "2024-09-20"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby Cities",
+    "intro": "Cannot make it to our Fresno location? We also serve:",
+    "cities": [
+      {
+        "name": "Modesto",
+        "slug": "modesto",
+        "url": "/locations/california/modesto",
+        "distanceMiles": 78
+      },
+      {
+        "name": "Bakersfield",
+        "slug": "bakersfield",
+        "url": "/locations/california/bakersfield",
+        "distanceMiles": 108
+      },
+      {
+        "name": "Stockton",
+        "slug": "stockton",
+        "url": "/locations/california/stockton",
+        "distanceMiles": 117
+      },
+      {
+        "name": "San Jose",
+        "slug": "san-jose",
+        "url": "/locations/california/san-jose",
+        "distanceMiles": 145
+      }
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Fresno payday loan location?",
+      "answer": "Our Fresno branch is located at 1234 Fulton Street, Suite 100, in Downtown Fresno. We are easily accessible from CA-99 via Exit 130 (Downtown) and CA-41 via Exit 129 (Yosemite). Just minutes from the Fresno Chaffee Zoo and Forestiere Underground Gardens."
+    },
+    {
+      "question": "What are your hours in Fresno?",
+      "answer": "We are open Monday through Friday from 9 AM to 7 PM, and Saturday from 10 AM to 4 PM. We are closed on Sundays. You can also apply online 24/7."
+    },
+    {
+      "question": "How much can I borrow at your Fresno location?",
+      "answer": "Under California law, payday loans are capped at $300. After the maximum 15% fee ($45), you would receive approximately $255. We also offer installment loans and title loans for larger amounts."
+    },
+    {
+      "question": "Do I need an appointment at the Fresno branch?",
+      "answer": "No appointment is needed! Walk-ins are welcome during business hours. However, you can save time by starting your application online before visiting our Fresno location."
+    },
+    {
+      "question": "Do you offer services in Spanish at the Fresno location?",
+      "answer": "Yes! Our Fresno team includes bilingual staff who can assist you in Spanish. California law also requires that your loan contract be provided in your primary language."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Ready to Get Cash in Fresno?",
+    "subheadline": "Visit our Downtown Fresno location or apply online now",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=fresno-ca"
+    },
+    "secondaryCta": {
+      "text": "Call (559) 555-0537",
+      "url": "tel:+15595550537"
+    },
+    "address": "1234 Fulton Street, Suite 100, Fresno, CA 93721"
+  },
+
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FinancialService",
+    "name": "Ace Payday Loans - Fresno",
+    "description": "Fast payday loans and cash advances in Fresno, CA. Licensed California lender offering short-term loans up to $300 with same-day funding available.",
+    "url": "https://www.acepaydayloans.com/locations/california/fresno",
+    "telephone": "+15595550537",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1234 Fulton Street, Suite 100",
+      "addressLocality": "Fresno",
+      "addressRegion": "CA",
+      "postalCode": "93721",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 36.7378,
+      "longitude": -119.7871
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "09:00",
+        "closes": "19:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Saturday",
+        "opens": "10:00",
+        "closes": "16:00"
+      }
+    ],
+    "priceRange": "$",
+    "currenciesAccepted": "USD",
+    "paymentAccepted": "Cash, Debit Card, Check",
+    "areaServed": {
+      "@type": "City",
+      "name": "Fresno",
+      "containedInPlace": {
+        "@type": "State",
+        "name": "California"
+      }
+    },
+    "serviceType": ["Payday Loans", "Cash Advances", "Check Cashing", "Installment Loans", "Title Loans"],
+    "hasCredential": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "license",
+      "name": "California DFPI CDDTL License"
+    }
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "California", "url": "/locations/california"},
+    {"label": "Fresno", "url": "/locations/california/fresno"}
+  ],
+
+  "images": {
+    "hero": {
+      "url": "/images/locations/fresno-branch.jpg",
+      "alt": "Ace Payday Loans Fresno branch in Downtown",
+      "caption": "Our Fresno location on Fulton Street"
+    },
+    "storefront": {
+      "url": "/images/locations/fresno-storefront.jpg",
+      "alt": "Ace Payday Loans storefront in Fresno",
+      "caption": "Visit our Fresno branch for fast cash"
+    }
+  },
+
+  "metadata": {
+    "generatedAt": "2025-01-29T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "batch": "california-batch-1"
+  }
+}

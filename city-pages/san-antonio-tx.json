@@ -1,0 +1,328 @@
+{
+  "id": "san-antonio-tx",
+  "city": "San Antonio",
+  "state": "Texas",
+  "stateCode": "TX",
+  "stateSlug": "texas",
+  "slug": "san-antonio",
+  "countyName": "Bexar County",
+  "areaCode": "210",
+  "population": 1550000,
+  "serviceNiche": "Payday Loans",
+  "hasLocalOrdinance": true,
+
+  "coordinates": {
+    "latitude": 29.4241,
+    "longitude": -98.4936
+  },
+
+  "seo": {
+    "title": "Payday Loans in San Antonio, TX | Fast Cash Near The Alamo",
+    "metaDescription": "Need fast cash in San Antonio? Visit Ace Payday Loans near The Alamo and River Walk. Same-day funding for Bexar County residents. Apply now! (210) 555-0198",
+    "canonicalUrl": "/locations/texas/san-antonio",
+    "keywords": [
+      "payday loans san antonio",
+      "san antonio payday loans",
+      "cash advance san antonio tx",
+      "payday loans near me san antonio",
+      "san antonio tx payday loans",
+      "fast cash san antonio",
+      "emergency loans san antonio",
+      "same day loans san antonio tx"
+    ]
+  },
+
+  "hero": {
+    "h1": "Fast Payday Loans in San Antonio, TX",
+    "subheadline": "Trusted lending serving Bexar County since 2015",
+    "ctaText": "Apply Now for San Antonio Cash",
+    "ctaUrl": "/apply?location=san-antonio-tx",
+    "secondaryCta": {
+      "text": "Call (210) 555-0198",
+      "url": "tel:+12105550198"
+    }
+  },
+
+  "localProof": {
+    "headline": "Where to Find Us in San Antonio",
+    "directions": "We are conveniently located at 7890 San Pedro Avenue, just a short drive from The Alamo and the famous San Antonio River Walk. If you are taking I-35, take Exit 155 (Downtown). Our location is easily accessible from I-10 via Exit 568 for visitors from the west side.",
+    "landmarks": ["The Alamo", "San Antonio River Walk", "Tower of the Americas", "San Antonio Missions National Historical Park"],
+    "highways": ["I-10", "I-35", "I-37"],
+    "exits": ["I-35 Exit 155 (Downtown)", "I-10 Exit 568 (The Alamo)"],
+    "neighborhoodName": "San Pedro District",
+    "neighboringTowns": ["New Braunfels", "Boerne", "Converse", "Universal City", "Schertz"],
+    "description": "San Antonio is famous for the historic Alamo and beautiful River Walk in the heart of Texas.",
+    "hours": {
+      "monday": "9:00 AM - 7:00 PM",
+      "tuesday": "9:00 AM - 7:00 PM",
+      "wednesday": "9:00 AM - 7:00 PM",
+      "thursday": "9:00 AM - 7:00 PM",
+      "friday": "9:00 AM - 7:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d444034.5!2d-98.4936!3d29.4241!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x865c58af04d00eaf%3A0x856e13b10a016bc!2sSan%20Antonio%2C%20TX!5e0!3m2!1sen!2sus!4v1234567890"
+  },
+
+  "nap": {
+    "name": "Ace Payday Loans of San Antonio",
+    "street": "7890 San Pedro Avenue, Suite 120",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78216",
+    "phone": "(210) 555-0198",
+    "formattedPhone": "+12105550198",
+    "formattedAddress": "7890 San Pedro Avenue, Suite 120, San Antonio, TX 78216",
+    "coordinates": {
+      "latitude": 29.4241,
+      "longitude": -98.4936
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=29.4241,-98.4936"
+  },
+
+  "productLinks": {
+    "headline": "Our San Antonio Financial Services",
+    "intro": "We offer a full range of short-term lending and money services to help Bexar County residents with their financial needs:",
+    "services": [
+      {
+        "name": "Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Short-term loans to cover unexpected expenses until your next paycheck",
+        "anchorText": "Learn about Payday Loans"
+      },
+      {
+        "name": "Cash Advances",
+        "slug": "cash-advances",
+        "url": "/services/cash-advances",
+        "description": "Quick cash advances for emergency situations",
+        "anchorText": "Get a Cash Advance"
+      },
+      {
+        "name": "Installment Loans",
+        "slug": "installment-loans",
+        "url": "/services/installment-loans",
+        "description": "Larger loans repaid over time through scheduled monthly payments",
+        "anchorText": "Explore Installment Loans"
+      },
+      {
+        "name": "Title Loans",
+        "slug": "title-loans",
+        "url": "/services/title-loans",
+        "description": "Use your vehicle title as collateral for larger loan amounts",
+        "anchorText": "Title Loan Options"
+      },
+      {
+        "name": "Check Cashing",
+        "slug": "check-cashing",
+        "url": "/services/check-cashing",
+        "description": "Convert checks to cash instantly without a bank account",
+        "anchorText": "Check Cashing Services"
+      },
+      {
+        "name": "Same Day Loans",
+        "slug": "same-day-loans",
+        "url": "/services/same-day-loans",
+        "description": "Get approved and funded within the same business day",
+        "anchorText": "Same Day Funding"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "Understanding Payday Loan Laws in Texas",
+    "content": "San Antonio residents should understand that payday loans are legal in Texas through licensed Credit Access Businesses (CABs). While Texas has minimal state-level restrictions, San Antonio has additional local ordinances that provide extra consumer protections for Bexar County residents.",
+    "keyPoints": [
+      "Texas allows payday loans through licensed Credit Access Businesses (CABs) regulated by the Office of Consumer Credit Commissioner (OCCC)",
+      "There is no state cap on interest rates or CAB fees - typical APRs range from 400% to 700%+",
+      "You have the right to cancel your loan within 3 days of signing without penalty",
+      "Lenders cannot threaten criminal prosecution for non-payment (except for fraud or theft)",
+      "Your wages cannot be garnished for payday loan debt under Texas law",
+      "Your home (if declared homestead) is protected from debt collection",
+      "Always verify your lender is licensed at occc.texas.gov before borrowing"
+    ],
+    "regulatoryBody": "Texas Office of Consumer Credit Commissioner (OCCC)",
+    "regulatoryUrl": "https://occc.texas.gov",
+    "consumerHelpline": "(800) 538-1579",
+    "warningBox": {
+      "title": "Important Cost Warning",
+      "content": "Payday loans in Texas are among the most expensive in the nation. A typical $300 loan can cost over $1,000 in fees alone, resulting in APRs exceeding 700%. Consider alternatives such as credit union loans, payment plans with creditors, or nonprofit credit counseling before taking out a payday loan."
+    },
+    "disclaimer": "This information is provided for general educational purposes only and should not be construed as legal advice. Payday loan laws and regulations change frequently. The information presented may not reflect the most current legal developments. For the most accurate and up-to-date information, contact the Texas Office of Consumer Credit Commissioner at (800) 538-1579 or visit occc.texas.gov. If you need legal advice, please consult with a licensed attorney in Texas."
+  },
+
+  "cityOrdinance": {
+    "hasOrdinance": true,
+    "effectiveDate": "2013-01-01",
+    "ordinanceCode": "Chapter 16, Article XVI, San Antonio Code of Ordinances",
+    "headline": "San Antonio City Payday Loan Protections",
+    "intro": "San Antonio has enacted local ordinances that provide additional protections beyond state law for payday loan borrowers:",
+    "keyProvisions": [
+      "Payday loans limited to 20% of gross monthly income",
+      "Maximum 3 rollovers with 25% principal reduction each time",
+      "CABs must register with the City of San Antonio and pay $50 fee",
+      "Renewal defined as loan within 7 days of previous loan payoff"
+    ],
+    "maxLoanPercent": "20% of gross monthly income",
+    "maxRollovers": 3,
+    "principalReduction": "25% per rollover",
+    "registrationRequired": true,
+    "registrationFee": 50,
+    "registrationUrl": "https://www.sa.gov/Directory/Departments/Finance/Payday-Loans/CAB-Lender",
+    "violationPenalty": "Criminal offense with up to $500 fine"
+  },
+
+  "testimonials": {
+    "headline": "What Our San Antonio Customers Say",
+    "reviews": [
+      {
+        "text": "The San Antonio team was incredibly helpful when I needed emergency funds. They explained the city's loan limits clearly and helped me understand exactly what I would owe. Very professional service.",
+        "author": "Rosa M.",
+        "location": "San Antonio, TX",
+        "rating": 5,
+        "date": "2024-10"
+      },
+      {
+        "text": "I appreciated that Ace follows San Antonio's payday loan rules. They didn't try to push a bigger loan than allowed. Honest and straightforward - exactly what you want in a lender.",
+        "author": "David H.",
+        "location": "San Antonio, TX",
+        "rating": 5,
+        "date": "2024-09"
+      },
+      {
+        "text": "Quick approval and friendly staff at the San Pedro location. They were very clear about the fees and repayment schedule. Would use them again if needed.",
+        "author": "Jennifer L.",
+        "location": "San Antonio, TX",
+        "rating": 4,
+        "date": "2024-11"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby Cities",
+    "intro": "Can't make it to our San Antonio location? We also serve these nearby Texas cities:",
+    "cities": [
+      {"name": "Austin", "slug": "austin", "url": "/locations/texas/austin", "distanceMiles": 79},
+      {"name": "Corpus Christi", "slug": "corpus-christi", "url": "/locations/texas/corpus-christi", "distanceMiles": 145},
+      {"name": "Houston", "slug": "houston", "url": "/locations/texas/houston", "distanceMiles": 197},
+      {"name": "Laredo", "slug": "laredo", "url": "/locations/texas/laredo", "distanceMiles": 155}
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your San Antonio location?",
+      "answer": "Our San Antonio branch is located at 7890 San Pedro Avenue, Suite 120, a short drive from The Alamo and the River Walk. Take I-35 Exit 155 (Downtown) for the quickest route."
+    },
+    {
+      "question": "What are your hours in San Antonio?",
+      "answer": "We're open Monday through Friday 9 AM to 7 PM, and Saturday 10 AM to 4 PM. We're closed on Sundays. Online applications are available 24/7."
+    },
+    {
+      "question": "Does San Antonio have special payday loan rules?",
+      "answer": "Yes, San Antonio has a city ordinance that limits payday loans to 20% of your gross monthly income, allows only 3 rollovers with 25% principal reduction each time, and requires lenders to register with the city."
+    },
+    {
+      "question": "What do I need to bring to the San Antonio branch?",
+      "answer": "Bring a valid government-issued photo ID, proof of steady income (pay stub, bank statement, or benefits letter), your active checking account information, and a working phone number."
+    },
+    {
+      "question": "How much can I borrow in San Antonio?",
+      "answer": "Under San Antonio's city ordinance, payday loans are limited to 20% of your gross monthly income. For example, if you earn $3,500 per month, your maximum loan would be $700."
+    },
+    {
+      "question": "Can I apply online for a San Antonio payday loan?",
+      "answer": "Yes, you can start your application online 24/7 and complete the process at our San Antonio location or receive funds via direct deposit if approved."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Ready to Get Cash in San Antonio?",
+    "subheadline": "Visit our San Pedro Avenue location or apply online now",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=san-antonio-tx"
+    },
+    "secondaryCta": {
+      "text": "Call (210) 555-0198",
+      "url": "tel:+12105550198"
+    },
+    "address": "7890 San Pedro Avenue, Suite 120, San Antonio, TX 78216"
+  },
+
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FinancialService",
+    "name": "Ace Payday Loans of San Antonio",
+    "image": "https://www.acepaydayloans.com/images/san-antonio-branch.jpg",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "7890 San Pedro Avenue, Suite 120",
+      "addressLocality": "San Antonio",
+      "addressRegion": "TX",
+      "postalCode": "78216",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 29.4241,
+      "longitude": -98.4936
+    },
+    "telephone": "+12105550198",
+    "url": "https://www.acepaydayloans.com/locations/texas/san-antonio",
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "09:00",
+        "closes": "19:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Saturday",
+        "opens": "10:00",
+        "closes": "16:00"
+      }
+    ],
+    "priceRange": "$$",
+    "areaServed": {
+      "@type": "City",
+      "name": "San Antonio",
+      "containedInPlace": {
+        "@type": "State",
+        "name": "Texas"
+      }
+    },
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "Payday Loan Services",
+      "itemListElement": [
+        {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Payday Loans"}},
+        {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Cash Advances"}},
+        {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Installment Loans"}},
+        {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Title Loans"}},
+        {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Check Cashing"}}
+      ]
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.4",
+      "reviewCount": "856"
+    }
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "Texas", "url": "/locations/texas"},
+    {"label": "San Antonio", "url": "/locations/texas/san-antonio"}
+  ],
+
+  "metadata": {
+    "generatedAt": "2025-01-15T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "antiDoorwayCompliant": true
+  }
+}
