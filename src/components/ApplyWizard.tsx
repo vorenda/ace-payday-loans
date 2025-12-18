@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import { useRouter } from 'next/navigation';
 
 type Step = 'loan-amount' | 'state' | 'vehicle' | 'balance' | 'iframe';
@@ -21,6 +21,40 @@ export function ApplyWizard() {
     paidOff: '',
     balance: '',
   });
+  const [iframeHeight, setIframeHeight] = useState(500);
+  const iframeRef = useRef<HTMLIFrameElement>(null);
+
+  // Listen for postMessage from Salesforce iframe for dynamic height
+  useEffect(() => {
+    const handleMessage = (event: MessageEvent) => {
+      // Accept messages from Salesforce
+      if (event.origin.includes('salesforce-sites.com') || event.origin.includes('force.com')) {
+        if (event.data && typeof event.data.height === 'number') {
+          setIframeHeight(event.data.height + 50); // Add padding
+        }
+      }
+    };
+
+    window.addEventListener('message', handleMessage);
+    return () => window.removeEventListener('message', handleMessage);
+  }, []);
+
+  // Fallback: Check iframe content periodically and adjust height
+  useEffect(() => {
+    if (currentStep !== 'iframe') return;
+
+    // Start with smaller height, will grow as needed
+    setIframeHeight(500);
+
+    // Gradually increase height if form likely has more content
+    const timer1 = setTimeout(() => setIframeHeight(600), 1000);
+    const timer2 = setTimeout(() => setIframeHeight(700), 2000);
+
+    return () => {
+      clearTimeout(timer1);
+      clearTimeout(timer2);
+    };
+  }, [currentStep]);
 
   const handleLoanAmount = (amount: string) => {
     setWizardState({ ...wizardState, loanAmount: amount });
@@ -531,19 +565,26 @@ export function ApplyWizard() {
           <div style={{
             position: 'relative',
             width: '100%',
-            minHeight: '800px',
             borderRadius: '1rem',
             overflow: 'hidden',
             border: '1px solid var(--color-border)',
           }}>
             <iframe
+              ref={iframeRef}
               src={getSalesforceUrl()}
               style={{
                 width: '100%',
-                height: '800px',
+                height: `${iframeHeight}px`,
                 border: 'none',
+                transition: 'height 0.3s ease',
               }}
               title="Loan Application Form"
+              onLoad={() => {
+                // Try to detect content height after load
+                setTimeout(() => {
+                  if (iframeHeight < 600) setIframeHeight(600);
+                }, 500);
+              }}
             />
           </div>
         </div>
