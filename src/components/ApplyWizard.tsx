@@ -60,13 +60,16 @@ export function ApplyWizard() {
 
   const getSalesforceUrl = () => {
     const baseUrl = 'https://montanacapital.my.salesforce-sites.com/trust';
+    const cssUrl = typeof window !== 'undefined' ? `${window.location.origin}/css/apply-iframe.css` : '';
     const params = new URLSearchParams({
-      leadSource: 'Direct TL',
+      leadSource: 'Ace Payday Loans',
       leadstate: wizardState.state,
       paidoff: wizardState.paidOff,
       balance: wizardState.balance,
       leadChannel: 'Web',
       sourcePage: typeof window !== 'undefined' ? encodeURIComponent(window.location.href) : '',
+      sourceReferer: typeof window !== 'undefined' ? encodeURIComponent(document.referrer || '') : '',
+      css: cssUrl,
     });
 
     return `${baseUrl}?${params.toString()}`;

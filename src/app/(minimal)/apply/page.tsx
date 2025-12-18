@@ -1,6 +1,6 @@
 import { Metadata } from 'next'
 import Link from 'next/link'
-import { SalesforceForm } from '@/components/SalesforceForm'
+import { ApplyWizard } from '@/components/ApplyWizard'
 
 export const metadata: Metadata = {
   title: 'Apply Now - Get Cash Fast | Ace Payday Loans',
@@ -24,15 +24,7 @@ export default function ApplyPage() {
 
       {/* Form Section */}
       <main className="flex-1 py-8 px-4">
-        <div className="max-w-xl mx-auto">
-          <div className="bg-white rounded-2xl p-6 md:p-8 shadow-lg">
-            <SalesforceForm />
-
-            <p className="text-xs text-gray-500 mt-4 text-center">
-              By submitting, you agree to a soft credit check which does not affect your credit score.
-            </p>
-          </div>
-        </div>
+        <ApplyWizard />
       </main>
 
       {/* Minimal Footer - Disclosures Only */}
