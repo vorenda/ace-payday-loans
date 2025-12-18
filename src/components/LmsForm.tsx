@@ -109,6 +109,9 @@ export function LmsForm() {
         }
 
         // 4. Execute scripts from the HTML (dynamic config from Heroku)
+        if (!html) {
+          throw new Error('No form HTML received from API')
+        }
         executeScriptsFromHtml(html)
 
         // 5. Wait for form to render
