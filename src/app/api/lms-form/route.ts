@@ -1,5 +1,8 @@
 import { NextRequest, NextResponse } from 'next/server';
 
+// Force dynamic - this route should never be prerendered
+export const dynamic = 'force-dynamic';
+
 // Environment variables
 const LMS_API_KEY = process.env.LMS_API_KEY;
 const LMS_API_ENDPOINT = process.env.LMS_API_ENDPOINT || 'https://snap-lms-58591531d315.herokuapp.com/api/forms/form/';
