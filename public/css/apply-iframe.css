@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700|Poppins:200,400,500,700,800,900&display=swap');
+body{padding:0; margin:0; font-family: "Open Sans", Arial, sans-serif;}
+form,
+form > span{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+h1{display: block; clear: both; margin-top:20px; margin-bottom: 16px; font-family: "Poppins", "Open Sans", Arial, sans-serif; font-size: 20px; font-weight: 300; line-height: 1.4; color: #203377;}
+h1:first-child{margin-top: 0;}
+.inputDiv, .selectDiv{position: relative; float: left; margin-bottom: 20px;}
+.firstNamedivInput, form > .EmaildivInput, .CityDivInput, .yearSelectDiv, .modelSelectDiv, .MilagedivInput, .selectVehConditionDiv, .selectIncomeSourceDiv, .HowLongLivedDivInput, .SSNDivInput{margin-left:0;}
+.AptUnitDivInput, .ZipDivInput, .selectOwnOrRentDiv, .LastPayDateDivInput, .selectPayrollTypeDiv, .selectIncomeTypeDiv{margin-left:0;}
+.firstNamedivInput, .lastNamedivInput, .MobiledivInput, .yearSelectDiv, .makeSelectDiv, .selectIncomeSourceDiv, .modelSelectDiv{width: 48%;}
+.EmaildivInput, .steetInputDivInput, .CityDivInput, .MonthlyIncomeDivInput, .StateSelectDiv, .selectIncomeSourceDiv, .ZipCodeDivInput, .AmountRequestedDivInput, .styleSelectDiv, .MilagedivInput, .step2Div .inputDiv, .step2Div .selectDiv, .step3Div .inputDiv, .step3Div .selectDiv, .step4Div .inputDiv, .step4Div .selectDiv {width: 48%;}
+.SSNDivInput{clear: left;}
+.inputDiv input, .selectDiv select{width:100%; padding: 12px 20px; font-family: "Open Sans", Arial, sans-serif; font-size: 16px; line-height: 1.5; color: #203377; border-radius: 4px; border: solid 1px #CFD1DD; background:#ffffff; box-sizing:border-box;}
+.inputDiv input:focus, .selectDiv select:focus{border-color:#203377; outline: none;}
+.selectDiv select{appearance: none; -webkit-appearance: none; color: #192944; background:url('../images/chevron-down.svg') right 20px center no-repeat;}
+
+.spanValidationText{display: block; font-size: 80%; color:red;}
+.inputDiv .spanValidationText, .selectDiv .spanValidationText{position: absolute; bottom:2px; right:10px; font-size: 55%;}
+
+.CheckboxDiv{position: relative; padding-left: 32px; margin-top: 10px; margin-bottom: 5px; font-size: 13px; line-height: 1.54; font-weight: 400; color:#203377; clear: both;}
+.CheckboxDiv input{position: absolute; left:0; top: 2px; width:20px; height: 20px;}
+
+.ButonDiv{clear: both;}
+.apexBtn{appearance: none; -webkit-appearance: none; display: block; width:261px; height: 50px; padding: 0; margin:22px auto 22px !important; text-align: center; font-size: 16px; font-weight: bold; line-height: 50px; letter-spacing: 0.72px; color: #FFFFFF; border:none; border-radius: 4px; background: #00B247; cursor: pointer; transition: color .3s, background .3s;}
+.apexBtn:focus{outline: none; box-shadow: none;}
+.apexBtn:hover{background: #00B247; color: #FFFFFF;}
+.ThankYouDiv{text-align: center;}
+.ThankYouDiv h1{margin-top: 142px;}
+
+.ThankYouDivUnqualified > span > .inner-content::before,  .ThankYouDivQualified .inner-content::before{
+  display: block;
+  content: ' ';
+  height: 80px;
+  width: 80px;
+  margin: 0 auto 40px;
+  background-position: center;
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+  background-image: url('../images/icon-check-big.svg');
+}
+.ThankYouDivUnqualified > span,
+.ThankYouDivQualified > span{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.step1Div .c-page-submit-error, .step2Div .c-page-submit-error{display: none !important;}
+
+.holddiv{position: absolute; width: 100%; height: 100%; display: block; box-sizing: border-box; top: 0; left: 0; text-align: center; background: rgba(0, 0, 0, 0.6); color: #fff; padding: 47% 0 0 0; font-size: 20px; line-height: 1;}
+
+@media screen and (max-width:420px){
+    .inputDiv, .selectDiv{margin-left:0;}
+    .firstNamedivInput, .lastNamedivInput, .MobiledivInput, .yearSelectDiv, .makeSelectDiv, .modelSelectDiv,
+    .EmaildivInput, .steetInputDivInput, .CityDivInput, .StateSelectDiv, .ZipCodeDivInput, .AmountRequestedDivInput, .selectIncomeSourceDiv, .MonthlyIncomeDivInput,
+    .styleSelectDiv, .MilagedivInput, .step2Div .inputDiv, .step2Div .selectDiv, .step3Div .inputDiv, .step3Div .selectDiv, .step4Div .inputDiv, .step4Div .selectDiv{width: 100%;}
+}
+@media only screen and (max-width: 420px){
+    .apexBtn{width:100%;}
+}
+
+@media screen and (max-width:768px){
+    .selectDiv,
+    .selectIncomeSourceDiv,
+    .MilagedivInput{
+        width: 100%;
+        margin-right: 0%;
+        margin-left: 0%;
+    }
+}
+
+.ButtonDiv{
+    width: 100%;
+}
+.ButtonToStep5 {
+    width: 50%;
+}
+.ThankYouPage{
+    text-align: center;
+    font-weight: 500;
+    font-size: 42px;
+}
+.tnxtext{
+    text-align: center;
+    font-size: 24px;
+}
