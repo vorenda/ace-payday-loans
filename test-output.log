@@ -1,0 +1,396 @@
+
+Running 7 tests using 1 worker
+
+✅ Test 1 PASSED: Initial state shows Step 1 with two loan amount buttons
+  ✓  1 [Desktop Chrome] › tests/apply-wizard.spec.ts:9:7 › Apply Wizard › 1. Initial state - should show Step 1 with two loan amount buttons (2.9s)
+✅ Test 2 PASSED: Step 1 → Step 2 transition works correctly
+  ✓  2 [Desktop Chrome] › tests/apply-wizard.spec.ts:27:7 › Apply Wizard › 2. Step 1 → Step 2 - clicking loan amount should show state selection (1.8s)
+Testing Texas flow with paid off vehicle...
+  ✘  3 [Desktop Chrome] › tests/apply-wizard.spec.ts:49:7 › Apply Wizard › 3. Texas flow - Yes (vehicle paid off) (3.6s)
+Testing Texas flow with paid off vehicle...
+  ✘  4 [Desktop Chrome] › tests/apply-wizard.spec.ts:49:7 › Apply Wizard › 3. Texas flow - Yes (vehicle paid off) (retry #1) (3.4s)
+Testing California flow...
+  ✘  5 [Desktop Chrome] › tests/apply-wizard.spec.ts:94:7 › Apply Wizard › 4. California flow - should redirect to /sda (1.0m)
+Testing California flow...
+  ✘  6 [Desktop Chrome] › tests/apply-wizard.spec.ts:94:7 › Apply Wizard › 4. California flow - should redirect to /sda (retry #1) (1.0m)
+Testing Texas flow with balance less than $2,000...
+  ✘  7 [Desktop Chrome] › tests/apply-wizard.spec.ts:119:7 › Apply Wizard › 5. Texas balance flow - Less than $2,000 (3.9s)
+Testing Texas flow with balance less than $2,000...
+  ✘  8 [Desktop Chrome] › tests/apply-wizard.spec.ts:119:7 › Apply Wizard › 5. Texas balance flow - Less than $2,000 (retry #1) (3.2s)
+Testing Texas flow with balance more than $2,000...
+  ✘  9 [Desktop Chrome] › tests/apply-wizard.spec.ts:166:7 › Apply Wizard › 6. Texas balance flow - More than $2,000 redirects to /sda (1.0m)
+Testing Texas flow with balance more than $2,000...
+  ✘  10 [Desktop Chrome] › tests/apply-wizard.spec.ts:166:7 › Apply Wizard › 6. Texas balance flow - More than $2,000 redirects to /sda (retry #1) (1.0m)
+Testing UI elements and styling...
+  ✘  11 [Desktop Chrome] › tests/apply-wizard.spec.ts:198:7 › Apply Wizard › 7. UI Elements and styling verification (1.3s)
+Testing UI elements and styling...
+  ✘  12 [Desktop Chrome] › tests/apply-wizard.spec.ts:198:7 › Apply Wizard › 7. UI Elements and styling verification (retry #1) (1.2s)
+
+
+  1) [Desktop Chrome] › tests/apply-wizard.spec.ts:49:7 › Apply Wizard › 3. Texas flow - Yes (vehicle paid off) 
+
+    Error: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m([22m[2m)[22m failed
+
+    Locator: getByText('Complete Your Application')
+    Expected: visible
+    Error: strict mode violation: getByText('Complete Your Application') resolved to 2 elements:
+        1) <p class="text-xl text-white/90 max-w-2xl mx-auto">Complete your application in minutes. Fast approv…</p> aka getByText('Complete your application in')
+        2) <h2>Complete Your Application</h2> aka getByRole('heading', { name: 'Complete Your Application' })
+
+    Call log:
+    [2m  - Expect "toBeVisible" with timeout 5000ms[22m
+    [2m  - waiting for getByText('Complete Your Application')[22m
+
+
+      74 |     // Wait for iframe to appear
+      75 |     await expect(page.getByText('Final Step')).toBeVisible();
+    > 76 |     await expect(page.getByText('Complete Your Application')).toBeVisible();
+         |                                                               ^
+      77 |     
+      78 |     // Wait for iframe to load
+      79 |     const iframe = page.frameLocator('iframe[title="Loan Application Form"]');
+        at /Users/valerazatler/Developer/nextjs3/tests/apply-wizard.spec.ts:76:63
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results/apply-wizard-Apply-Wizard--bed71-low---Yes-vehicle-paid-off--Desktop-Chrome/test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: test-results/apply-wizard-Apply-Wizard--bed71-low---Yes-vehicle-paid-off--Desktop-Chrome/error-context.md
+
+    attachment #3: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/apply-wizard-Apply-Wizard--bed71-low---Yes-vehicle-paid-off--Desktop-Chrome/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/apply-wizard-Apply-Wizard--bed71-low---Yes-vehicle-paid-off--Desktop-Chrome/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Retry #1 ───────────────────────────────────────────────────────────────────────────────────────
+
+    Error: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m([22m[2m)[22m failed
+
+    Locator: getByText('Complete Your Application')
+    Expected: visible
+    Error: strict mode violation: getByText('Complete Your Application') resolved to 2 elements:
+        1) <p class="text-xl text-white/90 max-w-2xl mx-auto">Complete your application in minutes. Fast approv…</p> aka getByText('Complete your application in')
+        2) <h2>Complete Your Application</h2> aka getByRole('heading', { name: 'Complete Your Application' })
+
+    Call log:
+    [2m  - Expect "toBeVisible" with timeout 5000ms[22m
+    [2m  - waiting for getByText('Complete Your Application')[22m
+
+
+      74 |     // Wait for iframe to appear
+      75 |     await expect(page.getByText('Final Step')).toBeVisible();
+    > 76 |     await expect(page.getByText('Complete Your Application')).toBeVisible();
+         |                                                               ^
+      77 |     
+      78 |     // Wait for iframe to load
+      79 |     const iframe = page.frameLocator('iframe[title="Loan Application Form"]');
+        at /Users/valerazatler/Developer/nextjs3/tests/apply-wizard.spec.ts:76:63
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results/apply-wizard-Apply-Wizard--bed71-low---Yes-vehicle-paid-off--Desktop-Chrome-retry1/test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: test-results/apply-wizard-Apply-Wizard--bed71-low---Yes-vehicle-paid-off--Desktop-Chrome-retry1/error-context.md
+
+    attachment #3: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/apply-wizard-Apply-Wizard--bed71-low---Yes-vehicle-paid-off--Desktop-Chrome-retry1/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/apply-wizard-Apply-Wizard--bed71-low---Yes-vehicle-paid-off--Desktop-Chrome-retry1/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+  2) [Desktop Chrome] › tests/apply-wizard.spec.ts:94:7 › Apply Wizard › 4. California flow - should redirect to /sda 
+
+    [31mTest timeout of 60000ms exceeded.[39m
+
+    Error: page.waitForURL: Test timeout of 60000ms exceeded.
+    =========================== logs ===========================
+    waiting for navigation to "**/sda" until "load"
+      navigated to "http://localhost:3000/sda/"
+    ============================================================
+
+      104 |     
+      105 |     // Wait for navigation to /sda
+    > 106 |     await page.waitForURL('**/sda');
+          |                ^
+      107 |     await page.waitForLoadState('networkidle');
+      108 |     
+      109 |     // Take screenshot of SDA page
+        at /Users/valerazatler/Developer/nextjs3/tests/apply-wizard.spec.ts:106:16
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results/apply-wizard-Apply-Wizard--48c93-ow---should-redirect-to-sda-Desktop-Chrome/test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: test-results/apply-wizard-Apply-Wizard--48c93-ow---should-redirect-to-sda-Desktop-Chrome/error-context.md
+
+    attachment #3: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/apply-wizard-Apply-Wizard--48c93-ow---should-redirect-to-sda-Desktop-Chrome/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/apply-wizard-Apply-Wizard--48c93-ow---should-redirect-to-sda-Desktop-Chrome/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Retry #1 ───────────────────────────────────────────────────────────────────────────────────────
+
+    [31mTest timeout of 60000ms exceeded.[39m
+
+    Error: page.waitForURL: Test timeout of 60000ms exceeded.
+    =========================== logs ===========================
+    waiting for navigation to "**/sda" until "load"
+      navigated to "http://localhost:3000/sda/"
+    ============================================================
+
+      104 |     
+      105 |     // Wait for navigation to /sda
+    > 106 |     await page.waitForURL('**/sda');
+          |                ^
+      107 |     await page.waitForLoadState('networkidle');
+      108 |     
+      109 |     // Take screenshot of SDA page
+        at /Users/valerazatler/Developer/nextjs3/tests/apply-wizard.spec.ts:106:16
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results/apply-wizard-Apply-Wizard--48c93-ow---should-redirect-to-sda-Desktop-Chrome-retry1/test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: test-results/apply-wizard-Apply-Wizard--48c93-ow---should-redirect-to-sda-Desktop-Chrome-retry1/error-context.md
+
+    attachment #3: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/apply-wizard-Apply-Wizard--48c93-ow---should-redirect-to-sda-Desktop-Chrome-retry1/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/apply-wizard-Apply-Wizard--48c93-ow---should-redirect-to-sda-Desktop-Chrome-retry1/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+  3) [Desktop Chrome] › tests/apply-wizard.spec.ts:119:7 › Apply Wizard › 5. Texas balance flow - Less than $2,000 
+
+    Error: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m([22m[2m)[22m failed
+
+    Locator: getByText('Complete Your Application')
+    Expected: visible
+    Error: strict mode violation: getByText('Complete Your Application') resolved to 2 elements:
+        1) <p class="text-xl text-white/90 max-w-2xl mx-auto">Complete your application in minutes. Fast approv…</p> aka getByText('Complete your application in')
+        2) <h2>Complete Your Application</h2> aka getByRole('heading', { name: 'Complete Your Application' })
+
+    Call log:
+    [2m  - Expect "toBeVisible" with timeout 5000ms[22m
+    [2m  - waiting for getByText('Complete Your Application')[22m
+
+
+      148 |     // Wait for iframe to appear
+      149 |     await expect(page.getByText('Final Step')).toBeVisible();
+    > 150 |     await expect(page.getByText('Complete Your Application')).toBeVisible();
+          |                                                               ^
+      151 |     
+      152 |     // Wait for iframe to load
+      153 |     await page.waitForTimeout(2000);
+        at /Users/valerazatler/Developer/nextjs3/tests/apply-wizard.spec.ts:150:63
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results/apply-wizard-Apply-Wizard--6f320-ance-flow---Less-than-2-000-Desktop-Chrome/test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: test-results/apply-wizard-Apply-Wizard--6f320-ance-flow---Less-than-2-000-Desktop-Chrome/error-context.md
+
+    attachment #3: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/apply-wizard-Apply-Wizard--6f320-ance-flow---Less-than-2-000-Desktop-Chrome/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/apply-wizard-Apply-Wizard--6f320-ance-flow---Less-than-2-000-Desktop-Chrome/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Retry #1 ───────────────────────────────────────────────────────────────────────────────────────
+
+    Error: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m([22m[2m)[22m failed
+
+    Locator: getByText('Complete Your Application')
+    Expected: visible
+    Error: strict mode violation: getByText('Complete Your Application') resolved to 2 elements:
+        1) <p class="text-xl text-white/90 max-w-2xl mx-auto">Complete your application in minutes. Fast approv…</p> aka getByText('Complete your application in')
+        2) <h2>Complete Your Application</h2> aka getByRole('heading', { name: 'Complete Your Application' })
+
+    Call log:
+    [2m  - Expect "toBeVisible" with timeout 5000ms[22m
+    [2m  - waiting for getByText('Complete Your Application')[22m
+
+
+      148 |     // Wait for iframe to appear
+      149 |     await expect(page.getByText('Final Step')).toBeVisible();
+    > 150 |     await expect(page.getByText('Complete Your Application')).toBeVisible();
+          |                                                               ^
+      151 |     
+      152 |     // Wait for iframe to load
+      153 |     await page.waitForTimeout(2000);
+        at /Users/valerazatler/Developer/nextjs3/tests/apply-wizard.spec.ts:150:63
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results/apply-wizard-Apply-Wizard--6f320-ance-flow---Less-than-2-000-Desktop-Chrome-retry1/test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: test-results/apply-wizard-Apply-Wizard--6f320-ance-flow---Less-than-2-000-Desktop-Chrome-retry1/error-context.md
+
+    attachment #3: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/apply-wizard-Apply-Wizard--6f320-ance-flow---Less-than-2-000-Desktop-Chrome-retry1/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/apply-wizard-Apply-Wizard--6f320-ance-flow---Less-than-2-000-Desktop-Chrome-retry1/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+  4) [Desktop Chrome] › tests/apply-wizard.spec.ts:166:7 › Apply Wizard › 6. Texas balance flow - More than $2,000 redirects to /sda 
+
+    [31mTest timeout of 60000ms exceeded.[39m
+
+    Error: page.waitForURL: Test timeout of 60000ms exceeded.
+    =========================== logs ===========================
+    waiting for navigation to "**/sda" until "load"
+      navigated to "http://localhost:3000/sda/"
+    ============================================================
+
+      184 |     
+      185 |     // Wait for navigation to /sda
+    > 186 |     await page.waitForURL('**/sda');
+          |                ^
+      187 |     await page.waitForLoadState('networkidle');
+      188 |     
+      189 |     // Take screenshot of SDA page
+        at /Users/valerazatler/Developer/nextjs3/tests/apply-wizard.spec.ts:186:16
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results/apply-wizard-Apply-Wizard--bde8b-than-2-000-redirects-to-sda-Desktop-Chrome/test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: test-results/apply-wizard-Apply-Wizard--bde8b-than-2-000-redirects-to-sda-Desktop-Chrome/error-context.md
+
+    attachment #3: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/apply-wizard-Apply-Wizard--bde8b-than-2-000-redirects-to-sda-Desktop-Chrome/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/apply-wizard-Apply-Wizard--bde8b-than-2-000-redirects-to-sda-Desktop-Chrome/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Retry #1 ───────────────────────────────────────────────────────────────────────────────────────
+
+    [31mTest timeout of 60000ms exceeded.[39m
+
+    Error: page.waitForURL: Test timeout of 60000ms exceeded.
+    =========================== logs ===========================
+    waiting for navigation to "**/sda" until "load"
+      navigated to "http://localhost:3000/sda/"
+    ============================================================
+
+      184 |     
+      185 |     // Wait for navigation to /sda
+    > 186 |     await page.waitForURL('**/sda');
+          |                ^
+      187 |     await page.waitForLoadState('networkidle');
+      188 |     
+      189 |     // Take screenshot of SDA page
+        at /Users/valerazatler/Developer/nextjs3/tests/apply-wizard.spec.ts:186:16
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results/apply-wizard-Apply-Wizard--bde8b-than-2-000-redirects-to-sda-Desktop-Chrome-retry1/test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: test-results/apply-wizard-Apply-Wizard--bde8b-than-2-000-redirects-to-sda-Desktop-Chrome-retry1/error-context.md
+
+    attachment #3: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/apply-wizard-Apply-Wizard--bde8b-than-2-000-redirects-to-sda-Desktop-Chrome-retry1/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/apply-wizard-Apply-Wizard--bde8b-than-2-000-redirects-to-sda-Desktop-Chrome-retry1/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+  5) [Desktop Chrome] › tests/apply-wizard.spec.ts:198:7 › Apply Wizard › 7. UI Elements and styling verification 
+
+    Error: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m([22m[2m)[22m failed
+
+    Locator: getByText('Same-day funding available')
+    Expected: visible
+    Error: strict mode violation: getByText('Same-day funding available') resolved to 2 elements:
+        1) <p class="text-xl text-white/90 max-w-2xl mx-auto">Complete your application in minutes. Fast approv…</p> aka getByText('Complete your application in')
+        2) <span class="text-sm">Same-day funding available</span> aka getByText('Same-day funding available', { exact: true })
+
+    Call log:
+    [2m  - Expect "toBeVisible" with timeout 5000ms[22m
+    [2m  - waiting for getByText('Same-day funding available')[22m
+
+
+      208 |     await expect(page.getByText('Why Apply With Us?')).toBeVisible();
+      209 |     await expect(page.getByText('Fast approval in minutes')).toBeVisible();
+    > 210 |     await expect(page.getByText('Same-day funding available')).toBeVisible();
+          |                                                                ^
+      211 |     
+      212 |     await expect(page.getByText('Need Help?')).toBeVisible();
+      213 |     await expect(page.getByText('What You\'ll Need')).toBeVisible();
+        at /Users/valerazatler/Developer/nextjs3/tests/apply-wizard.spec.ts:210:64
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results/apply-wizard-Apply-Wizard--d105d-ts-and-styling-verification-Desktop-Chrome/test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: test-results/apply-wizard-Apply-Wizard--d105d-ts-and-styling-verification-Desktop-Chrome/error-context.md
+
+    attachment #3: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/apply-wizard-Apply-Wizard--d105d-ts-and-styling-verification-Desktop-Chrome/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/apply-wizard-Apply-Wizard--d105d-ts-and-styling-verification-Desktop-Chrome/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Retry #1 ───────────────────────────────────────────────────────────────────────────────────────
+
+    Error: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m([22m[2m)[22m failed
+
+    Locator: getByText('Same-day funding available')
+    Expected: visible
+    Error: strict mode violation: getByText('Same-day funding available') resolved to 2 elements:
+        1) <p class="text-xl text-white/90 max-w-2xl mx-auto">Complete your application in minutes. Fast approv…</p> aka getByText('Complete your application in')
+        2) <span class="text-sm">Same-day funding available</span> aka getByText('Same-day funding available', { exact: true })
+
+    Call log:
+    [2m  - Expect "toBeVisible" with timeout 5000ms[22m
+    [2m  - waiting for getByText('Same-day funding available')[22m
+
+
+      208 |     await expect(page.getByText('Why Apply With Us?')).toBeVisible();
+      209 |     await expect(page.getByText('Fast approval in minutes')).toBeVisible();
+    > 210 |     await expect(page.getByText('Same-day funding available')).toBeVisible();
+          |                                                                ^
+      211 |     
+      212 |     await expect(page.getByText('Need Help?')).toBeVisible();
+      213 |     await expect(page.getByText('What You\'ll Need')).toBeVisible();
+        at /Users/valerazatler/Developer/nextjs3/tests/apply-wizard.spec.ts:210:64
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results/apply-wizard-Apply-Wizard--d105d-ts-and-styling-verification-Desktop-Chrome-retry1/test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: test-results/apply-wizard-Apply-Wizard--d105d-ts-and-styling-verification-Desktop-Chrome-retry1/error-context.md
+
+    attachment #3: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/apply-wizard-Apply-Wizard--d105d-ts-and-styling-verification-Desktop-Chrome-retry1/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/apply-wizard-Apply-Wizard--d105d-ts-and-styling-verification-Desktop-Chrome-retry1/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+  5 failed
+    [Desktop Chrome] › tests/apply-wizard.spec.ts:49:7 › Apply Wizard › 3. Texas flow - Yes (vehicle paid off) 
+    [Desktop Chrome] › tests/apply-wizard.spec.ts:94:7 › Apply Wizard › 4. California flow - should redirect to /sda 
+    [Desktop Chrome] › tests/apply-wizard.spec.ts:119:7 › Apply Wizard › 5. Texas balance flow - Less than $2,000 
+    [Desktop Chrome] › tests/apply-wizard.spec.ts:166:7 › Apply Wizard › 6. Texas balance flow - More than $2,000 redirects to /sda 
+    [Desktop Chrome] › tests/apply-wizard.spec.ts:198:7 › Apply Wizard › 7. UI Elements and styling verification 
+  2 passed (4.5m)
