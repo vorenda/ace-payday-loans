@@ -1,15 +1,14 @@
 import { Metadata } from 'next'
-import Link from 'next/link'
 import { Breadcrumbs } from '@/components'
+import { LmsForm } from '@/components/LmsForm'
 import { getBusinessProfile } from '@/lib/data'
-import { ApplyWizard } from '@/components/ApplyWizard'
 
 export const metadata: Metadata = {
-  title: 'Apply Now - Get Cash Fast | Ace Payday Loans',
-  description: 'Apply for a payday loan online in minutes. Fast approval, same-day funding available. Secure application for California and Texas residents.',
+  title: 'Get Your Free Loan Quote - Secured Debt Agreement | Ace Payday Loans',
+  description: 'Get a free loan quote in minutes. Fast approval, competitive rates, and flexible terms. Complete our secure form to see what you qualify for.',
 }
 
-export default function ApplyPage() {
+export default function SDAPage() {
   const business = getBusinessProfile()
 
   // Handle different business profile structures safely
@@ -26,7 +25,7 @@ export default function ApplyPage() {
       <Breadcrumbs
         items={[
           { label: 'Home', href: '/' },
-          { label: 'Apply Now', href: '/apply' },
+          { label: 'Get a Quote', href: '/sda' },
         ]}
       />
 
@@ -34,10 +33,10 @@ export default function ApplyPage() {
       <section className="py-12" style={{ background: 'linear-gradient(135deg, var(--color-primary) 0%, var(--color-primary-dark) 100%)' }}>
         <div className="max-w-7xl mx-auto px-4 md:px-6 text-center">
           <h1 className="text-4xl md:text-5xl font-bold text-white mb-4" style={{ fontFamily: 'var(--font-display)' }}>
-            Apply for a Loan
+            Get Your Free Loan Quote
           </h1>
           <p className="text-xl text-white/90 max-w-2xl mx-auto">
-            Complete your application in minutes. Fast approval and same-day funding available.
+            Complete our quick form to see what you qualify for. Fast approval and competitive rates available.
           </p>
         </div>
       </section>
@@ -45,17 +44,17 @@ export default function ApplyPage() {
       <section className="section">
         <div className="max-w-4xl mx-auto px-4 md:px-6">
           <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
-            {/* Application Form */}
+            {/* Quote Form */}
             <div className="lg:col-span-2">
               <div className="bg-white rounded-2xl p-8 shadow-lg">
                 <h2 className="text-2xl font-bold mb-6" style={{ fontFamily: 'var(--font-display)' }}>
-                  Start Your Application
+                  Request Your Quote
                 </h2>
 
-                <ApplyWizard />
+                <LmsForm />
 
                 <p className="text-xs text-gray-500 mt-4 text-center">
-                  By submitting, you agree to a soft credit check which does not affect your credit score.
+                  By submitting, you agree to receive loan quotes and information. No obligation to accept.
                 </p>
               </div>
             </div>
@@ -64,25 +63,25 @@ export default function ApplyPage() {
             <div>
               {/* Trust Signals */}
               <div className="bg-gray-50 rounded-2xl p-6 mb-6">
-                <h3 className="font-bold mb-4" style={{ fontFamily: 'var(--font-display)' }}>Why Apply With Us?</h3>
+                <h3 className="font-bold mb-4" style={{ fontFamily: 'var(--font-display)' }}>Why Get a Quote?</h3>
                 <ul className="space-y-3">
                   <li className="flex items-start gap-3">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={2} stroke="currentColor" className="w-5 h-5 flex-shrink-0" style={{ color: 'var(--color-success)' }}>
                       <path strokeLinecap="round" strokeLinejoin="round" d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
                     </svg>
-                    <span className="text-sm">Fast approval in minutes</span>
+                    <span className="text-sm">Free with no obligation</span>
                   </li>
                   <li className="flex items-start gap-3">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={2} stroke="currentColor" className="w-5 h-5 flex-shrink-0" style={{ color: 'var(--color-success)' }}>
                       <path strokeLinecap="round" strokeLinejoin="round" d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
                     </svg>
-                    <span className="text-sm">Same-day funding available</span>
+                    <span className="text-sm">See rates instantly</span>
                   </li>
                   <li className="flex items-start gap-3">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={2} stroke="currentColor" className="w-5 h-5 flex-shrink-0" style={{ color: 'var(--color-success)' }}>
                       <path strokeLinecap="round" strokeLinejoin="round" d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
                     </svg>
-                    <span className="text-sm">No hidden fees</span>
+                    <span className="text-sm">Compare loan options</span>
                   </li>
                   <li className="flex items-start gap-3">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={2} stroke="currentColor" className="w-5 h-5 flex-shrink-0" style={{ color: 'var(--color-success)' }}>
@@ -103,7 +102,7 @@ export default function ApplyPage() {
               <div className="bg-primary rounded-2xl p-6 text-white">
                 <h3 className="font-bold mb-3" style={{ fontFamily: 'var(--font-display)' }}>Need Help?</h3>
                 <p className="text-white/80 text-sm mb-4">
-                  Our team is ready to assist you with your application.
+                  Our team is ready to assist you with your quote request.
                 </p>
                 <a
                   href={`tel:${tollFreePhone.replace(/\D/g, '')}`}
@@ -120,25 +119,25 @@ export default function ApplyPage() {
                 </p>
               </div>
 
-              {/* What You Need */}
+              {/* What We Offer */}
               <div className="bg-gray-50 rounded-2xl p-6 mt-6">
-                <h3 className="font-bold mb-4" style={{ fontFamily: 'var(--font-display)' }}>What You&apos;ll Need</h3>
+                <h3 className="font-bold mb-4" style={{ fontFamily: 'var(--font-display)' }}>Loan Features</h3>
                 <ul className="space-y-2 text-sm text-gray-600">
                   <li className="flex items-center gap-2">
                     <span className="w-2 h-2 rounded-full bg-primary flex-shrink-0"></span>
-                    Valid government-issued ID
+                    Competitive interest rates
                   </li>
                   <li className="flex items-center gap-2">
                     <span className="w-2 h-2 rounded-full bg-primary flex-shrink-0"></span>
-                    Proof of income (pay stubs)
+                    Flexible repayment terms
                   </li>
                   <li className="flex items-center gap-2">
                     <span className="w-2 h-2 rounded-full bg-primary flex-shrink-0"></span>
-                    Active checking account
+                    Quick approval process
                   </li>
                   <li className="flex items-center gap-2">
                     <span className="w-2 h-2 rounded-full bg-primary flex-shrink-0"></span>
-                    Working phone number
+                    Transparent fees and terms
                   </li>
                 </ul>
               </div>
@@ -152,10 +151,10 @@ export default function ApplyPage() {
         <div className="max-w-4xl mx-auto px-4 md:px-6">
           <p className="text-xs text-gray-500">
             <strong>Important Disclosure:</strong> Ace Payday Loans is a licensed lender in California (DFPI License #XXXXXXX)
-            and a registered Credit Access Business in Texas (OCCC License #XXXXXXX). Loan amounts, fees, and terms vary by state.
-            California loans are made pursuant to the California Deferred Deposit Transaction Law. Texas loans are arranged through
-            our credit access business with third-party lenders. APRs for payday loans can range from 200% to 700% depending on the
-            loan amount and term. Please review all disclosures carefully before accepting a loan. Not all applicants will qualify.
+            and a registered Credit Access Business in Texas (OCCC License #XXXXXXX). Loan amounts, fees, and terms vary by state
+            and individual qualifications. By requesting a quote, you are not obligated to accept any loan offer. Quotes are subject
+            to approval and verification. APRs for payday loans can range from 200% to 700% depending on the loan amount and term.
+            Please review all disclosures carefully before accepting a loan. Not all applicants will qualify.
           </p>
         </div>
       </section>
